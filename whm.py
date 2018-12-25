@@ -32,3 +32,4 @@ print(l)
 #     print(i)
 #     if "Mrs. Peacock" in i:
 #         print('yay')
+input('press enter to quit')

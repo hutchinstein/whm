@@ -68,7 +68,7 @@ def xml_generator():
 
 
 def parse():
-    # files = ['Number_One_with_a_Bullet.xml', 'The_Pack.xml', 'Congo.xml', 'Psychomania.xml', 'The_Hand.xml', 'K-9.xml',
+    # files = ['Number_One_with_a_Bullet.xml', 'The_Pack.xml', 'Congo.xml', 'Psychomania.xml', 'The_Hand.xml', 'K-9.xml']
     # 'The_Wrong_Guys.xml', 'Dead_Heat.xml', 'Evilspeak.xml', "Gone_Fishin'.xml", 'The_Net.xml',
     # 'Superman_III_&_IV_Part_One.xml']
     ep_counter = 0
@@ -95,23 +95,34 @@ def parse():
             imdbRating = movie.get('imdbRating')
             rated = movie.get('rated')
             runtime = movie.get('runtime')
+            runtime = runtime[:3]
             ## Trim 'min' from end of string and blank space
             released = movie.get('released')
             writers = movie.get('writer')
 
             actor_list = actors.split(',')
             genre_list = genre.split(',')
+            director_list = director.split(',')
             # director_list = director.split(',')
             # append title to the final list
-            current_film.append(title)
+            #current_film.append(title)
             # create list for directos, then loop through.  Remove 3rd director if there is one?
-            current_film.append(director)
+            #current_film.append(director)
             #current_film.append(genre)
             current_film.append(imdbRating)
             current_film.append(rated)
             current_film.append(runtime)
             current_film.append(released)
-            current_film_list = ['title', 'director', 'imdb rating', 'rating', 'run time', 'release date']
+            final_list = final_list + title
+            if len(director_list) > 2:
+                del director_list[2:]
+            if len(director_list) < 2:
+                director_list.append('')
+            for i in director_list:
+                print(final_list)
+                print(title, 'Director(s):', i)
+                final_list = final_list + ',' + i
+            current_film_list = ['imdb rating', 'rating', 'run time', 'release date']
             writer_list = writers.split(',')
             print(len(genre_list))
             if len(genre_list) < 6:
@@ -119,6 +130,7 @@ def parse():
                     genre_list.append('')
             #add logic to handle two directors
             j = 0
+            ep_num = ep_num[-3:]
             final_list = final_list + ',' + ep_num
             for i in current_film:
                 print(title, ep_num, current_film_list[j], ':', i)
@@ -154,7 +166,6 @@ def main():
 
 
 main()
-
 
 
 

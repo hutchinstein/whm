@@ -31,7 +31,9 @@ def xml_generator():
             title = row[0]
             year = row[1]
             episode_num = row[2]
-            title = title.replace(" ", "_")
+            #title = title.replace("'", "")
+            title = title.replace(" ", "+")
+
 
 
             if year == '':
@@ -127,13 +129,20 @@ def parse():
             current_film_list = ['imdb rating', 'rating', 'run time', 'release date']
             writer_list = writers.split(',')
             if len(writer_list) > 4:
-                del writer_list[4]
-            if len(writer_list) <4:
+                del writer_list[4:]
+            if len(writer_list) < 4:
                 for i in (range(0, 4-len(writer_list))):
                     writer_list.append('')
+            if len(actor_list) > 4:
+                del actor_list[4:]
+            if len(actor_list) < 4:
+                for i in (range(0, 4-len(actor_list))):
+                    actor_list.append('')
             print(len(genre_list))
-            if len(genre_list) < 6:
-                for i in range(0, (6-len(genre_list))):
+            if len(genre_list) > 4:
+                del genre_list[4:]
+            if len(genre_list) < 4:
+                for i in range(0, (4-len(genre_list))):
                     genre_list.append('')
             #add logic to handle two directors
             j = 0

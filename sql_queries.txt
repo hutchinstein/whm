@@ -1,0 +1,23 @@
+SELECT * FROM `TABLE 1` WHERE Act1 = 'Jim Belushi' OR Act2 = 'Jim Belushi' OR Act3 = 'Jim Belushi' OR Act4 = 'Jim Belushi' ORDER BY Date
+UPDATE actor
+SET ep = `2`, act1 = `Robert Carradine`, act2 = `Billy Dee Williams`, act3 = `Valerie Bertinelli`, act4 = `Peter Graves`
+WHERE ep = `Robert Carradine`
+
+SELECT movie.ep, movie.title, movie.dir1, movie.dir2, actor.act1, actor.act2, actor.act3, actor.act4 from movie, actor where movie.ep = actor.ep ORDER BY actor.act1
+
+select dir1, count(*) as occurrences FROM movie group by dir1
+
+
+SELECT dir1, count(*) as occurrence
+from `TABLE 1`
+WHERE dir1 != "N/A"
+group by dir1
+order by occurrence desc
+LIMIT 10
+
+SELECT title
+FROM `TABLE 1`
+WHERE act1 = "Paul Walker"
+OR act2 = "Paul Walker"
+OR act3 = "Paul Walker"
+OR act4 = "Paul Walker"

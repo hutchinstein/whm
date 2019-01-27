@@ -5,22 +5,7 @@ import xml.etree.ElementTree as ET
 files = []
 blank_file_names = []
 episode_num_list = []
-#git test
-### 1/26 git test
-###
-###
-###
-### 1-5
-### Need to remove word 'episode' to allow sorting --- this is done
-### Remove word min from runtime
-### Need to remove commas from titles --- this is done
-### Allow multiple directors
-### Something is off with the writers, they seem to be adding in blank spaces and people added to the end
-### of a movie they don't belong to
-### Add in description
-###
-###
-###
+
 
 def xml_generator():
     f = open('movie_year.csv')
@@ -32,17 +17,14 @@ def xml_generator():
             title = row[0]
             year = row[1]
             episode_num = row[2]
-            #title = title.replace("'", "")
             title = title.replace(" ", "+")
-
-
 
             if year == '':
                 sauce = urllib.request.urlopen('http://www.omdbapi.com/?t=' +
-                                               title + '&r=xml&apikey=' + key).read()
+                                               title + '&plot=full&r=xml&apikey=' + key).read()
             else:
                 sauce = urllib.request.urlopen('http://www.omdbapi.com/?t=' +
-                                               title + '&y=' + year + '&r=xml&apikey=' + key).read()
+                                               title + '&y=' + year + '&plot=full&r=xml&apikey=' + key).read()
             print(title)
             soup = bs.BeautifulSoup(sauce, 'xml')
 
@@ -52,8 +34,6 @@ def xml_generator():
                 print(title, 'has an empty file')
                 blank_file_names.append(title)
 
-
-            #print(output)
             title = title.replace(":", " ")
             title = title.replace(',', '-')
             file_name = title.replace("+", "_")
@@ -72,14 +52,12 @@ def xml_generator():
 
 def parse():
     # files = ['Number_One_with_a_Bullet.xml', 'The_Pack.xml', 'Congo.xml', 'Psychomania.xml', 'The_Hand.xml', 'K-9.xml']
-    # 'The_Wrong_Guys.xml', 'Dead_Heat.xml', 'Evilspeak.xml', "Gone_Fishin'.xml", 'The_Net.xml',
-    # 'Superman_III_&_IV_Part_One.xml']
+
     ep_counter = 0
     for i in files:
         ep_num = episode_num_list[ep_counter]
         ep_counter = ep_counter + 1
 
-    # temp = "Gone_Fishin'_1997.xml",
         parser = ET.XMLParser(encoding='utf-8')
         tree = ET.parse('xml/' + i, parser=parser)
 
@@ -99,21 +77,17 @@ def parse():
             rated = movie.get('rated')
             runtime = movie.get('runtime')
             runtime = runtime[:3]
-            ## Trim 'min' from end of string and blank space
             released = movie.get('released')
             writers = movie.get('writer')
             plot = movie.get('plot')
             plot = plot.replace(',', '')
             poster = movie.get('poster')
+            imdbID = movie.get('imdbID')
+            awards = movie.get('awards')
+            metascore = movie.get('metascore')
             actor_list = actors.split(',')
             genre_list = genre.split(',')
             director_list = director.split(',')
-            # director_list = director.split(',')
-            # append title to the final list
-            #current_film.append(title)
-            # create list for directos, then loop through.  Remove 3rd director if there is one?
-            #current_film.append(director)
-            #current_film.append(genre)
             current_film.append(imdbRating)
             current_film.append(rated)
             current_film.append(runtime)
@@ -145,7 +119,6 @@ def parse():
             if len(genre_list) < 4:
                 for i in range(0, (4-len(genre_list))):
                     genre_list.append('')
-            #add logic to handle two directors
             j = 0
             ep_num = ep_num[-3:]
             final_list = final_list + ',' + ep_num
@@ -165,17 +138,11 @@ def parse():
             for i in writer_list:
                 print(title, 'writer:', i)
                 final_list = final_list + ',' + i
-            final_list = final_list + ',' + plot + ',' + poster
+            final_list = final_list + ',' + plot + ',' + poster + ',' + imdbID + ',' + awards + ',' + metascore
             final_list = final_list + '\n'
             print('final list', final_list)
             f = open('movies_out.csv', 'a')
             f.write(final_list)
-
-            # print(title + ': ' + actors, director, genre, 'IMDB Rating: ', imdbRating, rated, runtime, released,
-            #       'writer(s): ', writers)
-            # print(current_film)
-            # for row in current_film:
-            #     print(row)
 
 
 def main():

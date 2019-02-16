@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 files = []
 blank_file_names = []
 episode_num_list = []
+sqlString = ''
 
 
 def xml_generator():
@@ -52,9 +53,10 @@ def xml_generator():
 
 def parse():
     # files = ['Number_One_with_a_Bullet.xml', 'The_Pack.xml', 'Congo.xml', 'Psychomania.xml', 'The_Hand.xml', 'K-9.xml']
-
+    sql = ''
     ep_counter = 0
     for i in files:
+
         ep_num = episode_num_list[ep_counter]
         ep_counter = ep_counter + 1
 
@@ -143,6 +145,55 @@ def parse():
             print('final list', final_list)
             f = open('movies_out.csv', 'a')
             f.write(final_list)
+            ####                                                                             ####
+            #### Starting to create SQL variables that don't can't be grabbed from variables ####
+            ####                                                                             ####
+            dir1 = director_list[0]
+            if len(director_list) == 2:
+                dir2 = director_list[1]
+            else:
+                dir2 = ''
+            gen1 = genre_list[0]
+            gen2 = genre_list[1]
+            gen3 = genre_list[2]
+            gen4 = genre_list[3]
+            act1 = actor_list[0]
+            act2 = actor_list[1]
+            act3 = actor_list[2]
+            act4 = actor_list[3]
+            wr1 = writer_list[0]
+            wr2 = writer_list[1]
+            wr3 = writer_list[2]
+            wr4 = writer_list[3]
+            description = plot
+            na = 'No information yet'
+            hju = na
+            hsa = na
+            hsz = na
+            hca = na
+            hg1 = na
+            hg2 = na
+            months = {'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04', 'May': '05', 'Jun': '06',
+                      'Jul': '07', 'Aug': '08', 'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'}
+            if released == 'N/A':
+                released = '0000-00-00'
+            else:
+                monthSlice = released[3:-5]
+                month = months[monthSlice]
+                released = released[7:] + "-" + month + "-" + released[:2]
+            description = description.replace('\'', '\'\'')
+            sqlFile = open("sqlinsert.txt", "a")
+            sqlString = "INSERT INTO whm (title, dir1, dir2, ep, imdb, rating, runtime, date, gen1, gen2, gen3, gen4," \
+                        " act1, act2, act3, act4, wr1, wr2, wr3, wr4, description, poster, hju, hsa, hsz, hca, hg1, hg2) " \
+                        "VALUES (\"" + title + "\",\"" + dir1 + "\",\"" + dir2 + "\",\"" + ep_num + "\",\"" + imdbRating + "\",\"" + rated + "\",\"" + \
+                        runtime + "\",\"" + released + "\",\"" + gen1 + "\",\"" + gen2 + "\",\"" + gen3 + "\",\"" + gen4 + "\",\"" + act1 + "\",\"" + \
+                        act2 + "\",\"" + act3 + "\",\"" + act4 + "\",\"" + wr1 + "\",\"" + wr2 + "\",\"" + wr3 + "\",\"" + wr4 + "\",\"" + \
+                        description + "\",\"" + poster + "\",\"" + hju + "\",\"" + hsa + "\",\"" + hsz + "\",\"" + hca + "\",\"" + hg1 + "\",\"" + \
+                        hg2 + "\");\n"
+            print(sqlString)
+            sqlFile.write(sqlString)
+            sql = sql + sqlString
+            print(sql)
 
 
 def main():
@@ -151,6 +202,3 @@ def main():
 
 
 main()
-
-
-

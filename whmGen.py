@@ -2,13 +2,14 @@ import bs4 as bs
 import urllib.request
 import csv
 import xml.etree.ElementTree as ET
+import os
 files = []
 blank_file_names = []
 episode_num_list = []
 sqlString = ''
 
-
-def xml_generator():
+## Have this start to run off of saved XML
+def xml_generator(ep_num_start, ep_num_stop):
     f = open('movie_year.csv')
     csv_f = csv.reader(f)
     key = '49f91ae0'
@@ -18,42 +19,45 @@ def xml_generator():
             title = row[0]
             year = row[1]
             episode_num = row[2]
+            ep = int(episode_num[-3:])
             title = title.replace(" ", "+")
 
-            if year == '':
-                sauce = urllib.request.urlopen('http://www.omdbapi.com/?t=' +
-                                               title + '&plot=full&r=xml&apikey=' + key).read()
+            if ep_num_start <= ep <= ep_num_stop:
+                if year == '':
+                    sauce = urllib.request.urlopen('http://www.omdbapi.com/?t=' +
+                                                   title + '&plot=full&r=xml&apikey=' + key).read()
+                else:
+                    sauce = urllib.request.urlopen('http://www.omdbapi.com/?t=' +
+                                                   title + '&y=' + year + '&plot=full&r=xml&apikey=' + key).read()
+                print(title)
+                soup = bs.BeautifulSoup(sauce, 'xml')
+
+                output = str(soup)
+
+                if output == '':
+                    print(title, 'has an empty file')
+                    blank_file_names.append(title)
+
+                title = title.replace(":", " ")
+                title = title.replace(',', '-')
+                file_name = title.replace("+", "_")
+                f = open('xml/' + file_name + '.xml', 'w+', encoding='utf-8')
+                f.write(output)
+                f.close()
+                files.append(file_name + '.xml')
+                episode_num_list.append(episode_num)
             else:
-                sauce = urllib.request.urlopen('http://www.omdbapi.com/?t=' +
-                                               title + '&y=' + year + '&plot=full&r=xml&apikey=' + key).read()
-            print(title)
-            soup = bs.BeautifulSoup(sauce, 'xml')
-
-            output = str(soup)
-
-            if output == '':
-                print(title, 'has an empty file')
-                blank_file_names.append(title)
-
-            title = title.replace(":", " ")
-            title = title.replace(',', '-')
-            file_name = title.replace("+", "_")
-            f = open('xml/' + file_name + '.xml', 'w+', encoding='utf-8')
-            f.write(output)
-            f.close()
-            files.append(file_name + '.xml')
-            episode_num_list.append(episode_num)
-
+                continue
 
         except:
-            print('Error')
+            print('Error ', row, ep)
     print(blank_file_names)
     print(files)
 
 
-def parse():
+def parse(sql):
     # files = ['Number_One_with_a_Bullet.xml', 'The_Pack.xml', 'Congo.xml', 'Psychomania.xml', 'The_Hand.xml', 'K-9.xml']
-    sql = ''
+    # sql = ''
     ep_counter = 0
     for i in files:
 
@@ -145,9 +149,6 @@ def parse():
             print('final list', final_list)
             f = open('movies_out.csv', 'a')
             f.write(final_list)
-            ####                                                                             ####
-            #### Starting to create SQL variables that don't can't be grabbed from variables ####
-            ####                                                                             ####
             dir1 = director_list[0]
             if len(director_list) == 2:
                 dir2 = director_list[1]
@@ -181,24 +182,43 @@ def parse():
                 monthSlice = released[3:-5]
                 month = months[monthSlice]
                 released = released[7:] + "-" + month + "-" + released[:2]
-            description = description.replace('\'', '\'\'')
-            sqlFile = open("sqlinsert.txt", "a")
-            sqlString = "INSERT INTO whm (title, dir1, dir2, ep, imdb, rating, runtime, date, gen1, gen2, gen3, gen4," \
-                        " act1, act2, act3, act4, wr1, wr2, wr3, wr4, description, poster, hju, hsa, hsz, hca, hg1, hg2) " \
-                        "VALUES (\"" + title + "\",\"" + dir1 + "\",\"" + dir2 + "\",\"" + ep_num + "\",\"" + imdbRating + "\",\"" + rated + "\",\"" + \
-                        runtime + "\",\"" + released + "\",\"" + gen1 + "\",\"" + gen2 + "\",\"" + gen3 + "\",\"" + gen4 + "\",\"" + act1 + "\",\"" + \
-                        act2 + "\",\"" + act3 + "\",\"" + act4 + "\",\"" + wr1 + "\",\"" + wr2 + "\",\"" + wr3 + "\",\"" + wr4 + "\",\"" + \
-                        description + "\",\"" + poster + "\",\"" + hju + "\",\"" + hsa + "\",\"" + hsz + "\",\"" + hca + "\",\"" + hg1 + "\",\"" + \
-                        hg2 + "\");\n"
-            print(sqlString)
-            sqlFile.write(sqlString)
-            sql = sql + sqlString
-            print(sql)
+            #description = description.replace('\'', '\'\'')
+            if sql == "insert":
+                sqlFile = open("sqlinsert.txt", "a")
+                sqlString = "INSERT INTO whm (title, dir1, dir2, ep, imdb, imdbID, rating, runtime, date, gen1, gen2, gen3, gen4," \
+                            " act1, act2, act3, act4, wr1, wr2, wr3, wr4, description, poster, hju, hsa, hsz, hca, hg1, hg2) " \
+                            "VALUES (\"" + title + "\",\"" + dir1 + "\",\"" + dir2 + "\",\"" + ep_num + "\",\"" + imdbRating + "\",\"" + imdbID + "\" ,\"" + rated + "\",\"" + \
+                            runtime + "\",\"" + released + "\",\"" + gen1 + "\",\"" + gen2 + "\",\"" + gen3 + "\",\"" + gen4 + "\",\"" + act1 + "\",\"" + \
+                            act2 + "\",\"" + act3 + "\",\"" + act4 + "\",\"" + wr1 + "\",\"" + wr2 + "\",\"" + wr3 + "\",\"" + wr4 + "\",\"" + \
+                            description + "\",\"" + poster + "\",\"" + hju + "\",\"" + hsa + "\",\"" + hsz + "\",\"" + hca + "\",\"" + hg1 + "\",\"" + \
+                            hg2 + "\");\n"
+                sqlFile.write(sqlString)
+            elif sql == "update":
+                # try:
+                #     os.remove("sqlupdate.txt")
+                # except:
+                #     continue
+                sqlFileUpdate = open("sqlupdate.txt", "a")
+                sqlStringUpdate = "UPDATE whm SET title= \"" + title + "\", dir1= \"" + dir1 + "\", dir2= \"" + dir2 \
+                                  + "\", imdb = \"" + imdbRating + "\", rating = \"" + rated + "\", runtime = \"" + runtime +\
+                                  "\", date = \"" + released + "\", gen1 = \"" + gen1 + "\", gen2 = \"" + gen2 + "\"," \
+                                  "gen3= \"" + gen3 + "\", gen4 = \"" + gen4 + "\", act1 = \"" + act1 + "\",act2 = \"" + \
+                                  act2 + "\", act3 = \"" + act3 + "\", act4 = \"" + act4 + \
+                                  "\", wr1 = \"" + wr1 + "\", wr2 = \"" + wr2 + "\", wr3 = \"" + wr3 + "\", wr4 = \"" + wr4 + \
+                                  "\", description = \"" + description + "\", poster = \"" + poster + \
+                                  "\" WHERE ep = " + ep_num + ";"
+                # sqlStringUpdate = "UPDATE whm SET imdbID = \"" + imdbID + "\" WHERE ep = " + ep_num + ";"
+                sqlFileUpdate.write(sqlStringUpdate)
+
 
 
 def main():
-    xml_generator()
-    parse()
+    ep_num_start = int(input("Select episode number to start with: "))
+    ep_num_stop = int(input("Select episode number to end with: "))
+    sql = input("Insert or update?\n")
+    sql = sql.lower()
+    xml_generator(ep_num_start, ep_num_stop)
+    parse(sql)
 
 
 main()

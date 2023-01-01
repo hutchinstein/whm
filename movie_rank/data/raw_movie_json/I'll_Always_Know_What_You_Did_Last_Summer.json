@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/gE1nGWcdCmHpwMLBFFSOKvm5hMP.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 3602,
+            "original_language": "en",
+            "original_title": "I'll Always Know What You Did Last Summer",
+            "overview": "Several teenagers in a small-town in Colorado concoct a July 4th prank based on a frightening legend that goes awry when their friend ends up accidentally killed; however, the teens agree to keep their involvement a secret from the authorities, who continue to search for the man who apparently killed their friend. A year later, with the July 4th celebration coming up again, the teenagers realize that they're being stalked by someone who clearly intends on keeping the horrible legend alive by killing them off.",
+            "popularity": 19.27,
+            "poster_path": "/ip4DPTH7uLd8RVEor472WyvlFTY.jpg",
+            "release_date": "2006-06-24",
+            "title": "I'll Always Know What You Did Last Summer",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 307
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

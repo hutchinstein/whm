@@ -1,0 +1,119 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/eU3HxRTWqoSG4idsYj8zD9UGan.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 9705,
+            "original_language": "en",
+            "original_title": "Swordfish",
+            "overview": "Rogue agent Gabriel Shear is determined to get his mitts on $9 billion stashed in a secret Drug Enforcement Administration account. He wants the cash to fight terrorism, but lacks the computer skills necessary to hack into the government mainframe. Enter Stanley Jobson, a n'er-do-well encryption expert who can log into anything.",
+            "popularity": 24.563,
+            "poster_path": "/mM6h4jMqC4q5IaFgBIGKQDLnRU.jpg",
+            "release_date": "2001-06-07",
+            "title": "Swordfish",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2292
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 173750,
+            "original_language": "en",
+            "original_title": "Wrestling Swordfish",
+            "overview": "Wrestling Swordfish is a 1931 American short adventure film produced by Mack Sennett. In 1932, it won an Oscar for Best Short Subject (Novelty) at the 5th Academy Awards.",
+            "popularity": 1.341,
+            "poster_path": "/8PBgN5xj9NYB0INuD18rDwj5Gta.jpg",
+            "release_date": "1931-11-08",
+            "title": "Wrestling Swordfish",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                36,
+                14,
+                18
+            ],
+            "id": 982339,
+            "original_language": "ja",
+            "original_title": "Samurai Swordfish",
+            "overview": "Edo, 1863. Aisuke Kajiki, a young blind swordsman, is entrusted the son of his best friend Toramaru Sakakibara, who is about to join the Shogun's Samurai Unit and promises to train him well. However, after Toramaru's death in battle, Eisuke drowns in a river and is transported in time to present-day Tokyo. Eisuke and his descendant, Ryusei, a college student, go to meet Toramaru's descendant, Taiga, a swimmer. The blind samurai's promise to his best friend in Edo is fulfilled 160 years later in present-day Tokyo through para-swimming.",
+            "popularity": 0.6,
+            "poster_path": "/8zPzdevG1Pf2DjUa8IachCi6UX1.jpg",
+            "release_date": "2022-05-23",
+            "title": "Samurai Swordfish",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9oCHxmwQA0CUD7xxcv9UeVne4as.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 148050,
+            "original_language": "it",
+            "original_title": "Lu tempu di li pisci spata",
+            "overview": "A short anthropological documentary from 1954. Director De Seta was fortunate enough to document swordfish fishing; by 1956 it no longer existed.",
+            "popularity": 1.213,
+            "poster_path": "/5vi8qCYsIM2IfRBHMkJ52lkAcGR.jpg",
+            "release_date": "1955-10-28",
+            "title": "The Age of Swordfish",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                18,
+                10402
+            ],
+            "id": 278428,
+            "original_language": "ms",
+            "original_title": "Singapura Di-Langgar Todak",
+            "overview": "A legendary folklore film. Religious leader Tun Jana Khatib and his 2 followers come to Singapore from Pasai to trade. However, due to the rivalry between the Temenggong and the King\u2019s aide, Tun Jana Khatib is slandered. He's sentenced to death and the King\u2019s aide sentenced to life imprisonment.  One night, several fishermen are attacked and killed by swordfish. At the coast of Singapore, with his courtiers, the King is also attacked. The Temenggong orders that villagers be used as human shields against the attack. The young son of the King's aide, Hang Nadim, suggests that banana tree trunks be used instead. It works and in return, the King agrees to release his father. However, the sly Temenggong instigates the King against Hang Nadim and his father.",
+            "popularity": 0.6,
+            "poster_path": "/Ae90lwbBI2OVoy1CkTkiwV2GYW5.jpg",
+            "release_date": "1961-01-01",
+            "title": "Swordfish Attack on Singapore",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 985986,
+            "original_language": "en",
+            "original_title": "Platform",
+            "overview": "A happy-go-lucky university student starts to unravel after the loss of a family member.",
+            "popularity": 0.6,
+            "poster_path": "/vvPqGKThhaTxkKqCCeMZnKi8WFs.jpg",
+            "release_date": "",
+            "title": "Platform",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

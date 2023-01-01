@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/uxInHuYdymUHjsyboB2ivauppvC.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                878
+            ],
+            "id": 17198,
+            "original_language": "en",
+            "original_title": "The Mating Habits of the Earthbound Human",
+            "overview": "David Hyde Pierce, playing an alien (credited as infinity-cubed in the opening credits), narrates a courtship in a late-20th century American city as an extraterrestrial nature documentary. The relationship \"footage\" is played straight, while the voice-over (with its most often wildly inaccurate theories) and elaborate visual metaphors add comedy.",
+            "popularity": 7.726,
+            "poster_path": "/6HKeiRaPRstC5Uc7y6MmolV5dbi.jpg",
+            "release_date": "1999-09-03",
+            "title": "The Mating Habits of the Earthbound Human",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 51
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

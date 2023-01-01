@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/w7ib0Q5oswHT8xrs3LSNnf1jsYG.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 48350,
+            "original_language": "en",
+            "original_title": "Psychomania",
+            "overview": "A gang of young people call themselves the Living Dead. They terrorize the population from their small town. After an agreement with the devil, if they kill themselves firmly believing in it, they will survive and gain eternal life. Following their leader, they commit suicide one after the other, but things don't necessarily turn out as expected...",
+            "popularity": 2.459,
+            "poster_path": "/698hIkRSMmZzY2trCADbgzvpVXx.jpg",
+            "release_date": "1973-01-05",
+            "title": "Psychomania",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 51
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

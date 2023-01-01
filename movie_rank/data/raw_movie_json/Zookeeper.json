@@ -1,0 +1,114 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qkk2D6N6uth0KKyp1pJhsqK0c8x.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10751
+            ],
+            "id": 38317,
+            "original_language": "en",
+            "original_title": "Zookeeper",
+            "overview": "Kindhearted Griffin Keyes is one of the best-loved caretakers at the Franklin Park Zoo, but since he is more comfortable with the animals than with females of his own species, his love life is lacking. When Griffin decides that the only way to get a girlfriend is to find a more-glamorous career, the animals panic. To keep him from leaving, they reveal their secret ability to talk and offer to teach him the rules of courtship, animal-style.",
+            "popularity": 24.302,
+            "poster_path": "/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg",
+            "release_date": "2011-07-06",
+            "title": "Zookeeper",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1426
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2wHCH7EayQuKTfatJUgzueVsne6.jpg",
+            "genre_ids": [],
+            "id": 209096,
+            "original_language": "en",
+            "original_title": "The Zookeeper",
+            "overview": "Jonah Ludovic is a custodian at a small municipal zoo.  After a night of heavy shelling Ludovic arrives at his job to find the staff abandoning the zoo. He joins a skeleton crew that includes an elderly guard and a veterinarian. Their purpose: to keep the animals alive until help arrives from an international zoological mission.",
+            "popularity": 3.483,
+            "poster_path": "/CL06HCdWB9ewda8aiiDsS0PFEx.jpg",
+            "release_date": "2001-09-13",
+            "title": "The Zookeeper",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 289222,
+            "original_language": "en",
+            "original_title": "The Zookeeper's Wife",
+            "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+            "popularity": 16.974,
+            "poster_path": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+            "release_date": "2017-03-24",
+            "title": "The Zookeeper's Wife",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1348
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i1CKL027e9xu2s69gvNXQt7gWex.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 122869,
+            "original_language": "en",
+            "original_title": "Ron the Zookeeper",
+            "overview": "With only one male grey panda left in the entire world, Ron the Zookeeper is sent in to get a sperm sample, no matter what.",
+            "popularity": 0.998,
+            "poster_path": "/cPP4JEFiv2dK0WfmnyftdMmcsFq.jpg",
+            "release_date": "2007-03-17",
+            "title": "Ron the Zookeeper",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 576513,
+            "original_language": "en",
+            "original_title": "Zookeeper Workbook",
+            "overview": "A surreal short film featuring a zookeeper with a large moustache.",
+            "popularity": 0.6,
+            "poster_path": "/4ZaAVFJbY5BfdEIOxMd72bcT34h.jpg",
+            "release_date": "1997-01-01",
+            "title": "Zookeeper Workbook",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 424675,
+            "original_language": "en",
+            "original_title": "Maldoror: Tygers",
+            "overview": "A tale of lust and bestiality set in a zoo. Delmas, the zookeeper, is obsessively in love with a bizarre carrion-creature, while his daughter Dol makes increasingly desperate attempts to be noticed. It ends badly, with the creature dying, Delmas devoured by tigers, and Dol herself imprisoned in the tiger pit.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1998-01-01",
+            "title": "Maldoror: Tygers",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

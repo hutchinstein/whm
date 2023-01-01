@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/bYJyQqqJV30RJX6VPE3Rz1lPZhH.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 2100,
+            "original_language": "en",
+            "original_title": "The Last Castle",
+            "overview": "A court-martialed general rallies together 1200 inmates to rise against the system that put him away.",
+            "popularity": 15.604,
+            "poster_path": "/z7vRUeaXf8HryWLgHXYWSSoY3AV.jpg",
+            "release_date": "2001-10-19",
+            "title": "The Last Castle",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1019
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

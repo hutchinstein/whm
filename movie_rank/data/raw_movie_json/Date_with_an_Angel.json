@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/e6bZI49nqNzWqmFYksXPrCmMa1y.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10749,
+                878
+            ],
+            "id": 28370,
+            "original_language": "en",
+            "original_title": "Date With an Angel",
+            "overview": "Aspiring composer Jim Sanders is engaged to spoiled rich girl Patty. But the morning after his bachelor party, Jim wakes up to discover a beautiful, broken-winged angel in his pool. When everyone finds out about his heavenly houseguest, Jim must cope with a dangerously jealous fianc\u00e9e, an exploitive future father-in-law and a group of buddies with an outrageous business plan!",
+            "popularity": 11.838,
+            "poster_path": "/g9CjIIyZdCybuCRkn4Ad8uWBclu.jpg",
+            "release_date": "1987-11-20",
+            "title": "Date With an Angel",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 83
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

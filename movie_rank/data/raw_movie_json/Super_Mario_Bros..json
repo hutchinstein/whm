@@ -1,0 +1,137 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hJoe1i1MXoO7sXkbQRuONvUNPEo.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess.",
+            "popularity": 124.534,
+            "poster_path": "/hGFjtg1p473Lo8F2LVIQydBHZ1X.jpg",
+            "release_date": "2023-03-23",
+            "title": "The Super Mario Bros. Movie",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1GGfWFp9hp4RUHRHxd505z9rVFa.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751,
+                878
+            ],
+            "id": 9607,
+            "original_language": "en",
+            "original_title": "Super Mario Bros.",
+            "overview": "Mario and Luigi, plumbers from Brooklyn, find themselves in an alternate universe where evolved dinosaurs live in hi-tech squalor. They're the only hope to save our universe from invasion by the dino dictator, Koopa.",
+            "popularity": 32.286,
+            "poster_path": "/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg",
+            "release_date": "1993-05-28",
+            "title": "Super Mario Bros.",
+            "video": false,
+            "vote_average": 4.2,
+            "vote_count": 980
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 952760,
+            "original_language": "en",
+            "original_title": "RiffTrax: Super Mario Bros.",
+            "overview": "The world, characters, music, even the sound effects of the Mario video games are among the most iconic entertainment creations of the 20th century. So naturally if you made a Mario movie, you\u2019d want to abandon everything that people liked and recognized about them, and then just in case people were still willing to give it the benefit of the doubt, throw in The Happening star John Leguizamo.  Let\u2019s say you went to the cinema hoping to see your favorite character from Mario 3, the red carnivorous fish Big Bertha. Ignoring the fact that you are a moron for your favorite character not being the King of Ice World when he\u2019s been transformed into a seal, you might be disappointed to to learn that in the movie, Big Bertha is instead a large, violent woman with prodigious cleavage who wears S & M-esque garb. (Or maybe you\u2019re into that. In that case, you\u2019re probably not welcome in many of the theaters that were showing Super Mario Bros.)",
+            "popularity": 6.202,
+            "poster_path": "/bPcBAk5bLKKqgkHQm3zT5KAKYPM.jpg",
+            "release_date": "2014-03-20",
+            "title": "RiffTrax: Super Mario Bros.",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 314242,
+            "original_language": "en",
+            "original_title": "Super Mario Bros: This Ain't No Video Game",
+            "overview": "A documentary about the making of the live-action Super Mario Bros. movie.",
+            "popularity": 4.189,
+            "poster_path": "/wjpc5CMyWcP2npWcm3M9XBACBTs.jpg",
+            "release_date": "2014-11-03",
+            "title": "Super Mario Bros: This Ain't No Video Game",
+            "video": false,
+            "vote_average": 3.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1041664,
+            "original_language": "en",
+            "original_title": "Super Mario Dance Bros",
+            "overview": "Mario and Luigi become dancers.",
+            "popularity": 4.868,
+            "poster_path": "/iGz0rLOoFLAAOnvIMvXLUVJ5Vfx.jpg",
+            "release_date": "2008-05-04",
+            "title": "Super Mario Dance Bros",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 311847,
+            "original_language": "en",
+            "original_title": "Super Mario Bros.: Once Upon a Koopa",
+            "overview": "Mario climbs a beanstalk to take on a giant Koopa in \"Mario and the Beanstalk\"; \"The Adventures of Sherlock Mario\" finds the brothers sleuthing; \"Hooded Robin and His Mario Men\" recover stolen gold from the Sheriff of Koopingham; a Koopa is the big bad wolf in \"Little Red Riding Princess\"; and a monster is unleashed in \"Koopenstein.\"",
+            "popularity": 1.475,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Super Mario Bros.: Once Upon a Koopa",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7PzpnGL4W0oy1NAd0toIZeuDt0G.jpg",
+            "genre_ids": [
+                16,
+                35,
+                14
+            ],
+            "id": 28152,
+            "original_language": "ja",
+            "original_title": "\u30b9\u30fc\u30d1\u30fc\u30de\u30ea\u30aa\u30d6\u30e9\u30b6\u30fc\u30ba \u30d4\u30fc\u30c1\u59eb\u6551\u51fa\u5927\u4f5c\u6226!",
+            "overview": "When Princess Peach is kidnapped by the monster King Koopa, Mario and his brother Luigi journey to the Mushroom Kingdom to rescue her.",
+            "popularity": 17.526,
+            "poster_path": "/d8466YAgDFZmsrWmgizPcUQMsIx.jpg",
+            "release_date": "1986-07-20",
+            "title": "Super Mario Brothers: Great Mission to Rescue Princess Peach",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 14
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

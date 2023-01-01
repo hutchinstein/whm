@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8J5XaKWh9Tvjr8K9vYzqPv0aVLh.jpg",
+            "genre_ids": [
+                14,
+                27
+            ],
+            "id": 12594,
+            "original_language": "en",
+            "original_title": "Wishmaster 2: Evil Never Dies",
+            "overview": "During a failed art heist, the Djinn is once again liberated. This time, to complete the 1001 wishes that he needs before the final 3, he lets himself go to prison, where he starts his evil reign twisting the hopes of the prisoners. Meanwhile, the woman who set him free accidentally, Morgana, tries to find a way to stop him, aided by a young priest.",
+            "popularity": 18.886,
+            "poster_path": "/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg",
+            "release_date": "1999-03-12",
+            "title": "Wishmaster 2: Evil Never Dies",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 203
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

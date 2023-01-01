@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8JjoU20QJpsKupqTYwLoCeeJpmT.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                10751
+            ],
+            "id": 11982,
+            "original_language": "en",
+            "original_title": "Look Who's Talking Now!",
+            "overview": "When Samantha LeBon hatches a scheme to spend a romantic Christmas with her new employee -- the unsuspecting, blithesome James -- his wife, their kids and their two dogs, Rocks and Daphne, must rescue him before he makes a terrible mistake.",
+            "popularity": 19.635,
+            "poster_path": "/73JahFiizkMVsrrslXInmNK54nC.jpg",
+            "release_date": "1993-11-05",
+            "title": "Look Who's Talking Now!",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 878
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

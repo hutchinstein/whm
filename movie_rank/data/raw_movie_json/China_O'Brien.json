@@ -1,0 +1,44 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/miGaeWEaYZGsqO48CedfPjynRbE.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 13293,
+            "original_language": "en",
+            "original_title": "China O'Brien",
+            "overview": "China O'Brien; big city police woman; martial arts trainer, is forced to hand in her badge and head home to her father and the small town where she grew up. The peaceful town she knew is now struggling against the clutches of organized crime. When her father, the town sheriff, is killed China decides to run for his position and clean up the town. The poll results spark a series of confrontations that finally decide who runs the town . . .",
+            "popularity": 3.175,
+            "poster_path": "/9zdXnb2ag0FdZKPucvJJ3GzyWaK.jpg",
+            "release_date": "1990-02-01",
+            "title": "China O'Brien",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3gZu4vFzu2uJQ9kdXwHy4yNAdlh.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 13295,
+            "original_language": "en",
+            "original_title": "China O'Brien II",
+            "overview": "This time China O'Brien has trouble with a dealer who puts a prize on her head because she had spoiled an important drug deal of his. But all the world's criminals will not be enough to catch up with China O'Brian, one of the masters of the martial arts.",
+            "popularity": 1.091,
+            "poster_path": "/kM4Sni9s2VJDlebm0smshhWdEsk.jpg",
+            "release_date": "1990-06-01",
+            "title": "China O'Brien II",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 19
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

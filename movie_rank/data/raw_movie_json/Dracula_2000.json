@@ -1,0 +1,47 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/aWT6cOhVOSPPHP7KMFp6Znx5S3a.jpg",
+            "genre_ids": [
+                53,
+                27,
+                28,
+                14
+            ],
+            "id": 10577,
+            "original_language": "en",
+            "original_title": "Dracula 2000",
+            "overview": "Abraham Van Helsing, who has tangled with Count Dracula in the past, works as an English antiques dealer. Simon is a vampire hunter in training under his apprenticeship.",
+            "popularity": 21.145,
+            "poster_path": "/uSOaVTCsMnqM0Nxr5GSTZhHMDbI.jpg",
+            "release_date": "2000-12-22",
+            "title": "Dracula 2000",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 544
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 136018,
+            "original_language": "de",
+            "original_title": "Graf Dracula (bei\u00dft jetzt) in Oberbayern",
+            "overview": "An ancestor of the famous vampire gets a job as a photographer shooting beautiful fashion models at the family estate.",
+            "popularity": 0.731,
+            "poster_path": "/rnIvUVXgLLo739Y02CcwYToGgne.jpg",
+            "release_date": "1979-10-12",
+            "title": "Dracula Blows His Cool",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 4
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

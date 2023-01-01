@@ -1,0 +1,65 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 699457,
+            "original_language": "en",
+            "original_title": "Three Men and a Baby",
+            "overview": "Life for an NYC bachelor and his two single friends is hilariously turned upside down when a girlfriend dumps a baby in his lap and disappears from his life forever.",
+            "popularity": 1.206,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Three Men and a Baby",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f652MzWbQQg99As6iybGcDU3y9p.jpg",
+            "genre_ids": [
+                10770,
+                35,
+                18
+            ],
+            "id": 1028541,
+            "original_language": "en",
+            "original_title": "Three Wise Men and a Baby",
+            "overview": "Three brothers get the surprise of their lives when they are forced to work together to care for a baby over the holidays. As they slowly get the hang of things, they find themselves on unexpected journeys of self-discovery and begin to rebuild their relationships as brothers, as well as the damaged romantic and professional relationships in their respective lives\u2026all while rediscovering their love of Christmas.",
+            "popularity": 9.486,
+            "poster_path": "/yR3hrMFIiczybGN7Y8wXMjmnPfz.jpg",
+            "release_date": "2022-11-19",
+            "title": "Three Wise Men and a Baby",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rVp4XrInBkLC37n64nk5g5Wpf7F.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 12154,
+            "original_language": "en",
+            "original_title": "3 Men and a Baby",
+            "overview": "Three bachelors find themselves forced to take care of a baby left by one of the guy's girlfriends.",
+            "popularity": 15.716,
+            "poster_path": "/oYetboAljWR2N5A7MU3i63DvUtd.jpg",
+            "release_date": "1987-11-27",
+            "title": "3 Men and a Baby",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 848
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

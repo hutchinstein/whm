@@ -1,0 +1,29 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/eOPvt9Z9WZCzIrDhu359IoEtWm7.jpg",
+            "genre_ids": [
+                878,
+                53,
+                12,
+                28,
+                18
+            ],
+            "id": 9886,
+            "original_language": "en",
+            "original_title": "Johnny Mnemonic",
+            "overview": "In a dystopian 2021, Johnny is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limits\u2014and will kill him if the data is not removed in time\u2014but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life.",
+            "popularity": 20.975,
+            "poster_path": "/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg",
+            "release_date": "1995-05-26",
+            "title": "Johnny Mnemonic",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 1107
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

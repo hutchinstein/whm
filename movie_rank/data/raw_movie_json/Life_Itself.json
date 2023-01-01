@@ -1,0 +1,82 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zTMtN7DjyqYuTFwBXw1ywl3JyTO.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 446696,
+            "original_language": "en",
+            "original_title": "Life Itself",
+            "overview": "As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.",
+            "popularity": 19.516,
+            "poster_path": "/aiqvl9GyF4LyGAXeAHkt3SiCFp9.jpg",
+            "release_date": "2018-09-21",
+            "title": "Life Itself",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hfBVcLWjvL9ZCEPDLcbGYsBvor1.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 250766,
+            "original_language": "en",
+            "original_title": "Life Itself",
+            "overview": "The surprising and entertaining life of renowned film critic and social commentator Roger Ebert (1942-2013): his early days as a freewheeling bachelor and Pulitzer Prize winner, his famously contentious partnership with Gene Siskel, his life-altering marriage, and his brave and transcendent battle with cancer.",
+            "popularity": 8.277,
+            "poster_path": "/nK4cYTEO2eHLMgMII0Ux0kBOGhG.jpg",
+            "release_date": "2014-07-04",
+            "title": "Life Itself",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 300
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
+            "genre_ids": [
+                12,
+                14,
+                18
+            ],
+            "id": 587,
+            "original_language": "en",
+            "original_title": "Big Fish",
+            "overview": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "popularity": 29.478,
+            "poster_path": "/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_date": "2003-12-25",
+            "title": "Big Fish",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 6363
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sydvKR3zdaLPQM96tUJmi7vD0XR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 286521,
+            "original_language": "en",
+            "original_title": "5 Flights Up",
+            "overview": "A long-time married couple who've spent their lives together in the same New York apartment become overwhelmed by personal and real estate-related issues when they plan to move away.",
+            "popularity": 8.494,
+            "poster_path": "/2WI5oq2QswLB0kJFOcL7ZA5ndKr.jpg",
+            "release_date": "2014-09-05",
+            "title": "5 Flights Up",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 270
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

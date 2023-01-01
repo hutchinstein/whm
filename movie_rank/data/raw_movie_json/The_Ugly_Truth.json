@@ -1,0 +1,97 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cepdnk8vB2nGk9yRrDFZ0bRsQy6.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 20943,
+            "original_language": "en",
+            "original_title": "The Ugly Truth",
+            "overview": "A romantically challenged morning show producer is reluctantly embroiled in a series of outrageous tests by her chauvinistic correspondent to prove his theories on relationships and help her find love. His clever ploys, however, lead to an unexpected result.",
+            "popularity": 26.16,
+            "poster_path": "/2rq96Ihbqb1eU3TEBVtgFlqbeX7.jpg",
+            "release_date": "2009-07-24",
+            "title": "The Ugly Truth",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3117
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                35
+            ],
+            "id": 881208,
+            "original_language": "nl",
+            "original_title": "Karbonkel: The Ugly Truth",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/zriXIsWyZij1o1KyqTQXx2fIR7p.jpg",
+            "release_date": "2021-10-04",
+            "title": "Karbonkel: The Ugly Truth",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5vGRJeEUslsWCkHerRnBaVz8kBO.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 462884,
+            "original_language": "en",
+            "original_title": "Erik Griffin: The Ugly Truth",
+            "overview": "With a sharp wit and even sharper tongue, Griffin deconstructs everything from modern romance and profile pictures to calorie counting and Fatburger in this raucous hour of standup.",
+            "popularity": 0.6,
+            "poster_path": "/uShJdLdAf8rsWu4nHdi1tmpJ2eI.jpg",
+            "release_date": "2017-07-07",
+            "title": "Erik Griffin: The Ugly Truth",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 883784,
+            "original_language": "de",
+            "original_title": "Die wahre Sch\u00f6nheit",
+            "overview": "Mona, her man Theo and daughter Hanna live in an idyllic villa on the outskirts. When the attractive daughter of a friend comes to visit, the problems and fragility of the small family are revealed and a tragic downward spiral continues.",
+            "popularity": 1.896,
+            "poster_path": "/1RcqFeHYNSTosTB5uTphUwA7azD.jpg",
+            "release_date": "2021-11-05",
+            "title": "The Ugly Truth",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1034216,
+            "original_language": "bn",
+            "original_title": "\u09b2\u09be\u0987\u09ad",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/yxf9iC1VkRTln3dZWWvi1ZRfuSG.jpg",
+            "release_date": "2022-06-24",
+            "title": "Live",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

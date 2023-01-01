@@ -1,0 +1,379 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wzeti17XZFt19rRkM0WH0g8jetA.jpg",
+            "genre_ids": [
+                80,
+                28,
+                35
+            ],
+            "id": 4638,
+            "original_language": "en",
+            "original_title": "Hot Fuzz",
+            "overview": "As a former London constable, Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+            "popularity": 31.573,
+            "poster_path": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+            "release_date": "2007-02-14",
+            "title": "Hot Fuzz",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 6487
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/77lsO2PahV7ByBJCre904hqjiqe.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 4986,
+            "original_language": "en",
+            "original_title": "Fuzz",
+            "overview": "Police in Boston search for a mad bomber trying to extort money from the city.",
+            "popularity": 1.91,
+            "poster_path": "/saxrwgKoFyRQZt5TRrZd2Afhxh6.jpg",
+            "release_date": "1972-07-14",
+            "title": "Fuzz",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jSIqAwrxsYSDH35gCGzK7uB5Ls4.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 247791,
+            "original_language": "en",
+            "original_title": "The Feminist and the Fuzz",
+            "overview": "A dedicated women's libber and a male chauvinist cop become roommates.",
+            "popularity": 1.728,
+            "poster_path": "/7n1VYiPWKfC4HyAPpTATy115K9q.jpg",
+            "release_date": "1971-01-26",
+            "title": "The Feminist and the Fuzz",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 507529,
+            "original_language": "en",
+            "original_title": "The Fuzz",
+            "overview": "Murphy Dunn, a down and out private detective, is trying to get his life together after his last case. His luck changes when he's hired by his ex to find her missing son and stolen heirlooms. Instead, Murphy soon finds himself embroiled in a mystery of mayhem, music and murder surrounding the whereabouts of an obscure 1970's rock record that people are willing to kill for.",
+            "popularity": 0.6,
+            "poster_path": "/qOr7e8mSVDlxJDAaMo84OMI9t8U.jpg",
+            "release_date": "2017-05-02",
+            "title": "The Fuzz",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aF1q5rgkTgymSUS7bHpCQyTT2Tl.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 273736,
+            "original_language": "en",
+            "original_title": "The Fuzz",
+            "overview": "When a string of violent, drug-related crimes rock the seedy Puppet Town neighborhood, Herbie, a puppet cop, must work together with his hapless human partner Sanchez to track down the dangerous puppet drug dealer Rainbow Brown, who will stop at nothing in becoming the most powerful criminal in the city.",
+            "popularity": 0.6,
+            "poster_path": "/19f1inD22B14EU7DdNnaeFG1ip6.jpg",
+            "release_date": "2013-09-09",
+            "title": "The Fuzz",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 848342,
+            "original_language": "en",
+            "original_title": "Peach Fuzz",
+            "overview": "After discovering an unusual way to grow facial hair, a previously beardless man struggles with becoming someone he's not.",
+            "popularity": 0.6,
+            "poster_path": "/7mvWIFUpPgljxlEUMi8bWCkh3eS.jpg",
+            "release_date": "2018-12-20",
+            "title": "Peach Fuzz",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1007254,
+            "original_language": "en",
+            "original_title": "Peach Fuzz",
+            "overview": "A poetic documentary exploring the detrimental impact body hair has on the lives of young women and the differing opinions that still surround the topic.",
+            "popularity": 0.6,
+            "poster_path": "/8VMgXcqD5QQGMwi6MFSIEvkk6yu.jpg",
+            "release_date": "",
+            "title": "Peach Fuzz",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 767626,
+            "original_language": "en",
+            "original_title": "Summer Fuzz",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/ouv1SJWPWrfInfVv8LpU5MyoJyS.jpg",
+            "release_date": "2011-01-01",
+            "title": "Summer Fuzz",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                9648
+            ],
+            "id": 248653,
+            "original_language": "en",
+            "original_title": "Fuzz Track City",
+            "overview": "Murphy Dunn, a down and out private detective, is hired by a sultry woman from his past to find her missing son. Murphy soon finds himself embroiled in a mystery of betrayal, music and murder surrounding an obscure 1970's rock record.",
+            "popularity": 0.843,
+            "poster_path": null,
+            "release_date": "2012-04-06",
+            "title": "Fuzz Track City",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 501013,
+            "original_language": "en",
+            "original_title": "Fakkah Fuzz: Almost Banned",
+            "overview": "Stand-up comic Fakkah Fuzz mines cross-cultural humor from the experience of growing up as an outspoken Malay man in Singapore.",
+            "popularity": 0.702,
+            "poster_path": "/e4zruRZ49WuZRDfzvPwCZ42IEvO.jpg",
+            "release_date": "2018-01-26",
+            "title": "Fakkah Fuzz: Almost Banned",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 243981,
+            "original_language": "en",
+            "original_title": "Fuzz: The Sound That Revolutionized the World",
+            "overview": "An in-depth look at the industry of noise making featuring Billy Gibbons, Jon Spencer, J. Mascis  more!  Fuzz... the sound that changed the world. The fuzz box: that tiny  little box between the electric guitar and the amp that  revolutionized rock music.",
+            "popularity": 0.652,
+            "poster_path": "/3V0swbfFCFpoD4btTkibmoGzFGv.jpg",
+            "release_date": "2007-11-20",
+            "title": "Fuzz: The Sound That Revolutionized the World",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2pHWVvVrmlsXHWyp4xQgqfyqIba.jpg",
+            "genre_ids": [
+                14,
+                28,
+                35,
+                878
+            ],
+            "id": 11333,
+            "original_language": "it",
+            "original_title": "Poliziotto Superpi\u00f9",
+            "overview": "While delivering a parking ticket to a small village in the Florida everglades, Officer Dave Speed finds himself in the middle of a radiation experiment conducted by the American government and NASA, where a detonated nuclear missile gives him a multitude of superpowers.",
+            "popularity": 9.999,
+            "poster_path": "/8kSgFV7nvzLVJhmVkq8n4k2VoC0.jpg",
+            "release_date": "1980-09-18",
+            "title": "Super Fuzz",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1r5pn3Nx1tYj84bL8LzQTN01X9a.jpg",
+            "genre_ids": [
+                12,
+                35,
+                10751,
+                10770
+            ],
+            "id": 210103,
+            "original_language": "en",
+            "original_title": "Fuzzbucket",
+            "overview": "In the vein of \"Harvey\", an invisible creature befriends a 12 year old boy. Of course, no one else can see him nor believes in him.",
+            "popularity": 1.712,
+            "poster_path": "/79CSCF9cJyHTZwyD7aB1wQzssFk.jpg",
+            "release_date": "1986-05-18",
+            "title": "Fuzzbucket",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 837650,
+            "original_language": "en",
+            "original_title": "The Fuzzies",
+            "overview": "A man wakes up locked in a strange bathroom where something is lurking behind the walls.",
+            "popularity": 0.6,
+            "poster_path": "/8AvVUFqzZ6dLaUDBL4ctoGSHjQ7.jpg",
+            "release_date": "2021-06-05",
+            "title": "The Fuzzies",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tOjtPTmzoDthdbYdwcvaai0XFYe.jpg",
+            "genre_ids": [
+                53,
+                80,
+                28
+            ],
+            "id": 90019,
+            "original_language": "it",
+            "original_title": "Poliziotto senza paura",
+            "overview": "A low-rent private investigator and former cop is sent to Austria on a job, and while there sees a number of seemingly unrelated coincidences that lead him into a strange web of corruption and decadence.",
+            "popularity": 1.4,
+            "poster_path": "/gqT91cFRmDG6jr8krw5heGGv2O1.jpg",
+            "release_date": "1978-02-03",
+            "title": "Magnum Cop",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                37
+            ],
+            "id": 128823,
+            "original_language": "it",
+            "original_title": "Tequila!",
+            "overview": "Shosena, a clever bank robber, is associated with \"Jaguar\" to take a big hit. They think the town where the bank owned dock Koven, a man who has against all the farmers of the place. His only son, George, is in love with the daughter of Rush, his most angry enemy. And ... coincidentally, Shosena and \"Jaguar\" to justify their stay in the village, get to work for him.",
+            "popularity": 0.952,
+            "poster_path": "/1wGOjJqIGnTcK9LByrxqmCKBJb3.jpg",
+            "release_date": "1973-05-25",
+            "title": "Fuzzy the Hero",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jnM3CI9K4HB9ZXL8eUDCXOipztN.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 243537,
+            "original_language": "en",
+            "original_title": "The Lone Rider and the Bandit",
+            "overview": "A singing cowboy and his sidekick rescue miners from a bad deal.",
+            "popularity": 1.4,
+            "poster_path": "/dYstAOicUD2mr9wTDyZCjCZcGVD.jpg",
+            "release_date": "1942-01-16",
+            "title": "The Lone Rider and the Bandit",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 541730,
+            "original_language": "en",
+            "original_title": "Growing Up Wild - Fuzzy Wuzzy Bears",
+            "overview": "With a delightful mix of rare wildlife footage, music and rhyme, GROWING UP WILD gives kids a fun new way to learn about the animal kingdom.  You'll get all this!",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1992-07-09",
+            "title": "Growing Up Wild - Fuzzy Wuzzy Bears",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zDWKq7jzpUAJeFaeOAo1m1pOM8.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 252327,
+            "original_language": "en",
+            "original_title": "Stage to Mesa City",
+            "overview": "Lash and Fuzzy sent to help John Watson with his stage line arrive to find him murdered. Recognizing the outlaws they trail them to their leader Baxter. But before Baxter can tell who the big boss is he is shot. After getting the stage through to assure the mail contract, Lash now realizes who the boss is.",
+            "popularity": 0.6,
+            "poster_path": "/2S1DCWi8OE8ynIcdBqmoNeE8K8Q.jpg",
+            "release_date": "1947-09-13",
+            "title": "Stage to Mesa City",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a5MGbRr5cyvRCtBFICQA0n2Bdnd.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 260833,
+            "original_language": "en",
+            "original_title": "Cheyenne Takes Over",
+            "overview": "Cheyenne has been ordered to take a vacation so Fuzzy has him go to a ranch of a friend. When they arrive at the El Lobo ranch, they find that his friend is dead and they want no visitors.",
+            "popularity": 0.6,
+            "poster_path": "/vDjPSXAyCHGqEj1YJVvlE0Yj7lL.jpg",
+            "release_date": "1947-12-17",
+            "title": "Cheyenne Takes Over",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 53
+}

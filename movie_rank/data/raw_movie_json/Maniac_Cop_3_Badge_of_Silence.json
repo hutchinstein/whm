@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7DERYVjsmA5vXQ6vr4d46fZqCMw.jpg",
+            "genre_ids": [
+                28,
+                12,
+                27
+            ],
+            "id": 50687,
+            "original_language": "en",
+            "original_title": "Maniac Cop 3: Badge of Silence",
+            "overview": "A female cop is gunned down and wrongly accused of using excessive force in a hostage rescue attempt. Maniac cop returns from the dead once more to seek revenge, destroying everything and anyone that stands in his way.",
+            "popularity": 8.142,
+            "poster_path": "/eudxXXeQaU27VqKFdvWFRmrf1gm.jpg",
+            "release_date": "1993-02-01",
+            "title": "Maniac Cop 3: Badge of Silence",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 107
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

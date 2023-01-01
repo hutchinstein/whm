@@ -1,0 +1,117 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 8913,
+            "original_language": "en",
+            "original_title": "Pet Sematary",
+            "overview": "Dr. Louis Creed's family moves into the country house of their dreams and discover a pet cemetery at the back of their property. The cursed burial ground deep in the woods brings the dead back to life -- with \"minor\" problems. At first, only the family's cat makes the return trip, but an accident forces a heartbroken father to contemplate the unthinkable.",
+            "popularity": 32.243,
+            "poster_path": "/8pAg0nzA8pS4UmA0wj20LBFfLfW.jpg",
+            "release_date": "1989-04-21",
+            "title": "Pet Sematary",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1782
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dMWVeuVce8ZLKLI0xpVevihEwm8.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 157433,
+            "original_language": "en",
+            "original_title": "Pet Sematary",
+            "overview": "Dr. Louis Creed and his wife, Rachel, move from Boston to Ludlow, in rural Maine, with their two young children. Hidden in the woods near the new family home, Ellie, their eldest daughter, discovers a mysterious cemetery where the pets of community members are buried.",
+            "popularity": 25.135,
+            "poster_path": "/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+            "release_date": "2019-04-04",
+            "title": "Pet Sematary",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 2812
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/do3RXPOvnMjbJQCM0kJ87husGe6.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 10906,
+            "original_language": "en",
+            "original_title": "Pet Sematary II",
+            "overview": "The \"sematary\" is up to its old zombie-raising tricks again. This time, the protagonists are Jeff Matthews, whose mother died in a Hollywood stage accident, and Drew Gilbert, a boy coping with an abusive stepfather.",
+            "popularity": 20.569,
+            "poster_path": "/9g6ngNlHOfMfQnaKkw9468p67d4.jpg",
+            "release_date": "1992-08-28",
+            "title": "Pet Sematary II",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 423
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lcO4AhTTuO4zkZWyEgd5yzgS11q.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 430035,
+            "original_language": "en",
+            "original_title": "Unearthed & Untold: The Path to Pet Sematary",
+            "overview": "This documentary is a detailed look into the making of PET SEMATARY, one of the most enduring cult-horror classics of our generation.",
+            "popularity": 1.742,
+            "poster_path": "/bX5L2eW2hDEq1WLAnjrlBahFY76.jpg",
+            "release_date": "2017-01-13",
+            "title": "Unearthed & Untold: The Path to Pet Sematary",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 1033821,
+            "original_language": "en",
+            "original_title": "Postman Pat\u2019s Pet Sematary",
+            "overview": "Not for children, it\u2019s a Postman Pat adventure like you\u2019ve never seen before. What does he do when he runs over and flattens his cat Jess?",
+            "popularity": 0.6,
+            "poster_path": "/bBgOUimoMqX1pWPh0j0qD6dYiPS.jpg",
+            "release_date": "2016-10-21",
+            "title": "Postman Pat\u2019s Pet Sematary",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 830764,
+            "original_language": "en",
+            "original_title": "Untitled Pet Sematary Prequel",
+            "overview": "Prequel to the 2019 remake.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Untitled Pet Sematary Prequel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

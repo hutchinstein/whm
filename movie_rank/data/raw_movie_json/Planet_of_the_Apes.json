@@ -1,0 +1,386 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/rF0Y0fYVsNFEvGve8Nq0Ij9EDCM.jpg",
+            "genre_ids": [
+                53,
+                878,
+                28,
+                12
+            ],
+            "id": 869,
+            "original_language": "en",
+            "original_title": "Planet of the Apes",
+            "overview": "After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade.",
+            "popularity": 41.683,
+            "poster_path": "/ijUi5kIYpiosJFPosuDwyaDJAc5.jpg",
+            "release_date": "2001-07-25",
+            "title": "Planet of the Apes",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 3431
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lRcC2O9djP40wRSICs1PGF5T7l2.jpg",
+            "genre_ids": [
+                878,
+                12,
+                18,
+                28
+            ],
+            "id": 871,
+            "original_language": "en",
+            "original_title": "Planet of the Apes",
+            "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+            "popularity": 39.286,
+            "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+            "release_date": "1968-02-07",
+            "title": "Planet of the Apes",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2803
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+            "genre_ids": [
+                878,
+                28,
+                18,
+                53
+            ],
+            "id": 119450,
+            "original_language": "en",
+            "original_title": "Dawn of the Planet of the Apes",
+            "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+            "popularity": 64.351,
+            "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+            "release_date": "2014-06-26",
+            "title": "Dawn of the Planet of the Apes",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 9833
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qdd5lrgBYL4fMSwYAhfLUwdJRu1.jpg",
+            "genre_ids": [
+                18,
+                878,
+                10752
+            ],
+            "id": 281338,
+            "original_language": "en",
+            "original_title": "War for the Planet of the Apes",
+            "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+            "popularity": 51.023,
+            "poster_path": "/oDvgC7IeTdc03SgiSSo2HY7xGYX.jpg",
+            "release_date": "2017-07-11",
+            "title": "War for the Planet of the Apes",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 7616
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v7JTQy194gRbljdlK4OJhwnOypQ.jpg",
+            "genre_ids": [
+                53,
+                28,
+                18,
+                878
+            ],
+            "id": 61791,
+            "original_language": "en",
+            "original_title": "Rise of the Planet of the Apes",
+            "overview": "A highly intelligent chimpanzee named Caeser has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caeser decides to revolt against those who have harmed him.",
+            "popularity": 45.198,
+            "poster_path": "/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+            "release_date": "2011-08-03",
+            "title": "Rise of the Planet of the Apes",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 10278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5vhuNmBt3oxbmsu7L4exJjJixC4.jpg",
+            "genre_ids": [
+                12,
+                878,
+                9648
+            ],
+            "id": 1685,
+            "original_language": "en",
+            "original_title": "Beneath the Planet of the Apes",
+            "overview": "The sole survivor of an interplanetary rescue mission discovers a planet ruled by apes, and an underground city run by telepathic humans.",
+            "popularity": 23.304,
+            "poster_path": "/xUuZXZlw9D29DfSutAQnBL3prio.jpg",
+            "release_date": "1970-04-23",
+            "title": "Beneath the Planet of the Apes",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1024
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6JxJminJvYIVXbTakYJkbnga14P.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 1687,
+            "original_language": "en",
+            "original_title": "Escape from the Planet of the Apes",
+            "overview": "The world is shocked by the appearance of three talking chimpanzees, who arrived mysteriously in a spacecraft. Intrigued by their intelligence, humans use them for research - until the apes attempt to escape.",
+            "popularity": 22.844,
+            "poster_path": "/uDrXQr6mVEfcW4yAWZIHvOlV31g.jpg",
+            "release_date": "1971-05-20",
+            "title": "Escape from the Planet of the Apes",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 818
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cY4Qmw4zy4rFnKwZc0xoMThT9A8.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 1705,
+            "original_language": "en",
+            "original_title": "Battle for the Planet of the Apes",
+            "overview": "The fifth and final episode in the Planet of the Apes series. After the collapse of human civilization, a community of intelligent apes led by Caesar lives in harmony with a group of humans. Gorilla General Aldo tries to cause an ape civil war and a community of human mutants who live beneath a destroyed city try to conquer those whom they perceive as enemies. All leading to the finale.",
+            "popularity": 19.656,
+            "poster_path": "/dP5dYjLp5p2CG103cJMio4Nj29d.jpg",
+            "release_date": "1973-06-15",
+            "title": "Battle for the Planet of the Apes",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 720
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aoIhq1EFhpyNC2KCecvCDWHMFSY.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 1688,
+            "original_language": "en",
+            "original_title": "Conquest of the Planet of the Apes",
+            "overview": "In a futuristic world that has embraced ape slavery, a chimpanzee named Caesar resurfaces after almost twenty years of hiding from the authorities, and prepares for a revolt against humanity.",
+            "popularity": 16.444,
+            "poster_path": "/kqWxUDBxD2Qm0dPVTt1i1z5RzbR.jpg",
+            "release_date": "1972-06-29",
+            "title": "Conquest of the Planet of the Apes",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 729
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wB2xUAzjuGK9pVTiGJmv55wrPSF.jpg",
+            "genre_ids": [
+                99,
+                878
+            ],
+            "id": 17244,
+            "original_language": "en",
+            "original_title": "Behind the Planet of the Apes",
+            "overview": "Roddy McDowall takes you, film by film, from production meetings to make-up sessions, then right onto the movie set to see the actual filming of the science fiction masterpiece. The most comprehensive history of Planet of the Apes ever created, this fascinating 127-minute documentary explores one of the most imaginative and influential series in movie history.",
+            "popularity": 6.449,
+            "poster_path": "/5Ku4Sn0piPBSm24CC2B5CI3VMuN.jpg",
+            "release_date": "1998-09-05",
+            "title": "Behind the Planet of the Apes",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMLRKTwY5LpyZ8A5NSJbjKA6AYd.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 653346,
+            "original_language": "en",
+            "original_title": "Kingdom of the Planet of the Apes",
+            "overview": "An all-new chapter in the Apes saga, picking up many years after the conclusion of 2017\u2019s War for the Planet of the Apes.",
+            "popularity": 3.177,
+            "poster_path": "/oxjHA6NHsb3EfyUo7TrSpJ1csoD.jpg",
+            "release_date": "2024-05-24",
+            "title": "Kingdom of the Planet of the Apes",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                53,
+                12,
+                878,
+                10770
+            ],
+            "id": 372284,
+            "original_language": "en",
+            "original_title": "Back to the Planet of the Apes",
+            "overview": "Astronauts Pete Burke and Allan Virdon crash on Earth in the far future and are captured by the apes. The men befriend a chimp named Galen who helps them to escape. In the hopes of finding a way to get back to their own time, the astronauts search for a computer in an eathquake-threatened city, with which they will be able to access their flight records. [The first of five telefilms edited from episodes of the 1974 TV series; this film combines the episodes \"Escape from Tomorrow\" and \"The Trap\"]",
+            "popularity": 1.62,
+            "poster_path": "/A5j13VW6xmhUInNxREqh70jliCx.jpg",
+            "release_date": "1980-11-17",
+            "title": "Back to the Planet of the Apes",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                878,
+                12
+            ],
+            "id": 452140,
+            "original_language": "en",
+            "original_title": "The Forgotten City of the Planet of the Apes",
+            "overview": "Human astronauts Burke and Virdon, with their chimp companion Galen, are forced to become involved in the strange gladiatorial games of the district run by prefect Tolar. The trio escape the gorilla police and find an abandoned government research project with a computer containing a vast amount of recording information about the old human-ruled world. [The second of five telefilms edited from episodes of the 1974 TV series; this film combines the episodes \"The Gladiators\" and \"The Legacy\"]",
+            "popularity": 0.676,
+            "poster_path": "/xSbMDb2Vx06zamaiw6iIAVRjcj6.jpg",
+            "release_date": "1980-11-18",
+            "title": "The Forgotten City of the Planet of the Apes",
+            "video": true,
+            "vote_average": 6.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                12,
+                53,
+                878
+            ],
+            "id": 385903,
+            "original_language": "en",
+            "original_title": "Treachery and Greed on the Planet of the Apes",
+            "overview": "The fugitives Burke, Virdon and Galen try to save the life of a human blacksmith and his son, whome gorilla leader Urko has threatened with death should his horse lose another race. The trio also attempt to expose a crooked gorilla by framing him in a plot to kill Urko. [The third of five telefilms edited from episodes of the 1974 TV series; this film combines the episodes \"The Horse Race\" and \"The Tyrant\"]",
+            "popularity": 1.261,
+            "poster_path": "/A3AFXXXYx1EoHt2XGPujIqQFqg3.jpg",
+            "release_date": "1980-11-19",
+            "title": "Treachery and Greed on the Planet of the Apes",
+            "video": true,
+            "vote_average": 6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 335466,
+            "original_language": "de",
+            "original_title": "Planet of the Apes - The Best of Guano Apes",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/jg1U3OomDJhm1ZmI3uHGsHjzgo8.jpg",
+            "release_date": "2005-01-01",
+            "title": "Planet of the Apes - The Best of Guano Apes",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                53,
+                12,
+                878
+            ],
+            "id": 385733,
+            "original_language": "en",
+            "original_title": "Farewell to the Planet of the Apes",
+            "overview": "When the astronauts Burke and Virdon, with their chimp companion Galen, are captured in a fishing village that employs human slave labor, they must prove their worth as fishermen or be sacrificed to the 'gods of the sea,' or what the men call sharks. Escaping from the forced labor camp, the trio become involved in a plot to develop a glider to drop a fragmentation bomb on the gorilla council. [The fifth of five telefilms edited from episodes of the 1974 TV series; this film combines the episodes \"Tomorrow's Tide\" and \"Up Above the World So High\"]",
+            "popularity": 0.6,
+            "poster_path": "/fTvwzybM4oYUyIscwpJ2AXsiB1U.jpg",
+            "release_date": "1980-11-21",
+            "title": "Farewell to the Planet of the Apes",
+            "video": true,
+            "vote_average": 5.3,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 903521,
+            "original_language": "en",
+            "original_title": "Image of God or Planet of the Apes",
+            "overview": "Will the missing link ever be found? In this engaging talk, Dr. David Dewitt offers a resounding \u201cNo!\u201d In his presentation from Answers in Genesis Creation Library Series, this respected Ph.D. professor reveals information about DNA, human/ape skull comparisons, and supposed apeman discoveries to critique the evolutionary tree that supposedly links humans to apes. Using well-documented research and revealing illustrations, he exposes its roots for what they really are\u2014 as fictional as Planet of the Apes.",
+            "popularity": 0.6,
+            "poster_path": "/1PXGb6S13N7tfLwAvQfIUCzUWgU.jpg",
+            "release_date": "2006-01-01",
+            "title": "Image of God or Planet of the Apes",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                12,
+                878,
+                53
+            ],
+            "id": 385902,
+            "original_language": "en",
+            "original_title": "Life, Liberty and Pursuit on the Planet of the Apes",
+            "overview": "When fugitive human astronaut Virdon is shot, his chimp companion Galen must charm an old flame into accepting that a book on human surgery is no hoax. Meanwhile, their friend Burke is captured by the ape authorities and is to be brainwashed by a brilliant ape scientist named Wanda.  [The fourth of five telefilms edited from episodes of the 1974 TV series; this film combines the episodes \"The Surgeon\" and \"The Interrogation\"]",
+            "popularity": 0.77,
+            "poster_path": "/2xbxIyMF66YOcO2srsZhRe9YfZx.jpg",
+            "release_date": "1980-11-20",
+            "title": "Life, Liberty and Pursuit on the Planet of the Apes",
+            "video": true,
+            "vote_average": 6.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                35,
+                14,
+                878
+            ],
+            "id": 248230,
+            "original_language": "pt",
+            "original_title": "O Trapalh\u00e3o no Planalto dos Macacos",
+            "overview": "This movie is a spoof of \"Planet of the Apes\" (1968) and follows the storyline of the original step by step - in spite of being a crazy parody of the original film. A group of men lands in a balloon on an area (it's not a planet, it's more like a hill) where talking apes rule and humans are slaves. The apes try to transform the guys in monkeys; a simian princess falls in love with one of them; and so on. This film is one of the several movies made for the popular Brazilian group \"Os Trapalh\u00f5es\" - Didi (Renato Arag\u00e3o), Ded\u00e9, Mussum and Zacarias (who at this point hadn't joined the troupe yet) -, many of them inspired by American blockbusters. It's a very fun entertainment, but the humor is very \"local\" to be understood in other countries. Oh, yeah, the ape \"makeup\" is terrible, but that's part of the fun. The movie doesn't take itself seriously.",
+            "popularity": 1.409,
+            "poster_path": "/w9OqnqJ6WsMYSqV194O3LkdYzSe.jpg",
+            "release_date": "1976-12-05",
+            "title": "O Trapalh\u00e3o no Planalto dos Macacos",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 14
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 19
+}

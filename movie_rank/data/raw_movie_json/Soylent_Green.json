@@ -1,0 +1,64 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 12101,
+            "original_language": "en",
+            "original_title": "Soylent Green",
+            "overview": "This is the year 2022. Overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+            "popularity": 20.557,
+            "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+            "release_date": "1973-04-18",
+            "title": "Soylent Green",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1018
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 974730,
+            "original_language": "en",
+            "original_title": "A Look at the World of Soylent Green",
+            "overview": "This promotional short film for Soylent Green (1973) begins by showing clips of films that depicted what the future might be like beyond Earth (click the \"movie connections\" link for the short list). The narrator then discusses the origin of the idea depicted in \"Soylent Green\": some time in the future, there will be too many people and not enough food to feed them. Director Richard Fleischer and star Charlton Heston discuss how an upcoming crowd scene will be filmed. Then we see what happens when the crowd riots because there is not enough food available to be distributed to everyone. \"Soylent Green\" was Edward G. Robinson's 101st (and, as it turned out, his last) feature film. During a break in filming, the cast and crew hold a ceremony celebrating the first film of his \"second hundred\", and Robinson makes appreciative remarks to the crowd. Studio head Jack L. Warner and friend George Burns are among those in attendance.",
+            "popularity": 0.844,
+            "poster_path": null,
+            "release_date": "1973-01-01",
+            "title": "A Look at the World of Soylent Green",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/szYZE5CkMUu36beBpXJISXgHG8X.jpg",
+            "genre_ids": [
+                99,
+                36,
+                10770
+            ],
+            "id": 1029656,
+            "original_language": "fr",
+            "original_title": "Soleil vert et alerte rouge : quand Hollywood sonnait l'alarme",
+            "overview": "The story of the making of Soylent Green, a masterpiece of social science fiction, released in 1973. Directed by Richard Fleischer and starring Charlton Heston and Edward G. Robinson, it deals not with an exogenous threat, such as an extraterrestrial attack, but with the dire consequences of an irreversible environmental catastrophe for which mankind alone is responsible.",
+            "popularity": 0.962,
+            "poster_path": "/qKyylWG6Bzn1mnbwkuqPpbtd2Sz.jpg",
+            "release_date": "2022-09-28",
+            "title": "Soylent Green and Red Alert: When Reality Catches Up with Fiction",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 4
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

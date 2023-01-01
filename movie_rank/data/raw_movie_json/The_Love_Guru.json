@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9E7RHTs5hyVCwZ8vmw0UtrcwfFD.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 12177,
+            "original_language": "en",
+            "original_title": "The Love Guru",
+            "overview": "Born in America and raised in an Indian ashram, Pitka returns to his native land to seek his fortune as a spiritualist and self-help expert. His skills are put to the test when he must get a brokenhearted hockey player's marriage back on track in time for the man to help his team win the Stanley Cup.",
+            "popularity": 11.611,
+            "poster_path": "/sp8AV64ftAZCT9uWfgbCb3olGDW.jpg",
+            "release_date": "2008-06-20",
+            "title": "The Love Guru",
+            "video": false,
+            "vote_average": 4.2,
+            "vote_count": 610
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

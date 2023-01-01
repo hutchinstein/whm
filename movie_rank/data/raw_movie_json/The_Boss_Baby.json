@@ -1,0 +1,122 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/2T92w8l2iTnyG9jwOmIWfM9thRV.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12
+            ],
+            "id": 1045944,
+            "original_language": "en",
+            "original_title": "The Boss Baby: Christmas Bonus",
+            "overview": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+            "popularity": 1481.393,
+            "poster_path": "/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
+            "release_date": "2022-12-06",
+            "title": "The Boss Baby: Christmas Bonus",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg",
+            "genre_ids": [
+                16,
+                35,
+                12,
+                10751
+            ],
+            "id": 459151,
+            "original_language": "en",
+            "original_title": "The Boss Baby: Family Business",
+            "overview": "The Templeton brothers \u2014 Tim and his Boss Baby little bro Ted \u2014 have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again \u2026 and inspire a new family business.",
+            "popularity": 170.091,
+            "poster_path": "/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
+            "release_date": "2021-07-01",
+            "title": "The Boss Baby: Family Business",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l4t6QYcDEIXep6C5Vmjna8Fl5Vy.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 295693,
+            "original_language": "en",
+            "original_title": "The Boss Baby",
+            "overview": "A story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.",
+            "popularity": 24.069,
+            "poster_path": "/unPB1iyEeTBcKiLg8W083rlViFH.jpg",
+            "release_date": "2017-03-23",
+            "title": "The Boss Baby",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 6398
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mY7giZNET31uvM8JO34tUJeierC.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                16
+            ],
+            "id": 735364,
+            "original_language": "en",
+            "original_title": "The Boss Baby: Get That Baby!",
+            "overview": "Think you've got what it takes to be the boss? This interactive special puts your skills to the test and matches you up with one of 16 jobs at Baby Corp.",
+            "popularity": 14.492,
+            "poster_path": "/epvUyxGpiaacwojju2CMa0I3Y6T.jpg",
+            "release_date": "2020-09-01",
+            "title": "The Boss Baby: Get That Baby!",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aCiMgMeJ0VtktLhPVHOgYNaElmr.jpg",
+            "genre_ids": [],
+            "id": 953654,
+            "original_language": "en",
+            "original_title": "The Boss Baby 3",
+            "overview": "Plot: TBA",
+            "popularity": 4.131,
+            "poster_path": "/kphlD5SsCdtdOGDL0a1DPE2uMDG.jpg",
+            "release_date": "",
+            "title": "The Boss Baby 3",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/988UENqRLXxQ02O1jkH1V1mpEil.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 460789,
+            "original_language": "en",
+            "original_title": "The Boss Baby and Tim's Treasure Hunt Through Time",
+            "overview": "Join the fun as Boss Baby and Tim battle pirates, travel through outer space, swim deep into the sea, and go toe-to-toe with some ferocious dinosaurs!",
+            "popularity": 1.273,
+            "poster_path": "/xDf1Q5xktwhPbvzA8dybi2nrLKB.jpg",
+            "release_date": "2017-07-04",
+            "title": "The Boss Baby and Tim's Treasure Hunt Through Time",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 12
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

@@ -1,0 +1,62 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qvlSLwRbTw0bY0fJmsRxzbnRHyt.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 988,
+            "original_language": "en",
+            "original_title": "The China Syndrome",
+            "overview": "While doing a series of reports on alternative energy sources, opportunistic reporter Kimberly Wells witnesses an accident at a nuclear power plant. Wells is determined to publicize the incident, but soon finds herself entangled in a sinister conspiracy to keep the full impact of the incident a secret.",
+            "popularity": 8.278,
+            "poster_path": "/fBqgZ3UsBaRAsKl36AkC2ilDKMN.jpg",
+            "release_date": "1979-03-16",
+            "title": "The China Syndrome",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 364
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 672283,
+            "original_language": "en",
+            "original_title": "The China Syndrome: A Fusion of Talent",
+            "overview": "Behind-the-scenes documentary about the making of The China Syndrome.",
+            "popularity": 1.714,
+            "poster_path": "/qqx77JoFJZgQ7AYwGtOvHj9v4pT.jpg",
+            "release_date": "2004-10-26",
+            "title": "The China Syndrome: A Fusion of Talent",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 672285,
+            "original_language": "en",
+            "original_title": "The China Syndrome: Creating a Controversy",
+            "overview": "Behind-the-scenes documentary about the making of The China Syndrome.",
+            "popularity": 0.84,
+            "poster_path": "/nl88UAWIkZNoAER7y0WglhXNy52.jpg",
+            "release_date": "2004-10-26",
+            "title": "The China Syndrome: Creating a Controversy",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

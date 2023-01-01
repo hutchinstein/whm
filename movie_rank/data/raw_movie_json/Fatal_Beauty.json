@@ -1,0 +1,61 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/rDwXMJgt2hMfAEcjc1izABD6vys.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 35463,
+            "original_language": "en",
+            "original_title": "Fatal Beauty",
+            "overview": "Detective Rita Rizzoli is accustomed to donning costumes and going undercover to nail crooks. But she'll be required to use all of her get-ups and more when a major cocaine ring is suspected of turning out a potent new strain of the drug, called \"Fatal Beauty.\" With the help of her partner and a former bodyguard for a local cartel, Rita will do whatever it takes to find out who's dealing Fatal Beauty and stop them.",
+            "popularity": 8.18,
+            "poster_path": "/fYCbwhIgjHWOr28kbKUdFz8z9PW.jpg",
+            "release_date": "1987-10-30",
+            "title": "Fatal Beauty",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wZfqp2tHhgArX9ftx3XIeToGKwk.jpg",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "id": 584580,
+            "original_language": "en",
+            "original_title": "Fatal Beauty",
+            "overview": "Trevor and Michelle live an average life in the suburbs. When new neighbors move in, however, they find their world turned upside down, and their neighborhood into a place of chaos and shame.",
+            "popularity": 1.227,
+            "poster_path": "/945eCSX7dhDB2yjXJ0ZDjeBZQ93.jpg",
+            "release_date": "2019-03-04",
+            "title": "Fatal Beauty",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 555490,
+            "original_language": "xx",
+            "original_title": "Beaut\u00e9 fatale",
+            "overview": "",
+            "popularity": 1.091,
+            "poster_path": null,
+            "release_date": "1916-10-21",
+            "title": "Fatal Beauty",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

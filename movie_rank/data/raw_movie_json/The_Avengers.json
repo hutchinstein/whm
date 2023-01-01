@@ -1,0 +1,387 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 24428,
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+            "popularity": 102.246,
+            "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "release_date": "2012-04-25",
+            "title": "The Avengers",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 27889
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fryen9fnjlm0YibKTDNGzWNBOSo.jpg",
+            "genre_ids": [
+                53,
+                878,
+                28,
+                12
+            ],
+            "id": 9320,
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "overview": "British Ministry agent John Steed, under direction from \"Mother\", investigates a diabolical plot by arch-villain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+            "popularity": 19.849,
+            "poster_path": "/1p5thyQ4pCy876HpdvFARqJ62N9.jpg",
+            "release_date": "1998-08-13",
+            "title": "The Avengers",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 598
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eQiRPyEWhYnuqEGfoCsCO173oIw.jpg",
+            "genre_ids": [],
+            "id": 448368,
+            "original_language": "en",
+            "original_title": "The Avengers: A Visual Journey",
+            "overview": "Joss Whedon and others in interviews discussing the aims for this new franchise.",
+            "popularity": 5.712,
+            "poster_path": "/2kBT7KONKQTIhkMc2ZtPU11E8Ky.jpg",
+            "release_date": "2012-09-25",
+            "title": "The Avengers: A Visual Journey",
+            "video": true,
+            "vote_average": 7.8,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zXs4OyZM6U4reYvddsJWeByxMX.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 448366,
+            "original_language": "en",
+            "original_title": "Building the Dream: Assembling the Avengers",
+            "overview": "Witness Marvel's epic journey, from its comic book origins to its blockbuster film franchises, through seven exclusive featurettes. Get the inside story, with exclusive behind-the-scenes footage and cast interviews, and discover the history behind its legendary characters and films -- Iron Man, The Incredible Hulk, Iron Man 2, Thor, Captain America: The First Avenger, and Marvel's The Avengers! With over 90 minutes of original footage, this is your all-access pass to Marvel and Phase One of the Marvel Cinematic Universe!",
+            "popularity": 6.548,
+            "poster_path": "/coS6rIaucxDzq20kiJozTgQ0Nmk.jpg",
+            "release_date": "2012-09-25",
+            "title": "Building the Dream: Assembling the Avengers",
+            "video": true,
+            "vote_average": 8.4,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uR952NrgispGuyqIdUbkR24vE0u.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 1003596,
+            "original_language": "en",
+            "original_title": "Avengers: The Kang Dynasty",
+            "overview": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga. Will involve the Marvel Villain Kang.",
+            "popularity": 25.676,
+            "poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
+            "release_date": "2025-04-30",
+            "title": "Avengers: The Kang Dynasty",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9tjIgkkbajG2zMI4Yk21hpttXv0.jpg",
+            "genre_ids": [
+                28,
+                16,
+                10751,
+                12,
+                878
+            ],
+            "id": 14609,
+            "original_language": "en",
+            "original_title": "Ultimate Avengers: The Movie",
+            "overview": "When a nuclear missile was fired at Washington in 1945, Captain America managed to detonate it in the upper atmosphere. But then he fell miles into the icy depths of the North Atlantic, where he remained lost for over sixty years. But now, with the world facing the very same evil, Captain America must rise again as our last hope for survival.",
+            "popularity": 15.824,
+            "poster_path": "/fKQqZEDmvKMCXEQztvMJHGou9dO.jpg",
+            "release_date": "2006-02-21",
+            "title": "Ultimate Avengers: The Movie",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 289
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12
+            ],
+            "id": 432413,
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "overview": "The attractive Argentine Don Careless is an adventurer and an excellent swordsman. Don is in love with Maria Moreno, since he had to emerge her jewels and had thereby to kill a shark. Don tries to prevent the forced marriage of Mary with the ruthless revolutionary Colonel Luis Corral. An armed clash between Don and Luis seems inevitable.",
+            "popularity": 0.7,
+            "poster_path": null,
+            "release_date": "1950-06-10",
+            "title": "The Avengers",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 696913,
+            "original_language": "en",
+            "original_title": "The Avengers : A Retrospective",
+            "overview": "With Patrick Macnee, Diana Rigg, Linda Thorson.",
+            "popularity": 0.6,
+            "poster_path": "/8oszZLoP1FP26HlGnuJ6kQYwfJt.jpg",
+            "release_date": "",
+            "title": "The Avengers : A Retrospective",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 448364,
+            "original_language": "en",
+            "original_title": "The Avengers: Assembling the Ultimate Team",
+            "overview": "Joss Whedon and others in interviews discussing the aims for this new franchise.",
+            "popularity": 0.84,
+            "poster_path": null,
+            "release_date": "2012-09-25",
+            "title": "The Avengers: Assembling the Ultimate Team",
+            "video": true,
+            "vote_average": 5.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 731020,
+            "original_language": "en",
+            "original_title": "The Avengers: Live at Target Video",
+            "overview": "Rare, live footage of The Avengers filmed in San Francisco at the Temple and the Mabuhay Gardens, 1978",
+            "popularity": 0.6,
+            "poster_path": "/rZAjKYIcFw2aXZ2Wtzyc4L5cjx6.jpg",
+            "release_date": "1978-01-01",
+            "title": "The Avengers: Live at Target Video",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 299536,
+            "original_language": "en",
+            "original_title": "Avengers: Infinity War",
+            "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "popularity": 181.978,
+            "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "release_date": "2018-04-25",
+            "title": "Avengers: Infinity War",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 25892
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 99861,
+            "original_language": "en",
+            "original_title": "Avengers: Age of Ultron",
+            "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+            "popularity": 98.211,
+            "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+            "release_date": "2015-04-22",
+            "title": "Avengers: Age of Ultron",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 20682
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "id": 299534,
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "popularity": 126.536,
+            "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "release_date": "2019-04-24",
+            "title": "Avengers: Endgame",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 22245
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7uraVMaf6vLHwgEn6dzZZjXKCC.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 64128,
+            "original_language": "en",
+            "original_title": "The Day Will Dawn",
+            "overview": "Sports journalist Colin Metcalfe is picked for the job of foreign correspondent in Norway when Hitler invades Poland. On the way to Langedal his boat is attacked by a German U-Boat, however when he tells the navy about it they do not believe him and, to make matters worse, he is removed from his job. When German forces invade Norway, Metcalfe returns determined to uncover what is going on and stop the Germans in their tracks.",
+            "popularity": 0.84,
+            "poster_path": "/bkhpDwETXhy9VW9yzntgI76wG1v.jpg",
+            "release_date": "1942-06-08",
+            "title": "The Day Will Dawn",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "id": 296491,
+            "original_language": "it",
+            "original_title": "Gli invincibili tre",
+            "overview": "Ursus and his sword-wielding companions run head-on against a usurper of a throne.",
+            "popularity": 1.751,
+            "poster_path": "/bf9y5XKhYiqpUvBrGROIGrAfBRB.jpg",
+            "release_date": "1964-11-26",
+            "title": "The Three Avengers",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bsm7vCzMtE1aA1WDLoi310aY1oe.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 516339,
+            "original_language": "ru",
+            "original_title": "\u0421\u0443\u043f\u0435\u0440\u0411\u043e\u0431\u0440\u043e\u0432\u044b. \u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u043c\u0441\u0442\u0438\u0442\u0435\u043b\u0438",
+            "overview": "The continuations of the adventures of Bobrov family all members of which suddenly became superheroes...",
+            "popularity": 2.978,
+            "poster_path": "/6iN2NxsyNf3WEQwDSWaYaGTVQ60.jpg",
+            "release_date": "2017-12-25",
+            "title": "Super Family. Better Than Avengers",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rDsT0UnHiA3HGJvb0TacQbdsdfv.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 109088,
+            "original_language": "zh",
+            "original_title": "\u65b9\u4e16\u7389\u8207\u80e1\u60e0\u4e7e",
+            "overview": "Heroism and romance combine in an action-packed martial arts story. When the Shaolin are betrayed by White-Browed Hermit, hotheaded warrior-hero Fong Sai Yuk vows revenge.",
+            "popularity": 1.648,
+            "poster_path": "/k1FS96J9S6Ntoii37CAPqXUbkg.jpg",
+            "release_date": "1976-06-18",
+            "title": "The Shaolin Avengers",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bXkZI1GTPdI1huSjH7853GrKkeY.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10751
+            ],
+            "id": 65591,
+            "original_language": "ru",
+            "original_title": "\u041d\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u043d\u0435\u0443\u043b\u043e\u0432\u0438\u043c\u044b\u0445",
+            "overview": "The action takes place in 1920 during the Civil War.  Crimea on the eve of complete liberation from the White Guards. Returning from patrol, the four brave \u201celusive\u201d knocked down an airplane. In the field bag of the captured pilot, they find a secret report, which speaks of the existence of defensive fortifications around the coastal city, which the Reds have yet to take. Young heroes get the task to get a map of fortifications and go to the city...",
+            "popularity": 2.836,
+            "poster_path": "/pulCmFhk5GkeoV9a6nVg46lo1a3.jpg",
+            "release_date": "1968-11-04",
+            "title": "The New Adventures of the Elusive Avengers",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9L6qaoN8MJXi3ER0WliKLhdXluH.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10751
+            ],
+            "id": 41979,
+            "original_language": "ru",
+            "original_title": "\u041d\u0435\u0443\u043b\u043e\u0432\u0438\u043c\u044b\u0435 \u043c\u0441\u0442\u0438\u0442\u0435\u043b\u0438",
+            "overview": "Dan'ka's and Ksanka's childhood in the village has been brutally ended when their father was killed by the White Guard officer in front of their eyes. Seeking revenge they join forces with an intellectual from the city Valerka and jipsy Yashka, but before they get close to their enemy they have to help their village and advancing Red Army.",
+            "popularity": 3.574,
+            "poster_path": "/94rCowBW6NyvyWg3gI3S1nbZq1q.jpg",
+            "release_date": "1966-06-06",
+            "title": "The Elusive Revengers",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 377364,
+            "original_language": "en",
+            "original_title": "Lesbian Avengers Eat Fire Too",
+            "overview": "An insider's look at the first year of an activist group known as the Lesbian Avengers.",
+            "popularity": 0.6,
+            "poster_path": "/aOEssQCGgi0QKc6ZssSirGXvA2d.jpg",
+            "release_date": "1993-01-01",
+            "title": "Lesbian Avengers Eat Fire Too",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 25
+}

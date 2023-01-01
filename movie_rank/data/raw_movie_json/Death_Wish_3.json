@@ -1,0 +1,242 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/q8WH2ue8GTckObot0iIjOBll7Qa.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 24873,
+            "original_language": "en",
+            "original_title": "Death Wish 3",
+            "overview": "Architect/vigilante Paul Kersey arrives back in New York City and is forcibly recruited by a crooked police chief to fight street crime caused by a large gang terrorizing the neighborhoods.",
+            "popularity": 13.523,
+            "poster_path": "/5NW09xV5sZCHVkVdTP1BilW2CCq.jpg",
+            "release_date": "1985-11-01",
+            "title": "Death Wish 3",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 317
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 395990,
+            "original_language": "en",
+            "original_title": "Death Wish",
+            "overview": "A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
+            "popularity": 23.562,
+            "poster_path": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+            "release_date": "2018-03-02",
+            "title": "Death Wish",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 2249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AiNPLAT4ltKanMm0IKjbGG39SE0.jpg",
+            "genre_ids": [
+                80,
+                18,
+                28
+            ],
+            "id": 13939,
+            "original_language": "en",
+            "original_title": "Death Wish",
+            "overview": "After his wife is murdered by street punks, a pacifistic New York City architect becomes a one-man vigilante squad, prowling the streets for would-be muggers after dark.",
+            "popularity": 17.161,
+            "poster_path": "/rNksI6UiuTgLtBy69WvKT1PrG0R.jpg",
+            "release_date": "1974-07-24",
+            "title": "Death Wish",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2HBYWdj1h628AAZFqVnslaptkDu.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 14373,
+            "original_language": "en",
+            "original_title": "Death Wish II",
+            "overview": "Paul Kersey is again a vigilante trying to find five punks who murdered his housekeeper and daughter in Los Angeles.",
+            "popularity": 13.194,
+            "poster_path": "/1bhSCZAifl229B1vCLCiE9BZp7l.jpg",
+            "release_date": "1982-02-20",
+            "title": "Death Wish II",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fpsbvvKAVHKG6WKBU1LPgyATEOa.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 26263,
+            "original_language": "en",
+            "original_title": "Death Wish 4: The Crackdown",
+            "overview": "After the death of his girlfriend's daughter from a drug overdose, Paul Kersey (Charles Bronson) takes on the local drug cartel.",
+            "popularity": 13.563,
+            "poster_path": "/r8HwJQJyKRyJ2JypwiVR5p0ZV84.jpg",
+            "release_date": "1987-06-11",
+            "title": "Death Wish 4: The Crackdown",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kq1UtVuQNeoPvUvKYXeiekaWnbt.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 34746,
+            "original_language": "en",
+            "original_title": "Death Wish V: The Face of Death",
+            "overview": "Paul Kersey is back at working vigilante justice when his fianc\u00e9e, Olivia, has her business threatened by mobsters",
+            "popularity": 12.446,
+            "poster_path": "/mWLBf0aSW9CPZcBvTEVglGlx3QT.jpg",
+            "release_date": "1994-01-14",
+            "title": "Death Wish V: The Face of Death",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 207
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                80,
+                27,
+                53,
+                10749
+            ],
+            "id": 91110,
+            "original_language": "en",
+            "original_title": "Death Wish Club",
+            "overview": "A college student falls in love with a porn star and is sucked into psychological games with her twisted sugar daddy. This is the full film of the 'Gretta' segment in NIGHT TRAIN TO TERROR.",
+            "popularity": 1.995,
+            "poster_path": "/3UZSc2yAIP8SFnEpzCvWkpSKdAn.jpg",
+            "release_date": "1984-01-01",
+            "title": "Death Wish Club",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bXZXMQ6A7C0bev7PteoOlXXNSkk.jpg",
+            "genre_ids": [
+                27,
+                35,
+                10751
+            ],
+            "id": 494013,
+            "original_language": "en",
+            "original_title": "Death Wish",
+            "overview": "Death touches a little girl's soul by granting her fondest wish on Christmas Eve.",
+            "popularity": 0.6,
+            "poster_path": "/vxqlkMj49KmgZxghY1CHpnqRnO9.jpg",
+            "release_date": "2010-12-07",
+            "title": "Death Wish",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 402441,
+            "original_language": "de",
+            "original_title": "Death Wish: Zero",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2015-11-07",
+            "title": "Death Wish: Zero",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                28,
+                80
+            ],
+            "id": 446550,
+            "original_language": "en",
+            "original_title": "Charlie's Death Wish",
+            "overview": "When a stripper finds out that her sister has been murdered while in prison, she seeks revenge in this pulse-racing action-thriller. The cast features a glorious mixture of lawless rock &amp; roll stars such as Lemmy (from Motorhead) and Tracii Guns, scream queen Phoebe Dollar, and acclaimed porn star Ron Jeremy in a rare fully-clothed role.",
+            "popularity": 0.6,
+            "poster_path": "/isZuUeOg0zZCtqytSwJinc6N480.jpg",
+            "release_date": "2005-05-10",
+            "title": "Charlie's Death Wish",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1036547,
+            "original_language": "en",
+            "original_title": "Takas Death Wish",
+            "overview": "Takas Death Wish (2021) Full Pinoy Movie",
+            "popularity": 0.6,
+            "poster_path": "/3JMrvmLaI6QrJp61dkMs97Oo4wh.jpg",
+            "release_date": "2021-07-11",
+            "title": "Takas Death Wish",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 785300,
+            "original_language": "en",
+            "original_title": "Death Wish Revision",
+            "overview": "After a gang of lunatics murders his family, mild-mannered hombre Paul Kersey decides to avenge his family by killing all citizens, whether they are guilty or not. As the bodycount piles up, the authorities start sniffing around and that's when Paul takes a vow of silence and embarks on a 20-year-long killing spree, shedding the blood of the innocent across the land. Will the authorities be able to stop this madman in time to save the human race??  Edited together using over 250 films (including musical scores) and revised by JTT during the months of June-December in the year of our Lord, 2020, Death Wish Revision re-imagines the entire DW franchise as a multi-dimensional, cinematic tsunami, going where no revision has gone before...and then some!",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2020-01-01",
+            "title": "Death Wish Revision",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 12
+}

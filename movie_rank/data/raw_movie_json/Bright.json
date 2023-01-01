@@ -1,0 +1,389 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hu4psJoKxDYezvvS4GlLF531fom.jpg",
+            "genre_ids": [
+                14,
+                28,
+                53
+            ],
+            "id": 400106,
+            "original_language": "en",
+            "original_title": "Bright",
+            "overview": "In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.",
+            "popularity": 25.283,
+            "poster_path": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+            "release_date": "2017-12-22",
+            "title": "Bright",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 5059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 342470,
+            "original_language": "en",
+            "original_title": "All the Bright Places",
+            "overview": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.",
+            "popularity": 58.56,
+            "poster_path": "/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+            "release_date": "2020-02-28",
+            "title": "All the Bright Places",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 2538
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pKfSeodDgNOiK6zZ6k02h5hDljE.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 39957,
+            "original_language": "en",
+            "original_title": "Burning Bright",
+            "overview": "After her lousy stepfather steals her savings to buy a vicious tiger, Kelly loses all hope of going to college. But Kelly's situation worsens when a hurricane leaves her and her autistic brother boarded up in their house with the man-eating beast. This edge-of-your-seat thriller follows the gutsy heroine and her younger sibling as they struggle to outwit the ravenous predator and find a way to survive.",
+            "popularity": 12.566,
+            "poster_path": "/eWh8e4Czn0I3HABUyIYHvPs8Nvp.jpg",
+            "release_date": "2010-08-17",
+            "title": "Burning Bright",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 29963,
+            "original_language": "en",
+            "original_title": "Bright Star",
+            "overview": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
+            "popularity": 10.165,
+            "poster_path": "/ddfiAicb5zs4D2qCtpuJdsalePs.jpg",
+            "release_date": "2009-11-05",
+            "title": "Bright Star",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gP3fRkvy0ABEorenM76QHKefBOa.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 15271,
+            "original_language": "en",
+            "original_title": "Bright Young Things",
+            "overview": "In the 1930s, a social set known to the press \u2013 who follow their every move \u2013 as the \u201cBright Young Things\u201d are Adam and his friends who are eccentric, wild and entirely shocking to the older generation. Amidst the madness, Adam, who is well connected but totally broke, is desperately trying to get enough money to marry the beautiful Nina. While his attempts to raise cash are constantly thwarted, their friends seem to self-destruct, one-by-one, in an endless search for newer and faster sensations. Finally, when world events out of their control come crashing around them, they are forced to reassess their lives and what they value most.",
+            "popularity": 7.785,
+            "poster_path": "/m7ik01FJKBSEoy0L0PKz7eEf9kI.jpg",
+            "release_date": "2003-10-03",
+            "title": "Bright Young Things",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wzKNsc9CNlBs15BGBPd3WdsjJQq.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 17170,
+            "original_language": "en",
+            "original_title": "Bright Lights, Big City",
+            "overview": "A disillusioned young writer living in New York City turns to drugs and drinking to block out the memories of his dead mother and estranged wife.",
+            "popularity": 8.69,
+            "poster_path": "/1te0t9p6aHRMl5nYyxqI48OX7jp.jpg",
+            "release_date": "1988-04-01",
+            "title": "Bright Lights, Big City",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5dVuekvxRamQcLJEcJXmGDjxaWk.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 174311,
+            "original_language": "en",
+            "original_title": "All Is Bright",
+            "overview": "Two ne\u2019er-do-wells from Quebec travel to New York City with a scheme to a get rich quick selling Christmas trees.",
+            "popularity": 7.093,
+            "poster_path": "/spCLVHZnOCcjrGwCEaVi8ADKRsn.jpg",
+            "release_date": "2013-09-10",
+            "title": "All Is Bright",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g8suShTJuiTjpsfhuY6IYxO8jtG.jpg",
+            "genre_ids": [
+                10749,
+                10770
+            ],
+            "id": 626307,
+            "original_language": "en",
+            "original_title": "Merry & Bright",
+            "overview": "Cate, CEO of the Merry and Bright Candy Cane Company, meets Gabe during the busy Christmas season. She assumes Gabe is the suitor her well-meaning mother is trying to set her up with when in reality, he works for Empire Corporate Recovery, which has been hired to take a closer look at Merry and Bright's operation and find ways to make the company more profitable. As Cate and Gabe begin to work together, they find ways to elevate the business and find that they have more in common than savvy business sense.",
+            "popularity": 6.964,
+            "poster_path": "/gtEBjPz7xGkmvWPdLLdiIq19fhg.jpg",
+            "release_date": "2019-11-02",
+            "title": "Merry & Bright",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYhALsIVWyhO6YBYjazwtubMEiU.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                10402
+            ],
+            "id": 29887,
+            "original_language": "en",
+            "original_title": "Bright Eyes",
+            "overview": "An orphaned girl is taken in by a snobbish family at the insistence of their rich, crotchety uncle, even as her devoted aviator godfather fights for custody.",
+            "popularity": 4.093,
+            "poster_path": "/jEEtxWvQWB9OXUzocGCLqquZYVs.jpg",
+            "release_date": "1934-12-28",
+            "title": "Bright Eyes",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o4m8u90LyJrFCC4ZEHQ4zbTVeCD.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 83116,
+            "original_language": "en",
+            "original_title": "Bright Leaf",
+            "overview": "Two tobacco growers battle for control of the cigarette market.",
+            "popularity": 3.629,
+            "poster_path": "/3zNlVaHbobs4sfo0xK77R15oJJ.jpg",
+            "release_date": "1950-06-16",
+            "title": "Bright Leaf",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/72wjHokodL2J9ZTEhYmMNphbW2V.jpg",
+            "genre_ids": [
+                10770,
+                18,
+                10749
+            ],
+            "id": 874140,
+            "original_language": "en",
+            "original_title": "Making Spirits Bright",
+            "overview": "Grace and Tony are from two separate families who are in the business of decorating homes for Christmas. Unfortunately they have also been in feud for as long as anyone can remember. But this holiday season they must try to find a way to get everyone to work together in order to win a town competition that could save their livelihoods.",
+            "popularity": 2.396,
+            "poster_path": "/AfOmrNotL9XeDU2NzgeqmvKl2NE.jpg",
+            "release_date": "2021-11-27",
+            "title": "Making Spirits Bright",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aPWvStbDSWKTvxfOfJc8eeiv0uK.jpg",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "id": 116723,
+            "original_language": "en",
+            "original_title": "Comes a Bright Day",
+            "overview": "A romantic thriller set during the armed robbery of one of London\u2019s most exclusive jewellers. Sometimes funny, often dark, always captivating and never what you expect.",
+            "popularity": 4.165,
+            "poster_path": "/nXp3S7o0fAlHxfz2EUn1FGVuVg9.jpg",
+            "release_date": "2012-02-12",
+            "title": "Comes a Bright Day",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zqXzRk8Q656tJqN3Zm80gyagBIe.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 109539,
+            "original_language": "en",
+            "original_title": "The Sun Shines Bright",
+            "overview": "John Ford weaves three \"Judge Priest\" stories together to form a good- natured exploration of honour and small-town politics in the South around the turn of the century. Judge William Priest is involved variously in revealing the real identity of Lucy Lake, reliving his Civil War memories, preventing the lynching of a youth and contesting the elections with Yankee Horace K. Maydew.",
+            "popularity": 3.756,
+            "poster_path": "/46aBk8HjLwruaHK9vCzjVhd82VZ.jpg",
+            "release_date": "1953-05-02",
+            "title": "The Sun Shines Bright",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dhV60gPovbbWpsK86EveimtKsQ2.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 95590,
+            "original_language": "en",
+            "original_title": "Bright Angel",
+            "overview": "In Montana, naive teenager George longs to escape from his broken home before his dysfunctional parents push him over the edge. When George meets pretty drifter Lucy, she easily convinces him and his friend Claude to join her on a road trip to Montana in hopes of breaking her brother out of jail.",
+            "popularity": 1.743,
+            "poster_path": "/mvFodoCUGZ2BdN8YZzi6jFD5Rrx.jpg",
+            "release_date": "1990-11-01",
+            "title": "Bright Angel",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/otJWuHDFbM1qauDGhkaGgdgHK3p.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 24997,
+            "original_language": "en",
+            "original_title": "Goodbye Charlie Bright",
+            "overview": "Following Charlie Bright and his friends over one hot summer on the South London housing estate where they live. With Tommy about to join the army and Francis having fallen in love, friendships and loyalties are tested as the friends drift in their own directions.",
+            "popularity": 2.862,
+            "poster_path": "/ekyaXtyhbgttdPmrr0Hirlk2czm.jpg",
+            "release_date": "2001-05-11",
+            "title": "Goodbye Charlie Bright",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A9wEoYGqzurGSuAD0ocxBnSN9wj.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 109258,
+            "original_language": "en",
+            "original_title": "Bright Victory",
+            "overview": "A soldier blinded in war returns home and attempts to adjust to civilian life.",
+            "popularity": 1.825,
+            "poster_path": "/hLWLDciSgrmYlNIxGjehl5qOTTy.jpg",
+            "release_date": "1951-08-01",
+            "title": "Bright Victory",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3TQglwPIrFCCqA3T92UWYqv1GID.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10770
+            ],
+            "id": 13923,
+            "original_language": "en",
+            "original_title": "A Bright Shining Lie",
+            "overview": "Something in his past keeps career Army man John Paul Vann from advancing past colonel. He views being sent to Vietnam as part of the US military advisory force a stepping stone to promotion. However, he disagrees vocally (and on the record) with the way the war is being run and is forced to leave the military. Returning to Vietnam as a civilian working with the Army, he comes to despise some South Vietnamese officers while he takes charge of some of the U.S. forces and continues his liaisons with Vietnamese women.",
+            "popularity": 3.395,
+            "poster_path": "/M23xbNgYsUEOYMgH48K72rXsi4.jpg",
+            "release_date": "1998-01-01",
+            "title": "A Bright Shining Lie",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cb2Qv6c5eFEhOwGjzOGO0OUf9pW.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 398738,
+            "original_language": "en",
+            "original_title": "Bright Lights: Starring Carrie Fisher and Debbie Reynolds",
+            "overview": "An intimate portrait of Hollywood royalty featuring Debbie Reynolds, Todd Fisher, and Carrie Fisher.",
+            "popularity": 5.086,
+            "poster_path": "/l81ArRwCIyXM0cDtCcprOGrfnaR.jpg",
+            "release_date": "2017-01-11",
+            "title": "Bright Lights: Starring Carrie Fisher and Debbie Reynolds",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9kCxNyZhmhCSzU7UM6RyhoWVgJu.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 59427,
+            "original_language": "en",
+            "original_title": "Ring of Bright Water",
+            "overview": "Whoever said dog is man's best friend never met Mij! Mij is a cute, cuddly pet shop otter who captures the heart of Graham Merill (Bill Travers). It doesn't take Graham long to realize that London is no place to raise a slippery otter. So he takes Mij to live in a ramshackle cottage on the coast of Scotland. Together they set out to explore the curious and magnificent natural wonders that surround their seaside home--from orphaned geese to tooth-less sharks. While Mij spends his days frolicking in the icy cold sea, Graham finds himself falling in love with the beautiful town doctor, Mary (Virginia McKenna). Before long, the three become inseparable friends.",
+            "popularity": 1.981,
+            "poster_path": "/sU5dsy4qegunCemCsITxHwIvmYQ.jpg",
+            "release_date": "1969-06-18",
+            "title": "Ring of Bright Water",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xpzTJHGmwgzEHxMieBtiNnEUhP7.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 89547,
+            "original_language": "en",
+            "original_title": "Bright Road",
+            "overview": "Teachers at an all-black school fight to save a problem child.",
+            "popularity": 1.4,
+            "poster_path": "/QeFChSNW5Rtn1Hj1gFWOkgTlr6.jpg",
+            "release_date": "1953-04-17",
+            "title": "Bright Road",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 7
+        }
+    ],
+    "total_pages": 16,
+    "total_results": 314
+}

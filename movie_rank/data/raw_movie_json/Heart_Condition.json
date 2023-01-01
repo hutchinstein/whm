@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/coAER61FKM8Rk8ufeZtDMV2X2jR.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18,
+                14
+            ],
+            "id": 41817,
+            "original_language": "en",
+            "original_title": "Heart Condition",
+            "overview": "Racist police officer Jack Moony has a vendetta against Napoleon Stone, a charismatic black lawyer who is sleeping with Jack's old flame Crystal Gerrity. Jack has a heart attack, but his life is saved when he receives Stone's heart, since Stone died mysteriously the same night as Jack was stricken. Stone is not completely gone, however, and as a ghost he is all too happy to give Jack advice on how he should do his job and live his life.",
+            "popularity": 5.399,
+            "poster_path": "/2ApuvU24UEBlWeBiQGRyyOYFeqe.jpg",
+            "release_date": "1990-02-02",
+            "title": "Heart Condition",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 67
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

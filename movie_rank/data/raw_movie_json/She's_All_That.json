@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/oSY7vsYlScliVKomRNviGuWXykC.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 10314,
+            "original_language": "en",
+            "original_title": "She's All That",
+            "overview": "High school hotshot Zach Siler is the envy of his peers. But his popularity declines sharply when his cheerleader girlfriend, Taylor, leaves him for sleazy reality-television star Brock Hudson. Desperate to revive his fading reputation, Siler agrees to a seemingly impossible challenge. He has six weeks to gain the trust of nerdy outcast Laney Boggs -- and help her to become the school's next prom queen.",
+            "popularity": 23.217,
+            "poster_path": "/a0pepZNFCjggc7Na9gEwbTI1f46.jpg",
+            "release_date": "1999-01-29",
+            "title": "She's All That",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 1777
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rXGRPpK9NOnk2Zj02zrsw0F0Nbq.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 705178,
+            "original_language": "ru",
+            "original_title": "\u0411\u043e\u0439\u0436\u0435\u0442\u043a\u0435\u043d. \u0412\u0441\u0451 \u0438\u0437-\u0437\u0430 \u043d\u0435\u0451",
+            "overview": "Anelya lives and studies abroad. She only comes to her native town during the summer holidays. Everything she sees around seems to her dull and uninteresting. She does not really wish to come back here. However, her vision changes when she meets and, without realising it herself, falls in love with Dan, a simple guy, a street musician who creates a musical group to attract attention. He would have to overcome various challenges when moving towards his goal. The young woman starts to see everything around with the eyes of this guy, changing her values and ideas about life. Dan dreams never to part with his loved one. But to reach this dream, they would have to overcome many doubts, both their own and other people's, and make a right choice. How will the life of these characters work out? Will the history of their life continue in Anelya's native town or will the fate throw them to the faraway corners of the planet?",
+            "popularity": 0.84,
+            "poster_path": "/52IGXiMiYFKRa8gjZFYqVyqcyHA.jpg",
+            "release_date": "2018-01-01",
+            "title": "Boyzhetken: She's ALL That",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

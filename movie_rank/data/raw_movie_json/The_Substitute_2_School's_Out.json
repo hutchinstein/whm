@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jrTvxi5NgaMLUtje1Vysta8ZQVv.jpg",
+            "genre_ids": [
+                28,
+                9648,
+                53
+            ],
+            "id": 29812,
+            "original_language": "en",
+            "original_title": "The Substitute 2: School's Out",
+            "overview": "When teacher Randall Thomasson is killed during a carjacking, an unexpected visitor shows up at his funeral - his estranged brother, Karl Thomasson. An ex-Green Beret turned mercenary, Karl signs on as a new substitute teacher in order to investigate Randall's murder.",
+            "popularity": 24.256,
+            "poster_path": "/vk95MEsk43QMUsyxC3yd6Bz2Ett.jpg",
+            "release_date": "1998-08-01",
+            "title": "The Substitute 2: School's Out",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 66
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

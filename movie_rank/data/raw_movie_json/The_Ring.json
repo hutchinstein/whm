@@ -1,0 +1,388 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6TBaTZCq0FdjrXcj9mKdHGpcr2D.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 565,
+            "original_language": "en",
+            "original_title": "The Ring",
+            "overview": "Rachel Keller is a journalist investigating a videotape that may have killed four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring so she can save herself and her son.",
+            "popularity": 31.382,
+            "poster_path": "/e2t5CKMox7tjv3iD3Ko7NdFa5lJ.jpg",
+            "release_date": "2002-10-18",
+            "title": "The Ring",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 5312
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wXj2xpN7clcdJcNry5PKAwyBPtt.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 10320,
+            "original_language": "en",
+            "original_title": "The Ring Two",
+            "overview": "Rachel Keller must prevent evil Samara from taking possession of her son's soul.",
+            "popularity": 23.348,
+            "poster_path": "/8Mnthy6ymdKHVwVw5gJB7RtaO1F.jpg",
+            "release_date": "2005-03-17",
+            "title": "The Ring Two",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 1971
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gU84vBGG2x8K3x1zrz4SggiN5hr.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 120,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+            "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+            "popularity": 106.773,
+            "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+            "release_date": "2001-12-18",
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 21917
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJVKeRlRVK2Zs1BWWsZcCUF0gnm.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 13957,
+            "original_language": "en",
+            "original_title": "Closing the Ring",
+            "overview": "During the 1940s, a group of young men go off to war, leaving behind Ethel Ann, who is in love with one of them, Teddy. In modern-day Belfast, a man named Jimmy endeavors to return a ring found in the wreckage of a crashed plane. He travels to Michigan, where the grown Ethel Ann, who married another man after Teddy was killed in battle, now lives. Ethel Ann must decide whether to go with Jimmy to meet the soldier who last saw Teddy alive.",
+            "popularity": 8.11,
+            "poster_path": "/rsQp6ZlVN9DFj6wcxDcwgpFrOaH.jpg",
+            "release_date": "2007-09-14",
+            "title": "Closing the Ring",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s6AE7NqfjiZYJIDsDdx2JBWPS93.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 36056,
+            "original_language": "en",
+            "original_title": "The Ring",
+            "overview": "Both Jack Sander and Bob Corby are boxers in love with Mabel. Jack and Mabel wed, but their marriage is flat. The young wife looks to Bob for comfort.",
+            "popularity": 4.967,
+            "poster_path": "/dPNohN8YaHuFbVu4Rsmh0oGc2sX.jpg",
+            "release_date": "1927-10-01",
+            "title": "The Ring",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hCaxuZ4VGXBUh2fdvCtyqhh4C9n.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 96936,
+            "original_language": "en",
+            "original_title": "The Bling Ring",
+            "overview": "Inspired by actual events, a group of fame-obsessed teenagers use the Internet to track the whereabouts of famous celebrities, then rob their homes of riches.",
+            "popularity": 19.495,
+            "poster_path": "/nZRNGcvuAFXwfuk1gMcp7UmJg2u.jpg",
+            "release_date": "2013-06-12",
+            "title": "The Bling Ring",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 2805
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gXNXD1eou71RWNUQx37bUbjbPmA.jpg",
+            "genre_ids": [
+                10751,
+                16
+            ],
+            "id": 765684,
+            "original_language": "en",
+            "original_title": "Octonauts: The Ring of Fire",
+            "overview": "In this film's adventure, a volcano erupts suddenly, suddenly awakening the Pacific Ocean floor of hundreds of volcanoes composed of the \"ring of fire\", this sudden event quickly turned into a global catastrophe.  The volcanic clusters that are about to erupt en masse threaten the horned whales washed ashore by the tsunami, the cap penguins living in the volcanic islands, the equipment of the small column maintenance station, the food planted by plant fish in the marine farms... Not to mention the plants and animals that live in the crater all year after year!",
+            "popularity": 5.435,
+            "poster_path": "/6hOnSANc3NGsQN9bAF13ey2ZrKU.jpg",
+            "release_date": "2021-01-08",
+            "title": "Octonauts: The Ring of Fire",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dVwwGBEEtbWoLamXLn92YGH9yJT.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 10248,
+            "original_language": "de",
+            "original_title": "The Ring Thing",
+            "overview": "Middle Earth is... right in the heart of Europe! A spoof of the Lord of the Rings Trilogy set in Switzerland.",
+            "popularity": 1.88,
+            "poster_path": "/vJNLjovlkQcWejOAyhVERuGFIaw.jpg",
+            "release_date": "2004-01-01",
+            "title": "The Ring Thing",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                18,
+                10749
+            ],
+            "id": 72394,
+            "original_language": "en",
+            "original_title": "The Ring",
+            "overview": "During WW II, a young German woman is separated from her family and imprisoned by the Nazis. After being freed she falls in love with and marries a German officer. When Berlin falls to the Russians, and her husband killed, she flees to America, carrying his unborn child, all the while not giving up hope that she will find her family, tied together by her mother's ring.",
+            "popularity": 1.59,
+            "poster_path": "/13aZNi1Eosj1cVG2tm85z0nHEGB.jpg",
+            "release_date": "1996-10-20",
+            "title": "The Ring",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dS9wDDuVyiq5pQRD8ab4JcM6Doy.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                14,
+                35,
+                28
+            ],
+            "id": 14787,
+            "original_language": "en",
+            "original_title": "Tom and Jerry: The Magic Ring",
+            "overview": "Tom is left in charge of a priceless magical ring by his young wizard master. He is then horrified when the ring gets stuck on Jerry's head, who then runs off into the city.",
+            "popularity": 15.276,
+            "poster_path": "/fF6I48WGKktHfGYYSVKPTVildWE.jpg",
+            "release_date": "2001-11-12",
+            "title": "Tom and Jerry: The Magic Ring",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tOWjPR2PO8ujUhQxK4JPU0D0KmD.jpg",
+            "genre_ids": [
+                18,
+                10770,
+                80
+            ],
+            "id": 116853,
+            "original_language": "en",
+            "original_title": "The Bling Ring",
+            "overview": "At the center of one of Hollywood's most notorious burglary rings in 2009 was a group of average, middle-class teens from a quiet suburb. This is the behind-the-scenes story of how Nick, a shy, awkward boy, lured by the promise of popularity and acceptance, found himself following his glamorous, charismatic best friend Rachel into breaking into celebrities' houses and robbing them of millions of dollars in clothes and jewelry.",
+            "popularity": 4.383,
+            "poster_path": "/x3WmMVULbz2IZ75J3n5wWaatRml.jpg",
+            "release_date": "2011-09-26",
+            "title": "The Bling Ring",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sQTIc39GXS5Ead6Z38qnfg9U2q1.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 46486,
+            "original_language": "en",
+            "original_title": "The Ring",
+            "overview": "A young Mexican/American learns about life both inside and out of the ring when he takes up boxing.",
+            "popularity": 0.978,
+            "poster_path": "/vKsAs3habvFnzYVhQdzQBvbMV4y.jpg",
+            "release_date": "1952-09-26",
+            "title": "The Ring",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6gclbRpMr3Qs4s9bSgt8omkwKFu.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                99
+            ],
+            "id": 450417,
+            "original_language": "en",
+            "original_title": "The Ring Thing",
+            "overview": "When Sarah accidentally proposes to her girlfriend in Provincetown, the mixup turns their loving relationship into a minefield of marital exploration.",
+            "popularity": 1.294,
+            "poster_path": "/cpFeV9KTE1LUMy8XwsmLgN0FSey.jpg",
+            "release_date": "2017-06-02",
+            "title": "The Ring Thing",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 226905,
+            "original_language": "en",
+            "original_title": "The Ring",
+            "overview": "Though Mr. and Mrs. Gray are supposed to be in comfortable circumstances, the husband has met business reverses and has been declared a bankrupt. It is after the wife has just completed a lavish social that he tells her. Disgruntled, she goes with him to live at a cheap apartment house.  Pearl White starred in the Crystal FILMS short THE RING in 1914, just months before starting work at the Pathe studio on her break-out hit serial THE PERILS OF PAULINE.",
+            "popularity": 0.84,
+            "poster_path": null,
+            "release_date": "1914-01-11",
+            "title": "The Ring",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tPPOotl3g0GpG9I6Y3YziDGY8Eo.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 212428,
+            "original_language": "en",
+            "original_title": "WWE King of the Ring 1996",
+            "overview": "King of the Ring (1996) was the fourth annual King of the Ring. The event took place on June 23, 1996 from the MECCA Arena in Milwaukee, Wisconsin.  The main event was a standard wrestling match for the WWF Championship. Shawn Michaels competed against British Bulldog, with Mr. Perfect serving as the special guest enforcer. The undercard featured the 1996 King of the Ring tournament.  Other matches on the undercard included a WWF Intercontinental Championship match between champion Goldust and challenger Ahmed Johnson, Mankind versus The Undertaker, Ultimate Warrior versus Jerry \"The King\" Lawler and a WWF Tag Team Championship match between champions The Smoking Gunns and challengers The Godwinns.",
+            "popularity": 1.551,
+            "poster_path": "/w8LucQscNHhpjV7SSYU1oVMotfs.jpg",
+            "release_date": "1996-06-23",
+            "title": "WWE King of the Ring 1996",
+            "video": true,
+            "vote_average": 9,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lLQGz3YD7kjIK2VVTJvAVciVBAa.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 116940,
+            "original_language": "en",
+            "original_title": "Fling in the Ring",
+            "overview": "The stooges are the trainers of \"Chopper\", a beefy boxer, and they bet their bankroll on Chopper to win his next fight. When \"Big Mike\", their boss, tells them to have Chopper lose or they'll lose their lives, the boys try to soften up Chopper so he'll lose. The fight gets canceled and the stooges have to contend with an angry Big Mike and his goons.",
+            "popularity": 1.23,
+            "poster_path": "/nmwGYtAlJI0GQQ8HA3yWUFYJlqk.jpg",
+            "release_date": "1955-01-06",
+            "title": "Fling in the Ring",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 809709,
+            "original_language": "en",
+            "original_title": "The Ring",
+            "overview": "A short film made during lockdown.",
+            "popularity": 0.6,
+            "poster_path": "/jYapTnRZeJDkYoWLcRyPCxrLQTf.jpg",
+            "release_date": "2021-04-08",
+            "title": "The Ring",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 192349,
+            "original_language": "en",
+            "original_title": "Beyond the Movie: The Fellowship of the Ring",
+            "overview": "A documentary about the influences on Tolkien, covering in brief his childhood and how he detested the onslaught of industry through the idyllic countryside, moving on to describe his fighting experience from WWI, and closing with a look at the Finnish inspiration for the scholar's self-invented languages of Elfish. In between are interviews with the cast of the films and some clips, by far the most from \"The Fellowship of the Ring\", but a few glimpses of Rohan riders (from \"The Two Towers\") are provided. Also, there are interviews with a range of the filmmakers.",
+            "popularity": 2.175,
+            "poster_path": "/knCJvfbr4LWNZBkTDlwRdM28PuR.jpg",
+            "release_date": "2001-12-23",
+            "title": "Beyond the Movie: The Fellowship of the Ring",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 17251,
+            "original_language": "en",
+            "original_title": "Beyond The Ring",
+            "overview": "Martial arts champion Andre Lima's fighting days ended with his wife's death. The past nine years Andre has struggled to rebuild his world around his two children. When his daughter's health suddenly fails, his finances collapse.",
+            "popularity": 0.6,
+            "poster_path": "/6c6hQPsiijujfis9290TarWgzkY.jpg",
+            "release_date": "2008-01-08",
+            "title": "Beyond The Ring",
+            "video": false,
+            "vote_average": 2.7,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fuXXkT95cGKidDG7KIFWWvvvFnJ.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 211594,
+            "original_language": "en",
+            "original_title": "WWE King of the Ring 1995",
+            "overview": "King of the Ring (1995) was the third annual King of the Ring. It took place on June 25, 1995 at the CoreStates Spectrum in Philadelphia, Pennsylvania.  The main event was a tag team match in which WWF Champion Diesel and Bam Bam Bigelow faced Tatanka and Sycho Sid. The main matches on the undercard were Bret Hart versus Jerry Lawler in a \"Kiss My Foot\" match and the King of the Ring Final.",
+            "popularity": 1.269,
+            "poster_path": "/9e8O0VEvdqANzBfpBBl2f3itj9Y.jpg",
+            "release_date": "1995-06-25",
+            "title": "WWE King of the Ring 1995",
+            "video": true,
+            "vote_average": 6.3,
+            "vote_count": 3
+        }
+    ],
+    "total_pages": 14,
+    "total_results": 280
+}

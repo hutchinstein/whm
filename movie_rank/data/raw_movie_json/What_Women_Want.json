@@ -1,0 +1,117 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xXHtSqFx8mLjzNGX9oCKQEx2yTa.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 3981,
+            "original_language": "en",
+            "original_title": "What Women Want",
+            "overview": "Advertising executive Nick Marshall is as cocky as they come, but what happens to a chauvinistic guy when he can suddenly hear what women are thinking? Nick gets passed over for a promotion, but after an accident enables him to hear women's thoughts, he puts his newfound talent to work against Darcy, his new boss, who seems to be infatuated with him.",
+            "popularity": 29.055,
+            "poster_path": "/n5NOxrcgeiCxvEn47FG9bvlHNsV.jpg",
+            "release_date": "2000-12-15",
+            "title": "What Women Want",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 3386
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 704982,
+            "original_language": "en",
+            "original_title": "What Women Want: Gay Romance",
+            "overview": "The biggest readers and writers of gay romance books are women. LGBTQ and m/m (or male/male) romance are the fastest expanding book genres, seeing larger growth in readership than any other publishing segment. The documentary travels to Albuquerque, New Mexico to attend Gay Rom Lit, one of the biggest romance conventions in the world to find out why.",
+            "popularity": 1.289,
+            "poster_path": "/bSNLLlVFfW7n60RvlYvCVVrqLRy.jpg",
+            "release_date": "2020-05-16",
+            "title": "What Women Want: Gay Romance",
+            "video": false,
+            "vote_average": 1.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d2RX6LhxpmnZg87fgYbYKGo4xl9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 917340,
+            "original_language": "en",
+            "original_title": "What Women Want",
+            "overview": "During World War I, Francine D'Espard, a young French woman, meets William Holliday, a U.S. Army officer at the front, and they become engaged. Returning to America, William finds his father at the mercy of his business rival, Ezekiel Bates. Shortly after, when Francine arrives in America to marry her fianc\u00e9, she is informed that her lover is about to marry Bates's daughter Susan. Her love now turning to hate, Francine devotes herself to the task of destroying her former suitor.",
+            "popularity": 0.6,
+            "poster_path": "/fMbdeVXRaZ4ANliwPQPWGreJ6rO.jpg",
+            "release_date": "1920-09-01",
+            "title": "What Women Want",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iQCHByK037sM4HJZkj6OAAFhDzh.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 62976,
+            "original_language": "zh",
+            "original_title": "\u6211\u77e5\u5973\u4eba\u5fc3",
+            "overview": "After an accident, a chauvinistic executive gains the ability to hear what women are really thinking.",
+            "popularity": 4.485,
+            "poster_path": "/1Etk42P4CpFyXAdpbnZHdW85VAa.jpg",
+            "release_date": "2011-02-03",
+            "title": "What Women Want",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 190922,
+            "original_language": "en",
+            "original_title": "What 80 Million Women Want",
+            "overview": "The women's suffrage movement inspired this silent film classic that includes appearances by equal rights crusaders Emmeline Pankhurst and Harriet Stanton Blatch. As politicos work to deny women the right to vote, a young lawyer tells his activist girlfriend of the corruption within the government that actively seeks to ensure that her voice is never heard.",
+            "popularity": 0.6,
+            "poster_path": "/1qHpfpWOhKjVhmR7SaG0736QbnK.jpg",
+            "release_date": "1913-11-21",
+            "title": "What 80 Million Women Want",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmVBOsh8TBvvtFKIo6QS5dE6tTs.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 487297,
+            "original_language": "en",
+            "original_title": "What Men Want",
+            "overview": "Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.",
+            "popularity": 19.156,
+            "poster_path": "/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg",
+            "release_date": "2019-02-08",
+            "title": "What Men Want",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1155
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

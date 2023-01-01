@@ -1,0 +1,62 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/k4QV305UXztZzCFBdb8TMRAeiAn.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 35106,
+            "original_language": "en",
+            "original_title": "Pray for Death",
+            "overview": "Akira Saito, a Japanese businessman lives in Tokyo with his Japanese-American wife Aiko and their children, Takeshi and Tomoya. When the family has a chance to move to the United States so that Aiko can teach the children about their American heritage, they pack up and head for Houston, Texas and run a restaurant. This is where the trouble begins....",
+            "popularity": 3.503,
+            "poster_path": "/h8lcXvFQqii1FmsWr9UbD82G8yG.jpg",
+            "release_date": "1985-01-11",
+            "title": "Pray for Death",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oE95NgNDIU64ckjZNweuCIXZw2C.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 83122,
+            "original_language": "it",
+            "original_title": "Se incontri Sartana prega per la tua morte",
+            "overview": "After a stagecoach is robbed and the passengers murdered, a long and tangled series of surprise attacks and murderous double-crosses, leaves the coach's strongbox in the hands of the killer Lasky. It is up to the legendary hero Sartana to track down the missing money and determine just who is ultimately behind the grisly robberies and killings.",
+            "popularity": 7.167,
+            "poster_path": "/bRaICxnSHsRUb1dHTqexEgFhtFf.jpg",
+            "release_date": "1968-08-14",
+            "title": "If You Meet Sartana Pray for Your Death",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dqdbW48M8vlFOIGQRYSWzfs8LRj.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 213711,
+            "original_language": "en",
+            "original_title": "New Terminal Hotel",
+            "overview": "Holed up in a seedy hotel, Hollywood screenwriter Don Malek is scripting a diabolical plan for revenge. But instead of writing about a bloodthirsty serial killer, Don is doing the dirty work with his own hands.",
+            "popularity": 1.35,
+            "poster_path": "/vYFXJdeqHRLGQA2uGF82CmM7prT.jpg",
+            "release_date": "2010-03-23",
+            "title": "New Terminal Hotel",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 13
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

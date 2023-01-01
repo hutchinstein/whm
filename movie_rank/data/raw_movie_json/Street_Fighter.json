@@ -1,0 +1,383 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/nB8WhH6VPvHiXngfEn7kSBdfSr2.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                18,
+                878
+            ],
+            "id": 11667,
+            "original_language": "en",
+            "original_title": "Street Fighter",
+            "overview": "Col. Guile and various other martial arts heroes fight against the tyranny of Dictator M. Bison and his cohorts.",
+            "popularity": 22.976,
+            "poster_path": "/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg",
+            "release_date": "1994-12-23",
+            "title": "Street Fighter",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 1214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8VtvRsGKygj3VI6ZgE5wM503XMh.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "id": 15268,
+            "original_language": "en",
+            "original_title": "Street Fighter: The Legend of Chun-Li",
+            "overview": "When a teenager, Chun-Li witnesses the kidnapping of her father by wealthy crime lord M. Bison. When she grows up, she goes on a quest for vengeance and becomes the famous crime-fighter of the Street Fighter universe.",
+            "popularity": 14.344,
+            "poster_path": "/mLoSUrNME7L19fxu5dBUrU9UJ4h.jpg",
+            "release_date": "2009-02-27",
+            "title": "Street Fighter: The Legend of Chun-Li",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 378
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gimp7c7YlBaS55Vv6j1CwUFTjmf.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 37496,
+            "original_language": "en",
+            "original_title": "Street Fighter: Legacy",
+            "overview": "Ryu wakes up from a nightmare facing his nemesis, Akuma. While walking in the forest, he is followed by a mysterious warrior revealed to be Ken Masters, Ryu's old friend and sparring partner.",
+            "popularity": 4.78,
+            "poster_path": "/mhhipPtpjnjgbUS1OWgiWRk3Hll.jpg",
+            "release_date": "2010-05-02",
+            "title": "Street Fighter: Legacy",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rc1AFMt54KOyLro0azdxCHbRNlt.jpg",
+            "genre_ids": [
+                28,
+                16
+            ],
+            "id": 16228,
+            "original_language": "ja",
+            "original_title": "Street Fighter Alpha: Generations",
+            "overview": "When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer (Gouki). In a quest to become a true martial arts master, he sets out to hone his street fighting skills and deliver himself from the haunting legacy of the dark hadou.",
+            "popularity": 4.882,
+            "poster_path": "/Kn3eTOBB9CssWx10BlavZLKAkS.jpg",
+            "release_date": "2005-10-25",
+            "title": "Street Fighter Alpha: Generations",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kwaO04Rxx4syEpWOKOlhbRKJd6h.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 1016414,
+            "original_language": "en",
+            "original_title": "Street Fighter: Assassin's Fist",
+            "overview": "If one man changes his path, will he be able to change his destiny...or will he only delay the inevitable?  Ryu and Ken are two traditional warriors who find themselves isolated in some corner of Japan to carry out their training as fighters, trying to master an ancient style of fighting, known as \"Ansatsuken\" (The Killing Fist). There they will begin to learn about the mysterious past of their trainer, Goken, and the tragic and dark legacy that the Ansatsuken style hides. Will they be able to choose their destiny or will history repeat itself once again?",
+            "popularity": 2.055,
+            "poster_path": "/ifIiX7qUYIMErSjfLwC0D3D5Yny.jpg",
+            "release_date": "2014-05-24",
+            "title": "Street Fighter: Assassin's Fist",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bGgUEdjCv7xIN2DSulRzIAKh9Z3.jpg",
+            "genre_ids": [
+                16,
+                14,
+                27,
+                878
+            ],
+            "id": 33274,
+            "original_language": "en",
+            "original_title": "Street Fighter - Round One - FIGHT!",
+            "overview": "In Round One - FIGHT!: Ryu and Ken find themselves setting out to investigate the murder of their martial arts master. Their search for answers takes them to Japan where M. Bison and his assorted minions including Cammy, Vega, and Sagat keep a close eye on Ryu for reasons unknown.",
+            "popularity": 2.265,
+            "poster_path": "/mbSW30poDgsjEVXWQdh9So5k8sf.jpg",
+            "release_date": "2009-02-03",
+            "title": "Street Fighter - Round One - FIGHT!",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/okNsstdxXZxD2kKjgzmCqkycMP9.jpg",
+            "genre_ids": [
+                28,
+                16
+            ],
+            "id": 288125,
+            "original_language": "en",
+            "original_title": "Street Fighter: The New Challengers",
+            "overview": "Legendary fighter Ryu begins his journey around the world, Cammy's quest to discover her past takes a number of turns, and Chun-Li's investigation into Shadaloo takes her from the Hong Kong underworld to the jungles of Brazil.",
+            "popularity": 1.347,
+            "poster_path": "/pSBtDWJIyW9QHLcjzbnJM5cmrnv.jpg",
+            "release_date": "2011-09-06",
+            "title": "Street Fighter: The New Challengers",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 291531,
+            "original_language": "en",
+            "original_title": "Street Fighter",
+            "overview": "Avenge In Blood becomes the animal code that staggers the country!",
+            "popularity": 0.877,
+            "poster_path": "/aBST6C2GoLwmJR129NbhlIuQwYr.jpg",
+            "release_date": "1959-10-11",
+            "title": "Street Fighter",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 119199,
+            "original_language": "de",
+            "original_title": "Arena of the Street Fighter",
+            "overview": "The \"Bloods\" are the most intimidating and violent gang in the city. A lawless city... where gangs rule the streets... The vicious and blood thirsty murderer Slater is their leader. The city is his domain... he rules! There are those who are not members of gangs such as Mikey and his friends. Mikey lives on the edge, he is daring and always in trouble and fights. His brother Mathis and his friends try to avoid trouble at any cost. Revenge becomes the motive to Mikey when his brother Mathis goes missing and is killed..... Written by Generation X Group GmbH",
+            "popularity": 1.774,
+            "poster_path": "/wjMco3mUUTe20sEbJFbFHmTiNrC.jpg",
+            "release_date": "2012-07-26",
+            "title": "Arena of the Street Fighter",
+            "video": false,
+            "vote_average": 2.9,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 1045060,
+            "original_language": "en",
+            "original_title": "Power Rangers Legacy Wars: Street Fighter Showdown",
+            "overview": "When iconic Street Fighter, Ryu, encounters the Power Rangers, he learns that their nemesis M. Bison and Rita Repulsa have plotted to take over the Morphin Grid. With the help of Ninjor, creator of the Power Coins, Tommy Oliver provides Ryu with the Crimson Hawk Power Coin, allowing him to morph into Ryu Ranger.",
+            "popularity": 2.081,
+            "poster_path": "/88oyr0EGnylmWv5TK7NT7KyOFvE.jpg",
+            "release_date": "2018-10-09",
+            "title": "Power Rangers Legacy Wars: Street Fighter Showdown",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 989154,
+            "original_language": "en",
+            "original_title": "Street Fighter: Enter Vega",
+            "overview": "General Bison has hired Vega to kidnap Ken Masters for ransom, but the friends to Ken will do what it takes for that not to happen.",
+            "popularity": 0.6,
+            "poster_path": "/8kbmPnkhCCnDeooMHABvd3UxTaT.jpg",
+            "release_date": "2011-08-25",
+            "title": "Street Fighter: Enter Vega",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cX2CLKjRHdU7FDQM2UCTIfz4Bhb.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 85604,
+            "original_language": "en",
+            "original_title": "Lady Street Fighter",
+            "overview": "Exotic Eastern European beauty, Linda Allen, flies in to Los Angeles to track down the evil mobsters who tortured and murdered her sister. Meanwhile, the mobsters are trying to find a tape with information that would be incriminating to them. Linda's investigation deals with a pimp who may be the murderer she is after, and a helpful FBI agent who may not be the crime hunter he pretends to be. Cunning and deadly she is, but will she be up to the tangled web of corruption, violence, and death she falls into?",
+            "popularity": 0.68,
+            "poster_path": "/eS2S9URuWzcAf7skIO8dTfTriVT.jpg",
+            "release_date": "1981-02-27",
+            "title": "Lady Street Fighter",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/reMt35KtqTTIy0mhcKA1PfuruDq.jpg",
+            "genre_ids": [
+                16,
+                28
+            ],
+            "id": 12613,
+            "original_language": "ja",
+            "original_title": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc II MOVIE",
+            "overview": "Bison, the ruthless leader of the international terrorist organization Shadowlaw, has been desperately searching for the greatest fighter on the planet for years. He finds it in Ryu, a young wanderer who never stays in one place long enough for Bison to find him. He does, however, get a fix on Ken Masters, an American martial arts champion who studied with Ryu as a child under the same master. Meanwhile, Major Guile of the United States Army is forced to team up with Chun Li from China in hopes of apprehending Bison and putting a stop his international ring of crime.",
+            "popularity": 16.148,
+            "poster_path": "/dZ1rqmE4eIhPbUCr7sn2Pw2wwGW.jpg",
+            "release_date": "1994-08-06",
+            "title": "Street Fighter II: The Animated Movie",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/twm81RfIWfiwfGfqtsioNTu5H7x.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 107605,
+            "original_language": "en",
+            "original_title": "Street Fighter 2050",
+            "overview": "Alex Danko descends into the ultra-violent underworld of extreme martial-arts to find his brother's killer with the help of hardened Detective Ramirez and his brother's alluring ex-lover in this post-apocalyptic allegory of greed and revenge set in in 2050 Los Angeles.",
+            "popularity": 0.631,
+            "poster_path": "/k6YOXwGTDPXtGJ3RsuKZL7mslCU.jpg",
+            "release_date": "2005-08-04",
+            "title": "Bloodfist 2050",
+            "video": false,
+            "vote_average": 2.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                28
+            ],
+            "id": 1040971,
+            "original_language": "ru",
+            "original_title": "The street fighter",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/ciwxC99SJkeVXtuzw293gdo8o2t.jpg",
+            "release_date": "2022-10-22",
+            "title": "The street fighter",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 279675,
+            "original_language": "en",
+            "original_title": "Chick Street Fighter",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/pKEWm8w2bJQX97q4VRWsy5lXrEO.jpg",
+            "release_date": "2003-01-22",
+            "title": "Chick Street Fighter",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ftrBix72xGQrZfBmqcwOF7AFAtg.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 218348,
+            "original_language": "en",
+            "original_title": "I Am Street Fighter",
+            "overview": "For one of the longest-running game franchises in history, Street Fighter creators Capcom needed something exceedingly special to accompany the release of their 25th anniversary edition of the game.  AREA 5 produced, shot, edited, and finished a documentary that spans three countries, more than two decades, and tells the story of how a game not only birthed an entire genre, but changed the lives of a generation.",
+            "popularity": 0.6,
+            "poster_path": "/3qAGTtid55q8nXpvTtIsRTM42is.jpg",
+            "release_date": "2012-09-18",
+            "title": "I Am Street Fighter",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rh75EDMO9z60iqDi3ZtYDwlvii1.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 543072,
+            "original_language": "en",
+            "original_title": "Revenge of Lady Street Fighter",
+            "overview": "Recently unearthed sequel to/re-edited version of James Bryan and Renee Harmon's lady Street Fighter",
+            "popularity": 0.6,
+            "poster_path": "/Fa5z3F1Mv95yI9IQ67SO0CIGQy.jpg",
+            "release_date": "1990-04-14",
+            "title": "Revenge of Lady Street Fighter",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mLWBqrL3YN4L2luE1fTXMK9hmIN.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 671444,
+            "original_language": "ja",
+            "original_title": "\uff33\uff34\uff32\uff25\uff25\uff34 \uff26\uff29\uff27\uff28\uff34\uff25\uff32 \uff33\uff21\uff27\uff21 \u683c\u95d8\u6b66\u771e\u50b3",
+            "overview": "This DVD covers all works from the original Street Fighter to Street Fighter III 3rd Strike: Fight for the Future. The contents that explain each work include not only the full recording of the advertisement videos, but also a complete description of the system description and basic techniques of game, the techniques that were popular at the time, and the super fan material related to the series.",
+            "popularity": 0.6,
+            "poster_path": "/euqUCSwiio0FNkWf8Tj2I8ywOli.jpg",
+            "release_date": "2003-10-30",
+            "title": "STREET FIGHTER SAGA ~Kakutou Bushiden~ Famitsu DVD Video",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k3YjcOIpvTvD3EEesHq0J5S79ls.jpg",
+            "genre_ids": [
+                28,
+                16
+            ],
+            "id": 17433,
+            "original_language": "ja",
+            "original_title": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcZERO",
+            "overview": "Increasingly disturbed by the dark energies building within him, Ryu is confronted by Shun, a boy claiming to be the brother he never knew. But before Ryu can consider whether Shun's timely appearance might be more than coincidental, Shun is kidnapped by Shadowlaw. To recover Shun, Ryu must undertake the ultimate journey of self-discovery and learn to control the power threatening to consume him.",
+            "popularity": 7.245,
+            "poster_path": "/qVbT7Ypqj9xyWYfX0JbBu8Rv5BS.jpg",
+            "release_date": "1999-12-22",
+            "title": "Street Fighter Alpha: The Movie",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 64
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 43
+}

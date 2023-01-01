@@ -1,0 +1,76 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/lVrUhaURUHStrl3mr15zkKplavB.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 7350,
+            "original_language": "en",
+            "original_title": "The Bucket List",
+            "overview": "Corporate billionaire Edward Cole and working class mechanic Carter Chambers are worlds apart. At a crossroads in their lives, they share a hospital room and discover they have two things in common: a desire to spend the time they have left doing everything they ever wanted to do and an unrealized need to come to terms with who they are. Together they embark on the road trip of a lifetime, becoming friends along the way and learning to live life to the fullest, with insight and humor.",
+            "popularity": 24.326,
+            "poster_path": "/idbNSe8zsYKQL97dJApfOrDSdya.jpg",
+            "release_date": "2007-12-15",
+            "title": "The Bucket List",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3248
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 772639,
+            "original_language": "en",
+            "original_title": "The Gay Bucket List Challenge",
+            "overview": "Three best friends living in different countries decide to unite in Spain for a summer they'll never forget. To make it interesting, they bet on finishing a bucket list filled with gay themed challenges",
+            "popularity": 0.6,
+            "poster_path": "/lSz1jHE0m3GNiUItsC9PVspqi7b.jpg",
+            "release_date": "2018-11-01",
+            "title": "The Gay Bucket List Challenge",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qtaPwuiCGSvqYk0JObsOrsu6M2x.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 619170,
+            "original_language": "ja",
+            "original_title": "\u6700\u9ad8\u306e\u4eba\u751f\u306e\u898b\u3064\u3051\u65b9",
+            "overview": "Sachie Kitahara is a housewife and she has devoted her life to her family. Mako Goda is a wealthy woman who runs a business. They are both diagnosed with terminal illnesses and are told they only have a short time left to live. These two women from completely different walks of life meet at the hospital. They both feel emptiness in their lives. They happen to get a 12-year-old's written bucket list. Sachie Kitahara and Mako Goda decide to carry out the girl's wish list and they begin to feel happiness entering their lives.",
+            "popularity": 2.932,
+            "poster_path": "/eMi17NiktNz8tnyHM1WrGGWVZ4U.jpg",
+            "release_date": "2019-10-11",
+            "title": "The Bucket List",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eqS8eIG0gKtr6REKViJMCiLQEEo.jpg",
+            "genre_ids": [],
+            "id": 824107,
+            "original_language": "en",
+            "original_title": "The Buckett List",
+            "overview": "When a young man, desperate for a trip outside the country, begs multiple people for their help, it leaves his biggest secret rising to the surface.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2020-09-11",
+            "title": "The Buckett List",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

@@ -1,0 +1,119 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/baJHUXBcoaHnMf2sjwegbuhIjEV.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 9482,
+            "original_language": "en",
+            "original_title": "Judge Dredd",
+            "overview": "In a dystopian future, Dredd, the most famous judge (a cop with instant field judiciary powers) is convicted for a crime he did not commit while his murderous counterpart escapes.",
+            "popularity": 24.654,
+            "poster_path": "/aja6BILb8Efe4eJksiPs5pHd5ai.jpg",
+            "release_date": "1995-06-30",
+            "title": "Judge Dredd",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 2032
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 932495,
+            "original_language": "en",
+            "original_title": "Judge Dredd: The Body Shop",
+            "overview": "Judge Dredd faces off against kidnapper and drug pusher Slugger.",
+            "popularity": 0.6,
+            "poster_path": "/zqdjepq6P5xQCHUWQ9GSlHPPfGN.jpg",
+            "release_date": "1992-06-25",
+            "title": "Judge Dredd: The Body Shop",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                28,
+                35
+            ],
+            "id": 1022705,
+            "original_language": "en",
+            "original_title": "Judge Dredd: Superfiend Director's Cut",
+            "overview": "Short film that presents an alternate take on the origins of Judge Dredd's arch-nemesis - a demonic creature known as Judge Death that sees life itself as a crime. Can Dredd survive a clash with such foe and save his niece?",
+            "popularity": 0.847,
+            "poster_path": "/tugMhb7kpHnoByIpCZqna3HQMLh.jpg",
+            "release_date": "2016-06-04",
+            "title": "Judge Dredd: Superfiend Director's Cut",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                28,
+                878
+            ],
+            "id": 685555,
+            "original_language": "en",
+            "original_title": "Mega City Masters: 35 Years of Judge Dredd",
+            "overview": "This featurette covers the history of the character in comics, from his development to the stories to his look and impact. It features interviews with creators John Wagner and Carlos Ezquerra, as well as those who have been involved with the character over the years, including Matt Smith, Brian Bolland, Mark Millar, Jock and Chris Ryall. For anyone new to the character, it's a great introduction, while fans should enjoy hearing from the people behind the helmet.",
+            "popularity": 0.97,
+            "poster_path": "/nVpx5kiWMBfw2oTbYACpu5Crg3Y.jpg",
+            "release_date": "2013-01-08",
+            "title": "Mega City Masters: 35 Years of Judge Dredd",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 537270,
+            "original_language": "en",
+            "original_title": "Stallone's Law: The Making of 'Judge Dredd'",
+            "overview": "Documentary on the making of the 1995 film 'Judge Dredd.'",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1995-06-30",
+            "title": "Stallone's Law: The Making of 'Judge Dredd'",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yeF9ewBnFp9d5nqdHMic4IAOqrs.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 49049,
+            "original_language": "en",
+            "original_title": "Dredd",
+            "overview": "In the future, America is a dystopian wasteland. The latest scourge is Ma-Ma, a prostitute-turned-drug pusher with a dangerous new drug and aims to take over the city. The only possibility of stopping her is an elite group of urban police called Judges, who combine the duties of judge, jury and executioner to deliver a brutal brand of swift justice. But even the top-ranking Judge, Dredd, discovers that taking down Ma-Ma isn\u2019t as easy as it seems in this explosive adaptation of the hugely popular comic series.",
+            "popularity": 28.215,
+            "poster_path": "/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+            "release_date": "2012-09-07",
+            "title": "Dredd",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4360
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

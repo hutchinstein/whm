@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cpMrhXxOX3clbuZrUCpen7Z3NAu.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 56669,
+            "original_language": "en",
+            "original_title": "Hider in the House",
+            "overview": "A deranged man hides in the attic of a new house and becomes obsessed with the unsuspecting family that moves in.",
+            "popularity": 3.498,
+            "poster_path": "/nBJ85rRodk41pcaJvZfy0KCNN3j.jpg",
+            "release_date": "1989-05-13",
+            "title": "Hider in the House",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 35
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,368 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zG8CP8iRhLo7BNBsma6GfP6gkRF.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 9714,
+            "original_language": "en",
+            "original_title": "Home Alone 3",
+            "overview": "9-year-old Alex Pruitt is home alone with the chicken pox. Turns out, due to a mix-up among nefarious spies, Alex was given a toy car concealing a top-secret microchip. Now Alex must fend off the spies as they try to break into his house to get it back.",
+            "popularity": 82.476,
+            "poster_path": "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg",
+            "release_date": "1997-12-12",
+            "title": "Home Alone 3",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 2580
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6gvocf4kU9qJyUVZEDveOtLkaMu.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                10770
+            ],
+            "id": 12536,
+            "original_language": "en",
+            "original_title": "Home Alone 4",
+            "overview": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
+            "popularity": 57.481,
+            "poster_path": "/lL2Ri3PHs9V1ot3V8ZUvrtFgj9h.jpg",
+            "release_date": "2002-11-03",
+            "title": "Home Alone 4",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 1038
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a8tH0jl37366bLVyPB08dncgqqd.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                28
+            ],
+            "id": 654974,
+            "original_language": "en",
+            "original_title": "Home Sweet Home Alone",
+            "overview": "After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.",
+            "popularity": 61.74,
+            "poster_path": "/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg",
+            "release_date": "2021-11-12",
+            "title": "Home Sweet Home Alone",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 468
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gxwYr2jtBzMvp85lbCr9ooJMFPc.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                12
+            ],
+            "id": 772,
+            "original_language": "en",
+            "original_title": "Home Alone 2: Lost in New York",
+            "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card\u2014despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas eve.",
+            "popularity": 173.522,
+            "poster_path": "/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+            "release_date": "1992-11-19",
+            "title": "Home Alone 2: Lost in New York",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 8104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3mO7fimik20gwkVNXNxbi0RY3wg.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                10770
+            ],
+            "id": 134375,
+            "original_language": "en",
+            "original_title": "Home Alone: The Holiday Heist",
+            "overview": "8-year-old Finn is terrified to learn his family is relocating from sunny California to Maine in the scariest house he has ever seen! Convinced that his new house is haunted, Finn sets up a series of elaborate traps to catch the \u201cghost\u201d in action. Left home alone with his sister while their parents are stranded across town, Finn\u2019s traps catch a new target \u2013 a group of thieves who have targeted Finn\u2019s house.",
+            "popularity": 49.473,
+            "poster_path": "/6JPrRC0JPM06y17pUXD6w1xMvKi.jpg",
+            "release_date": "2012-11-25",
+            "title": "Home Alone: The Holiday Heist",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 340
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vaVaNrscmsG8CUKYxiwZGFNqGJo.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 771,
+            "original_language": "en",
+            "original_title": "Home Alone",
+            "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. But when a pair of bungling burglars set their sights on Kevin's house, the plucky kid stands ready to defend his territory. By planting booby traps galore, adorably mischievous Kevin stands his ground as his frantic mother attempts to race home before Christmas Day.",
+            "popularity": 10.887,
+            "poster_path": "/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
+            "release_date": "1990-11-16",
+            "title": "Home Alone",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 9435
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5mUTmmBFbsXlJE66XOumJSzYK7M.jpg",
+            "genre_ids": [
+                27,
+                10749
+            ],
+            "id": 252171,
+            "original_language": "en",
+            "original_title": "A Girl Walks Home Alone at Night",
+            "overview": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire.",
+            "popularity": 14.148,
+            "poster_path": "/4ririIPMbOnbnZlQGnTYgDIcbxa.jpg",
+            "release_date": "2014-11-21",
+            "title": "A Girl Walks Home Alone at Night",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 713
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 831993,
+            "original_language": "en",
+            "original_title": "Home Alone",
+            "overview": "The atmosphere of parental distance",
+            "popularity": 0.994,
+            "poster_path": "/iTmJSG2pXArGXBP1LSDysWfGKzJ.jpg",
+            "release_date": "2013-01-01",
+            "title": "Home Alone",
+            "video": false,
+            "vote_average": 2.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o6bdC5OtxXJitJ1t1Zua3k85KIy.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 981511,
+            "original_language": "pt",
+            "original_title": "Fears to Fathom: Home Alone",
+            "overview": "",
+            "popularity": 0.736,
+            "poster_path": "/UYRgrr44fJrzYPZdDn0ndluDzU.jpg",
+            "release_date": "2022-03-08",
+            "title": "Fears to Fathom: Home Alone",
+            "video": true,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 361393,
+            "original_language": "en",
+            "original_title": "Home/Alone",
+            "overview": "A girl spends a night home alone for the very first time.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2015-09-24",
+            "title": "Home/Alone",
+            "video": false,
+            "vote_average": 3.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 635274,
+            "original_language": "en",
+            "original_title": "Home Alone, Baby Blue",
+            "overview": "Upon entering his family home he's haunted by fragments of a tortured past. Within the trappings of this house he begins to unravel the trappings of his mind. With every move he comes closer and closer to finding himself once more.",
+            "popularity": 0.6,
+            "poster_path": "/tfOaquqYK2CbHBA2vdeoCyvpFSe.jpg",
+            "release_date": "2018-11-26",
+            "title": "Home Alone, Baby Blue",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 420823,
+            "original_language": "en",
+            "original_title": "Home Alone on Halloween",
+            "overview": "A girl feels uneasy on Halloween.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "title": "Home Alone on Halloween",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 778241,
+            "original_language": "en",
+            "original_title": "The Home Alone Story",
+            "overview": "Documentary celebrating the 1990 festive classic written by John Hughes. It\u2019s a movie that turned its then-nine-year-old star, Macaulay Culkin, into the biggest child actor since Shirley Temple. Featuring interviews with film critics, fans, stuntmen and even a reformed burglar, who assesses the home security at the Home Alone house.",
+            "popularity": 0.6,
+            "poster_path": "/8XFt0DBb8zisDpawGDCvM5leVI9.jpg",
+            "release_date": "2020-11-27",
+            "title": "The Home Alone Story",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35,
+                10402
+            ],
+            "id": 273219,
+            "original_language": "tl",
+            "original_title": "Home Alone da Riber",
+            "overview": "Rudolf is imprisoned for a crime he did not commit. He attempted to escape many times but was unsuccessfull, he realizes that he is in for the long haul and decides that his wife Sandra should remarry for the sake of their children Melody and Mark who have been made to believe anyway that he is already dead. Many years has been passed he was informed that the real culprit has been caught and he is being released. However, instead of being happy, he is saddened by the fact that he cannot go back to his family anymore. Nevertheless he pretends to be a piano tuner so that he can visit his children.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2002-12-25",
+            "title": "Home Alone da Riber",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 420822,
+            "original_language": "en",
+            "original_title": "Home Alone on Halloween",
+            "overview": "A girl feels uneasy on Halloween.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "title": "Home Alone on Halloween",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 588087,
+            "original_language": "en",
+            "original_title": "A Girl Walks Home Alone at Night",
+            "overview": "A girl walks home alone at night and a man follows her with insidious intentions, but when he gets to her apartment, she turns the tables in the most surprising way\u2026with her fangs.",
+            "popularity": 0.64,
+            "poster_path": "/Afa0eZ6XdwYLGM2eIANtnGMy03q.jpg",
+            "release_date": "2011-12-31",
+            "title": "A Girl Walks Home Alone at Night",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kD0lKDG1YqdP1UsVwXnUTx9H1Se.jpg",
+            "genre_ids": [],
+            "id": 817501,
+            "original_language": "en",
+            "original_title": "Home-Not-Alone",
+            "overview": "Shivam's Girlfriend is Home-Alone. She calls Shivam to have a roleplay, things go worse when her father is informed of this act.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Home-Not-Alone",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 764074,
+            "original_language": "en",
+            "original_title": "Five Year Diary, Reel 7: Home Alone (February 26\u2013March 6, 1982)",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1982-03-06",
+            "title": "Five Year Diary, Reel 7: Home Alone (February 26\u2013March 6, 1982)",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3YJC8VLyqCP5Ynck53lP2hPOkBO.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 103844,
+            "original_language": "da",
+            "original_title": "Min s\u00f8sters b\u00f8rn alene hjemme",
+            "overview": "",
+            "popularity": 3.696,
+            "poster_path": "/aa4VXdQIdRmJehnb2cxtNhVyBgC.jpg",
+            "release_date": "2012-02-02",
+            "title": "My Sister's Kids Home Alone",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 889850,
+            "original_language": "xx",
+            "original_title": "Alene hjemme",
+            "overview": "Bad dreams may come true\u2026.",
+            "popularity": 0.6,
+            "poster_path": "/bZnR6hqhJJZReMt6Pw5aF8IEq2t.jpg",
+            "release_date": "1969-01-01",
+            "title": "Home Alone",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 28
+}

@@ -1,0 +1,43 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/mk1KeasAfwUGfFfzlbUVKINxC7Q.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 24038,
+            "original_language": "en",
+            "original_title": "976-EVIL",
+            "overview": "A bullied unpopular high school student named Hoax finds an ad for 976-EVIL, a number that provides daily 'horrorscopes'. But when he calls the number he gains demonic powers, which he uses to seek vengeance against those who bullied him.",
+            "popularity": 6.643,
+            "poster_path": "/mWSpulrInC2DjbXhysjrxtvJFfL.jpg",
+            "release_date": "1988-12-09",
+            "title": "976-EVIL",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xNDPPx6esC2Doj7JmNWBls33T5I.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 28751,
+            "original_language": "en",
+            "original_title": "976-EVIL II",
+            "overview": "After being bestowed with demonic powers following a phone call to Hell, a psychotic teacher begins a rampage of death and destruction in a small town, forcing a teen and her boyfriend to fight him off so that they can get away.",
+            "popularity": 4.048,
+            "poster_path": "/9NUTvPGPXmtH0BXsBAqWZTOhLrL.jpg",
+            "release_date": "1991-04-22",
+            "title": "976-EVIL II",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 43
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

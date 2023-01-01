@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fgR5lgXveZuJHUbXD69mjfTTKjA.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 9405,
+            "original_language": "en",
+            "original_title": "Double Team",
+            "overview": "A CIA agent is interned for failing to kill an international terrorist. Escaping from his island exile, he teams up with a flamboyant arms dealer and sets out to find the terrorist and rescue the agent's family. Together they're a two-man arsenal... with enough voltage to rock the free world.",
+            "popularity": 20.165,
+            "poster_path": "/4M5fkXYzhjLZdY28ob2iVlh8FgW.jpg",
+            "release_date": "1997-04-04",
+            "title": "Double Team",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bFpqqFQnDkR87eIXvA9JR8Iy2tQ.jpg",
+            "genre_ids": [
+                10770,
+                18,
+                10751
+            ],
+            "id": 108204,
+            "original_language": "en",
+            "original_title": "Double Teamed",
+            "overview": "Heather and Heidi play volleyball for their school team, when their family decides that they need to go to a bigger school so that they will have a better chance for scholarships. But at the new school, the twins are discovered by the basketball coach. Inspired by the true story of Heather and Heidi Burge.",
+            "popularity": 5.402,
+            "poster_path": "/5yTfZfkaBRwS5lAjv4IFtQtOP5j.jpg",
+            "release_date": "2002-01-18",
+            "title": "Double Teamed",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 70
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

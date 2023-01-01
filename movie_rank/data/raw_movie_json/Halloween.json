@@ -1,0 +1,397 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/aTovumsNlDjof7YVoU5nW2RHaYn.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 616820,
+            "original_language": "en",
+            "original_title": "Halloween Ends",
+            "overview": "Four years after the events of Halloween in 2018, Laurie has decided to liberate herself from fear and rage and embrace life. But when a young man is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can\u2019t control, once and for all.",
+            "popularity": 172.462,
+            "poster_path": "/yoAKHpveZ4Z1wwwXoD31dXj3H8s.jpg",
+            "release_date": "2022-10-12",
+            "title": "Halloween Ends",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1026
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 948,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+            "popularity": 45.683,
+            "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+            "release_date": "1978-10-24",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 4579
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fWhAWcHdIKg08vjQsh9Nx3s8Hrm.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 2082,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "After being committed for 17 years, Michael Myers, now a grown man and still very dangerous, escapes from the mental institution (where he was committed as a 10 year old) and he immediately returns to Haddonfield, where he wants to find his baby sister, Laurie. Anyone who crosses his path is in mortal danger.",
+            "popularity": 43.223,
+            "poster_path": "/cD8JrfSEI4j7WVnKM1GdiYzMoUh.jpg",
+            "release_date": "2007-08-31",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1952
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/czRXzKy5YcvoVhRUb8RQsFHUDi1.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 424139,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+            "popularity": 43.841,
+            "poster_path": "/wgmniaoxuRfA7waV4wpC7zLPEgX.jpg",
+            "release_date": "2018-10-18",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 4093
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fuuZFPc8x6gQ8mLGoBp9vrmcQMT.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 610253,
+            "original_language": "en",
+            "original_title": "Halloween Kills",
+            "overview": "The nightmare isn't over as unstoppable killer Michael Myers escapes from Laurie Strode's trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires residents of Haddonfield, to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.",
+            "popularity": 58.738,
+            "poster_path": "/oJMRFIHi8Gs2ZCCZ4djtMcB0jB0.jpg",
+            "release_date": "2021-10-14",
+            "title": "Halloween Kills",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1V9IdXG5e9GF8kic6uVHGpTyJxa.jpg",
+            "genre_ids": [
+                27,
+                14,
+                12,
+                10751
+            ],
+            "id": 961427,
+            "original_language": "en",
+            "original_title": "Spirit Halloween: The Movie",
+            "overview": "A group of middle schoolers discover a Spirit Halloween store is haunted and must survive the night.",
+            "popularity": 76.393,
+            "poster_path": "/akWDID6zfsWHJhGCAAcbwbytU55.jpg",
+            "release_date": "2022-09-30",
+            "title": "Spirit Halloween: The Movie",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jnSB3v76tGte9lzHS1XLGu75oaT.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11442,
+            "original_language": "en",
+            "original_title": "Halloween: Resurrection",
+            "overview": "Serial Killer Michael Myers is not finished with Laurie Strode, and their rivalry finally comes to an end. But is this the last we see of Myers? Freddie Harris and Nora Winston are reality programmers at DangerTainment, and are planning to send a group of 6 thrill-seeking teenagers into the childhood home of Myers. Cameras are placed all over the house and no one can get out of the house... and then Michael arrives home!",
+            "popularity": 18.664,
+            "poster_path": "/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg",
+            "release_date": "2002-07-01",
+            "title": "Halloween: Resurrection",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 1035
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4UiNo0vUAKLgO9xq1JKYsGQ9avo.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 24150,
+            "original_language": "en",
+            "original_title": "Halloween II",
+            "overview": "Laurie Strode struggles to come to terms with her brother Michael's deadly return to Haddonfield, Illinois. Meanwhile, Michael prepares for another reunion with his sister.",
+            "popularity": 23.719,
+            "poster_path": "/vSHPM4LQDpWdQrD5KZWK6wNqSOD.jpg",
+            "release_date": "2009-08-28",
+            "title": "Halloween II",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h5BvesqaxL7V3vl1CmaR8waGyiM.jpg",
+            "genre_ids": [
+                12,
+                35,
+                14,
+                10751,
+                27
+            ],
+            "id": 442062,
+            "original_language": "en",
+            "original_title": "Goosebumps 2: Haunted Halloween",
+            "overview": "Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R.\u202fL. Stine.",
+            "popularity": 39.186,
+            "poster_path": "/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",
+            "release_date": "2018-10-11",
+            "title": "Goosebumps 2: Haunted Halloween",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fDhUxDHgjXzLZEzHNgIS75SzaCA.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 11281,
+            "original_language": "en",
+            "original_title": "Halloween II",
+            "overview": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+            "popularity": 21.418,
+            "poster_path": "/gL3dPbbZInWn4U9jd87uoFGOdot.jpg",
+            "release_date": "1981-10-30",
+            "title": "Halloween II",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1649
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5gTQmnGYKxDfmUWJ9GUWqrszRxN.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                9648,
+                35
+            ],
+            "id": 721656,
+            "original_language": "en",
+            "original_title": "Happy Halloween, Scooby-Doo!",
+            "overview": "Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!",
+            "popularity": 31.585,
+            "poster_path": "/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg",
+            "release_date": "2020-10-06",
+            "title": "Happy Halloween, Scooby-Doo!",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aOeshAxAhiDVIiHsXVFmF6bgclh.jpg",
+            "genre_ids": [
+                35,
+                9648,
+                27
+            ],
+            "id": 617505,
+            "original_language": "en",
+            "original_title": "Hubie Halloween",
+            "overview": "Hubie Dubois, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it\u2019s up to Hubie to save Halloween.",
+            "popularity": 19.332,
+            "poster_path": "/dbhC6qRydXyRmpUdcl9bL9rARya.jpg",
+            "release_date": "2020-10-07",
+            "title": "Hubie Halloween",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vYjsyyzbU2AAB8LDFrXlla93bv6.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11675,
+            "original_language": "en",
+            "original_title": "Halloween H20: 20 Years Later",
+            "overview": "Two decades after surviving a massacre on October 31, 1978, former baby sitter Laurie Strode finds herself hunted by persistent knife-wielder Michael Myers. Laurie now lives in Northern California under an assumed name, where she works as the headmistress of a private school. But it's not far enough to escape Myers, who soon discovers her whereabouts. As Halloween descends upon Laurie's peaceful community, a feeling of dread weighs upon her -- with good reason.",
+            "popularity": 29.857,
+            "poster_path": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+            "release_date": "1998-08-05",
+            "title": "Halloween H20: 20 Years Later",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1355
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8xLsFPeMC2AjPiJPZlQeBKiTIqE.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10987,
+            "original_language": "en",
+            "original_title": "Halloween: The Curse of Michael Myers",
+            "overview": "Six years ago, Michael Myers terrorized the town of Haddonfield, Illinois. He and his niece, Jamie Lloyd, have disappeared. Jamie was kidnapped by a bunch of evil druids who protect Michael Myers. And now, six years later, Jamie has escaped after giving birth to Michael's child. She runs to Haddonfield to get Dr. Loomis to help her again.",
+            "popularity": 28.657,
+            "poster_path": "/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg",
+            "release_date": "1995-09-29",
+            "title": "Halloween: The Curse of Michael Myers",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 875
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j14Z0pP7tpuHZlVBSuUL7tq2SGb.jpg",
+            "genre_ids": [
+                16,
+                9648,
+                28,
+                80
+            ],
+            "id": 736074,
+            "original_language": "en",
+            "original_title": "Batman: The Long Halloween, Part Two",
+            "overview": "As Gotham City's young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.",
+            "popularity": 33.416,
+            "poster_path": "/f46QMSo2wAVY1ywrNc9yZv0rkNy.jpg",
+            "release_date": "2021-07-26",
+            "title": "Batman: The Long Halloween, Part Two",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 387
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2fC29LRezRnpQwnbjxXSO7dakb.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 380124,
+            "original_language": "en",
+            "original_title": "Boo! A Madea Halloween",
+            "overview": "Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.",
+            "popularity": 14.992,
+            "poster_path": "/eq1jD9QwhrZCFeaT1BudIsKzlwp.jpg",
+            "release_date": "2016-10-21",
+            "title": "Boo! A Madea Halloween",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 377
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uS9apevOgs2fuYghf9szOoK1u63.jpg",
+            "genre_ids": [
+                16,
+                9648,
+                28,
+                80
+            ],
+            "id": 736073,
+            "original_language": "en",
+            "original_title": "Batman: The Long Halloween, Part One",
+            "overview": "Following a brutal series of murders taking place on Halloween, Thanksgiving, and Christmas, Gotham City's young vigilante known as the Batman sets out to pursue the mysterious serial killer alongside police officer James Gordon and district attorney Harvey Dent.",
+            "popularity": 30.186,
+            "poster_path": "/fvaB0jrzFXq07bUpox03k6qOAJu.jpg",
+            "release_date": "2021-06-21",
+            "title": "Batman: The Long Halloween, Part One",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 460
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dkhN5sUGvmQ4ySLonlHCB3YQ7DA.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11357,
+            "original_language": "en",
+            "original_title": "Halloween 4: The Return of Michael Myers",
+            "overview": "The apparently comatose Michael Myers is being transferred from one hospital to another, but he wakes up when the ambulance crew talk about his surviving niece, Jamie. After slaughtering his attendants, Myers sets out to find his one living relative who is, fortunately, being cared for by a kind and resourceful foster sister named Rachel. Meanwhile, the ever-cautious Dr. Loomis remains on the killer's path.",
+            "popularity": 29.084,
+            "poster_path": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+            "release_date": "1988-10-21",
+            "title": "Halloween 4: The Return of Michael Myers",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1534
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ynpPgJrdHmEbFICkfPlHwQiPo04.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11361,
+            "original_language": "en",
+            "original_title": "Halloween 5: The Revenge of Michael Myers",
+            "overview": "Presumed dead after a shoot-out with the Haddonfield police, Michael Myers is secretly nursed back to health -- and returns a year later to kill again and once more targets his young niece, Jamie. Jamie is now recovering in the local children's hospital after attacking her stepmother and losing her voice. Her mental link with her evil uncle may be the key to uprooting her family tree.",
+            "popularity": 28.521,
+            "poster_path": "/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+            "release_date": "1989-10-12",
+            "title": "Halloween 5: The Revenge of Michael Myers",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 965
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eyOKqtgNeEEIp7zYMHnpISpsaS3.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "id": 10676,
+            "original_language": "en",
+            "original_title": "Halloween III: Season of the Witch",
+            "overview": "Dr. Daniel Challis and Ellie Grimbridge stumble onto a gruesome murder scheme when Ellie's novelty-salesman father, Harry, is killed while in possession of a halloween mask made by the Silver Shamrock mask company. The company's owner, Conal Cochran, wants to return Halloween to its darker roots using his masks -- and his unspeakable scheme would unleash death and destruction across the country.",
+            "popularity": 20.353,
+            "poster_path": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+            "release_date": "1982-10-22",
+            "title": "Halloween III: Season of the Witch",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 1103
+        }
+    ],
+    "total_pages": 24,
+    "total_results": 473
+}

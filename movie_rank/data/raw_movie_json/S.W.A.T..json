@@ -1,0 +1,235 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/dfSAFTqNLfB3YAs9Ppy13EUaNYI.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 9257,
+            "original_language": "en",
+            "original_title": "S.W.A.T.",
+            "overview": "Hondo Harrelson recruits Jim Street to join an elite unit of the Los Angeles Police Department. Together they seek out more members, including tough Deke Kay and single mom Chris Sanchez. The team's first big assignment is to escort crime boss Alex Montel to prison. It seems routine, but when Montel offers a huge reward to anyone who can break him free, criminals of various stripes step up for the prize.",
+            "popularity": 29.704,
+            "poster_path": "/bon63yPVIgUFLP2653Dg9GCOJLJ.jpg",
+            "release_date": "2003-08-08",
+            "title": "S.W.A.T.",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 2120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mLAgmcqB0VLNHPUlOgYqujQvzdS.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 54445,
+            "original_language": "en",
+            "original_title": "S.W.A.T.: Firefight",
+            "overview": "Los Angeles S.W.A.T. officer, Lt. Paul Cutler, is sent to train the Detroit S.W.A.T. team on new anti-terrorism and homeland security techniques. Cutler has a hard time settling into his assignment as he locks horns with his new captain and encounters resistance from the team he must lead. Cutler begins to adjust to his new assignment, starting a budding romance with police psychologist Kim Byers along the way. Unexpectedly, a routine hostage call turns deadly, and a relentless ex-government agent named Walter Hatch vows revenge on Cutler and the entire S.W.A.T. team for killing the woman he loves. Cutler must use his considerable S.W.A.T. training and knowledge to save his teammates and defeat a trained killer.",
+            "popularity": 23.515,
+            "poster_path": "/hDeBVLKDeyavwHRPy8z5yBynNj4.jpg",
+            "release_date": "2011-03-01",
+            "title": "S.W.A.T.: Firefight",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 287
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 461053,
+            "original_language": "en",
+            "original_title": "S.W.A.T.: Under Siege",
+            "overview": "When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Travis Hall seizes a mysterious prisoner taking him into custody. Before long, the S.W.A.T. compound is under siege by wave-after-wave of assault teams attempting to recover the prisoner known as \u201cThe Scorpion\u201d for the tattoo blazed across his back. When Travis discovers that his prisoner is a Secret Ops double agent planted within the cartel, it\u2019s up to him and his expert S.W.A.T. team to keep \u201cThe Scorpion\u201d and his billion dollar secrets safe.",
+            "popularity": 24.634,
+            "poster_path": "/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg",
+            "release_date": "2017-08-01",
+            "title": "S.W.A.T.: Under Siege",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 312
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kk3quv4ZcAVBS6GoP47KDTUv6yn.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 559937,
+            "original_language": "zh",
+            "original_title": "\u7279\u8b66\u961f",
+            "overview": "The story centers on the Chinese Special Police Unit, from their hard training to their first mission.",
+            "popularity": 23.295,
+            "poster_path": "/wFklu01YHWhp2MxljR8e3XyvpPp.jpg",
+            "release_date": "2019-12-29",
+            "title": "S.W.A.T.",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 379246,
+            "original_language": "en",
+            "original_title": "Pink S.W.A.T.",
+            "overview": "The Pink Panther attempts to get rid of a fly in his home.",
+            "popularity": 0.69,
+            "poster_path": "/1qNqHAifAmrCKTasJZLfBlLEviu.jpg",
+            "release_date": "1978-11-22",
+            "title": "Pink S.W.A.T.",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o3A0BiPQuqWvQ8ylFBrq3lzMSiv.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "id": 437525,
+            "original_language": "ja",
+            "original_title": "\u8b66\u5bdf\u6226\u8eca\u968a TANK S.W.A.T.",
+            "overview": "Masamune Shirow presents a story about the Dominion Tank Police dealing with terrorists taking over the NT Building with AI driven tanks.",
+            "popularity": 0.933,
+            "poster_path": "/xufFmVpFWlSjBEhXzXoKs4nSLun.jpg",
+            "release_date": "2006-03-24",
+            "title": "TANK S.W.A.T. 01",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9OLNCz1wOwNy2nX9DIGrEN9edYa.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 359471,
+            "original_language": "en",
+            "original_title": "Swat: Unit 887",
+            "overview": "A non-stop, race against time action packed thriller that follows an elite SWAT Team as they try to stop a domestic terrorist from killing innocent hostages and destroying the city of Los Angeles. With 24 hours left on the clock, the team must rely on their instincts and unique skill set to stop the attack and bring justice.",
+            "popularity": 9.091,
+            "poster_path": "/qCZCeji4sIcCrgjja6wsnaEHGKa.jpg",
+            "release_date": "2015-09-29",
+            "title": "Swat: Unit 887",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 391309,
+            "original_language": "ja",
+            "original_title": "\u5973\u75f4\u6f22\u635c\u67fb\u5b98\u3000\u304a\u5c3b\u3067\u52dd\u8ca0\uff01",
+            "overview": "Red alert! A crime wave of women groping perverts has flooded the Tokyo train system and only a special all-female, undercover police task force can stop it! The common clue is that all of the victims see a strobing red light before they find themselves on the receiving end of public, sexual humiliation! Asses will be grabbed! Breasts will be kneaded! And crotches will be sniffed! All in the course of duty, for the Sexy SWAT Team!",
+            "popularity": 0.6,
+            "poster_path": "/wv9bKxv5GVf4AJxKNbUf2kdSzL8.jpg",
+            "release_date": "1998-03-27",
+            "title": "Sexy S.W.A.T. Team",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 276027,
+            "original_language": "en",
+            "original_title": "S.W.A.T.: L.A., Las Vegas and Detroit",
+            "overview": "The S.W.A.T. teams of three cities -- Los Angeles, Las Vegas and Detroit -- are featured on this unique disc. Witness all three teams at work as they're called in to cover the most precarious assignments in law enforcement. See how these elite groups are trained specifically for the types of crimes they're summoned for, and take a glimpse at the highly technological equipment and military-style strategies used by these courageous heroes.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2001-12-31",
+            "title": "S.W.A.T.: L.A., Las Vegas and Detroit",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 403110,
+            "original_language": "en",
+            "original_title": "SWAT: Warhead One",
+            "overview": "When a powerful nuclear weapon mysteriously disappears, putting in risk all Los Angeles' population, only a SWAT team is prepared to fight against the terrorists leaded by the cruel Peter Chiang, one of the most dangerous men of the planet.",
+            "popularity": 1.953,
+            "poster_path": "/laLeWGbOsgMdYI3kUFKRCVzOMpU.jpg",
+            "release_date": "2004-02-24",
+            "title": "SWAT: Warhead One",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d3DeTvL23fft6HTg05xrO11Jhla.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 362190,
+            "original_language": "ja",
+            "original_title": "\u5973\u75f4\u6f22\u635c\u67fb\u5b98\uff14\u3000\u3068\u308d\u3051\u308b\u4e0b\u534a\u8eab",
+            "overview": "Red alert! A pervert is hanging out in the Tokyo subway and using a hi-tech brain manipulation device in order to molest sexy women! But not to worry, detective Claire is on the case! With the help of world-famous nutty professor and horndog Dr. Honeybar Nectar, Claire will uncover an intricate plot of epic proportions, leading all the way up to the Japanese prime minister. Justice in the form of extreme vaginoplasty (that must be seen to be believed!) is served and Claire will finally be able to silence the sushi rolls screaming in her mind. This sexy, comedic parody of a film with a very similar name stars the sexy Yumika Hayashi, Terumi Minami and Kyoko Kazama.",
+            "popularity": 0.668,
+            "poster_path": "/nU2zMkycjuL9aGBg2H0yXjmMGkJ.jpg",
+            "release_date": "2001-12-28",
+            "title": "Sexy S.W.A.T. Team 4",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/myIX1F00DWUg2kJjpCb8OOJDMUr.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 70008,
+            "original_language": "en",
+            "original_title": "Tactical Force",
+            "overview": "A training exercise for the LAPD SWAT Team goes terribly wrong when they find themselves pitted against two rival gangs while trapped in an abandoned Hangar, armed with nothing but blanks.",
+            "popularity": 11.919,
+            "poster_path": "/4pDQqh3q1VNBFCs8eANeAxrn6nB.jpg",
+            "release_date": "2011-08-09",
+            "title": "Tactical Force",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 111
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 12
+}

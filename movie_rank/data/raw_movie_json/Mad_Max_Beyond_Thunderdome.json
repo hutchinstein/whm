@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cO8zcdPhLT3UdykkXCvfhIVrgHK.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 9355,
+            "original_language": "en",
+            "original_title": "Mad Max Beyond Thunderdome",
+            "overview": "Mad Max becomes a pawn in a decadent oasis of a technological society, and when exiled, becomes the deliverer of a colony of children.",
+            "popularity": 33.456,
+            "poster_path": "/7sYv92wr9FN5WIg4fFpJ20cVuXb.jpg",
+            "release_date": "1985-06-29",
+            "title": "Mad Max Beyond Thunderdome",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2335
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

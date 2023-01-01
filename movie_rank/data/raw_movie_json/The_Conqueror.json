@@ -1,0 +1,386 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/kK65zLFM0qLpFip9vzmHWjMrboS.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 17832,
+            "original_language": "en",
+            "original_title": "Kull the Conqueror",
+            "overview": "A barbarian named Kull becomes ruler after defeating the old king in battle. In an effort to regain the throne, the former king's heirs resurrect Akivasha, a witch queen. However, Akivasha has plans of her own for the throne, and only Kull stands in the way.",
+            "popularity": 9.875,
+            "poster_path": "/nPCqQ7WhO5hBi9dMjhb4U6itaND.jpg",
+            "release_date": "1997-08-29",
+            "title": "Kull the Conqueror",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4dig8DaSVfXAAfuaAJy4VVJidHC.jpg",
+            "genre_ids": [
+                12
+            ],
+            "id": 24751,
+            "original_language": "en",
+            "original_title": "The Conqueror",
+            "overview": "Mongol chief Temujin battles against Tartar armies and for the love of the Tartar princess Bortai. Temujin becomes the emperor Genghis Khan.",
+            "popularity": 4.973,
+            "poster_path": "/6gGtujS4opJIUbAgS9j3g4EtiVo.jpg",
+            "release_date": "1956-03-28",
+            "title": "The Conqueror",
+            "video": false,
+            "vote_average": 3.4,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aGxndYhiSrgOaCD3mcYLsOMBJkX.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 133372,
+            "original_language": "en",
+            "original_title": "Lloyd the Conqueror",
+            "overview": "Three male college students, must do battle against Derek the Unholy, a dark wizard who is determined to hold onto his title as champion of the Larpers.",
+            "popularity": 1.833,
+            "poster_path": "/nJqzno9rIg4uDLasjwxBmfBfEvg.jpg",
+            "release_date": "2011-09-24",
+            "title": "Lloyd the Conqueror",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 933287,
+            "original_language": "en",
+            "original_title": "The Conqueror",
+            "overview": "Bess abhors the sinfulness of her brothers, who are crooks of the worst kind, so one day, while they are planning some villainy, she takes some money which one of the brothers had placed on the table, leaves the house and disappears as if the earth had engulfed her. Bess goes to a distant part of the city, and rents a furnished room from a kindly-faced old lady, resolved to start life anew in a different environment. She secures employment in a large shirt factory and by diligent attention to work, becomes forelady and assistant to Williams, the owner of the factory. Jack, the weakling, completely worn out by the life he has led, is in the last stages of tuberculosis, when he accidentally meets Bess, and through helping him, her other brother, Frank, finds out where she is employed, and going to Williams, her employer, plays the \"worried brother\" part and tells him how Bess took the money and ran away from home.",
+            "popularity": 0.655,
+            "poster_path": "/zm6ZlYkP6dXR4Q83yIxrBZ7oYJf.jpg",
+            "release_date": "1914-01-20",
+            "title": "The Conqueror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ghQWpl9fwGCl49I4KF74URjze3t.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 426807,
+            "original_language": "en",
+            "original_title": "The Conqueror",
+            "overview": "The life of Sam Houston, soldier, statesman, patriot and one of the founders of the Republic of Texas, is depicted.",
+            "popularity": 0.644,
+            "poster_path": "/3kgXyvb9iOtJ1tqYv27Ds3s5fOR.jpg",
+            "release_date": "1917-09-16",
+            "title": "The Conqueror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l0ZZkD5FCm8u42Uln8Q4jGxctTg.jpg",
+            "genre_ids": [
+                14
+            ],
+            "id": 774934,
+            "original_language": "en",
+            "original_title": "Cupid the Conqueror",
+            "overview": "A young artist, in love with a society girl, finally induces her to consent to pose for him. In a picture which he believes will be his masterpiece, and his confidence is increased when he finds just the child he wants for Cupid, to be in the painting with his lady fair.",
+            "popularity": 0.6,
+            "poster_path": "/vUkOiO1M2D1bbVGyXGe5K8j98wY.jpg",
+            "release_date": "1911-08-11",
+            "title": "Cupid the Conqueror",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 859619,
+            "original_language": "en",
+            "original_title": "William the Conqueror",
+            "overview": "Blending drama with the explanations of passionate historians and specialists, this enriched historical reconstruction traces 60 years in the life a man who transformed the Middle Ages and laid the foundation of modern Europe, William The Conqueror.",
+            "popularity": 0.6,
+            "poster_path": "/c2IyBRuI3czazvWG5hDcQWtCERv.jpg",
+            "release_date": "2015-01-01",
+            "title": "William the Conqueror",
+            "video": false,
+            "vote_average": 1.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 929654,
+            "original_language": "ja",
+            "original_title": "Watari the Conqueror",
+            "overview": "Watari is a young Iga ninja boy in feudal Japan who has magical adventures with his two heroic companions against an army of Ninjas and other-worldly creatures.",
+            "popularity": 0.6,
+            "poster_path": "/qtJw9HZzdIjwV2R3ue1hru0Whm.jpg",
+            "release_date": "1967-01-01",
+            "title": "Watari the Conqueror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kVTf3ClIHyZcl8T8lV4ogLq9BLM.jpg",
+            "genre_ids": [
+                36,
+                99
+            ],
+            "id": 510062,
+            "original_language": "en",
+            "original_title": "William The Conqueror",
+            "overview": "Blending drama with the explanations of passionate historians and specialists, this enriched historical reconstruction traces 60 years in the life a man who transformed the Middle Ages and laid the foundation of modern Europe, William The Conqueror.",
+            "popularity": 0.6,
+            "poster_path": "/klcYqpN3jJOEyZyV97Vyv05UvhZ.jpg",
+            "release_date": "2013-03-12",
+            "title": "William The Conqueror",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 480695,
+            "original_language": "en",
+            "original_title": "Mr. Bill the Conqueror",
+            "overview": "A British comedy film directed by Norman Walker",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1932-08-08",
+            "title": "Mr. Bill the Conqueror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14
+            ],
+            "id": 1040572,
+            "original_language": "en",
+            "original_title": "Shadow of the Conqueror",
+            "overview": "After many long years in exile, Dayless the Conqueror, previously a ruthless ruler known as the Great Bastard, confronts all of the atrocities that he had committed while in power and decides to take his own life. But the light has other plans in mind for him. Instead of the release of death that he craves, he is made young again. He must keep his identity a secret while he faces the world that he tortured and makes amends.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Shadow of the Conqueror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f3oX6xRKalUE1U8PpHC5dPntYiL.jpg",
+            "genre_ids": [
+                99,
+                10752
+            ],
+            "id": 985852,
+            "original_language": "en",
+            "original_title": "William the Conqueror: The First Norman King of England",
+            "overview": "It was on the bloody battlefield of Hastings in 1066 that William, Duke of Normandy, defeated and killed the gallant but battle-weary Harold II of England. From that day on, England would never be the same: uprisings in the north were mercilessly crushed and a new ruling class of Norman barons was gradually established. This programme paints a unique portrait of a man who was at once a great warrior and a ruthless poliotician and statesman. Architect of the Domesday book and builder of countless beautiful churches and castles, William the Conqueror's reign truly shaped the future of the nation.",
+            "popularity": 0.6,
+            "poster_path": "/1rqvdBGRa4DQ5RTuTXp8cTRVdvr.jpg",
+            "release_date": "1996-06-01",
+            "title": "William the Conqueror: The First Norman King of England",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                18,
+                27,
+                9648,
+                53
+            ],
+            "id": 850258,
+            "original_language": "en",
+            "original_title": "Tales of the Unexpected: Edward the Conqueror",
+            "overview": "Elderly marrieds Edward and Louisa discover a stray cat in their garden. It reacts so positively to Louisa's classical piano playing that she is convinced the cat is the reincarnation of Franz Liszt. Edward grows tired of her obsession and decides to get rid of the cat.",
+            "popularity": 0.6,
+            "poster_path": "/h8LQoCWhnQE6bHtqCSf9ma8muJw.jpg",
+            "release_date": "1979-05-05",
+            "title": "Tales of the Unexpected: Edward the Conqueror",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dXUiiryxCk1QqvS9F4MhIAPjpF3.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11174,
+            "original_language": "da",
+            "original_title": "Pelle Erobreren",
+            "overview": "In the late 19th century, two Swedish emigrants, Lasse Karlsson and his son Pelle, arrive on the Danish island of Bornholm hoping to find work on a farm and save enough money to travel to the United States of America.",
+            "popularity": 12.559,
+            "poster_path": "/oSsu4khg459yTR1sw4qjEC4LO5J.jpg",
+            "release_date": "1987-12-21",
+            "title": "Pelle the Conqueror",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 342062,
+            "original_language": "en",
+            "original_title": "The Mighty Conqueror",
+            "overview": "The Mighty Conqueror. This ten-minute film was produced by Neville Macken with some involvement from pioneer female filmmaker Paulette McDonagh completed in 1931.",
+            "popularity": 0.66,
+            "poster_path": "/2j8vpRFfjkI9nrlAI4PG1GGgCuf.jpg",
+            "release_date": "1931-05-26",
+            "title": "The Mighty Conqueror",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "id": 536076,
+            "original_language": "ko",
+            "original_title": "The Cosmos Conqueror",
+            "overview": "Three heroes pilot a giant robot to fight Kaneby's cruel weapons threatening the world.",
+            "popularity": 0.6,
+            "poster_path": "/eawg2RliFqv3tmOUpncl8Obx9FP.jpg",
+            "release_date": "1981-08-09",
+            "title": "The Cosmos Conqueror",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/atTyXtENPTQPg9AyCG6K5vGdsfJ.jpg",
+            "genre_ids": [
+                36,
+                12
+            ],
+            "id": 187117,
+            "original_language": "it",
+            "original_title": "Rosmunda e Alboino",
+            "overview": "Alboino, the Lombard ruler, wants to marry the daughter of a neighboring king, but she loves another. Her father arranges the marriage to Alboino, which he believes will be beneficial to him, only to have Alboino kill him and leave Amalchi, his daughter's real love, beaten and left for dead. Amalchi recovers to lead a revolt against the murderous Alboino and reclaim his woman.",
+            "popularity": 3.167,
+            "poster_path": "/8ODHz8hQw7vcjKv2SNg2QoSwLw2.jpg",
+            "release_date": "1961-08-24",
+            "title": "Sword of the Conqueror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fGl92KPQL8B4a8Ha2MsM6XDw6RK.jpg",
+            "genre_ids": [
+                36,
+                12
+            ],
+            "id": 211287,
+            "original_language": "it",
+            "original_title": "Giulio Cesare il conquistatore delle Gallie",
+            "overview": "In 54 B.C. Julius Caesar seeks to solidify his position in Rome by putting down a rebellion in Gaul led by a tribal chieftain named Vercingetorix. Vercingetorix has rallied many tribes to his cause, including one led by the beautiful Queen Asterix and others who'd once pledged allegiance to Rome. At first things go badly for the Romans, complicated by the fact that Vercingetorix has captured and tortured a centurion named Claudius Valerius who's in love with Caesar's ward, Publia, who has also fallen into the hands of Vercingetorix. Eventually a great battle pitting Caesar against the rebellious Gaul decides the fate of all concerned.",
+            "popularity": 3.584,
+            "poster_path": "/6bQM4YHHlTgvkitOAk4ptXrgdoy.jpg",
+            "release_date": "1962-07-31",
+            "title": "Caesar The Conqueror",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                36,
+                12,
+                878,
+                16
+            ],
+            "id": 384601,
+            "original_language": "ja",
+            "original_title": "\u30a2\u30ec\u30af\u30b5\u30f3\u30c0\u30fc\u6226\u8a18",
+            "overview": "Prince Alexander, son of King Philip, and heir to the Macedonian empire, must fend off political saboteurs, assassins, and the jealousy of his own father to ascend to the position of king. Once there, he begins his quest to conquer all nations and become known as the Great King, though an ancient prophecy foretells that he will be the destroyer of the world and forever remembered as the Devil King.",
+            "popularity": 1.792,
+            "poster_path": "/19m4GxOPiuPzSkiA1DAeg0UbReE.jpg",
+            "release_date": "2000-10-27",
+            "title": "Reign: The Conqueror Movie",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yVqH6X2wLPwoeXEwLTIs8u67j9W.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 161114,
+            "original_language": "it",
+            "original_title": "Il conquistatore di Atlantide",
+            "overview": "Curious noises in the Arabian desert signal an attack by bizarre phantom-like raiders of gold who are in search of their Queen. A relocated Hercules (KIRK MORRIS of The Witch's Curse) arrives on the scene and sets off to find a kidnapped Nomad princess. He follows her abductors past the Mountain of the Dead, through the City of the Phantoms, to a mysterious castle which turn out to be Atlantis. As if all this wasn't strange enough, Hercules will encounter gold-painted, blue body stocking-wearing, reanimated dead guys; female guards (who are killed if they taste the love of a man); a dying evil queen and her Ming the Merciless wanna-be sorcerer-scientist; and a torturous climax.",
+            "popularity": 0.841,
+            "poster_path": "/efhMKdjKWQBnDCr95PhEoEyMzVA.jpg",
+            "release_date": "1965-03-31",
+            "title": "The Conqueror of Atlantis",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 50
+}

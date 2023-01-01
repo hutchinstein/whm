@@ -1,0 +1,61 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 280,
+            "original_language": "en",
+            "original_title": "Terminator 2: Judgment Day",
+            "overview": "Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target for a newer, more deadly terminator. Once again, the resistance has managed to send a protector back to attempt to save John and his mother Sarah.",
+            "popularity": 85.571,
+            "poster_path": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+            "release_date": "1991-07-03",
+            "title": "Terminator 2: Judgment Day",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 10892
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kWH43qHgNatlZ1DEpuxqNqiRbbO.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 473793,
+            "original_language": "en",
+            "original_title": "The Making of 'Terminator 2: Judgment Day'",
+            "overview": "Documentary of the making of the sequel to the popular Schwarzenegger film, The Terminator.",
+            "popularity": 4.651,
+            "poster_path": "/m0k3vRqh4eVZONufDahNufHi8Em.jpg",
+            "release_date": "1991-01-01",
+            "title": "The Making of 'Terminator 2: Judgment Day'",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1017254,
+            "original_language": "en",
+            "original_title": "Terminator: Bad Judgment Day",
+            "overview": "Future soldier Kyle Reese has one job: to protect Sarah Conner -- how hard can that be? Reese's commanding officer is about to find out.",
+            "popularity": 0.6,
+            "poster_path": "/83BKbIOYB4qdj009smeVwOyMVQ0.jpg",
+            "release_date": "",
+            "title": "Terminator: Bad Judgment Day",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

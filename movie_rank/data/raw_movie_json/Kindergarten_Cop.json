@@ -1,0 +1,44 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fW8DfFDV3FcLUg7Zoors80muvo.jpg",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 383121,
+            "original_language": "en",
+            "original_title": "Kindergarten Cop 2",
+            "overview": "Assigned to recover sensitive stolen data, a gruff FBI agent goes undercover as a kindergarten teacher, but the school's liberal, politically correct environment is more than he bargained for.",
+            "popularity": 17.051,
+            "poster_path": "/6iVUHy9P7gzaCbMjj13qc6t7my4.jpg",
+            "release_date": "2016-06-01",
+            "title": "Kindergarten Cop 2",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mbtvyCr73zTz45lANjURpKu493l.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 951,
+            "original_language": "en",
+            "original_title": "Kindergarten Cop",
+            "overview": "Hard-edged cop John Kimble gets more than he bargained for when he goes undercover as a kindergarten teacher to get the goods on a brutal drug lord while at the same time protecting the man's young son. Pitted against a class of boisterous moppets whose antics try his patience and test his mettle, Kimble may have met his match \u2026 in more ways than one.",
+            "popularity": 11.895,
+            "poster_path": "/nKnHWwkXyvhzCYWm3FyRAv3qBrl.jpg",
+            "release_date": "1990-12-21",
+            "title": "Kindergarten Cop",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 2073
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

@@ -1,0 +1,151 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/rUZVOedNXL7qBVlQY6sAWydubDO.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 9272,
+            "original_language": "en",
+            "original_title": "The Good Son",
+            "overview": "A young boy stays with his aunt and uncle, and befriends his cousin who's the same age. But his cousin begins showing increasing signs of psychotic behavior.",
+            "popularity": 17.042,
+            "poster_path": "/iIV9zYVEFbb7AWc3BgnVQlfoeW.jpg",
+            "release_date": "1993-09-24",
+            "title": "The Good Son",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 807
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 260292,
+            "original_language": "en",
+            "original_title": "The Good Son",
+            "overview": "The unbelievable story of 22 year old Or, who secretly finances his sex change operation in Thailand by lying to his conservative parents and then returns home as a woman to face her new life, her family and the cost of living her dream",
+            "popularity": 0.69,
+            "poster_path": "/k9ESLtjrtUF8zYyRbjTuMEuja1C.jpg",
+            "release_date": "2013-03-21",
+            "title": "The Good Son",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 153786,
+            "original_language": "en",
+            "original_title": "The Good Son: The Life of Ray Boom Boom Mancini",
+            "overview": "The outcome of the 1982 WBC Lightweight title bout between Ray \"Boom Boom\" Mancini and Duk Koo Kim is examined.",
+            "popularity": 1.498,
+            "poster_path": null,
+            "release_date": "2013-08-09",
+            "title": "The Good Son: The Life of Ray Boom Boom Mancini",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 750339,
+            "original_language": "en",
+            "original_title": "Do You Love Me Like I Love You (Part 6: The Good Son)",
+            "overview": "A short film to accompany the reissue of Nick Cave & The Bad Seeds album The Good Son (originally released in 1990). The result is a determinedly human portrait of the unique body of work produced by the band over the last 25 years, told through those who have lived and loved the music, including close collaborators.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2010-03-29",
+            "title": "Do You Love Me Like I Love You (Part 6: The Good Son)",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53
+            ],
+            "id": 102534,
+            "original_language": "fi",
+            "original_title": "Hyv\u00e4 poika",
+            "overview": "When his mother takes a shine to a man at a party, a young man begins to lose his grip on reality.",
+            "popularity": 1.567,
+            "poster_path": "/cKynE2WBfjz7ZtsAn8EtiPljDiT.jpg",
+            "release_date": "2011-03-25",
+            "title": "The Good Son",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 153800,
+            "original_language": "fr",
+            "original_title": "Le bon fils",
+            "overview": "Teenager Luc lives with his mother Liliane and his little brother Paul in Paris, has to cope with the fact that his mother is a prostitute and practically raise his brother alone. Luc is disillusioned. One day, little Paul wants to phone his grandmother in Nord-pas-de-Calais, one thing leads to another and suddenly the whole family finds themselves in a holiday in northern France. For Liliane it means a reunion with her mother, for Luc and Paul the reunion with their grandmother. And then someday on the beach Luc gets to know Manuel who teaches him lessons in love, life, fun, teenagerhood and friendship.",
+            "popularity": 1.151,
+            "poster_path": null,
+            "release_date": "2001-01-01",
+            "title": "The Good Son",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 937194,
+            "original_language": "es",
+            "original_title": "El Buen Hijo",
+            "overview": "After the suicide of her husband, Ramona takes over the debt that he left, but Yovanny his problematic son makes it difficult, following in his father's footsteps in rooster fight bets.",
+            "popularity": 0.6,
+            "poster_path": "/bOOxfgRw85Hz74yJ7SJFVxfOwBQ.jpg",
+            "release_date": "2021-09-16",
+            "title": "The Good Son",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 413523,
+            "original_language": "en",
+            "original_title": "Omo Dada",
+            "overview": "Kunle is the conventional Nigerian son: respectful, dutiful, the pride of his family. However, during an intimate, traditional family gathering, he is forced to address a secret he has harbored, one that will undoubtedly have a profound, life-changing impact on his relationship with his family.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2015-05-01",
+            "title": "The Good Son",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 8
+}

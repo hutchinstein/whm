@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/pys7CSng90mGce5VrZez494GzJm.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 17745,
+            "original_language": "en",
+            "original_title": "Camp Nowhere",
+            "overview": "Morris \"Mud\" Himmel has a problem. His parents desperately want to send him away to summer camp. He hates going to summer camp, and would do anything to get out of it. Talking to his friends, he realizes that they are all facing the same sentence: a boring summer camp. Together with his friends, he hatches a plan to trick all the parents into sending them to a camp of their own design.",
+            "popularity": 8.422,
+            "poster_path": "/5DmempuEgWyHCu5lMVyICTRgZUp.jpg",
+            "release_date": "1994-08-26",
+            "title": "Camp Nowhere",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 120
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,64 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/nYJ9hQe6F82bem3ufHAWBRyYm9m.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878,
+                53
+            ],
+            "id": 36668,
+            "original_language": "en",
+            "original_title": "X-Men: The Last Stand",
+            "overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men\u2014led by Professor Charles Xavier\u2014and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+            "popularity": 1.888,
+            "poster_path": "/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg",
+            "release_date": "2006-05-24",
+            "title": "X-Men: The Last Stand",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 8523
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 966396,
+            "original_language": "en",
+            "original_title": "X-Men: The Last Stand - Production Diaries",
+            "overview": "",
+            "popularity": 0.84,
+            "poster_path": null,
+            "release_date": "2006-10-02",
+            "title": "X-Men: The Last Stand - Production Diaries",
+            "video": true,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 966404,
+            "original_language": "en",
+            "original_title": "The Making of 'X-Men: The Last Stand' Vignettes",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2006-10-02",
+            "title": "The Making of 'X-Men: The Last Stand' Vignettes",
+            "video": true,
+            "vote_average": 10,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

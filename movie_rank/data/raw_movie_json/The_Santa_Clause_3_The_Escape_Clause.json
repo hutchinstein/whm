@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/dKOAAR2DY2zS7rQY2Qo7QO4IN4r.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                12
+            ],
+            "id": 13767,
+            "original_language": "en",
+            "original_title": "The Santa Clause 3: The Escape Clause",
+            "overview": "Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa.",
+            "popularity": 60.341,
+            "poster_path": "/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
+            "release_date": "2006-11-01",
+            "title": "The Santa Clause 3: The Escape Clause",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 884
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

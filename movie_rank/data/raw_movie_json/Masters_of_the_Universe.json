@@ -1,0 +1,141 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/uYWy6sKFQ8ycp7D4g1YrZUmQ5DQ.jpg",
+            "genre_ids": [
+                28,
+                14,
+                878,
+                12,
+                53
+            ],
+            "id": 11649,
+            "original_language": "en",
+            "original_title": "Masters of the Universe",
+            "overview": "The world of Eternia in the aftermath of Skeletor's war on Castle Grayskull, which he has won after seizing Grayskull and the surrounding city using a cosmic key developed by the locksmith Gwildor. The Sorceress is now Skeletor's prisoner and he begins to drain her life-force as he waits for the moon of Eternia to align with the Great Eye of the Universe that will bestow god-like power upon him.",
+            "popularity": 18.963,
+            "poster_path": "/gaUecXFd31V68yOTJPJYaB9YhAf.jpg",
+            "release_date": "1987-08-07",
+            "title": "Masters of the Universe",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 716
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 454639,
+            "original_language": "en",
+            "original_title": "Masters of the Universe",
+            "overview": "An orphan named Adam discovers he is a prince destined to be the savior of a faraway land and must quickly learn of his power and the importance of saving his true home from an evil force.",
+            "popularity": 2.104,
+            "poster_path": "/arSooSSFyjTfh9DU1jy8MnoxrCz.jpg",
+            "release_date": "2024-10-04",
+            "title": "Masters of the Universe",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hFMHWGEcjLUGhNCyJntD8MMG1VM.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 540556,
+            "original_language": "en",
+            "original_title": "Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe",
+            "overview": "This documentary looks to forge the greatest, most definitive, documentary on everything He-Man and the Masters of the Universe, She-Ra, the live action movie, New Adventures of He-Man, the 200x series and much more! They delve into the toys, comics, cartoons, and movies from all eras by talking to the artists, creators, executives and actors who helped make it a reality.",
+            "popularity": 6.333,
+            "poster_path": "/4P5uySVECRxbmNAiOmsKDbskRjl.jpg",
+            "release_date": "2017-09-09",
+            "title": "Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 357555,
+            "original_language": "en",
+            "original_title": "Masters of the Universe - Four Stories",
+            "overview": "Masters of the Universe: 4 Stories (1985)\r \"The Caverns of Fear\"\r \"In the Land of the Shadows\"\r \"The Sword of Knowledge\"\r \"The Eye of Eternia\"",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1985-09-02",
+            "title": "Masters of the Universe - Four Stories",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 357556,
+            "original_language": "en",
+            "original_title": "Masters of the Universe - Three Stories",
+            "overview": "Masters of the Universe: 3 Stories (1985)\r \"The Rock Warriors\"\r \"Demons of the Deep\"\r \"The Maze of Doom\"",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1985-09-02",
+            "title": "Masters of the Universe - Three Stories",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 68175,
+            "original_language": "en",
+            "original_title": "Conspiracy: The Secret History - Masters Of The Universe: The Secret Birth Of The Federal Reserve",
+            "overview": "Was there a takeover of the United States by international bankers? In this program you will visit the scene of a crime so perfect that, for thirty years, no one knew it had even taken place. Join an undercover team of investigative journalists as they take on today's managed news in an explosive series on the biggest cover-ups and conspiracies of our time. Learn the secret history of the Federal Reserve.",
+            "popularity": 0.6,
+            "poster_path": "/8SuFSSc1h5GTZFCTE6vTAH0v9la.jpg",
+            "release_date": "1999-01-01",
+            "title": "Conspiracy: The Secret History - Masters Of The Universe: The Secret Birth Of The Federal Reserve",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ehaiYM4dHtQfTou3RF7r6LwIvZf.jpg",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "id": 10134,
+            "original_language": "en",
+            "original_title": "Cyborg",
+            "overview": "A martial artist hunts a killer in a plague-infested urban dump of the future.",
+            "popularity": 14.831,
+            "poster_path": "/nOspcG8HP6KPdMvzezavRbzYCEw.jpg",
+            "release_date": "1989-04-07",
+            "title": "Cyborg",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 546
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

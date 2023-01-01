@@ -1,0 +1,47 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7A4FJCsG26vOi9TUwFXdZMuzmOh.jpg",
+            "genre_ids": [
+                53,
+                878,
+                28,
+                80
+            ],
+            "id": 8831,
+            "original_language": "en",
+            "original_title": "Timecop",
+            "overview": "An officer for a security agency that regulates time travel, must fend for his life against a shady politician who has a tie to his past.",
+            "popularity": 15.907,
+            "poster_path": "/qDjne2UffjOpZAg9cFmzteWqhd3.jpg",
+            "release_date": "1994-09-15",
+            "title": "Timecop",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 950
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/45C6bwWwgkWU5nyOjPqU5CTLFzc.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 18051,
+            "original_language": "en",
+            "original_title": "Timecop 2: The Berlin Decision",
+            "overview": "20 years after a set of events, the Time Enforcement Commission (TEC), is still going strong. Now Brandon Miller a TEC operative, believes that they have a responsibility to change history hoping that the world will be better but Ryan Chan another Tec operative stops him but kills the woman he loves in the process.",
+            "popularity": 7.083,
+            "poster_path": "/x7YZPuYSwQPLTJGN6WR0EKqnvda.jpg",
+            "release_date": "2003-09-30",
+            "title": "Timecop 2: The Berlin Decision",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 91
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

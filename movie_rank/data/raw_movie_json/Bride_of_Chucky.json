@@ -1,0 +1,65 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9gDzYmuy4Gait4GgeGiKdh68XvF.jpg",
+            "genre_ids": [
+                35,
+                27,
+                53
+            ],
+            "id": 11932,
+            "original_language": "en",
+            "original_title": "Bride of Chucky",
+            "overview": "Chucky hooks up with another murderous doll, the bridal gown-clad Tiffany, for a Route 66 murder spree with their unwitting hosts.",
+            "popularity": 60.412,
+            "poster_path": "/mAGviFp1ufYM3EaZBSrjPiKPBt6.jpg",
+            "release_date": "1998-10-16",
+            "title": "Bride of Chucky",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1546
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 729319,
+            "original_language": "en",
+            "original_title": "Spotlight on Location: The Making of Bride of Chucky",
+            "overview": "",
+            "popularity": 4.344,
+            "poster_path": "/sOCdbHrK9PJILF4MmiTG8cXWt7R.jpg",
+            "release_date": "1998-10-16",
+            "title": "Spotlight on Location: The Making of Bride of Chucky",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/joTtQICm7vrGrVitC1bobgBmxUh.jpg",
+            "genre_ids": [
+                35,
+                27,
+                53
+            ],
+            "id": 11249,
+            "original_language": "en",
+            "original_title": "Seed of Chucky",
+            "overview": "This time around, Chucky and his homicidal honey, Tiffany, are brought back to life by their orphan offspring, Glen. Then the horror goes Hollywood as Chucky unleashes his own brand of murderous mayhem!",
+            "popularity": 52.464,
+            "poster_path": "/vd9K93gQ9whMKjXzADZanxWpIXM.jpg",
+            "release_date": "2004-11-12",
+            "title": "Seed of Chucky",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1296
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

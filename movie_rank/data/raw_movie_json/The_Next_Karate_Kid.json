@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/3b3RhAuhjQFQ3eNlP0rPujDI8eO.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10751,
+                12
+            ],
+            "id": 11231,
+            "original_language": "en",
+            "original_title": "The Next Karate Kid",
+            "overview": "Mr. Miyagi decides to take Julie, a troubled teenager, under his wing after he learns that she blames herself for her parents' demise and struggles to adjust with her grandmother and fellow pupils.",
+            "popularity": 19.792,
+            "poster_path": "/9asnrgm2oloHsTKj8NW0Tl7FKG5.jpg",
+            "release_date": "1994-07-18",
+            "title": "The Next Karate Kid",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 843
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

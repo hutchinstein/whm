@@ -1,0 +1,64 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/4zRKgE7kXZT0aclwlULHbUYYisg.jpg",
+            "genre_ids": [
+                35,
+                18,
+                9648
+            ],
+            "id": 270487,
+            "original_language": "en",
+            "original_title": "Hail, Caesar!",
+            "overview": "When a Hollywood star mysteriously disappears in the middle of filming, the studio sends their fixer to get him back.",
+            "popularity": 22.292,
+            "poster_path": "/txvoksUbyxqvaOvDfEbwW5nEcmX.jpg",
+            "release_date": "2016-02-05",
+            "title": "Hail, Caesar!",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 3401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/prXvVwk5w5ezhzBiQHI9AAJopXk.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 173299,
+            "original_language": "en",
+            "original_title": "Hail Caesar",
+            "overview": "Caesar is having a hard time dividing his time between his band and his rich girlfriend, Buffer. Buffer's dad doesn't like Ceasar, so he makes Caesar a bet. If Caesar can make a hundred thousand dollars within six months, he can stay with Buffer... but if he fails, their relationship is over forever. How can Ceasar win the bet if he only knows how jam with his band?",
+            "popularity": 3.877,
+            "poster_path": "/4zBmCJcGJKGWiCRunAjOC4rqcS6.jpg",
+            "release_date": "1994-05-11",
+            "title": "Hail Caesar",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                99
+            ],
+            "id": 405762,
+            "original_language": "en",
+            "original_title": "Hail Sid Caesar! The Golden Age of Comedy",
+            "overview": "Hail Sid Caesar! The Golden Age of Comedy is a must see for all fans of Sid Caesar and television comedies. The DVD  shows how Sid assembled a team of comedy writers for his shows - Your Show of Shows and Caesar's Hour. I was blown away by the list of talent that contributed. Names such as Neil Simon, Mel Brooks, Woody Allen, Carl Reiner, Imogene Coca, Howard Morris, and Larry Gelbart. The story is told by Rob Reiner, and profiles Sid Caesar and the effects success had on him. It tells the amazing story of what it was like to write, produce, direct and perform in a live show every Saturday night, for seven years. The DVD features digitally restored kinescopes, rare photos, personal memorabilia and recent interviews with the writers, Sid Caesar, Nanette Fabray, Caesar Florence, Drew Carey and Joel Siegel. It is a wonderful history lesson in television in a mere 90 minutes.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2002-01-01",
+            "title": "Hail Sid Caesar! The Golden Age of Comedy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

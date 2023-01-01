@@ -1,0 +1,62 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                53
+            ],
+            "id": 466272,
+            "original_language": "en",
+            "original_title": "Once Upon a Time\u2026 in Hollywood",
+            "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+            "popularity": 61.893,
+            "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "release_date": "2019-07-24",
+            "title": "Once Upon a Time\u2026 in Hollywood",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 11192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mPvCIlkh0y0it8wWvPTMHseO2n0.jpg",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "id": 70415,
+            "original_language": "en",
+            "original_title": "A Father\u2026 A Son\u2026 Once Upon a Time in Hollywood",
+            "overview": "Kirk Douglas achieved the kind of cinematic stardom that dreams are made of. As the torch was passed to his talented son Michael, it became obvious to everyone that the Douglas dynasty would continue to thrive\u2026",
+            "popularity": 0.813,
+            "poster_path": "/2O0mbMJk8m1Mqx1wxc2GKX42e3N.jpg",
+            "release_date": "2005-09-02",
+            "title": "A Father\u2026 A Son\u2026 Once Upon a Time in Hollywood",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tx01Z0RViPykayfSZtAoC96TAf3.jpg",
+            "genre_ids": [],
+            "id": 626376,
+            "original_language": "en",
+            "original_title": "Zo\u00eb Bell: The Woman Behind the Action of Tarantino's 'Once Upon a Time in Hollywood'",
+            "overview": "There is a very good chance you have been a fan of Zo\u00eb Bell's work for many years and never realized it. From such series as the 90s-tastic 'Xena: Warrior Princess' and Quentin Tarantino's bloody epic 'Kill Bill' movies, Zo\u00eb has been jumping, kicking, punching, and otherwise giving fans the amazing stunts they so desperately crave. We dive into these decades of action in this episode of The Hollywood Reporter's Magic Hour.",
+            "popularity": 1.592,
+            "poster_path": "/bZIg4CZLRqxaLjaNLjRyrgAt3s3.jpg",
+            "release_date": "2019-07-26",
+            "title": "Zo\u00eb Bell: The Woman Behind the Action of Tarantino's 'Once Upon a Time in Hollywood'",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

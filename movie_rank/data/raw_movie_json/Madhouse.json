@@ -1,0 +1,370 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/rhEh1GcVXt9qhaJCaywzPMDY6D4.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 51036,
+            "original_language": "en",
+            "original_title": "MadHouse",
+            "overview": "The luxurious villa of Mark and Jessie Bannister, a yuppie couple, is overrun by loads of uninvited guests who turn the house up side down.",
+            "popularity": 5.947,
+            "poster_path": "/rBTJ78LqL6ReH2StV4Te6AEEogd.jpg",
+            "release_date": "1990-02-16",
+            "title": "MadHouse",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aIwDGgoNL5qhQ4GRPbeaQTI2NP2.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 17209,
+            "original_language": "en",
+            "original_title": "Madhouse",
+            "overview": "A young psychiatric intern unearths secrets about the mental health facility in which he works.",
+            "popularity": 5.354,
+            "poster_path": "/ug2DwSZ5WCgMUJcWfEPn7wIHtpn.jpg",
+            "release_date": "2004-07-30",
+            "title": "Madhouse",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ibA1r3Zy4RlKsgZzJEZCuMMtsz.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 54133,
+            "original_language": "en",
+            "original_title": "Madhouse",
+            "overview": "A woman is pursued by her murderous, psychopathic twin sister in the days leading up to their birthday.",
+            "popularity": 4.07,
+            "poster_path": "/6ebCs7FLor0um97T41UULuXd5EM.jpg",
+            "release_date": "1981-03-04",
+            "title": "Madhouse",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a3rzGlFc6UmdWShekSzGbOLWUWk.jpg",
+            "genre_ids": [
+                80,
+                27,
+                9648,
+                53
+            ],
+            "id": 28715,
+            "original_language": "en",
+            "original_title": "Madhouse",
+            "overview": "A horror movie star returns to his famous role after years in a mental institution. But the character seems to be committing murders independent of his will.",
+            "popularity": 4.447,
+            "poster_path": "/8NhCGxDjbJAMr7LbjlKFX1MwbkA.jpg",
+            "release_date": "1974-05-22",
+            "title": "Madhouse",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aVSF2mx2lVcdkXYkXAMJVvpVfC8.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 522892,
+            "original_language": "en",
+            "original_title": "Escaping the Madhouse: The Nellie Bly Story",
+            "overview": "An investigative reporter Nellie Bly, who\u2019s on a mission to expose the deplorable conditions and mistreatment of patients at the notorious Women\u2019s Lunatic Asylum, and feigns mental illness in order to be institutionalized to report from the inside. The movie is an account of actual events surrounding Nellie\u2019s stay beginning after she has undergone treatment, leaving her with no recollection of how she came to the asylum or her real identity.",
+            "popularity": 10.929,
+            "poster_path": "/pbGCxfOEbVUoASAvLwcUEcPAhiy.jpg",
+            "release_date": "2019-01-06",
+            "title": "Escaping the Madhouse: The Nellie Bly Story",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1EZy6ToHGP4GD21Lb3rF5bxHQFy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 521706,
+            "original_language": "en",
+            "original_title": "Madhouse Mecca",
+            "overview": "When an underwhelmed housewife meets a mischievous exotic dancer with a taste for trouble, an unlikely friendship is formed that will change their lives forever.",
+            "popularity": 1.774,
+            "poster_path": "/J3WJN9fCfb9saqJ1BJLXswR0NX.jpg",
+            "release_date": "2018-01-01",
+            "title": "Madhouse Mecca",
+            "video": false,
+            "vote_average": 3.8,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ijOrGUZDu8FeXizcYAvOUf6RvUk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 345003,
+            "original_language": "en",
+            "original_title": "10 Days in a Madhouse",
+            "overview": "Nellie Bly, a 23 year-old reporter for Joseph Pulitzer, goes undercover in the notorious Blackwell's Island women's insane asylum in order to expose corruption, abuse and murder.",
+            "popularity": 2.253,
+            "poster_path": "/iTvJ5tc6Os90JXza9XfDktYlAOj.jpg",
+            "release_date": "2015-11-20",
+            "title": "10 Days in a Madhouse",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9DRM1AE3GsaYVYl29uNY5ZRryCW.jpg",
+            "genre_ids": [
+                16,
+                27
+            ],
+            "id": 480015,
+            "original_language": "en",
+            "original_title": "Madhouse Mitchel",
+            "overview": "Creeping from the halls of the maze brain, corruption and terror is woven by devils born from the denied errors of mankind.",
+            "popularity": 0.659,
+            "poster_path": "/6ocdKNdzkuvQvpq5UQlBBwp4Hbu.jpg",
+            "release_date": "2017-04-20",
+            "title": "Madhouse Mitchel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 213810,
+            "original_language": "en",
+            "original_title": "Edgar Allan Poe's Madhouse",
+            "overview": "Todd Sheets tries his hand at a Poe adaptation. Things go as well as you'd expect.",
+            "popularity": 0.84,
+            "poster_path": null,
+            "release_date": "1991-01-01",
+            "title": "Edgar Allan Poe's Madhouse",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 318665,
+            "original_language": "en",
+            "original_title": "Madhouse Mess",
+            "overview": "More than 700,000 federal workers have been sent home on unpaid leave. The Statue of Liberty, the iconic symbol of American freedom and prosperity, is cordoned off. An array of government services, including public health and food programs, have been abandoned. As Congress plays with fire, it is already taking its toll on the lives of ordinary Americans.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2014-01-01",
+            "title": "Madhouse Mess",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                18
+            ],
+            "id": 836961,
+            "original_language": "en",
+            "original_title": "The Madhouse on Castle Street",
+            "overview": "A man mysteriously locks himself in a room in a boarding house leaving only a note saying he has decided to \"retire from the world\". His worried sister and the other boarders then try to discover why.",
+            "popularity": 0.882,
+            "poster_path": null,
+            "release_date": "1963-01-13",
+            "title": "The Madhouse on Castle Street",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 442177,
+            "original_language": "en",
+            "original_title": "Tales from the Madhouse",
+            "overview": "Set inside the crumbling walls of a dilapidated Victorian sanatorium, eight mysterious characters reveal their secret stories to the visiting camera. The eight are linked by one unifying and crucial event in their lives: each of them has had an encounter with Jesus of Nazareth in some way \u2014 an experience that has left an indelible mark.",
+            "popularity": 1.005,
+            "poster_path": "/tceochDvmt9VuSpx0yA9TbdzWml.jpg",
+            "release_date": "2000-04-16",
+            "title": "Tales from the Madhouse",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 31738,
+            "original_language": "en",
+            "original_title": "Jethro: From the Madhouse",
+            "overview": "West Country comedian Jethro performs his own distinctive brand of humour.",
+            "popularity": 0.7,
+            "poster_path": "/vdY98ggVyngHpdtYNnetqncLByg.jpg",
+            "release_date": "2006-10-30",
+            "title": "Jethro: From the Madhouse",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 470665,
+            "original_language": "en",
+            "original_title": "Mental: A History of the Madhouse",
+            "overview": "Documentary which tells the fascinating and poignant story of the closure of Britain's mental asylums. In the post-war period, 150,000 people were hidden away in 120 of these vast Victorian institutions all across the country. Today, most mental patients, or service users as they are now called, live out in the community and the asylums have all but disappeared. Through powerful testimonies from patients, nurses and doctors, the film explores this seismic revolution and what it tells us about society's changing attitudes to mental illness over the last sixty years.",
+            "popularity": 0.951,
+            "poster_path": "/nVxPmI4qhiJZYHbq9NO84fcMf8Y.jpg",
+            "release_date": "2010-05-25",
+            "title": "Mental: A History of the Madhouse",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 272823,
+            "original_language": "en",
+            "original_title": "Are We Really So Far From the Madhouse?",
+            "overview": "Ostensibly a documentary or a music video chronicling influential post-punk Chinese group P.K. 14\u2019s first national tour, Li Hongqi\u2019s latest provocation becomes a rumination on existential ennui that takes place on endless highways as band members sit in their tour bus and anonymous hotels.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2011-10-01",
+            "title": "Are We Really So Far From the Madhouse?",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4bEobT73fUlJbWQAdRfnkjczTcN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 69403,
+            "original_language": "it",
+            "original_title": "L'infermiera nella corsia dei militari",
+            "overview": "A story about a singer/showgirl who poses as a nurse to recover some stolen paintings, which for some reason are hidden in a military insane asylum.",
+            "popularity": 5.968,
+            "poster_path": "/uq4EdNEhRADPX6RYIjx2N5NT9We.jpg",
+            "release_date": "1979-11-27",
+            "title": "The Nurse in the Military Madhouse",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 1025116,
+            "original_language": "zh",
+            "original_title": "\u6211\u4eec\u79bb\u75af\u4eba\u9662\u7a76\u7adf\u6709\u591a\u8fdc",
+            "overview": "Filming PK14's 2008 tour.",
+            "popularity": 0.6,
+            "poster_path": "/26Lx1ws4MVHkfFKz1OyZEUBrYq0.jpg",
+            "release_date": "2010-01-01",
+            "title": "ARE WE REALLY SO FAR FROM A MADHOUSE?",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 396931,
+            "original_language": "en",
+            "original_title": "Obr\u00e1zky z v\u00fdletu za plot bl\u00e1zince",
+            "overview": "The film acquaints us with the work of the senior consultant of pavilion 11 in the Bohnice mental house who endeavours to build up a complex rahabilitation and re-socialising programme for patients with chronic mental illness. One part of her treatment programme is a week's stay outside the institution for selected patients. It is this week which is captured on film",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1994-01-01",
+            "title": "Pictures from a Trip Beyond the Madhouse Fence",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 599000,
+            "original_language": "el",
+            "original_title": "\u03a4\u03c1\u03b5\u03bb\u03bb\u03ac\u03b4\u03b9\u03ba\u03bf \u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03bb\u03b5\u03af\u03b1\u03c2",
+            "overview": "Sometimes clumsy, sometimes amateurish, a well-meaning private eye is assigned the task of uncovering a conspiracy involving his old friend's sweetheart. Will he finally manage to get to the bottom of it?",
+            "popularity": 0.6,
+            "poster_path": "/bTm5hrCepu8CNQfMRkFHJ3EjFKe.jpg",
+            "release_date": "1989-01-01",
+            "title": "\u03a4\u03c1\u03b5\u03bb\u03bb\u03ac\u03b4\u03b9\u03ba\u03bf \u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03bb\u03b5\u03af\u03b1\u03c2",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjnRb80E7IyBuOUUHwXRHFdcfZA.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 104116,
+            "original_language": "en",
+            "original_title": "Ghost Story",
+            "overview": "Several old college friends converge at a mansion, ostensibly for a pleasant reunion. Larry Dann, the most easygoing of the bunch, comes to the conclusion that all is not well in the old dark house. For one thing, he's run across several people whom he's never met. For another, they all seem to be of a different time and place.",
+            "popularity": 0.6,
+            "poster_path": "/61wBxwAkBAa2Fe3jrRvQdTrirG4.jpg",
+            "release_date": "1974-03-19",
+            "title": "Ghost Story",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 7
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 22
+}

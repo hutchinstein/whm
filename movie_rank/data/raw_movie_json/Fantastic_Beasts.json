@@ -1,0 +1,123 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+            "genre_ids": [
+                14,
+                12,
+                28
+            ],
+            "id": 338953,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "overview": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+            "popularity": 195.743,
+            "poster_path": "/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
+            "release_date": "2022-04-06",
+            "title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 3044
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 259316,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts and Where to Find Them",
+            "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+            "popularity": 65.723,
+            "poster_path": "/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+            "release_date": "2016-11-16",
+            "title": "Fantastic Beasts and Where to Find Them",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 17233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
+            "genre_ids": [
+                14,
+                12,
+                28
+            ],
+            "id": 338952,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
+            "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause\u2014elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+            "popularity": 35.174,
+            "poster_path": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+            "release_date": "2018-11-14",
+            "title": "Fantastic Beasts: The Crimes of Grindelwald",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 9696
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 422641,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts 4",
+            "overview": "The fourth installment of the 'Fantastic Beasts and Where to Find Them' series which follows the adventures of Newt Scamander.",
+            "popularity": 9.855,
+            "poster_path": "/hRHkrmHx3wamc1cSazepEoyBays.jpg",
+            "title": "Fantastic Beasts 4",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 422642,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts 5",
+            "overview": "The fifth installment of the 'Fantastic Beasts and Where to Find Them' series which follows the adventures of Newt Scamander.",
+            "popularity": 7.622,
+            "poster_path": "/how9ENsi7XCYvF6ncaXmIAoNXn5.jpg",
+            "title": "Fantastic Beasts 5",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l2Szl45c6YTszCqpNZVcU8b0M8P.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 662244,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: A Natural History",
+            "overview": "Stephen Fry embarks on a journey to discover the stories behind some of the world's most fantastic beasts that have inspired myths and legends in history, story-telling and film.",
+            "popularity": 9.36,
+            "poster_path": "/icqVeNNQPZ6vzQFirqcAHGchHCB.jpg",
+            "release_date": "2022-02-27",
+            "title": "Fantastic Beasts: A Natural History",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 24
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

@@ -1,0 +1,42 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/rirnObmuDWKVsTOfriilECwvLlC.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 21845,
+            "original_language": "en",
+            "original_title": "Rookie of the Year",
+            "overview": "12-year-old Henry Rowengartner, whose late father was a minor league baseball player, grew up dreaming of playing baseball, despite his physical shortcomings. After Henry's arm is broken while trying to catch a baseball at school, the tendon in that arm heals too tightly, allowing Henry to throw pitches that are as fast as 103 mph. Henry is spotted at nearby Wrigley Field by Larry \"Fish\" Fisher, the general manager of the struggling Chicago Cubs, after Henry throws an opponent's home-run ball all the way from the outfield bleachers back to the catcher, and it seems that Henry may be the pitcher that team owner Bob Carson has been praying for.",
+            "popularity": 16.663,
+            "poster_path": "/9If8XnhBdEbQ2Q0ggAQC92CptjU.jpg",
+            "release_date": "1993-07-07",
+            "title": "Rookie of the Year",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 914498,
+            "original_language": "en",
+            "original_title": "Rookie of the Year",
+            "overview": "An 11-year-old girl encounters opposition when she joins her brother's Little League Baseball team, which happens to be all male.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1973-10-03",
+            "title": "Rookie of the Year",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

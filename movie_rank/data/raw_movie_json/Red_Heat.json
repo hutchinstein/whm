@@ -1,0 +1,60 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/q74DKpP6DeLK9nfLaoXqyTbtorp.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 9604,
+            "original_language": "en",
+            "original_title": "Red Heat",
+            "overview": "A tough Russian policeman is forced to partner up with a cocky Chicago police detective when he is sent to Chicago to apprehend a Georgian drug lord who killed his partner and fled the country.",
+            "popularity": 22.624,
+            "poster_path": "/AoJTHXmO01EZgT0p1YTsGBEQxLj.jpg",
+            "release_date": "1988-06-17",
+            "title": "Red Heat",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ktHxqwtJDBxRvw5YlR71rtLCeDk.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 73120,
+            "original_language": "en",
+            "original_title": "Red Heat",
+            "overview": "East Germans abduct a U.S. coed (Linda Blair) and throw her in a women's prison run by a brutal inmate (Sylvia Kristel).",
+            "popularity": 3.032,
+            "poster_path": "/63Fdf2AWXNeZL8v8TFGmxhjB2SI.jpg",
+            "release_date": "1985-05-28",
+            "title": "Red Heat",
+            "video": false,
+            "vote_average": 3.9,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1047678,
+            "original_language": "de",
+            "original_title": "War City 2 - Red Heat Conspiracy",
+            "overview": "",
+            "popularity": 7.531,
+            "poster_path": null,
+            "release_date": "2022-12-16",
+            "title": "War City 2 - Red Heat Conspiracy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

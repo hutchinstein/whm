@@ -1,0 +1,102 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/s5svcTbGcdTkA3cj7pCfy1rxy2O.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 8874,
+            "original_language": "en",
+            "original_title": "My Best Friend's Wedding",
+            "overview": "When she receives word that her longtime platonic pal Michael O'Neal is getting married to debutante Kimberly Wallace, food critic Julianne Potter realizes her true feelings for Michael -- and sets out to sabotage the wedding.",
+            "popularity": 15.24,
+            "poster_path": "/cKzFsv5NdYyKWhrmwsnBGe4cdFe.jpg",
+            "release_date": "1997-06-19",
+            "title": "My Best Friend's Wedding",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2238
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cEBixhdpivXI2Br6PerpL7xUby4.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 555801,
+            "original_language": "es",
+            "original_title": "La boda de mi mejor amigo",
+            "overview": "A woman is determined to stop the wedding of her best friend, since she has been secretly in love with him.",
+            "popularity": 6.751,
+            "poster_path": "/cGeT2u8jCWhIVIB5eZUExbgSoPr.jpg",
+            "release_date": "2019-02-14",
+            "title": "My Best Friend's Wedding",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 341600,
+            "original_language": "en",
+            "original_title": "My Best Friend's Wedding/My Best Friend's Sweating",
+            "overview": "A groom's best friend comes to his aid on his wedding day with unexpected consequences.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2011-08-03",
+            "title": "My Best Friend's Wedding/My Best Friend's Sweating",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wp7GnJFgrRLvfcb51QE7DrwhpJO.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 409289,
+            "original_language": "zh",
+            "original_title": "\u6211\u6700\u597d\u670b\u53cb\u7684\u5a5a\u793c",
+            "overview": "Growing up together, Lin Ran is not only Gu Jia's best friend but whom taken as a backup boyfriend unconsciously, until one day Lin Ran announces his engagement with the naive and rich Meng Yi-Xuan, and Gu Jia determines to win him back.",
+            "popularity": 2.258,
+            "poster_path": "/yIt0fe0fJj111N68maezwIhPggh.jpg",
+            "release_date": "2016-08-05",
+            "title": "My Best Friend's Wedding",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g7SdxrdtTwBefIrx0kU7ZgCDc8J.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 529488,
+            "original_language": "tr",
+            "original_title": "Her \u015eey Seninle G\u00fczel",
+            "overview": "Deniz goes to Izmir when she sees the danger of losing her great love Emre,who has not succeeded in forgetting. Melisa, who is competing to steal Emre's heart.",
+            "popularity": 3.882,
+            "poster_path": "/mOeLppymP0jaNXqOtlfs088qfgJ.jpg",
+            "release_date": "2018-11-16",
+            "title": "Everything Is Beautiful with You",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 3
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1nNQpKgY8CPrWiW9mFEGmeCIwqI.jpg",
+            "genre_ids": [
+                14,
+                12,
+                10751
+            ],
+            "id": 19051,
+            "original_language": "en",
+            "original_title": "The New Adventures of Pippi Longstocking",
+            "overview": "After her father's ship is carried off by a sudden storm, the spunky Pippi Longstocking is stranded with her horse, Alfonso,and her pet monkey, Mr. Neilson, and takes up residence in the old family home, which is thought by neighborhood children to be haunted. Soon, two children, Tommy and his sister Anika, venture into the house only to meet up with Pippi. The three soon become friends and get into various adventures together, including cleaning the floor with scrubbing shoes, dodging the \"splunks\", going down a waterfall in barrels, and helping Pippi with the problem of having to go to an orphanage. Older children will probably get the most out of this movie.",
+            "popularity": 9.955,
+            "poster_path": "/a9o3WEzGjr36YjqTnzuikxHvyET.jpg",
+            "release_date": "1988-07-06",
+            "title": "The New Adventures of Pippi Longstocking",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                12
+            ],
+            "id": 316037,
+            "original_language": "en",
+            "original_title": "Kaka Ferskur (Fresh Rolls) or The New Adventures of Pippi Longstocking",
+            "overview": "A Bergmanesque telling of Pippi Longstocking's coming of age.",
+            "popularity": 1.09,
+            "poster_path": null,
+            "release_date": "1988-01-01",
+            "title": "Kaka Ferskur (Fresh Rolls) or The New Adventures of Pippi Longstocking",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

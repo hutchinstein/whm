@@ -1,0 +1,82 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/yCOwgIIO0gYd7aEeyJ4oGM4h9Iy.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 9350,
+            "original_language": "en",
+            "original_title": "Cliffhanger",
+            "overview": "A year after losing his friend in a tragic 4,000-foot fall, former ranger Gabe Walker and his partner, Hal, are called to return to the same peak to rescue a group of stranded climbers, only to learn the climbers are actually thieving hijackers who are looking for boxes full of money.",
+            "popularity": 28.189,
+            "poster_path": "/8v2nPPLvhEVlfXu08UZ0djK31be.jpg",
+            "release_date": "1993-05-28",
+            "title": "Cliffhanger",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1955
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 570674,
+            "original_language": "en",
+            "original_title": "Cliffhanger",
+            "overview": "A re-imagining of the 1993 action-thriller about a mountain climber who becomes embroiled in the heist of a U.S. Treasury plane when it crashes in the Rocky Mountains. Plot TBA.",
+            "popularity": 1.34,
+            "poster_path": "/yXAo6GRp0j3Ukki8bnai4NoWoRf.jpg",
+            "release_date": "",
+            "title": "Cliffhanger",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qy5qf5bXojS2AEDwWLHs9J3ZCM0.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35
+            ],
+            "id": 672141,
+            "original_language": "nl",
+            "original_title": "Cliffhanger",
+            "overview": "A sheriff's shootout turns into an adventure through the wondrous world of film.",
+            "popularity": 0.6,
+            "poster_path": "/4UWzQdN3b71ODp3CTKhHHX03mZY.jpg",
+            "release_date": "2020-10-08",
+            "title": "Cliffhanger",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 627339,
+            "original_language": "en",
+            "original_title": "Action Heroes of the Cliffhanger Serials",
+            "overview": "A compilation of old serial trailers, in documentary-fashion.",
+            "popularity": 0.6,
+            "poster_path": "/38e73nr2aX2ENpANVIAN8by1MHO.jpg",
+            "release_date": "1992-01-01",
+            "title": "Action Heroes of the Cliffhanger Serials",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

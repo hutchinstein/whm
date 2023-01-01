@@ -1,0 +1,77 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zgkxHhvbZ8Q2j4cjrHgmwdCeGgt.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 11467,
+            "original_language": "en",
+            "original_title": "America's Sweethearts",
+            "overview": "In the midst of a nasty public breakup of married movie stars, a studio publicist scrambles to put a cap on the escalating situation as the couple's latest film has found it's only print kidnapped by the director.",
+            "popularity": 15.078,
+            "poster_path": "/4TQOYs8rCWi44O1tNbIQiRqHQkA.jpg",
+            "release_date": "2001-07-17",
+            "title": "America's Sweethearts",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 707
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 831460,
+            "original_language": "en",
+            "original_title": "Nelson and Jeanette: America's Singing Sweethearts",
+            "overview": "A look at the screen triumphs and private lives of the screen's number-one singing team.",
+            "popularity": 0.6,
+            "poster_path": "/3pfWK1ZhXDS5ILmryYK4qyiGTwd.jpg",
+            "release_date": "1992-01-01",
+            "title": "Nelson and Jeanette: America's Singing Sweethearts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 317554,
+            "original_language": "en",
+            "original_title": "Betty Boop: America's Sweetheart",
+            "overview": "This digitally remastered collection contains Betty Boop's all-time favorite cartoons from the 1930s. You'll find this cutie as charming and funny as ever! It's easy to see why Betty Boop was, and still is, referred to as America's Sweetheart.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2002-11-05",
+            "title": "Betty Boop: America's Sweetheart",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 516138,
+            "original_language": "en",
+            "original_title": "Billy Anderson: America's Sweetheart",
+            "overview": "Born in Texas and raised in Augusta, Georgia \u2013 Billy Anderson is stand-up comedian currently living in Seattle, Washington.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2017-05-24",
+            "title": "Billy Anderson: America's Sweetheart",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

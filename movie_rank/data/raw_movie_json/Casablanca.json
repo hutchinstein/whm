@@ -1,0 +1,367 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 289,
+            "original_language": "en",
+            "original_title": "Casablanca",
+            "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+            "popularity": 27.528,
+            "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+            "release_date": "1942-11-26",
+            "title": "Casablanca",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 4499
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wQ5rFmRnCsdZlc2mDNK4HUW2y3L.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 26940,
+            "original_language": "en",
+            "original_title": "A Night in Casablanca",
+            "overview": "The Marx Brothers are employed at a hotel in postwar Casablanca, where a ring of Nazis is trying to recover a cache of stolen treasure.",
+            "popularity": 8.689,
+            "poster_path": "/iltVdhtFkIyHuZDfJi9I1UAHD9D.jpg",
+            "release_date": "1946-05-10",
+            "title": "A Night in Casablanca",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lp2ktZ6KYmMIx2CcxtpQaO9OheE.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 62702,
+            "original_language": "it",
+            "original_title": "Casablanca, Casablanca",
+            "overview": "Francesco forgot billiards because now he lives with Chiara. She is a musician and she would like to become famous. Francesco is different: he found in her the reason of his life. But when she accepts a job far from home, Francesco comes back to billiards.",
+            "popularity": 2.233,
+            "poster_path": "/xxSXpA0xkEGuyCRZ58EYgqpBvyk.jpg",
+            "release_date": "1985-02-16",
+            "title": "Casablanca, Casablanca",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 57909,
+            "original_language": "da",
+            "original_title": "Cirkus Casablanca",
+            "overview": "Film about a pair of traveling entertainers and con-men and their problems with jobs, money and women. We follow them in a period there it goes downhill with engagements. It's hard for them to realize that entertainers of their kind are about to become extinct.",
+            "popularity": 1.296,
+            "poster_path": "/vdKVIqETTFaaXpSa2pRlYkAj1Rf.jpg",
+            "release_date": "1981-02-27",
+            "title": "The Circus Casablanca",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7S0EaMEXJgCdNAcdOl2RI0XZxjr.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10402
+            ],
+            "id": 92913,
+            "original_language": "es",
+            "original_title": "Noches de Casablanca",
+            "overview": "Casablanca 1942. While French Police Chief Maurice Desjardins is busy having careless fun with some loose girls, members of the French Resistance kill a man at the harbor and steal his briefcase full of important documents from the Third Reich. At an apartment building in the distance, Andre Kuhn watches the whole operation through his powerful binoculars. He is posing as a businessman but actually working as a spy for the Germans a fact totally ignored by his live-in girlfriend Teresa Villar, a beautiful Spanish singer who works at El Dorado Night Club. Andre telephones Max von Stauffen, the head of German Intelligence in Casablanca, to inform him of what he has just witnessed. Max tells him to stay put until he arrives in order to get the information personally but, by the time he reaches Andres apartment, he finds him dead with a gun shot on his temple.",
+            "popularity": 1.521,
+            "poster_path": "/6UfWWUiQCAc1r4jOgMwTklRFLT9.jpg",
+            "release_date": "1963-10-10",
+            "title": "Casablanca, Nest of Spies",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 48394,
+            "original_language": "fr",
+            "original_title": "Casablanca Driver",
+            "overview": "This mockumentary follows the world's worst boxer and the events that led to his meteoric rise in the year 1969.",
+            "popularity": 2.352,
+            "poster_path": "/veWo3S34BCCkqqHbVZYLt4rbtrO.jpg",
+            "release_date": "2004-06-30",
+            "title": "Casablanca Driver",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 76529,
+            "original_language": "fr",
+            "original_title": "Op\u00e9ration Casablanca",
+            "overview": "Mistaken for a dangerous Islamist, Saadi - a regular guy who happens to be an illegal Arab immigrant - sets out on the most dangerous day of his life. A satirical and thrilling comedy where a wrongly accused suspect gets mixed up in a worldwide terrorist plot.",
+            "popularity": 0.972,
+            "poster_path": "/tOocP3pLcr1Nz9wo9KIH8iLtq0.jpg",
+            "release_date": "2011-11-09",
+            "title": "Operation Casablanca",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/py5wVeMSoSQEINqhGZNWOx4D2TV.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1026966,
+            "original_language": "en",
+            "original_title": "Casablanca, Casablanca",
+            "overview": "The story of Aicha, a  young girl who disappears one day, and whose father lives a difficult life that gets even worse after her disappearance.",
+            "popularity": 0.6,
+            "poster_path": "/bBA22DP4QPcWxuPnwRh05D8cgnL.jpg",
+            "release_date": "2002-07-17",
+            "title": "Casablanca, Casablanca",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5DCwh97raUfUMw4yEnXrNzRwaSO.jpg",
+            "genre_ids": [
+                18,
+                28,
+                10752
+            ],
+            "id": 84729,
+            "original_language": "en",
+            "original_title": "Casablanca Express",
+            "overview": "It is 1942 and the conflict between the U.S. and Germany is getting heated, U.S. Intelligence soon discovers that the Natzis are planning to capture Winston Churchill.  In order to protect him they send commando Al Cooper to guard Churchill who is going by train to Casablanca where he will meet with Roosevelt and Stalin.",
+            "popularity": 0.817,
+            "poster_path": "/kEICc3IosfJ4Jat7FT0bakrm51r.jpg",
+            "release_date": "1989-12-22",
+            "title": "Casablanca Express",
+            "video": false,
+            "vote_average": 3.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1OtFzaNzxFaajr24we1LNAu3zCt.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 330066,
+            "original_language": "es",
+            "original_title": "Juego Sucio en Casablanca",
+            "overview": "Dean, a failed American writer, receives some unexpected news: his wife, who belongs to a wealthy family, has filed for divorce. Stunned, he decides to commit suicide. His initial attempt fails when he has second thought. But during a drunken blackout spent gambling he wins big and promises all the winnings to the man who can kill him...but they must possess a special playing card.",
+            "popularity": 0.754,
+            "poster_path": "/roBqnzASXnBT6Obcg5nUX2rc4sy.jpg",
+            "release_date": "1985-06-17",
+            "title": "Dirty Game in Casablanca",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 794504,
+            "original_language": "en",
+            "original_title": "Casablanca",
+            "overview": "A surreal look at the dream of violinist Nadine.",
+            "popularity": 0.6,
+            "poster_path": "/pW4Vjq9X8YYF2oh5JVkECXjTwFn.jpg",
+            "release_date": "2002-01-13",
+            "title": "Casablanca",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 106189,
+            "original_language": "en",
+            "original_title": "Il nostro agente a Casablanca",
+            "overview": "A man whose hand has been replaced by a steel one finds that his new hand has the ability to retain enough electricity so he can kill his enemies, which is exactly what he starts to do.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1966-08-19",
+            "title": "Our Man in Casablanca",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 700071,
+            "original_language": "en",
+            "original_title": "Shakespeare in Casablanca",
+            "overview": "It\u2019s summer in Casablanca, Morocco. A young theater group translates Shakespeare's \" A Midsummer Night's Dream\" in Darija, the Moroccan dialect, and takes the floor of the streets to stage it and ask people around about it, and about love, and language: how do Moroccans say I love you? A lively portrait of Casablanca the unloved, carried by an inspired Arab youth, full of hope and desire for art, happiness and freedom.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2016-12-29",
+            "title": "Shakespeare in Casablanca",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 323566,
+            "original_language": "en",
+            "original_title": "Casablanca Calling",
+            "overview": "Casablanca Calling is the story of a quiet social revolution in Morocco. In a country where 60% of women have never been to school, a new generation of women have started work as official Muslim leaders or Morchidat. The Morchidat work in some of the poorest communities in Morocco to separate the true teachings of Islam from prejudice and misunderstanding; support girls' education; campaign against early marriage; and encourage young people to build a better Morocco, rather than dreaming of life in the West. Casablanca Calling is an intimate portrait of three Morchidat, and the story of a society in transition and a mission to educate a nation.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2014-09-01",
+            "title": "Casablanca Calling",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uSwlXGdmQEiFYs0rol2ZfUUdm9Y.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 720693,
+            "original_language": "fr",
+            "original_title": "Metropolitan Casablanca",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/CcpPllDraxpoazIyGTvGWVWVt0.jpg",
+            "release_date": "2020-06-30",
+            "title": "Metropolitan Casablanca",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1022678,
+            "original_language": "es",
+            "original_title": "Casablanca revisitada",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/88YlcXLCnxFPi91s1ch9MJx7X8q.jpg",
+            "release_date": "",
+            "title": "Casablanca revisitada",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kEiPuEkDwnEowqrOebU3po1Gix5.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 513989,
+            "original_language": "id",
+            "original_title": "Terowongan Casablanca",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/lMFV7s7XbzyvrByag9I8dqC94GK.jpg",
+            "release_date": "2007-03-26",
+            "title": "Terowongan Casablanca",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cc3lwz8qspCx1vcyEoL6jvDOKUl.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 685751,
+            "original_language": "ar",
+            "original_title": "Casablanca by Night",
+            "overview": "Kaltoum is a 15-year-old girl who is forced to work in a nightclub in Casablanca, Morocco to pay for a medical operation for her little brother. to her dismay she discovers the cruel world, that of the city's nightlife.",
+            "popularity": 0.6,
+            "poster_path": "/cQRVu57OVOQGxpnfU5a6BhgGoGw.jpg",
+            "release_date": "2003-03-06",
+            "title": "Casablanca by Night",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 218885,
+            "original_language": "en",
+            "original_title": "Casablanca mon amour",
+            "overview": "A non-traditional road movie exploring a Moroccan perspective on the entwined relationship between Hollywood and The Arab World.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2012-12-14",
+            "title": "Casablanca mon amour",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 780344,
+            "original_language": "id",
+            "original_title": "Hantu Merah Casablanca",
+            "overview": "Ricky who wants to continue his studies abroad, invites his best friend (Gio, Aldo, Hanna, Windy and Mery) partying at his house in Casablanca street. Next day he is surprised to see that Hanna was killed, while Gio, Hanna,s fianc\u00e9, is found bound in the bathroom. Guilt and fear make them decide to bury Hanna quietly in a cemetery near Ricky\u2019s house.",
+            "popularity": 0.6,
+            "poster_path": "/1bPehgCkEoky1ONUYr7BfWtmqDu.jpg",
+            "release_date": "2014-10-23",
+            "title": "Hantu Merah Casablanca",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 43
+}

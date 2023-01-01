@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/scPndz1rp0AHkyk4a7bvgGY2xeS.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 74646,
+            "original_language": "en",
+            "original_title": "Nightmare Beach",
+            "overview": "In Miami, Florida, biker gang leader Edward \"Diablo\" Santer is about to be executed for murder when he proclaims his innocence and vows revenge from the grave. When a mysterious biker comes to town during Spring Break festivities, leaving several teenagers electrocuted to death, some begin to suspect that Santer has made good on his promise.",
+            "popularity": 6.909,
+            "poster_path": "/febAGZx40j1PMReqqUCZFxdztlL.jpg",
+            "release_date": "1989-09-01",
+            "title": "Nightmare Beach",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 57
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

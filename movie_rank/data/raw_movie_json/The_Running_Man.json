@@ -1,0 +1,103 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ycbCUcuxAk0KlVaocMedsW8atoH.jpg",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "id": 865,
+            "original_language": "en",
+            "original_title": "The Running Man",
+            "overview": "By 2017, the global economy has collapsed and U.S. society has become a totalitarian police state, censoring all cultural activity. The government pacifies the populace by broadcasting a number of game shows in which convicted criminals fight for their lives, including the gladiator-style The Running Man, hosted by the ruthless Damon Killian, where \u201crunners\u201d attempt to evade \u201cstalkers\u201d and certain death for a chance to be pardoned and set free.",
+            "popularity": 21.481,
+            "poster_path": "/GTAUOhO4BN0peJVvxGEQydJvUO.jpg",
+            "release_date": "1987-02-17",
+            "title": "The Running Man",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1908
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pRvZdvB0G4PwqQbdmBmDuX4bHIf.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 144299,
+            "original_language": "en",
+            "original_title": "The Running Man",
+            "overview": "When pilot Rex Black destroys his plane in a crash the day after his insurance policy expires, the insurance company refuses to give him any money. To strike back at the agency, Rex fakes his death, changes his identity, and escapes to Spain, with 50,000 pounds in life insurance money. His wife joins him in Spain, but when an insurance investigator arrives unexpectedly, Rex's paranoia causes him to flee again.",
+            "popularity": 4.046,
+            "poster_path": "/4tKUyNMhnhWeezI0AwLWc6tWyZG.jpg",
+            "release_date": "1963-10-01",
+            "title": "The Running Man",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sNZqPZL3p4Xcm6aRUubH0DZtkxB.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 51911,
+            "original_language": "en",
+            "original_title": "Night of the Running Man",
+            "overview": "A Las Vegas cab driver finds a million dollars of stolen money in his cab after his fare is murdered. Soon after, a ruthless hitman is in persuit; he will stop at nothing to recover the money and dispose of all witnesses.",
+            "popularity": 5.904,
+            "poster_path": "/q4lAGqpDySxw8iIWZFREofbtb6F.jpg",
+            "release_date": "1995-01-19",
+            "title": "Night of the Running Man",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878
+            ],
+            "id": 798645,
+            "original_language": "en",
+            "original_title": "The Running Man",
+            "overview": "Follows a man who joins a game show in which contestants, allowed to go anywhere in the world, are chased by \"Hunters\" employed to kill them.",
+            "popularity": 0.804,
+            "poster_path": "/uWy9kcleB6hGJr2QVXMYUVO01Bz.jpg",
+            "release_date": "",
+            "title": "The Running Man",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "id": 806688,
+            "original_language": "en",
+            "original_title": "The Running Man",
+            "overview": "A middle-aged family man and high school teacher struggles in silence as he accepts the fact that he is gay.",
+            "popularity": 0.887,
+            "poster_path": null,
+            "release_date": "1981-02-22",
+            "title": "The Running Man",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

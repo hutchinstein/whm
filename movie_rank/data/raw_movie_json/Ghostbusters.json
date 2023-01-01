@@ -1,0 +1,378 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zplzc6jxO3SK7Pa4yxVoRY5VflT.jpg",
+            "genre_ids": [
+                14,
+                35,
+                12
+            ],
+            "id": 425909,
+            "original_language": "en",
+            "original_title": "Ghostbusters: Afterlife",
+            "overview": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+            "popularity": 102.18,
+            "poster_path": "/xCTn3IA729UuyvB4rY65fiOOzUv.jpg",
+            "release_date": "2021-11-11",
+            "title": "Ghostbusters: Afterlife",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 3341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 620,
+            "original_language": "en",
+            "original_title": "Ghostbusters",
+            "overview": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+            "popularity": 34.398,
+            "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+            "release_date": "1984-06-08",
+            "title": "Ghostbusters",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 7666
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3RWsSQlqzRjsuqSRmoyggy74UA7.jpg",
+            "genre_ids": [
+                28,
+                14,
+                35
+            ],
+            "id": 43074,
+            "original_language": "en",
+            "original_title": "Ghostbusters",
+            "overview": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+            "popularity": 35.937,
+            "poster_path": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+            "release_date": "2016-07-14",
+            "title": "Ghostbusters",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 5687
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nENlPgXascVC71RDw5lCOTaPMHS.jpg",
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 2978,
+            "original_language": "en",
+            "original_title": "Ghostbusters II",
+            "overview": "Five years after they defeated Gozer, the Ghostbusters are out of business. When Dana begins to have ghost problems again, the boys come out of retirement to aid her and hopefully save New York City from a new paranormal threat.",
+            "popularity": 32.511,
+            "poster_path": "/u7UioNGwAeWfYPv5pSAZSM0ipSt.jpg",
+            "release_date": "1989-06-16",
+            "title": "Ghostbusters II",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3647
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                14,
+                878
+            ],
+            "id": 2979,
+            "original_language": "en",
+            "original_title": "Return of the Ghostbusters",
+            "overview": "The mile high city is rocked when an ancient Egyptian menace comes to town, and the Denver Ghostbusters must return to save the universe once more.",
+            "popularity": 5.58,
+            "poster_path": "/v39P0miPcFCVari8bBdW7M57mSR.jpg",
+            "release_date": "2007-01-01",
+            "title": "Return of the Ghostbusters",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14,
+                12,
+                35
+            ],
+            "id": 967847,
+            "original_language": "en",
+            "original_title": "Untitled Ghostbusters: Afterlife Sequel",
+            "overview": "A sequel to the 2021 film Ghostbusters: Afterlife. It will be the fourth film in the original Ghostbusters franchise, and the next chapter in the Spengler family story.",
+            "popularity": 4.267,
+            "poster_path": "/oaU1lvAKkGE7Gp2NkWZY7pTq9hz.jpg",
+            "release_date": "2023-12-20",
+            "title": "Untitled Ghostbusters: Afterlife Sequel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 71977,
+            "original_language": "en",
+            "original_title": "Freddy vs. Ghostbusters",
+            "overview": "Every town has an Elm Street, and Denver is no exception. The man of your dreams crosses paths with the boys in gray--who will win the battle for 1980's supremacy? The nightmare is always the same: dirty brown hat, striped sweater, and a glove of razors. Neil is having a lot of trouble sleeping lately, and the terrors are getting worse. Fortunately, help soon arrives in the the form of an old friend, Ed Spengler--nephew of Ghostbuster great Egon Spengler. With the help of their friend Eugene, Ed and Neil establish a Denver division of the Ghostbusters. Before long business is booming, but eventually they know they will have to face off against Freddy Krueger himself.",
+            "popularity": 2.068,
+            "poster_path": "/ruC7niAxU1ZUqNAXsR2jIbzCSgl.jpg",
+            "release_date": "2004-05-13",
+            "title": "Freddy vs. Ghostbusters",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fVGnBhE3KD4hhS4J8qH57JTQcOH.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 236426,
+            "original_language": "en",
+            "original_title": "Cleanin' Up the Town: Remembering Ghostbusters",
+            "overview": "The documentary that tells us the full story from where it all started through to the future of the \"Ghostbusters\" franchise.",
+            "popularity": 3.262,
+            "poster_path": "/kcc6qTeofnrBYX84LbvLIeHzIf0.jpg",
+            "release_date": "2020-01-07",
+            "title": "Cleanin' Up the Town: Remembering Ghostbusters",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                16,
+                35
+            ],
+            "id": 401887,
+            "original_language": "en",
+            "original_title": "The LEGO Ghostbusters Movie",
+            "overview": "LEGO Ghostbusters is an epic re-imagining of the classic Ghostbuster films. Digital Wizards Studios - Eight artists with a combined collection of over $100,000 of LEGO bricks spend 2000 hrs over the last 5 months: building, animating, lighting, compositing and composing for this animated marvel!",
+            "popularity": 1.545,
+            "poster_path": "/bl3qJmQCKAcmDlAOFTqtPGWoN5p.jpg",
+            "release_date": "2016-05-28",
+            "title": "LEGO Ghostbusters",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 567643,
+            "original_language": "pl",
+            "original_title": "Ghostbusters' SFX Team Featurette",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/hup1xbtmOafFabiPkUJIw318GCN.jpg",
+            "release_date": "1999-12-13",
+            "title": "Ghostbusters' SFX Team Featurette",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 835833,
+            "original_language": "en",
+            "original_title": "Ghostbusters: Behind Closed Doors",
+            "overview": "Go behind the scenes of the making of Ghostbusters featuring interviews with Bill Murray, Ivan Reitman and various crew members talking about the greatness of the first film while Al Roker and Dan Aykroyd beleaguer and belittle the people who didn't enjoy the remake.",
+            "popularity": 0.6,
+            "poster_path": "/wYFd4krYgtPB8YQlqWXg96XLYbz.jpg",
+            "release_date": "",
+            "title": "Ghostbusters: Behind Closed Doors",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 313148,
+            "original_language": "en",
+            "original_title": "The Real Ghostbusters: Slimefighters",
+            "overview": "This compilation of entertainingly ghoulish episodes from the animated series (based on the 1984 box-office blockbuster) follows a trio of ghost hunters on the trail of lost souls from the world of the dead. Featuring the voices of Arsenio Hall, Maurice LaMarche and Lorenzo Music, the collection includes four installments: \"Adventures in Slime and Space,\" \"They Call Me Mister Slimer,\" \"Victor the Happy Ghost\" and \"Slimer, Come Home.\"",
+            "popularity": 0.6,
+            "poster_path": "/zaolLzC1kUiUvLntRlfwux1fVGa.jpg",
+            "release_date": "2006-02-28",
+            "title": "The Real Ghostbusters: Slimefighters",
+            "video": true,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wEzmCrlf4gNtZUoACK2o9sTHxjI.jpg",
+            "genre_ids": [
+                35,
+                14,
+                16
+            ],
+            "id": 690048,
+            "original_language": "en",
+            "original_title": "Untitled Animated Ghostbusters Project",
+            "overview": "",
+            "popularity": 1.348,
+            "poster_path": "/tuwQuUxZ2FZKjYBWHacp8AOKWFE.jpg",
+            "release_date": "",
+            "title": "Untitled Animated Ghostbusters Project",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jkOc5uxpb51C5WVnKwmP5ub12CM.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 571905,
+            "original_language": "en",
+            "original_title": "Who You Gonna Call?: A Ghostbusters Retrospective",
+            "overview": "Entertainment Journalist Geoff Boucher sits down with Director Ivan Reitman and Co-Writer/Actor Dan Aykroyd, who recall shooting the original, discussing the role New York City plays in the film, the picture's massive success, the iconic images that arose from the film, Harold Ramis' contributions, the technical details of the shoot, the film's special effects, the cast's contributions to the film's success, music, fan reaction, and more.",
+            "popularity": 1.226,
+            "poster_path": "/vEaxbSgOIGsi1lDxAuK5ghOQQT9.jpg",
+            "release_date": "2014-09-16",
+            "title": "Who You Gonna Call?: A Ghostbusters Retrospective",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o6KXMon0fajbCPScmv0E060PZEx.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 571906,
+            "original_language": "en",
+            "original_title": "Time Is But a Window: Ghostbusters 2 and Beyond",
+            "overview": "A retrospective on Ghostbusters 2.",
+            "popularity": 1.275,
+            "poster_path": "/lzM5Ee1F2dwRFFHq8WOGicqDsO3.jpg",
+            "release_date": "2014-09-16",
+            "title": "Time Is But a Window: Ghostbusters 2 and Beyond",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 719339,
+            "original_language": "en",
+            "original_title": "Fully in the Bag: Ghostbusters 2016",
+            "overview": "The employees of Frightening Fast VCR Repair and Ghost Removal show up to work on a Saturday to review the 2016 Reboot of Ghostbusters. (Parody / Reboot of RedLetterMedia's Half in the Bag review of Ghostbusters 2016)",
+            "popularity": 0.6,
+            "poster_path": "/h11I3KlFxVTDuxhWkh6lgELN24n.jpg",
+            "release_date": "2018-06-01",
+            "title": "Fully in the Bag: Ghostbusters 2016",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 567641,
+            "original_language": "en",
+            "original_title": "On the Scene with the Ghostbusters",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/hULfp0aI0WtgUjQIs9OWkajqOsF.jpg",
+            "release_date": "1984-12-04",
+            "title": "On the Scene with the Ghostbusters",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 878786,
+            "original_language": "en",
+            "original_title": "Too Hot to Handle: Remembering Ghostbusters II",
+            "overview": "TOO HOT TO HANDLE: Remembering Ghostbusters II is the definitive feature length documentary on the making of Ghostbusters II, and is the companion film to the documentary CLEANIN' UP THE TOWN: Remembering Ghostbusters.",
+            "popularity": 0.6,
+            "poster_path": "/5RIMGlITW4yYUWK0PK32ZCkY2Er.jpg",
+            "release_date": "",
+            "title": "Too Hot to Handle: Remembering Ghostbusters II",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                16,
+                35,
+                14,
+                878,
+                10751
+            ],
+            "id": 731502,
+            "original_language": "en",
+            "original_title": "Filmation's Ghostbusters: The Revenge of Prime Evil",
+            "overview": "A squad of supernatural investigators are Earth's only defense against an evil ghost wizard and his minions.",
+            "popularity": 1.09,
+            "poster_path": "/ia0tiIAYFl43elAd0YM7rf93qMX.jpg",
+            "release_date": "1988-01-01",
+            "title": "Filmation's Ghostbusters: The Revenge of Prime Evil",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8XBUpCfWXriwODVVtYCgJYncymT.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 106468,
+            "original_language": "zh",
+            "original_title": "\u949f\u9997\u5ac1\u59b9",
+            "overview": "Wu Ma stars as a ghost who's searching for the perfect husband for his daughter. In order to get her married, the two decide to leave the spirit plain and head for the land of the living. To their surprise the world had drastically changed since they've last visited. The duo finds a likely candidate in a street hustler. The ghostly pair chase the poor guy until he seeks the help of a tao priest. Will the Tao priest send these wandering spirits back to hell or will the hustler join is ghostly bride forever?",
+            "popularity": 1.721,
+            "poster_path": "/o2yhCeVLIvCJ3Vplasw3LN0jjCh.jpg",
+            "release_date": "1994-03-05",
+            "title": "The Chinese Ghostbuster",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 26
+}

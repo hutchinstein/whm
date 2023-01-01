@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fpsbvvKAVHKG6WKBU1LPgyATEOa.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 26263,
+            "original_language": "en",
+            "original_title": "Death Wish 4: The Crackdown",
+            "overview": "After the death of his girlfriend's daughter from a drug overdose, Paul Kersey (Charles Bronson) takes on the local drug cartel.",
+            "popularity": 13.563,
+            "poster_path": "/r8HwJQJyKRyJ2JypwiVR5p0ZV84.jpg",
+            "release_date": "1987-06-11",
+            "title": "Death Wish 4: The Crackdown",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 223
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

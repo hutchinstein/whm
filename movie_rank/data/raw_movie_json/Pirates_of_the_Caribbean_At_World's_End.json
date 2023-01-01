@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/3Au8rkDVsRK2AT4jq9dg6jH6buy.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 285,
+            "original_language": "en",
+            "original_title": "Pirates of the Caribbean: At World's End",
+            "overview": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.",
+            "popularity": 75.324,
+            "poster_path": "/2YMnBRh8F6fDGCCEIPk9Hb0cEyB.jpg",
+            "release_date": "2007-05-19",
+            "title": "Pirates of the Caribbean: At World's End",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 12613
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                10770
+            ],
+            "id": 10372,
+            "original_language": "en",
+            "original_title": "Ewoks: The Battle for Endor",
+            "overview": "The army of the Marauders, led by King Terak and the witch Charal, attack the Ewoks village, killing Cindel's family. Cindel and the Ewok Wicket escape and meet Teek in the forest, a naughty and very fast animal. Teek takes them to a house in which an old man, Noa, lives. Like Cindel, he also crashed with his Starcruiser on Endor. Together they fight Terak and Charal.",
+            "popularity": 17.312,
+            "poster_path": "/ntgKdekb7xMKscyh2Hei706LBLf.jpg",
+            "release_date": "1985-11-24",
+            "title": "Ewoks: The Battle for Endor",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 206
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

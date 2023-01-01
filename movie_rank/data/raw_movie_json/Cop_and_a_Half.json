@@ -1,0 +1,49 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wauKko8jmeoz6vzjJTOxotK7eqZ.jpg",
+            "genre_ids": [
+                80,
+                35,
+                28,
+                10751,
+                10770
+            ],
+            "id": 461297,
+            "original_language": "en",
+            "original_title": "Cop and a Half: New Recruit",
+            "overview": "In this family-friendly action reboot of the 1993 film, Karina Foley, an ambitious and spunky 12-year-old, inserts herself in a police investigation of the Badge Bandit, led by the grizzled, veteran detective Mark Simmons. Much to Simmons' disapproval, Karina partners up with him to stop the Badge Bandit from further wreaking havoc on the city. Through wit, skill, and green smoothies, Karina and Detective Simmons save the day and build a strong relationship in the process.",
+            "popularity": 6.825,
+            "poster_path": "/7oxV17djCcUE2xFgrL5YE7RedX.jpg",
+            "release_date": "2017-08-01",
+            "title": "Cop and a Half: New Recruit",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lcgonNrWoZDknvDxEYq8RUksAlG.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10751
+            ],
+            "id": 12574,
+            "original_language": "en",
+            "original_title": "Cop and \u00bd",
+            "overview": "When a pint-sized 8-year-old kid witnesses a murder he offers to help the police, if they make him a cop, too. Saddled with this streetwise sidekick, a hardboiled cop is forced to take his new partner seriously as they race the clock to bring the bad guys to justice.",
+            "popularity": 8.216,
+            "poster_path": "/8JJd4j46J7IGRNBd2qC2BKSPsRL.jpg",
+            "release_date": "1993-04-02",
+            "title": "Cop and \u00bd",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 125
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

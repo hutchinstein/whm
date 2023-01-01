@@ -1,0 +1,70 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/rjUeBEhX3xZ5gN5RNcCwUDGHCqx.jpg",
+            "genre_ids": [
+                35,
+                878,
+                27,
+                53
+            ],
+            "id": 9890,
+            "original_language": "en",
+            "original_title": "The Stepford Wives",
+            "overview": "What does it take to become a Stepford wife, a woman perfect beyond belief? Ask the Stepford husbands, who've created this high-tech, terrifying little town.",
+            "popularity": 17.167,
+            "poster_path": "/ygr0Wlmm1KmE16TUefNitIscVBG.jpg",
+            "release_date": "2004-06-10",
+            "title": "The Stepford Wives",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 1130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u1DnYCbhcqklGewKXS0VvN372yM.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878,
+                53
+            ],
+            "id": 12223,
+            "original_language": "en",
+            "original_title": "The Stepford Wives",
+            "overview": "Joanna Eberhart has come to the quaint little town of Stepford, Connecticut with her family, but soon discovers there lies a sinister truth in the all too perfect behavior of the female residents.",
+            "popularity": 9.377,
+            "poster_path": "/eGJMm2OUfgt8DDKeHlWQWDcaCl7.jpg",
+            "release_date": "1975-02-12",
+            "title": "The Stepford Wives",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 250
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53,
+                10770,
+                878
+            ],
+            "id": 137533,
+            "original_language": "en",
+            "original_title": "Revenge of the Stepford Wives",
+            "overview": "A TV reporter arrives in the quiet town of Stepford to launch an investigation into why the town has the lowest divorce and crime rates in America. However, she begins to notice some bizarre behavior in the women of the town, discovering that Stepford is not as clean-cut as it seems.",
+            "popularity": 3.373,
+            "poster_path": "/2xRBNPJ9gpN5pQdyj3KUBUD9UIw.jpg",
+            "release_date": "1980-10-12",
+            "title": "Revenge of the Stepford Wives",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 8
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

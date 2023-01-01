@@ -1,0 +1,99 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jX6YNHHQAlZrrQzHt1Ecvupp5qL.jpg",
+            "genre_ids": [
+                35,
+                12
+            ],
+            "id": 11933,
+            "original_language": "en",
+            "original_title": "Nothing but Trouble",
+            "overview": "While attempting to seduce gorgeous lawyer Diane Lightson, wealthy gadabout Chris Thorne agrees to drive her to Atlantic City, N.J. But, when some reckless driving draws the attention of a deeply critical cop, they and the flamboyant \"Brazillionaires\" who tagged along end up in the court of a grotesque and vengeful judge, who has a special vendetta against the wealthy and erudite.",
+            "popularity": 12.004,
+            "poster_path": "/j2LblPvgkQaRmJh9QflBOTtzABA.jpg",
+            "release_date": "1991-02-14",
+            "title": "Nothing but Trouble",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 280
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rLgMJ6Y4qMc7CJKsCj0zl4eg6vT.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 25600,
+            "original_language": "en",
+            "original_title": "Nothing But Trouble",
+            "overview": "Two bumbling servants are hired by a dizzy society matron to cook and serve a meal to visiting royalty.",
+            "popularity": 2.143,
+            "poster_path": "/uY13IlREoNcRVHxeIPGgUyiFV5p.jpg",
+            "release_date": "1944-12-06",
+            "title": "Nothing But Trouble",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zAS8CMGsGhRWSxqYO3uQXpnfYf.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 407105,
+            "original_language": "en",
+            "original_title": "Nothing But Trouble",
+            "overview": "Harold appears as an active young man who gets a job as waiter in a restaurant. Disaster overtakes him and he is hurried off to jail at the close.",
+            "popularity": 0.952,
+            "poster_path": "/kTAbtbVRdGuW2XZkCRs0OhBEXTP.jpg",
+            "release_date": "1918-10-26",
+            "title": "Nothing But Trouble",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cZtjSVdMiFPVetYM3XnHGlLDFnu.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 56643,
+            "original_language": "no",
+            "original_title": "Aldri annet enn br\u00e5k",
+            "overview": "The working-class family Br\u00e5ten is living in a top floor of a tenement house on the outskirts of Oslo. The family includes three sons and two daughters, mother and father in one room and kitchen. Mother Hulda is the family hub while Mr.Br\u00e5ten itself is a silent and withdrawn worker. Children contribute in their own way to the neighbors are right when they exclaim: Never anything but trouble! There are problems for all when the police come into the picture after the one his son is participating in a car theft. Middle of all this chaos, 16-year-old Maiken (Vigdis R\u00f8ising) moves out and seek questionable friends, which brings her into conflict with his father. A tragedy brings the family together again.",
+            "popularity": 0.6,
+            "poster_path": "/qR0JFg3Xzenxxida03G7fr5MaZy.jpg",
+            "release_date": "1954-08-30",
+            "title": "Nothing but Troubles",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 183994,
+            "original_language": "da",
+            "original_title": "Altid ballade",
+            "overview": "Factory worker Otto Nielsen and his wife Helga live in a 2-room apartment in a sad Copenhagen suburbs district, where the S-trains still bumble by, but of course, such things can be used to. They have five children and it is often difficult to meet daily expenses. Nielsen has bought a building site outside the city, it is his dream to once again be able to exchange the narrow apartment with his own house.",
+            "popularity": 0.651,
+            "poster_path": "/w3C0ufVZFIyDX9SlD5wsYym3uic.jpg",
+            "release_date": "1955-10-30",
+            "title": "Always Trouble",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

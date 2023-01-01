@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/3umSuaSibCcNGAnsWYUyauLTZwE.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 9406,
+            "original_language": "en",
+            "original_title": "An American Werewolf in Paris",
+            "overview": "An American man unwittingly gets involved with werewolves who have developed a serum allowing them to transform at will.",
+            "popularity": 18.011,
+            "poster_path": "/1NUOprbP7LLfKPArLJY7wziUiHT.jpg",
+            "release_date": "1997-05-29",
+            "title": "An American Werewolf in Paris",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 557
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

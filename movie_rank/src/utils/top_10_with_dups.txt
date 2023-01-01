@@ -1,0 +1,498 @@
+488 Steven Spielberg 32
+	Transformers The Last Knight 335988
+	Jurassic World Fallen Kingdom 351286
+	Transformers 1858
+	The Lost World Jurassic Park 330
+	The Lost World Jurassic Park 330
+	The Flintstones 888
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Back to the Future II 165
+	Casper 8839
+	Gremlins 2 The New Batch 928
+	Back To The Future 105
+	Back To The Future 105
+	Transformers Dark of the Moon 38356
+	Jurassic World 135397
+	The Terminal 594
+	The Terminal 594
+	Gremlins 927
+	Gremlins 927
+	Gremlins 927
+	Deep Impact 8656
+	Jurassic Park III 331
+	Transformers Age of Extinction 91314
+	Men in Black II 608
+	Twister 664
+	Ready Player One 333339
+	Ready Player One 333339
+	Transformers Revenge of the Fallen 8373
+	Raiders of the Lost Ark 85
+	Shrek 808
+	The Haunting 11618
+	The Haunting 11618
+	Jurassic Park 329
+15831 Frank Welker 30
+	Transformers The Last Knight 335988
+	Richie Rich 11011
+	Godzilla 929
+	Space Jam 2300
+	Spawn 10336
+	Super Mario Bros. 9607
+	Gremlins 2 The New Batch 928
+	Cats & Dogs 10992
+	Shrek Forever After 10192
+	Deep Blue Sea 8914
+	Honey, I Shrunk The Kids 9354
+	Transformers Dark of the Moon 38356
+	Species 9348
+	101 Dalmatians 11674
+	How the Grinch Stole Christmas 8871
+	Gremlins 927
+	Bill &  Ted's Bogus Journey 1649
+	Stargate 2164
+	The Shadow 8850
+	Tank Girl 9067
+	Teenage Mutant Ninja Turtles II 1497
+	Transformers Age of Extinction 91314
+	Cat's Eye 10552
+	The New Adventures of Pippi Longstocking 19051
+	Transformers Revenge of the Fallen 8373
+	Raiders of the Lost Ark 85
+	Anaconda 9360
+	Scooby-Doo 9637
+	Shrek 808
+	The Cat in the Hat 10588
+1 George Lucas 30
+	Star Wars Episode VII 140607
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Star Wars Episode IX 181812
+	Howard The Duck 10658
+	The Ewok Adventure 1884
+	The Ewok Adventure 1884
+	Star Wars 11
+	Star Wars 11
+	Star Wars 11
+	Star Wars The Empire Strikes Back 1891
+	Star Wars The Empire Strikes Back 1891
+	Ewoks The Battle for Endor 10372
+	Ewoks The Battle for Endor 10372
+	Raiders of the Lost Ark 85
+	Raiders of the Lost Ark 85
+	Raiders of the Lost Ark 85
+	Star Wars Episode 1 The Phantom Menace 1893
+	Star Wars Episode 1 The Phantom Menace 1893
+	Star Wars Episode 1 The Phantom Menace 1893
+	Star Wars Return of the Jedi 1892
+	Star Wars Return of the Jedi 1892
+	Star Wars Return of the Jedi 1892
+	Star Wars Return of the Jedi 1892
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+16483 Sylvester Stallone 25
+	Rambo III 1370
+	Rambo III 1370
+	The Expendables 27578
+	The Expendables 27578
+	The Expendables 27578
+	Rocky IV 1374
+	Rocky IV 1374
+	Rocky IV 1374
+	Demolition Man 9739
+	Escape Plan 107846
+	Cliffhanger 9350
+	Cliffhanger 9350
+	Over the Top 1825
+	Over the Top 1825
+	Zookeeper 38317
+	Cobra 9874
+	Cobra 9874
+	Death Wish 395990
+	Rocky V 1375
+	Rocky V 1375
+	The Expendables 2 76163
+	The Expendables 2 76163
+	Tango & Cash 9618
+	Stop! Or My Mom Will Shoot 9876
+	Judge Dredd 9482
+1100 Arnold Schwarzenegger 21
+	The 6th Day 8452
+	The 6th Day 8452
+	The Expendables 27578
+	Junior 6280
+	Escape Plan 107846
+	End of Days 9946
+	Batman & Robin 415
+	Terminator 3 Rise of the Machines 296
+	Jingle All the Way 9279
+	Terminator 2 Judgment Day 280
+	The Running Man 865
+	Sabotage 144336
+	Raw Deal 2099
+	Red Heat 9604
+	Last Action Hero 9593
+	Last Action Hero 9593
+	The Expendables 2 76163
+	Kindergarten Cop 951
+	The Terminator 218
+	Eraser 9268
+	True Lies 36955
+11770 John Carpenter 21
+	Escape from New York 1103
+	Escape from New York 1103
+	Escape from New York 1103
+	Escape from New York 1103
+	Halloween Resurrection 11442
+	Halloween 948
+	Halloween 948
+	Halloween 948
+	Halloween 948
+	Halloween The Curse of Michael Myers 10987
+	John Carpenter's Vampires 9945
+	John Carpenter's Vampires 9945
+	The Thing 1091
+	The Thing 1091
+	The Thing 1091
+	Halloween H20 20 Years Later 11675
+	Halloween II 11281
+	Halloween II 11281
+	Halloween II 11281
+	Halloween III Season of the Witch 10676
+	Halloween III Season of the Witch 10676
+5140 Wes Craven 21
+	Freddy's Dead The Final Nightmare 11284
+	Scream 3 4234
+	Scream 3 4234
+	New Nightmare 11596
+	New Nightmare 11596
+	New Nightmare 11596
+	New Nightmare 11596
+	New Nightmare 11596
+	Wishmaster 10351
+	Deadly Friend 33278
+	Dream Warriors 10072
+	Dream Warriors 10072
+	Dream Warriors 10072
+	Dream Warriors 10072
+	A Nightmare on Elm Street 377
+	A Nightmare on Elm Street 377
+	Scream 2 4233
+	Scream 2 4233
+	Vampire in Brooklyn 12158
+	Dracula 2000 10577
+	Freddy vs. Jason 6466
+20582 Michael Papajohn 20
+	Jurassic World Fallen Kingdom 351286
+	Predator 2 169
+	Escape Plan 107846
+	Spawn 10336
+	S.W.A.T. 9257
+	Terminator 3 Rise of the Machines 296
+	Delta Farce 14547
+	Spider-Man 557
+	Jurassic World 135397
+	The Amazing Spider-Man 1930
+	The Last Boy Scout 9319
+	Live Free or Die Hard 1571
+	This Means War 59962
+	Spider-Man 3 559
+	Transformers Revenge of the Fallen 8373
+	Terminator Salvation 534
+	Eraser 9268
+	Jonah Hex 20533
+	Larry the Cable Guy Health Inspector 15639
+	I Know Who Killed Me 5857
+11614 M. Night Shyamalan 20
+	After Earth 82700
+	After Earth 82700
+	After Earth 82700
+	The Village 6947
+	The Village 6947
+	The Village 6947
+	The Village 6947
+	The Village 6947
+	Lady in the Water 9697
+	Lady in the Water 9697
+	Lady in the Water 9697
+	Lady in the Water 9697
+	The Happening 8645
+	The Happening 8645
+	The Happening 8645
+	The Happening 8645
+	The Last Airbender 10196
+	The Last Airbender 10196
+	The Last Airbender 10196
+	The Last Airbender 10196
+2231 Samuel L. Jackson 19
+	A Shock to the System 20876
+	Die Hard With A Vengeance 1572
+	S.W.A.T. 9257
+	Life Itself 446696
+	Kingsman The Secret Service 207703
+	Deep Blue Sea 8914
+	Twisted 13572
+	xXx 7451
+	Star Wars Episode IX 181812
+	Kill Bill Vol. 2 393
+	Iron Man 2 10138
+	The Exorcist III 11587
+	Iron Man 1726
+	Sphere 10153
+	Hail Caesar 173299
+	Star Wars Episode 1 The Phantom Menace 1893
+	Goodfellas 769
+	Jurassic Park 329
+	Star Wars Episode II 1894
+488 Steven Spielberg 32
+	Transformers The Last Knight 335988
+	Jurassic World Fallen Kingdom 351286
+	Transformers 1858
+	The Lost World Jurassic Park 330
+	The Lost World Jurassic Park 330
+	The Flintstones 888
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Back to the Future II 165
+	Casper 8839
+	Gremlins 2 The New Batch 928
+	Back To The Future 105
+	Back To The Future 105
+	Transformers Dark of the Moon 38356
+	Jurassic World 135397
+	The Terminal 594
+	The Terminal 594
+	Gremlins 927
+	Gremlins 927
+	Gremlins 927
+	Deep Impact 8656
+	Jurassic Park III 331
+	Transformers Age of Extinction 91314
+	Men in Black II 608
+	Twister 664
+	Ready Player One 333339
+	Ready Player One 333339
+	Transformers Revenge of the Fallen 8373
+	Raiders of the Lost Ark 85
+	Shrek 808
+	The Haunting 11618
+	The Haunting 11618
+	Jurassic Park 329
+15831 Frank Welker 30
+	Transformers The Last Knight 335988
+	Richie Rich 11011
+	Godzilla 929
+	Space Jam 2300
+	Spawn 10336
+	Super Mario Bros. 9607
+	Gremlins 2 The New Batch 928
+	Cats & Dogs 10992
+	Shrek Forever After 10192
+	Deep Blue Sea 8914
+	Honey, I Shrunk The Kids 9354
+	Transformers Dark of the Moon 38356
+	Species 9348
+	101 Dalmatians 11674
+	How the Grinch Stole Christmas 8871
+	Gremlins 927
+	Bill &  Ted's Bogus Journey 1649
+	Stargate 2164
+	The Shadow 8850
+	Tank Girl 9067
+	Teenage Mutant Ninja Turtles II 1497
+	Transformers Age of Extinction 91314
+	Cat's Eye 10552
+	The New Adventures of Pippi Longstocking 19051
+	Transformers Revenge of the Fallen 8373
+	Raiders of the Lost Ark 85
+	Anaconda 9360
+	Scooby-Doo 9637
+	Shrek 808
+	The Cat in the Hat 10588
+1 George Lucas 30
+	Star Wars Episode VII 140607
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Indiana Jones and the Kingdom of the Crystal Skull 217
+	Star Wars Episode IX 181812
+	Howard The Duck 10658
+	The Ewok Adventure 1884
+	The Ewok Adventure 1884
+	Star Wars 11
+	Star Wars 11
+	Star Wars 11
+	Star Wars The Empire Strikes Back 1891
+	Star Wars The Empire Strikes Back 1891
+	Ewoks The Battle for Endor 10372
+	Ewoks The Battle for Endor 10372
+	Raiders of the Lost Ark 85
+	Raiders of the Lost Ark 85
+	Raiders of the Lost Ark 85
+	Star Wars Episode 1 The Phantom Menace 1893
+	Star Wars Episode 1 The Phantom Menace 1893
+	Star Wars Episode 1 The Phantom Menace 1893
+	Star Wars Return of the Jedi 1892
+	Star Wars Return of the Jedi 1892
+	Star Wars Return of the Jedi 1892
+	Star Wars Return of the Jedi 1892
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+	Star Wars Episode II 1894
+16483 Sylvester Stallone 25
+	Rambo III 1370
+	Rambo III 1370
+	The Expendables 27578
+	The Expendables 27578
+	The Expendables 27578
+	Rocky IV 1374
+	Rocky IV 1374
+	Rocky IV 1374
+	Demolition Man 9739
+	Escape Plan 107846
+	Cliffhanger 9350
+	Cliffhanger 9350
+	Over the Top 1825
+	Over the Top 1825
+	Zookeeper 38317
+	Cobra 9874
+	Cobra 9874
+	Death Wish 395990
+	Rocky V 1375
+	Rocky V 1375
+	The Expendables 2 76163
+	The Expendables 2 76163
+	Tango & Cash 9618
+	Stop! Or My Mom Will Shoot 9876
+	Judge Dredd 9482
+1100 Arnold Schwarzenegger 21
+	The 6th Day 8452
+	The 6th Day 8452
+	The Expendables 27578
+	Junior 6280
+	Escape Plan 107846
+	End of Days 9946
+	Batman & Robin 415
+	Terminator 3 Rise of the Machines 296
+	Jingle All the Way 9279
+	Terminator 2 Judgment Day 280
+	The Running Man 865
+	Sabotage 144336
+	Raw Deal 2099
+	Red Heat 9604
+	Last Action Hero 9593
+	Last Action Hero 9593
+	The Expendables 2 76163
+	Kindergarten Cop 951
+	The Terminator 218
+	Eraser 9268
+	True Lies 36955
+11770 John Carpenter 21
+	Escape from New York 1103
+	Escape from New York 1103
+	Escape from New York 1103
+	Escape from New York 1103
+	Halloween Resurrection 11442
+	Halloween 948
+	Halloween 948
+	Halloween 948
+	Halloween 948
+	Halloween The Curse of Michael Myers 10987
+	John Carpenter's Vampires 9945
+	John Carpenter's Vampires 9945
+	The Thing 1091
+	The Thing 1091
+	The Thing 1091
+	Halloween H20 20 Years Later 11675
+	Halloween II 11281
+	Halloween II 11281
+	Halloween II 11281
+	Halloween III Season of the Witch 10676
+	Halloween III Season of the Witch 10676
+5140 Wes Craven 21
+	Freddy's Dead The Final Nightmare 11284
+	Scream 3 4234
+	Scream 3 4234
+	New Nightmare 11596
+	New Nightmare 11596
+	New Nightmare 11596
+	New Nightmare 11596
+	New Nightmare 11596
+	Wishmaster 10351
+	Deadly Friend 33278
+	Dream Warriors 10072
+	Dream Warriors 10072
+	Dream Warriors 10072
+	Dream Warriors 10072
+	A Nightmare on Elm Street 377
+	A Nightmare on Elm Street 377
+	Scream 2 4233
+	Scream 2 4233
+	Vampire in Brooklyn 12158
+	Dracula 2000 10577
+	Freddy vs. Jason 6466
+20582 Michael Papajohn 20
+	Jurassic World Fallen Kingdom 351286
+	Predator 2 169
+	Escape Plan 107846
+	Spawn 10336
+	S.W.A.T. 9257
+	Terminator 3 Rise of the Machines 296
+	Delta Farce 14547
+	Spider-Man 557
+	Jurassic World 135397
+	The Amazing Spider-Man 1930
+	The Last Boy Scout 9319
+	Live Free or Die Hard 1571
+	This Means War 59962
+	Spider-Man 3 559
+	Transformers Revenge of the Fallen 8373
+	Terminator Salvation 534
+	Eraser 9268
+	Jonah Hex 20533
+	Larry the Cable Guy Health Inspector 15639
+	I Know Who Killed Me 5857
+11614 M. Night Shyamalan 20
+	After Earth 82700
+	After Earth 82700
+	After Earth 82700
+	The Village 6947
+	The Village 6947
+	The Village 6947
+	The Village 6947
+	The Village 6947
+	Lady in the Water 9697
+	Lady in the Water 9697
+	Lady in the Water 9697
+	Lady in the Water 9697
+	The Happening 8645
+	The Happening 8645
+	The Happening 8645
+	The Happening 8645
+	The Last Airbender 10196
+	The Last Airbender 10196
+	The Last Airbender 10196
+	The Last Airbender 10196
+2231 Samuel L. Jackson 19
+	A Shock to the System 20876
+	Die Hard With A Vengeance 1572
+	S.W.A.T. 9257
+	Life Itself 446696
+	Kingsman The Secret Service 207703
+	Deep Blue Sea 8914
+	Twisted 13572
+	xXx 7451
+	Star Wars Episode IX 181812
+	Kill Bill Vol. 2 393
+	Iron Man 2 10138
+	The Exorcist III 11587
+	Iron Man 1726
+	Sphere 10153
+	Hail Caesar 173299
+	Star Wars Episode 1 The Phantom Menace 1893
+	Goodfellas 769
+	Jurassic Park 329
+	Star Wars Episode II 1894

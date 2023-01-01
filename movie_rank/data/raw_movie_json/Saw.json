@@ -1,0 +1,394 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                80
+            ],
+            "id": 176,
+            "original_language": "en",
+            "original_title": "Saw",
+            "overview": "Obsessed with teaching his victims the value of life, a deranged, sadistic serial killer abducts the morally wayward. Once captured, they must face impossible choices in a horrific game of survival. The victims must fight to win their lives back, or die trying...",
+            "popularity": 51.894,
+            "poster_path": "/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg",
+            "release_date": "2004-10-01",
+            "title": "Saw",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 7768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qx8Pb3nVnHLBizI9792pbRN5nnm.jpg",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "id": 214,
+            "original_language": "en",
+            "original_title": "Saw III",
+            "overview": "Jigsaw has disappeared. Along with his new apprentice Amanda, the puppet-master behind the cruel, intricate games that have terrified a community and baffled police has once again eluded capture and vanished. While city detective scramble to locate him, Doctor Lynn Denlon and Jeff Reinhart are unaware that they are about to become the latest pawns on his vicious chessboard.",
+            "popularity": 45.104,
+            "poster_path": "/wvdsqBqFrAcUvp9VNdhQkmgBhL5.jpg",
+            "release_date": "2006-10-27",
+            "title": "Saw III",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 3711
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1lWeIA03iGXTlDv0yzsN0wUdT9T.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 215,
+            "original_language": "en",
+            "original_title": "Saw II",
+            "overview": "When a new murder victim is discovered with all the signs of Jigsaw's hand, Detective Eric Matthews begins a full investigation and apprehends Jigsaw with little effort. But for Jigsaw, getting caught is just another part of his plan. Eight more of his victims are already fighting for their lives and now it's time for Matthews to join the game.",
+            "popularity": 44.172,
+            "poster_path": "/apXhunaMbuMyq3IvSJ3xNYrh6Yu.jpg",
+            "release_date": "2005-10-28",
+            "title": "Saw II",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 4428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9rlenYH6E1kOWuQW3wl4XjjFKTJ.jpg",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "id": 11917,
+            "original_language": "en",
+            "original_title": "Saw V",
+            "overview": "Detective Hoffman is seemingly the last person alive to carry on the Jigsaw legacy. But when his secret is threatened, he must go on the hunt to eliminate all the loose ends.",
+            "popularity": 40.332,
+            "poster_path": "/dpiS8OcDaTkBdQZkkrdQPPXdJgK.jpg",
+            "release_date": "2008-10-23",
+            "title": "Saw V",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yi0tfJBw9icvlWTXvjLqpEeSTia.jpg",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "id": 663,
+            "original_language": "en",
+            "original_title": "Saw IV",
+            "overview": "Jigsaw and his apprentice Amanda are dead. Now, upon the news of Detective Kerry's murder, two seasoned FBI profilers, Agent Strahm and Agent Perez, arrive in the terrified community to assist the veteran Detective Hoffman in sifting through Jigsaw's latest grisly remains and piecing together the puzzle. However, when SWAT Commander Rigg is abducted and thrust into a game, the last officer untouched by Jigsaw has but ninety minutes to overcome a series of demented traps and save an old friend...or face the deadly consequences.",
+            "popularity": 39.35,
+            "poster_path": "/e3pLI0qN1AKGHwOcMuwTpyI2SLN.jpg",
+            "release_date": "2007-10-25",
+            "title": "Saw IV",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 3087
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bXECndnt2fetBsopdQvsI3Cv970.jpg",
+            "genre_ids": [
+                27,
+                80
+            ],
+            "id": 41439,
+            "original_language": "en",
+            "original_title": "Saw 3D",
+            "overview": "(AKA- Saw: The Final Chapter)  As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+            "popularity": 35.559,
+            "poster_path": "/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+            "release_date": "2010-10-21",
+            "title": "Saw 3D",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 2465
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vVLwvYvMQ30MIbvvrCfUdBNWSNR.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 22804,
+            "original_language": "en",
+            "original_title": "Saw VI",
+            "overview": "Special Agent Strahm is dead, and Detective Hoffman has emerged as the unchallenged successor to Jigsaw's legacy. However, when the FBI draws closer to Hoffman, he is forced to set a game into motion, and Jigsaw's grand scheme is finally understood.",
+            "popularity": 35.267,
+            "poster_path": "/9fFI57FuE9X4pUCIiKZZZCB7caK.jpg",
+            "release_date": "2009-10-16",
+            "title": "Saw VI",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 2599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8d2s5MP8mc1OXaq7zn6PHv9kWY4.jpg",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "id": 246355,
+            "original_language": "en",
+            "original_title": "Saw",
+            "overview": "David, an orderly at a hospital, tells his horrific story of being kidnapped and forced to play a vile game of survival.",
+            "popularity": 20.357,
+            "poster_path": "/qQ3oSIJhHxdLyOimhO8HKCovajX.jpg",
+            "release_date": "2003-01-01",
+            "title": "Saw",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 442
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
+            "genre_ids": [
+                27,
+                80,
+                9648
+            ],
+            "id": 602734,
+            "original_language": "en",
+            "original_title": "Spiral: From the Book of Saw",
+            "overview": "Working in the shadow of an esteemed police veteran, brash Detective Ezekiel \u201cZeke\u201d Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city\u2019s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer\u2019s morbid game.",
+            "popularity": 40.736,
+            "poster_path": "/qkl6mRoFexK2FGWCbAsvrRxjWaF.jpg",
+            "release_date": "2021-05-12",
+            "title": "Spiral: From the Book of Saw",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1423
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 951491,
+            "original_language": "en",
+            "original_title": "Saw X",
+            "overview": "The tenth instalment in the \"Saw\" franchise. Plot TBA.",
+            "popularity": 14.218,
+            "poster_path": "/pzVkJWWDG0ISNH6T3B3iVBJkl9s.jpg",
+            "release_date": "2023-10-26",
+            "title": "Saw X",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 30497,
+            "original_language": "en",
+            "original_title": "The Texas Chain Saw Massacre",
+            "overview": "When Sally hears that her grandfather's grave may have been vandalized, she and her paraplegic brother, Franklin, set out with their friends to investigate. After a detour to their family's old farmhouse, they discover a group of crazed, murderous outcasts living next door. As the group is attacked one by one by the chainsaw-wielding Leatherface, who wears a mask of human skin, the survivors must do everything they can to escape.",
+            "popularity": 31.77,
+            "poster_path": "/9s8uSm5K1W0vhGPHv2icM6SFib8.jpg",
+            "release_date": "1974-10-01",
+            "title": "The Texas Chain Saw Massacre",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2606
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                80,
+                27
+            ],
+            "id": 168891,
+            "original_language": "en",
+            "original_title": "Saw: Rebirth",
+            "overview": "This animated comic goes back in time to explore the events that spurred the transformation of mild-mannered John Kramer into the monstrous Jigsaw.",
+            "popularity": 5.526,
+            "poster_path": null,
+            "release_date": "2005-10-24",
+            "title": "Saw: Rebirth",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pcR8VPHXD9WoVq95Vnx1JEiffP7.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 297806,
+            "original_language": "en",
+            "original_title": "I Saw the Light",
+            "overview": "Singer and songwriter Hank Williams rises to fame in the 1940s, but alcohol abuse and infidelity take a toll on his career and marriage to fellow musician Audrey Mae Williams.",
+            "popularity": 10.473,
+            "poster_path": "/A2AryRwBcPDhet25eyQCyupXl0D.jpg",
+            "release_date": "2016-02-05",
+            "title": "I Saw the Light",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5f5Qh9tpxIaQK9EkHzZ4oYZmy4.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 57575,
+            "original_language": "en",
+            "original_title": "The Last Time I Saw Paris",
+            "overview": "Reporter Charles Wills, in Paris to cover the end of World War II, falls for the beautiful Helen Ellswirth following a brief flirtation with her sister, Marion. After he and Helen marry, Charles pursues his novelistic ambition while supporting his new bride with a deadening job at a newspaper wire service. But when an old investment suddenly makes the family wealthy, their marriage begins to unravel \u2014 until a sudden tragedy changes everything.",
+            "popularity": 9.344,
+            "poster_path": "/5Jewkhcv692rY07Yvq6A9JhOq62.jpg",
+            "release_date": "1954-01-01",
+            "title": "The Last Time I Saw Paris",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/blOCPsMn7szkQ0b51AIXGgut6WR.jpg",
+            "genre_ids": [
+                27,
+                18,
+                53
+            ],
+            "id": 681986,
+            "original_language": "en",
+            "original_title": "The Last Thing Mary Saw",
+            "overview": "Winter, 1843. A young woman is under investigation following the mysterious death of her family's matriarch. Her recollection of the events sheds new light on the ageless forces behind the tragedy.",
+            "popularity": 6.621,
+            "poster_path": "/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg",
+            "release_date": "2021-08-15",
+            "title": "The Last Thing Mary Saw",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d3rvdCFRHydPhb9bxnMBUFMEA9I.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 696605,
+            "original_language": "en",
+            "original_title": "What Josiah Saw",
+            "overview": "A family with buried secrets reunite at a farmhouse after two decades to pay for their past sins.",
+            "popularity": 3.8,
+            "poster_path": "/shQp0z52NBVTE2chXL8YRhoAEKg.jpg",
+            "release_date": "2021-08-13",
+            "title": "What Josiah Saw",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sLuPY3dqJHCb9egToTN4tKl3HUB.jpg",
+            "genre_ids": [
+                99,
+                18
+            ],
+            "id": 46973,
+            "original_language": "en",
+            "original_title": "The Man Who Saw Tomorrow",
+            "overview": "Hosted by Orson Welles, this documentary utilizes a grab bag of dramatized scenes, stock footage, TV news clips and interviews to ask: Did 16th century French astrologer and physician Nostradamus actually predict such events as the fall of King Louis XVI, the rise of Napoleon, the assassination of President John F. Kennedy? And are there prophecies that have yet to come true?",
+            "popularity": 4.365,
+            "poster_path": "/dEf5Dfi0ZKDXRTJzCyTzF8PUkmx.jpg",
+            "release_date": "1981-01-09",
+            "title": "The Man Who Saw Tomorrow",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6sH1zc18D67CKE7Lyux2kyww0SC.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 28295,
+            "original_language": "en",
+            "original_title": "I Saw What You Did",
+            "overview": "Teenage friends Kit and Libby make prank phone calls for fun but then find themselves involved in a brutal double murder committed by one of their targets.",
+            "popularity": 4.305,
+            "poster_path": "/mliHs2Ii393vF0A3i73F6jAysdh.jpg",
+            "release_date": "1965-07-21",
+            "title": "I Saw What You Did",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6hBomedYF2lEzHbfKE4k81CkDdd.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                10770
+            ],
+            "id": 36427,
+            "original_language": "en",
+            "original_title": "I Saw Mommy Kissing Santa Claus",
+            "overview": "A boy witnesses his mother kissing what he believes to be is the real Santa Clause and retaliates with mischief.",
+            "popularity": 5.21,
+            "poster_path": "/qYT1IElPInc5D4GhI6nqM7FgDTg.jpg",
+            "release_date": "2002-10-23",
+            "title": "I Saw Mommy Kissing Santa Claus",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iatvn8Owrq1Y9B7lnFw2rWubGBa.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 471177,
+            "original_language": "en",
+            "original_title": "Game Changer: The Legacy of Saw",
+            "overview": "Generations of movie fans have thrilled to Saw's blood-curdling story of a serial killer who traps his victims in a sadistic game of survival. Game Changer takes you behind the scenes, as cast and crew reveal the stories behind the film that launched the most successful horror franchise in movie history.",
+            "popularity": 2.723,
+            "poster_path": "/uYRHCj0KsJkVKJkeWNt7qig7aPp.jpg",
+            "release_date": "2015-10-14",
+            "title": "Game Changer: The Legacy of Saw",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 4
+        }
+    ],
+    "total_pages": 19,
+    "total_results": 368
+}

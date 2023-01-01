@@ -1,0 +1,99 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/huQu4M7oTXqT1RXUhiLLRI5C4Dw.jpg",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "id": 68773,
+            "original_language": "en",
+            "original_title": "Dollman",
+            "overview": "Brick Bardo is a traveller from outer space who is forced to land on Earth. Though regular sized on his home planet, he is doll-sized here on Earth, as are the enemy forces who have landed as well. While Brick enlists the help of an impoverished girl and her son, the bad guys enlist the help of a local gang. When word leaks out as to his location, and all hell breaks loose. Brick is besieged by an onslaught of curious kids, angry gang members, and his own doll-sized enemies, and he must protect the family who has helped him and get off the planet alive.",
+            "popularity": 5.22,
+            "poster_path": "/sdTZakxo4jmRko7KOzBW7BqZ4fr.jpg",
+            "release_date": "1991-11-27",
+            "title": "Dollman",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z1E0msLvdPrFIz0ZVQ39wbHCJB1.jpg",
+            "genre_ids": [
+                27,
+                53,
+                878,
+                28,
+                14
+            ],
+            "id": 84152,
+            "original_language": "en",
+            "original_title": "Dollman vs. Demonic Toys",
+            "overview": "The Demonic Toys are back, so policewoman Judith Grey seeks the help of 12 inch tall Dollman and his 12 inch tall girlfriend, Nurse Ginger. The Toys hole up in an evil deserted toy factory and it's up to Dollman to keep the Toys from summoning the powers of darkness to the Earth.",
+            "popularity": 4.854,
+            "poster_path": "/mzd0S30LWCdK5y2pMrObCfGXocN.jpg",
+            "release_date": "1993-10-13",
+            "title": "Dollman vs. Demonic Toys",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 871480,
+            "original_language": "en",
+            "original_title": "Tommy Dollman",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Tommy Dollman",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 836152,
+            "original_language": "en",
+            "original_title": "Videozone: The Making of \"Dollman\"",
+            "overview": "If you ever wanted a deep dive into the making of the Sci-Fi cult hit about a pint-sized intergalactic policeman with its cast and crew, this is it.",
+            "popularity": 0.6,
+            "poster_path": "/uigwoPZddj1SBzKbYdpfEZD2wzL.jpg",
+            "release_date": "",
+            "title": "Videozone: The Making of \"Dollman\"",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f3ZpE3jtMxqkCFTBYd67T1o9Wlm.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 29232,
+            "original_language": "en",
+            "original_title": "Methodic",
+            "overview": "Methodic tells the story of a boy who becomes demonically possessed by an ominous presence known as \"The Dollman\". Forced to obey his dark half, the boy ultimately murders his parents on his birthday and is sentenced to a life under a microscope at the state mental hospital. But evil cannot be contained so easily.",
+            "popularity": 0.677,
+            "poster_path": "/rtBbkPS8sHSFtO6aCzJP77Lb8Wp.jpg",
+            "release_date": "2007-10-19",
+            "title": "Methodic",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 8
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

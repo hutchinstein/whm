@@ -1,0 +1,79 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xOcVqlNnVUEQhQ3Xqhgh7mqeh9f.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 16307,
+            "original_language": "en",
+            "original_title": "The Wicker Man",
+            "overview": "Police sergeant Neil Howie is called to an island village in search of a missing girl whom the locals claim never existed. Stranger still, however, are the rituals that take place there.",
+            "popularity": 15.357,
+            "poster_path": "/wwtrXRL8SiOWxhwLEvw7iBgYh0g.jpg",
+            "release_date": "1973-12-01",
+            "title": "The Wicker Man",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1053
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esvqzTBIyolJs1uOYGKS2VDkNn6.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 9708,
+            "original_language": "en",
+            "original_title": "The Wicker Man",
+            "overview": "A sheriff investigating the disappearance of a young girl from a small island discovers there's a larger mystery to solve among the island's secretive, neo-pagan community.",
+            "popularity": 17.214,
+            "poster_path": "/9G6TBckQUKdx3dnn55abUCmonRX.jpg",
+            "release_date": "2006-08-31",
+            "title": "The Wicker Man",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 1118
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 714455,
+            "original_language": "en",
+            "original_title": "The Wicker Man Enigma",
+            "overview": "Cast and Crew Members come together to discuss the troubled production and distribution of 'The Wicker Man'",
+            "popularity": 0.6,
+            "poster_path": "/vFYty5Npo3nFzMhRGalu9f5hSpx.jpg",
+            "release_date": "2001-10-01",
+            "title": "The Wicker Man Enigma",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Tbfhp9g2oaYBHV12XNOSuzFKh3.jpg",
+            "genre_ids": [],
+            "id": 495440,
+            "original_language": "en",
+            "original_title": "Burnt Offering: The Cult of The Wicker Man",
+            "overview": "The cast and main players in the crew come together to discuss the making of cult British horror film The Wicker Man. They discuss the adaptation of the source material, the casting process and the difficult shoot which dealt with everything from a summer film being shot in late autumn and the troubles of the actual wicker man itself.",
+            "popularity": 0.6,
+            "poster_path": "/696QUCMsMZGece25qWvEv1SgjaH.jpg",
+            "release_date": "2001-12-29",
+            "title": "Burnt Offering: The Cult of The Wicker Man",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

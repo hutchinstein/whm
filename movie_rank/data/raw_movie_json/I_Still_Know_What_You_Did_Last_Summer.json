@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/sn5FydS63DL5KWUBQW3bHhi0Myx.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 3600,
+            "original_language": "en",
+            "original_title": "I Still Know What You Did Last Summer",
+            "overview": "Ever since killing the Fisherman one year ago, Julie James is still haunted by images of him after her. When her best friend Karla wins free tickets to the Bahamas, Julie finds this a perfect opportunity to finally relax. But someone is waiting for her. Someone who she thought was dead. Someone who is out again for revenge.",
+            "popularity": 21.102,
+            "poster_path": "/motBJIO921LFZkoGKCSbmSCVHBc.jpg",
+            "release_date": "1998-11-13",
+            "title": "I Still Know What You Did Last Summer",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 1245
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

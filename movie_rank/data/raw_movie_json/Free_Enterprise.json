@@ -1,0 +1,78 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/sGbTfUgN5NIxK0RrkyrUwgLfB6q.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 13533,
+            "original_language": "en",
+            "original_title": "Free Enterprise",
+            "overview": "Young filmmakers trying to hawk a movie titled \"Bradykillers\" about a serial killer who goes after victims Marcia, Jan, and Cindy meet their screen idol, William Shatner. The two young men, who idolize him and in their fantasies have seen him as a shadowy fairy godfather figure, are alarmed at the reality of the middle-aged non-Captain Kirk man that they meet.",
+            "popularity": 3.214,
+            "poster_path": "/eH6wXfqBh56RReOnqbST3krGY3T.jpg",
+            "release_date": "1998-06-04",
+            "title": "Free Enterprise",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 237218,
+            "original_language": "en",
+            "original_title": "Free Enterprise",
+            "overview": "Heckle & Jeckle sneak into a prison to sell drills, hack saws and other tools to the inmates.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1948-11-15",
+            "title": "Free Enterprise",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 924945,
+            "original_language": "en",
+            "original_title": "ROH: Free Enterprise",
+            "overview": "Spectacular High Flyers Alex Zayne, Andrew Everett Collide At Free Enterprise In Baltimore  Session Moth Martina Makes Her Highly Anticipated Debut Against Sumie Sakai In Baltimore  Brody King Meets Rey Horus At Free Enterprise In Baltimore  First Singles Match Between Mark Haskins And Alex Shelley Signed For Free Enterprise  Dalton Castle And Joe Hendry Take On Vincent, Bateman At Free Enterprise  Cobb And Maff Face Lethal And Gresham In Proving Ground Match At Free Enterprise  Bandido, Flamita Meet Briscoes At Free Enterprise In Baltimore  PCO And Marty Scurll Collide With RUSH And Nick Aldis At Free Enterprise In Baltimore  Battle Royal For Future ROH World Title Shot Signed For Baltimore  Slex Makes ROH Debut Against Flip Gordon At Free Enterprise In Baltimore",
+            "popularity": 0.6,
+            "poster_path": "/sFbm7RAQtdiELfYmQskxGsQh9PJ.jpg",
+            "release_date": "2020-02-09",
+            "title": "ROH: Free Enterprise",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 981502,
+            "original_language": "en",
+            "original_title": "Equality and Freedom in the Free Enterprise System",
+            "overview": "Lecture given at William and Mary College as part of the 'Milton Friedman Speaks' series.",
+            "popularity": 0.6,
+            "poster_path": "/aki7Ueeh8fkwf3Wb6s59KgKd8es.jpg",
+            "release_date": "1978-01-01",
+            "title": "Equality and Freedom in the Free Enterprise System",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

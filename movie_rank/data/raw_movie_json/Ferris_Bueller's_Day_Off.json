@@ -1,0 +1,61 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 9377,
+            "original_language": "en",
+            "original_title": "Ferris Bueller's Day Off",
+            "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+            "popularity": 26.485,
+            "poster_path": "/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+            "release_date": "1986-06-11",
+            "title": "Ferris Bueller's Day Off",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 4127
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 586828,
+            "original_language": "en",
+            "original_title": "Inside Story: Ferris Bueller's Day Off",
+            "overview": "An inside look at the making of the 1986 film \"Ferris Bueller's Day Off\".",
+            "popularity": 1.076,
+            "poster_path": "/dXpxF5h9gUQR3UOiRJ8sHgHGVH1.jpg",
+            "release_date": "2011-11-15",
+            "title": "Inside Story: Ferris Bueller's Day Off",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 917884,
+            "original_language": "en",
+            "original_title": "Getting the Class Together: The Cast of Ferris Bueller's Day Off",
+            "overview": "Short Documentary that reunites the cast of the film Ferris Buller's Day Off for the 2006 Collector's Edition release.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2006-01-10",
+            "title": "Getting the Class Together: The Cast of Ferris Bueller's Day Off",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

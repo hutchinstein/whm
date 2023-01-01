@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/od5chJN27AKS2ZfMhwZVShTo1Kg.jpg",
+            "genre_ids": [
+                14,
+                35,
+                10751,
+                12
+            ],
+            "id": 10214,
+            "original_language": "en",
+            "original_title": "Son of the Mask",
+            "overview": "Tim Avery, an aspiring cartoonist, finds himself in a predicament when his dog stumbles upon the mask of Loki. Then after conceiving an infant son \"born of the mask\", he discovers just how looney child raising can be.",
+            "popularity": 36.042,
+            "poster_path": "/Adgnfhm9B8YAQmC0osuP4zO9SRc.jpg",
+            "release_date": "2005-02-18",
+            "title": "Son of the Mask",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 1543
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

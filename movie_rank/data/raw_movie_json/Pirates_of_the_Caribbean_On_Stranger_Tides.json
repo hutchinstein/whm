@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+            "genre_ids": [
+                12,
+                28,
+                14
+            ],
+            "id": 1865,
+            "original_language": "en",
+            "original_title": "Pirates of the Caribbean: On Stranger Tides",
+            "overview": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love -- or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+            "popularity": 102.297,
+            "poster_path": "/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+            "release_date": "2011-05-14",
+            "title": "Pirates of the Caribbean: On Stranger Tides",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 12476
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

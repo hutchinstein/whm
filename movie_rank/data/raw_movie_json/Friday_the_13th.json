@@ -1,0 +1,372 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/j1PzqAMU4LzUnz60q9EEqmeX24n.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 13207,
+            "original_language": "en",
+            "original_title": "Friday the 13th",
+            "overview": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
+            "popularity": 35.663,
+            "poster_path": "/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+            "release_date": "2009-02-11",
+            "title": "Friday the 13th",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 2167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e5Z35sfdHd3bnUdrzKPEvgcx4Db.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 4488,
+            "original_language": "en",
+            "original_title": "Friday the 13th",
+            "overview": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+            "popularity": 30.29,
+            "poster_path": "/HzrPn1gEHWixfMOvOehOTlHROo.jpg",
+            "release_date": "1980-05-09",
+            "title": "Friday the 13th",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aWmMWZ9rDNCXmXVXuHbEm1sX0jK.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9730,
+            "original_language": "en",
+            "original_title": "Friday the 13th: The Final Chapter",
+            "overview": "After being mortally wounded and taken to the morgue, murderer Jason Voorhees spontaneously revives and embarks on a killing spree as he makes his way back to his home at Crystal Lake.",
+            "popularity": 28.181,
+            "poster_path": "/5KRBkaF6PdorcFjWiDY4tJy67Jf.jpg",
+            "release_date": "1984-04-13",
+            "title": "Friday the 13th: The Final Chapter",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1044
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6aVEjUqRfC4Oa88dxd4qw56KKzO.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9728,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part III",
+            "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naive counselors. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason who stalks them at every turn.",
+            "popularity": 28.378,
+            "poster_path": "/mYkbmw6umfbvPYBwkcOJsKbTCQ1.jpg",
+            "release_date": "1982-08-13",
+            "title": "Friday the 13th Part III",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1094
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 9725,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part 2",
+            "overview": "Five years after the horrible bloodbath at Camp Crystal Lake, it seems Jason Voorhees and his demented mother are in the past. Paul opens up a new camp close to the infamous site, ignoring warnings to stay away, and a sexually-charged group of counselors follow -- including child psychologist major Ginny. But Jason has been hiding out all this time, and now he's ready for revenge.",
+            "popularity": 27.914,
+            "poster_path": "/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",
+            "release_date": "1981-05-01",
+            "title": "Friday the 13th Part 2",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1320
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iWQPZphjmQV8sbatCaXfjk1rksV.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 9731,
+            "original_language": "en",
+            "original_title": "Friday the 13th: A New Beginning",
+            "overview": "Homicidal maniac Jason returns from the grave to cause more bloody mayhem. Young Tommy may have escaped from Crystal Lake, but he\u2019s still haunted by the gruesome events that happened there. When gory murders start happening at the secluded halfway house for troubled teens where he now lives, it seems like his nightmarish nemesis, Jason, is back for more sadistic slaughters.",
+            "popularity": 27.878,
+            "poster_path": "/sRA9Tb4aQz8EZlbX7xmh8WbzisW.jpg",
+            "release_date": "1985-03-22",
+            "title": "Friday the 13th: A New Beginning",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 900
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93tvkTtV6tQQiYhxhij9tuODNOq.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 10225,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VI: Jason Lives",
+            "overview": "Determined to finish off the infamous killer Jason Voorhees once and for all, Tommy Jarvis and a friend exhume Jason\u2019s corpse in order to cremate him. Things go awry when Jason is instead resurrected, sparking a new chain of ruthlessly brutal murders. Now it\u2019s up to Tommy to stop the dark, devious and demented deaths that he unwittingly brought about.",
+            "popularity": 26.238,
+            "poster_path": "/3qyCfzwY418lbuFEaKX5rKxKlnJ.jpg",
+            "release_date": "1986-08-01",
+            "title": "Friday the 13th Part VI: Jason Lives",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 925
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3KO6cs5qighEoA98CFo1u26hqh7.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10281,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VII: The New Blood",
+            "overview": "A young girl who possesses the power of telekinesis accidentally causes her father's death after a family dispute at Crystal Lake. Years later, when a doctor tries to exploit her abilities, her power becomes a hellish curse, and she unwittingly unchains the merciless, bloodthirsty Jason Voorhees from his watery grave.",
+            "popularity": 31.416,
+            "poster_path": "/xBjEL0k9Cz3QFjnpEK6c8b9Z51o.jpg",
+            "release_date": "1988-05-13",
+            "title": "Friday the 13th Part VII: The New Blood",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 812
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bzpKFAp7Z9mIE4XPtsr6QsmG75O.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10283,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+            "overview": "A group of students on a graduation cruise bound for Manhattan soon realize they've got a stowaway aboard the ship\u2014Jason Voorhees.",
+            "popularity": 23.192,
+            "poster_path": "/o8zLlANBDaPiW3SnDdKLIUd4jQQ.jpg",
+            "release_date": "1989-07-28",
+            "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 818
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2xIWkbOn6Gsd7xEA9PtxvOJmZIa.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 222724,
+            "original_language": "en",
+            "original_title": "Crystal Lake Memories: The Complete History of Friday the 13th",
+            "overview": "Taking inspiration from Peter M. Bracke's definitive book of the same name, this seven-hour documentary dives into the making of all twelve Friday the 13th films, with all-new interviews from the cast and the crew.",
+            "popularity": 10.276,
+            "poster_path": "/qp9aFykNAJ6qsCbyoGrCkjzkRDY.jpg",
+            "release_date": "2013-09-13",
+            "title": "Crystal Lake Memories: The Complete History of Friday the 13th",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 15004,
+            "original_language": "en",
+            "original_title": "His Name Was Jason: 30 Years of Friday the 13th",
+            "overview": "A retrospective documentary about the groundbreaking horror series, Friday the 13th, featuring interviews with cast and crew from the twelve films spanning 3 decades.",
+            "popularity": 5.581,
+            "poster_path": "/tmHDi36QeGYLCOY6LBzkWDv2Spd.jpg",
+            "release_date": "2010-04-20",
+            "title": "His Name Was Jason: 30 Years of Friday the 13th",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gv8z1pgaHvdmyDweQcTkYHQuFEh.jpg",
+            "genre_ids": [
+                36,
+                99,
+                14
+            ],
+            "id": 224276,
+            "original_language": "en",
+            "original_title": "The Friday the 13th Chronicles",
+            "overview": "2004 docu-drama film franchise to Crystal Lake to Manhattan.",
+            "popularity": 1.915,
+            "poster_path": "/gsrtudgPtgrtxoQoCP4CPRyv7Pl.jpg",
+            "release_date": "2004-10-05",
+            "title": "The Friday the 13th Chronicles",
+            "video": true,
+            "vote_average": 8.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 481218,
+            "original_language": "en",
+            "original_title": "Friday the 13th: Legacy",
+            "overview": "A group of unsuspecting teens meet the wrath of Jason Voorhees and his father Elias.",
+            "popularity": 0.74,
+            "poster_path": "/19IrvOnyK0pcIcE662nu0WMPA7Z.jpg",
+            "release_date": "2017-10-13",
+            "title": "Friday the 13th: Legacy",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 796032,
+            "original_language": "en",
+            "original_title": "Friday the 13th AGAIN!",
+            "overview": "Four tourists run out of fuel at Camp Crystal Lake and meet a well known character ...",
+            "popularity": 0.6,
+            "poster_path": "/67UU8wiOTrGBvVSDPH4ZsUM2na3.jpg",
+            "release_date": "2003-01-01",
+            "title": "Friday the 13th AGAIN!",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 536107,
+            "original_language": "en",
+            "original_title": "Friday the 13th",
+            "overview": "A short comedy",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1923-02-01",
+            "title": "Friday the 13th",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 382847,
+            "original_language": "en",
+            "original_title": "Brookside: Friday the 13th",
+            "overview": "There is trouble a-plenty in store for the Corkhill clan in this video-only special. Series creator Phil Redmond has returned to pen a dramatic script which follows on from a weekend special.",
+            "popularity": 0.722,
+            "poster_path": null,
+            "release_date": "1998-11-14",
+            "title": "Brookside: Friday the 13th",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 480179,
+            "original_language": "en",
+            "original_title": "Friday the 13th",
+            "overview": "Percy the Cat informs Little Roquefort the Mouse that it is Friday the 13th and the day will involve a lot of bad luck for Roquefort. Percy then proves his statemnet by making life miserable for the mouse. But Percy breaks a mirror and the tables are turned.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1953-05-07",
+            "title": "Friday the 13th",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 986506,
+            "original_language": "en",
+            "original_title": "Friday The 13th: Extraction",
+            "overview": "When private military company, Chase Defense International, learns of a massacre involving a search and rescue party near Crystal Lake, the company's CEO takes a personal interest in apprehending the masked killer--though her intentions may be less than admirable\u2026",
+            "popularity": 0.6,
+            "poster_path": "/9ERIedMGX6RrkcAfKMohkGupmnz.jpg",
+            "release_date": "",
+            "title": "Friday The 13th: Extraction",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 82733,
+            "original_language": "en",
+            "original_title": "Maroon 5: Live - Friday the 13th",
+            "overview": "Grammy Award-winning band Maroon 5 performs live at the Santa Barbara Bowl in this concert film. The group treats the audience to three huge hits -- \"This Love,\" \"Sunday Morning\" and \"She Will Be Loved\" -- from their multiplatinum breakthrough album, \"Songs About Jane.\" The concert also features the never-before-released song \"Wasted Years\" and a cover of Oasis's hit \"Hello.\" Also included are exclusive interviews and behind-the-scenes footage.",
+            "popularity": 0.6,
+            "poster_path": "/aTwa4WS33DTsEb8TR9atJdgwUut.jpg",
+            "release_date": "2005-07-13",
+            "title": "Maroon 5: Live - Friday the 13th",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 753881,
+            "original_language": "en",
+            "original_title": "A Friday the 13th Reunion",
+            "overview": "The original cast and crew reunite to discuss the making of the film.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2009-02-03",
+            "title": "A Friday the 13th Reunion",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 52
+}

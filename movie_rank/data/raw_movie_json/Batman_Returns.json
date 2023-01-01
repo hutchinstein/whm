@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/3WP0RObZ2t7ShHfqQpKPljF9B22.jpg",
+            "genre_ids": [
+                28,
+                14
+            ],
+            "id": 364,
+            "original_language": "en",
+            "original_title": "Batman Returns",
+            "overview": "While Batman deals with a deformed man calling himself the Penguin, an employee of a corrupt businessman transforms into the Catwoman.",
+            "popularity": 36.682,
+            "poster_path": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+            "release_date": "1992-06-19",
+            "title": "Batman Returns",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 5544
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

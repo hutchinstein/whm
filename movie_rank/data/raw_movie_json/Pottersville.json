@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/klXl7hyXARj2emTbQLD3lelYia7.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 413990,
+            "original_language": "en",
+            "original_title": "Pottersville",
+            "overview": "Maynard, a beloved local businessman is mistaken for the legendary Bigfoot during an inebriated romp through town in a makeshift gorilla costume. The sightings set off an international Bigfoot media spectacle and a windfall of tourism dollars for a simple American town hit by hard times. When Brock Masterson, reality TV\u2019s \u201cMonster Hunter,\u201d arrives to hunt the beast, Maynard agonizes over whether to come clean, destroying the rebirth of his beloved town, or perpetuate the inadvertent hoax.",
+            "popularity": 16.239,
+            "poster_path": "/zlQgswQ5GEklrbv8MkohQHyomZu.jpg",
+            "release_date": "2017-11-10",
+            "title": "Pottersville",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 105
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

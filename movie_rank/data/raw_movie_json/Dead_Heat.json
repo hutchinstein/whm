@@ -1,0 +1,143 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/q21Tt5rxYnnOwqTO4HOBMCwqpAm.jpg",
+            "genre_ids": [
+                28,
+                27,
+                878,
+                53,
+                35
+            ],
+            "id": 40095,
+            "original_language": "en",
+            "original_title": "Dead Heat",
+            "overview": "LAPD police officer, Roger Mortis is killed while arresting zombies who have been reanimated by the head of Dante Laboratories in order to carry out violent armed robberies.",
+            "popularity": 10.158,
+            "poster_path": "/m9LDoBpKEgucDzyS6w7u6fYut5G.jpg",
+            "release_date": "1988-05-06",
+            "title": "Dead Heat",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t4qFQHRVDDCg1CfwZzyzfEHzXGO.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 20053,
+            "original_language": "en",
+            "original_title": "Dead Heat",
+            "overview": "Boston cop Pally is forced into early retirement, putting a strain on his marriage. Pally's stepbrother, Ray, attempts to lift his spirits by tipping him off to a sure-bet racehorse. But their attempts to secure the champion equine are thwarted by a local mob boss, who steals the horse as repayment for a gambling debt. With their investment on the line, Pally and Ray become entangled in a web of underworld crime and murder.",
+            "popularity": 3.659,
+            "poster_path": "/83gfmVCJU9AvMXtmDH23Ow35SLD.jpg",
+            "release_date": "2002-07-23",
+            "title": "Dead Heat",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iOZCpavYuyCVl0mfe0aKhmKoarq.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18,
+                53
+            ],
+            "id": 68979,
+            "original_language": "en",
+            "original_title": "Dead Heat on a Merry-Go-Round",
+            "overview": "A sophisticated con man mounts an intricate plan to rob an airport bank while the Soviet premier is due to arrive.",
+            "popularity": 3.497,
+            "poster_path": "/ustANP8zxG3FvtN12RY9aYAA3kc.jpg",
+            "release_date": "1966-10-12",
+            "title": "Dead Heat on a Merry-Go-Round",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihvjBFc6rtCwwgc9Vdu4E3JQnRn.jpg",
+            "genre_ids": [
+                16,
+                28
+            ],
+            "id": 334917,
+            "original_language": "ja",
+            "original_title": "\u30c7\u30c3\u30c9\u30d2\u30fc\u30c8",
+            "overview": "Makoto is the driver of a rag-tag Formula X racing team competing in the bottom rung D-Class, with aspirations of one day making it to A-Class. When a mysterious benefactor sees potential in them, he offers his engineering services and shiny new engine to help them compete in the Open Cup. This yearly event is open to all classes and the winner automatically earns A-Class standing.",
+            "popularity": 1.126,
+            "poster_path": "/mYMyD82XFc7EqFtBqBQeNPq6YVz.jpg",
+            "release_date": "1987-08-07",
+            "title": "Dead Heat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 857393,
+            "original_language": "ja",
+            "original_title": "\u767d\u71b1 \u30c7\u30c3\u30c9\u30d2\u30fc\u30c8",
+            "overview": "1977 Japanese movie",
+            "popularity": 0.6,
+            "poster_path": "/y8A2qQruvANRWFE7inTAApVdRW8.jpg",
+            "release_date": "1977-05-28",
+            "title": "Hakunetsu Dead Heat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pWVpdGL7jJK1Pyn1VEMryqCn4KM.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 864877,
+            "original_language": "fa",
+            "original_title": "\u06a9\u0648\u06cc\u0631 \u0645\u0631\u06af",
+            "overview": "A youth (Abolfazl Ghorbani) runs for his life after he sees a woman (Leila Boushehri) dispose of a dead body.",
+            "popularity": 0.6,
+            "poster_path": "/zLa0LWQkgKDX18qL0WV2QZob722.jpg",
+            "release_date": "2004-06-04",
+            "title": "Dead Heat Under the Shrubs",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 124545,
+            "original_language": "en",
+            "original_title": "Courage",
+            "overview": "Three marathon runners on a seventy-two mile run through the deserts of New Mexico are pursued by right-wing survivalist militants who call themselves \"The Citizen's Brigade\".",
+            "popularity": 0.6,
+            "poster_path": "/pzVhsxoP7WNXs6J6C1ZSm8ptLhr.jpg",
+            "release_date": "1984-11-16",
+            "title": "Courage",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 6
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

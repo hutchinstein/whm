@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/gPMYhwogEWMeUWqL0JJkSuwcafk.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 11678,
+            "original_language": "en",
+            "original_title": "Vertical Limit",
+            "overview": "Trapped near the summit of K2, the world's second-highest mountain, Annie Garrett radios to base camp for help. Brother Peter hears Annie's message and assembles a team to save her and her group before they succumb to K2's unforgiving elements. But, as Annie lays injured in an icy cavern, the rescuers face several terrifying events that could end the rescue attempt -- and their lives.",
+            "popularity": 20.527,
+            "poster_path": "/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg",
+            "release_date": "2000-12-08",
+            "title": "Vertical Limit",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 871
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

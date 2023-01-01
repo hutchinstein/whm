@@ -1,0 +1,146 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/58r049aVTO1KjAYVuWJr0KgG5nY.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "id": 44912,
+            "original_language": "en",
+            "original_title": "Green Lantern",
+            "overview": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
+            "popularity": 55.414,
+            "poster_path": "/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+            "release_date": "2011-06-16",
+            "title": "Green Lantern",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 6450
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rRGl4Uqo962I2iqQSOT8nArWNWd.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "id": 887357,
+            "original_language": "en",
+            "original_title": "Green Lantern: Beware My Power",
+            "overview": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn't come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
+            "popularity": 63.195,
+            "poster_path": "/jU8Y6JXoj163MmOCzrT9C85MRTC.jpg",
+            "release_date": "2022-05-19",
+            "title": "Green Lantern: Beware My Power",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5XQobwJuqx0UFCHVDooWUBraeID.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878,
+                18
+            ],
+            "id": 65291,
+            "original_language": "en",
+            "original_title": "Green Lantern: Emerald Knights",
+            "overview": "As the home planet of the Green Lantern Corps faces a battle with an ancient enemy, Hal Jordan prepares new recruit Arisia for the coming conflict by relating stories of the first Green Lantern and several of Hal's comrades.",
+            "popularity": 24.599,
+            "poster_path": "/weth8sLv9y8L9GsEyLRBUZewXUt.jpg",
+            "release_date": "2011-04-09",
+            "title": "Green Lantern: Emerald Knights",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 424
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zYARGakIhHUvPuVJzlbqU40FrnV.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                14,
+                878
+            ],
+            "id": 17445,
+            "original_language": "en",
+            "original_title": "Green Lantern: First Flight",
+            "overview": "Test pilot Hal Jordan finds himself recruited as the newest member of the intergalactic police force, The Green Lantern Corps.",
+            "popularity": 21.24,
+            "poster_path": "/zma3rOg6yJxgJ1Lo9uuw3tJOjbZ.jpg",
+            "release_date": "2009-07-28",
+            "title": "Green Lantern: First Flight",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 357
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1009580,
+            "original_language": "en",
+            "original_title": "Green Lantern: First Flight - I Am the Ring",
+            "overview": "Short documentary discussing the mythological and thematic roots of Green Lantern's ring and lantern as talismans of power.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2009-07-28",
+            "title": "Green Lantern: First Flight - I Am the Ring",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1018148,
+            "original_language": "en",
+            "original_title": "Only the Bravest: Tales of the Green Lantern Corps",
+            "overview": "Documentary talking about bravery in the context of Green Lantern, the hero, and the Green Lantern Corps.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2011-06-07",
+            "title": "Only the Bravest: Tales of the Green Lantern Corps",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1018160,
+            "original_language": "en",
+            "original_title": "Why Green Lantern Matters: The Talent of Geoff Johns",
+            "overview": "Dan Didio, Geoff Johns, and Grant Morrison talk about bring Hal Jordan back to Green Lantern.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2011-06-07",
+            "title": "Why Green Lantern Matters: The Talent of Geoff Johns",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

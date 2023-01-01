@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/mAfbUajI3Dy0C634xu8tElGzYoq.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751
+            ],
+            "id": 19975,
+            "original_language": "en",
+            "original_title": "Care Bears Movie II: A New Generation",
+            "overview": "This animated adventure goes back in time to the Care Bears' first-ever Caring Mission, when True Heart Bear and Noble Heart Horse touch down on Earth to boost the spirits of some unhappy kids at summer camp. But the evil Dark Heart has other plans, and convinces one of the campers to help him capture the Care Bears. Will our lovable heroes' Care Stare be enough to vanquish the villain -- and convince his apprentice that good's the way to go?",
+            "popularity": 7.559,
+            "poster_path": "/kRwhUt3aMtnR0PQtnOjzfiFzxli.jpg",
+            "release_date": "1986-03-21",
+            "title": "Care Bears Movie II: A New Generation",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 51
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

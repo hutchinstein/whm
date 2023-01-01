@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fwxy5gN06SLsgEs2I58yFbFlnMO.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 16780,
+            "original_language": "en",
+            "original_title": "The Return of the Texas Chainsaw Massacre",
+            "overview": "Everyone's favorite chainsaw-wielding psychopath, Leatherface, is back for more prom-night gore, and this time he's joined by his bloodthirsty family. Four stranded yet carefree teens are taken in by a backwoods family, clueless of their host family's grisly habits. The terrified youths, including sweet Jenny, try to escape from Leatherface and his crazed clan, including the bionic Vilmer.",
+            "popularity": 22.199,
+            "poster_path": "/e1ikqofvLBddrZJ73IjmJWhUYus.jpg",
+            "release_date": "1995-03-12",
+            "title": "The Return of the Texas Chainsaw Massacre",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 501
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

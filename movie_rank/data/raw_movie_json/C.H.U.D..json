@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zY9ahWKd9wVgQ6Rj5iL2zo0UvOt.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 23730,
+            "original_language": "en",
+            "original_title": "C.H.U.D.",
+            "overview": "A rash of bizarre murders in New York City seems to point to a group of grotesquely deformed vagrants living in the sewers. A courageous policeman, a photo journalist and his girlfriend, and a nutty bum, who seems to know a lot about the creatures, band together to try and determine what the creatures are and how to stop them.",
+            "popularity": 9.126,
+            "poster_path": "/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg",
+            "release_date": "1984-08-31",
+            "title": "C.H.U.D.",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dr3A6z08VaW9QOgwY0zZEqEUWgt.jpg",
+            "genre_ids": [
+                27,
+                35,
+                878
+            ],
+            "id": 53150,
+            "original_language": "en",
+            "original_title": "C.H.U.D. II: Bud the Chud",
+            "overview": "A military experiment to create a race of super-warriors goes awry, as legions of murderous zombies are unleashed upon a suburban neighborhood.",
+            "popularity": 4.49,
+            "poster_path": "/mDA0Fvv2Z6XCg64HvE3Vmhyw2I5.jpg",
+            "release_date": "1989-05-05",
+            "title": "C.H.U.D. II: Bud the Chud",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 56
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/snlu32RmjldF9b068UURJg8sQtn.jpg",
+            "genre_ids": [
+                28,
+                80,
+                14
+            ],
+            "id": 414,
+            "original_language": "en",
+            "original_title": "Batman Forever",
+            "overview": "Batman must battle a disfigured district attorney and a disgruntled former employee with help from an amorous psychologist and a young circus acrobat.",
+            "popularity": 33.152,
+            "poster_path": "/mzzNBVwTiiY94xAXDMWJpNPW2US.jpg",
+            "release_date": "1995-06-16",
+            "title": "Batman Forever",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 4491
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2W1uWG6kz42fiPPMKR3llt8tlca.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 294656,
+            "original_language": "en",
+            "original_title": "Riddle Me This: Why Is Batman Forever?",
+            "overview": "How a new director and cast created a new version of Gotham's classic good and bad guys.",
+            "popularity": 1.614,
+            "poster_path": "/y3S1f7LuJd6UmndmyVFJ1NVaBwn.jpg",
+            "release_date": "1995-07-10",
+            "title": "Riddle Me This: Why Is Batman Forever?",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 11
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

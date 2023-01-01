@@ -1,0 +1,373 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5yhXOc685Pybx7M5CiEetJhEgbY.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 35025,
+            "original_language": "fr",
+            "original_title": "Le Mac",
+            "overview": "A mild-mannered banker is forced to masquerade as a notorious gangster and pimp.",
+            "popularity": 9.719,
+            "poster_path": "/7CrMbEokXyNbnX9CZOqHX0KRxch.jpg",
+            "release_date": "2010-02-16",
+            "title": "Le Mac",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gX3G6dkVUEAif2WWYSRFNHeIAyF.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                878,
+                12
+            ],
+            "id": 20196,
+            "original_language": "en",
+            "original_title": "Mac and Me",
+            "overview": "A Mysterious Alien Creature (MAC) escaping from nefarious NASA agents, is befriended by a young boy in a wheelchair. Together, they try to find MAC's family from whom he has been separated.",
+            "popularity": 11.921,
+            "poster_path": "/gZsIgK2W9K6e1ebNro3WT7u5yGX.jpg",
+            "release_date": "1988-08-12",
+            "title": "Mac and Me",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fHHagWrhRhHeCrwUe9dv2eW1DiL.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 104859,
+            "original_language": "en",
+            "original_title": "Mac & Devin Go to High School",
+            "overview": "A comedy that follows two high school students -- one overachiever struggling to write his valedictorian speech, the other a senior now going on his 15th year of school.",
+            "popularity": 25.275,
+            "poster_path": "/dD6xuaenteojgODp45id1w0xwtj.jpg",
+            "release_date": "2012-07-03",
+            "title": "Mac & Devin Go to High School",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 355
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eozzzHjEA3r9oQsse4DWChUMh2S.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 111883,
+            "original_language": "en",
+            "original_title": "Mac",
+            "overview": "Niccolo \"Mac\" Vitelli is the eldest of three brothers in 1950s Queens. Mac is a construction builder, a trade he learned from his late father, and helps put his brothers on the job. When they can no longer take working for Polowski, who does shoddy work and is abusive to his staff, Mac and his brothers set up their own company. Together, Vitelli Brothers Construction builds houses with pride and care. But Mac turns out to be an overbearing workaholic, with obsessive concern about the quality of their work and incredible attention to detail. His intensity and driven ambition precludes a happy family life and begins to drive his brothers away.",
+            "popularity": 2.671,
+            "poster_path": "/sP01g3yL2NBZlwJJTNrRdJAMSYc.jpg",
+            "release_date": "1992-09-17",
+            "title": "Mac",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yoTkYCdk6iWVzycsxhyHG0x6pjU.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 63657,
+            "original_language": "fr",
+            "original_title": "Black Mic Mac",
+            "overview": "This is a charming and successful farce from director Thomas Gilou, featuring a witty screenplay co-authored by producer Monique Annaud. When a group of African squatters in Paris are threatened with eviction, they find themselves fighting against a bureaucracy that few French citizens understand, let alone immigrants. In desperation, they turn to their best option to resolve this dilemma: they call for a sorcerer from home. The sorcerer hops on a jet to Paris to cast spells on the entrenched bureaucrat, and while en route he strikes up a conversation with a fellow passenger, mentioning his job pays quite well. The interested passenger could stand to make a few extra francs, so he decides to take the sorcerer's place. Once he arrives, this imposter has to act like he knows what he is doing, and at the same time, he had better solve the eviction problem.",
+            "popularity": 2.598,
+            "poster_path": "/mrdoekMQQEvbYHhyuzpngFyIilp.jpg",
+            "release_date": "1986-04-23",
+            "title": "Black Mic Mac",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dnsSGsBz990aUNecxj3mqMa0uqI.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 17671,
+            "original_language": "en",
+            "original_title": "Fleetwood Mac: The Dance",
+            "overview": "Recorded live at Warner Brothers Studios in Burbank, Fleetwood Mac performs their greatest hits \u2013 including the classics 'Rhiannon', 'Everywhere', 'Dreams', 'Don't Stop' and 'Landslide' \u2013 and several new songs.",
+            "popularity": 2.073,
+            "poster_path": "/cESxEjxiBn2y7ok6wN6suQl9N1.jpg",
+            "release_date": "1997-08-12",
+            "title": "Fleetwood Mac: The Dance",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 176269,
+            "original_language": "en",
+            "original_title": "Fleetwood Mac - Don't Stop",
+            "overview": "Fleetwood Mac are one of the biggest-selling bands of all time and still on the road. Their story, told in their own words, is an epic tale of love and confrontation, of success and loss.  Few bands have undergone such radical musical and personal change. The band evolved from the 60s British blues boom to perfect a US West Coast sound that saw them sell 40 million copies of the album Rumours.  However, behind the scenes relationships were turbulent. The band went through multiple line-ups with six different lead guitarists. While working on Rumours, the two couples at the heart of the band separated, yet this heartache inspired the perfect pop record.",
+            "popularity": 2.205,
+            "poster_path": "/rhq1BhZAKD8XN0ufJX98of3fa0p.jpg",
+            "release_date": "2009-09-08",
+            "title": "Fleetwood Mac - Don't Stop",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5VpyzW6EIwZdLbMBOLc8aFUeSNp.jpg",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "id": 974022,
+            "original_language": "en",
+            "original_title": "MAC",
+            "overview": "\"MAC\" chronicles the life and times of Malcolm McCormick, known to most as \u2018Mac Miller.\u2019 His career began while he was still in high school, and it was not long before Mac was impressing fellow musicians and his ever-growing fan base.  Before his tragic death in 2018, Mac was quickly becoming one of the most notable and beloved contemporary artists. In the short time he was with us, Mac influenced and inspired the masses.",
+            "popularity": 0.662,
+            "poster_path": null,
+            "release_date": "2021-04-30",
+            "title": "MAC",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                35
+            ],
+            "id": 103086,
+            "original_language": "de",
+            "original_title": "Big M\u00e4c",
+            "overview": "Bernhard \u201eBig M\u00e4c\u201c Maurer, Ex-Motorradfreak und gelangweilter Klavierlehrer, wird nach seiner K\u00fcndigung als Musiklehrer eines M\u00fcnchner Gymnasiums von der Fachzeitschrift Motorrad zum \u201eperfekten Motorradfahrer\u201c gew\u00e4hlt. Ihm wird eine Pr\u00e4mie von 50.000 Dollar versprochen, wenn er es schafft, einem japanischen Team in einer Abenteuerrallye von der Zugspitze zum Kilimandscharo zuvor zu kommen. Maurer sagt zu und w\u00e4hlt als zweiten Mann, den Techniker, seinen jungen Nachbarn Max aus. Max, f\u00fcr den es um einen Ausbildungsplatz geht, verletzt sich kurz vor Beginn der Rallye und muss aussetzen. Ohne Maurers Wissen \u00fcbernimmt Max\u2019 fast identisch aussehende Schwester Maxi die Rolle des Jungen.",
+            "popularity": 1.209,
+            "poster_path": "/eQhFp7fmWTus1oi0HvTewPQkM5n.jpg",
+            "release_date": "1985-04-26",
+            "title": "Big M\u00e4c",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qeYpCandlktvUCptWWj4QKYxzGv.jpg",
+            "genre_ids": [
+                16,
+                10402,
+                14,
+                10751
+            ],
+            "id": 89773,
+            "original_language": "en",
+            "original_title": "Jack and Old Mac",
+            "overview": "Two stylized nursery rhymes are shown. First is \"The House That Jack Built\" as told with a variety of characters composed of letters that spell out their names (Example: the cow is made up of an intertwined C, O, and W). Next is \"Old MacDonald Had a Band\" (no, not farm) in which Old MacDonald and his band give way with a hot jazz number (even his animals play instruments). The piece comes to an end when Old MacDonald's wife is tired of doing all the housework and gives him a swift whack on his head with her rolling pin.",
+            "popularity": 2.031,
+            "poster_path": "/rFIBJy1lzrJhsm7jK9AYbcMSMyO.jpg",
+            "release_date": "1956-07-18",
+            "title": "Jack and Old Mac",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                16
+            ],
+            "id": 173251,
+            "original_language": "xx",
+            "original_title": "Mac 'n Cheese",
+            "overview": "When you find yourself running scared and running out of energy, there's only a few options left to outrun your opponent through the southern desert. Stopping at nothing, watch these two guys wear each other out and rip through boundaries hitherto unbroken. Enjoy the ride.",
+            "popularity": 0.98,
+            "poster_path": null,
+            "release_date": "2011-01-01",
+            "title": "Mac 'n Cheese",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 505606,
+            "original_language": "en",
+            "original_title": "Mac Daddy's Vegas Adventure",
+            "overview": "After Mac Daddy decides to quit being an international ladies man, two of his best pupils (Diego and Damon), who have been trained by him in the arts of seduction, decide to take over. Damon and Diego take their game to Vegas to become international ladies men. But Damon ends up hitting on the wrong woman, and both Damon and Diego get involved with the most dangerous Italian Mafia in Vegas. Now Mac Daddy must come back into the game, to help save their lives.",
+            "popularity": 0.84,
+            "poster_path": "/sO3jO5xCYbFLEM5wwUBekf3abHV.jpg",
+            "release_date": "2017-06-17",
+            "title": "Mac Daddy's Vegas Adventure",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 138564,
+            "original_language": "en",
+            "original_title": "Mac and Plak",
+            "overview": "Set in an anonymous basement. Two Siamese brothers berate each other over and over while a man with a prosthetic face attempts to have sex with a refrigerator. Chaos ensues.",
+            "popularity": 1.304,
+            "poster_path": null,
+            "release_date": "2010-01-01",
+            "title": "Mac and Plak",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                99
+            ],
+            "id": 87842,
+            "original_language": "en",
+            "original_title": "I Ain't Scared of You: A Tribute to Bernie Mac",
+            "overview": "I AIN'T SCARED OF YOU is a documentary tribute to Bernie Mac (1957-2008). From his stand-up in underground Chicago comedy clubs to the Big Screen in Hollywood, Bernie Mac's sharp tongue and heart of gold resonated with millions of fans throughout his career.This film revisits much of his work through exclusive recordings of early stand-up, featured scenes from his film and TV appearances, and interviews with his co-stars, including Samuel L. Jackson, Cameron Diaz, Chris Rock, and many more. Testimonials from friends and family offer colorful anecdotes about Bernie Mac, from his practical jokes to his strong appreciation for manicures, and paint a vivid picture of who he was as an actor-comedian, husband, father, and friend.",
+            "popularity": 4.897,
+            "poster_path": "/ot9npbxeqPdo1IKkxmEPBpC7kDh.jpg",
+            "release_date": "2012-02-19",
+            "title": "I Ain't Scared of You: A Tribute to Bernie Mac",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 121639,
+            "original_language": "en",
+            "original_title": "Mac Dre Treal TV #1",
+            "overview": "This DVD includes extensive coverage of the Northern California hip hop scene. Step inside the shoes of a rock star trapped in a rap star's body as raving reporter and host Thizzelle Washington (Mac Dre) takes you behind the scenes and reveals ......  The North California Hip Hop scene, urban street brawls, drug abuse, rap videos, and daredevil stunts are all explored through the comical eyes of Thizzelle Washington (Mac Dre). This video magazine of sorts takes the viewer through a wild romp of the the crazy world of TREAL TV.",
+            "popularity": 1.4,
+            "poster_path": "/iHX0laWHU2mNi59RDZeqbJd4rJ7.jpg",
+            "release_date": "2003-09-30",
+            "title": "Mac Dre Treal TV #1",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hX4I3qtf5irVJxaNFYMbuqOPyj.jpg",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "id": 20570,
+            "original_language": "en",
+            "original_title": "Classic Albums: Fleetwood Mac - Rumours",
+            "overview": "Formed in 1975 from the remnants of a British blues band and a California soft-rock duo, Fleetwood Mac evolved into one of the most successful pop-rock groups of the 1970s--a reputation no doubt cemented by their 1977 masterpiece RUMOURS. One of the bestselling albums of all time, RUMOURS' impeccable songwriting, lush vocal harmonies, and polished production stand as testament to the band's cohesive powers--a fact made even more remarkable by the romantic tensions roiling amongst its members at the time (Lindsey Buckingham and Stevie Nicks were ending their long-term romantic relationship; Christine and John McVie were getting a divorce). This episode of the CLASSIC ALBUMS series recounts the making of Fleetwood Mac's career-making opus through interviews, behind-the-scenes footage, and live performances of timeless gems such as \"Don't Stop,\" \"Dreams,\"\"Go Your Own Way,\" \"You Make Loving Fun,\" \"The Chain,\" and more.",
+            "popularity": 1.4,
+            "poster_path": "/slxL55DHNtGBSeol4jpbyoTfGpZ.jpg",
+            "release_date": "2001-01-01",
+            "title": "Classic Albums: Fleetwood Mac - Rumours",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 990914,
+            "original_language": "en",
+            "original_title": "Mac & Cheese",
+            "overview": "An every day hero grapples with friendship, responsibility, and the decision to eat (or not to eat) his roommates mac and cheese.",
+            "popularity": 0.626,
+            "poster_path": "/xNrzIONcUSoZKjoZRzelo7ToAec.jpg",
+            "release_date": "",
+            "title": "Mac & Cheese",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                18,
+                27
+            ],
+            "id": 732344,
+            "original_language": "en",
+            "original_title": "Mac & Cheese",
+            "overview": "A disturbed mother takes extreme measures to punish her young daughter.",
+            "popularity": 0.879,
+            "poster_path": "/rtdBliUNjn3YZhTvjvcV5RvT67P.jpg",
+            "release_date": "2011-01-01",
+            "title": "Mac & Cheese",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 990188,
+            "original_language": "ga",
+            "original_title": "Mac an Athar",
+            "overview": "Se\u00e1n, a 12-year-old boy raised in an Irish-speaking family on Dublin's Northside, encounters ridicule for his \"unorthodox\" upbringing.",
+            "popularity": 0.666,
+            "poster_path": null,
+            "release_date": "2005-07-14",
+            "title": "His Father's Son",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 875232,
+            "original_language": "en",
+            "original_title": "Mac-10",
+            "overview": "Alternative version of GUNBLAST.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Mac-10",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 158,
+    "total_results": 3155
+}

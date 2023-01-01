@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wIRQ6kBA9QN5qa6PGl4cfuOfOVH.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 36934,
+            "original_language": "en",
+            "original_title": "American Shaolin",
+            "overview": "After being humiliated in the ring by a dirty kickboxer who pulled down his shorts and then hit him, a martial arts master decides to travel to China and enter a monastery where he may learn the Shaolin form of fighting. The film then veers into \"Karate Kid\" territory where the novice humiliates himself at every turn, is tolerated as a foreigner, and still comes out a champion. The monastery teaches non-violence, but everyone knows that sooner or later the student will catch up with the bad guy.",
+            "popularity": 6.336,
+            "poster_path": "/vCUHCkMJ94KqvfzaVviOngjZgLm.jpg",
+            "release_date": "1991-10-01",
+            "title": "American Shaolin",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 36
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

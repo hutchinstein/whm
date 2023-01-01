@@ -1,0 +1,42 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/e43TSVrHVAQfaBSQiTbwui2Fh9i.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 18713,
+            "original_language": "en",
+            "original_title": "The Jerky Boys",
+            "overview": "When two unemployed telephone pranksters decide to use their vocal \"talents\" to impersonate a Chicago mob boss and curry favor with organized crime in New York, the trouble begins. It isn't long before Johnny and Kamal (the \"Jerky Boys\" of crank call fame) are wanted by the local mafia, the police, and their neighbor.",
+            "popularity": 4.631,
+            "poster_path": "/yUbdqyZaeaoNKBQmnmtim1IIAf1.jpg",
+            "release_date": "1995-02-03",
+            "title": "The Jerky Boys",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 101156,
+            "original_language": "en",
+            "original_title": "The Jerky Boys: Don't Hang Up, Toughguy!",
+            "overview": "Don't Hang Up, Tough Guy! is a collection of prank calls and improvised skits performed by the Jerky Boys around New York City.  Locations included the MTV intern offices, a double-decker bus tour, pay phones and supermarket intercoms. The prank calls involved training a hidden video camera on the receiving phone line. The Jerky Boys would then prank the person answering the phone from offscreen and record the subjects responses.  It was released on VHS for MTV productions on July 4, 1995.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1995-07-04",
+            "title": "The Jerky Boys: Don't Hang Up, Toughguy!",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

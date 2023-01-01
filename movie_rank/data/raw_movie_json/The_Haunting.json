@@ -1,0 +1,384 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/uEWCi9fc89m9qS5SNshlvxkSsLJ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 159211,
+            "original_language": "en",
+            "original_title": "The Haunting of Helena",
+            "overview": "After a divorce, Sophia moves to the south of Italy with her daughter, Helena. Their new home, an apartment within an austere building of the fascist age, is a chance for them to start a new life. But inside an old storage room hides a mysterious closet and a buried secret. After the loss of Helena\u2019s first baby tooth, a chilling obsession begins and an apparition haunts her sleep...",
+            "popularity": 49.382,
+            "poster_path": "/iB8rf8FYHGlrbmLybCo6Mpg8hNt.jpg",
+            "release_date": "2013-01-14",
+            "title": "The Haunting of Helena",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/acloCJG7yIvM8M8lh6GuuohlGJR.jpg",
+            "genre_ids": [
+                27,
+                53,
+                14,
+                9648
+            ],
+            "id": 11618,
+            "original_language": "en",
+            "original_title": "The Haunting",
+            "overview": "Dr. David Marrow invites three distinct individuals to the eerie and isolated Hill House to be subjects for a sleep disorder study. The unfortunate guests discover that Marrow is far more interested in the sinister mansion itself \u2014 and they soon see the true nature of its horror.",
+            "popularity": 20.778,
+            "poster_path": "/dU07NZikdFAA5cK63yyHfy07uS4.jpg",
+            "release_date": "1999-07-23",
+            "title": "The Haunting",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4OpMEbfhnl3oFPE9pg5vNnCTIdK.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 11772,
+            "original_language": "en",
+            "original_title": "The Haunting",
+            "overview": "Dr. Markway, doing research to prove the existence of ghosts, investigates Hill House, a large, eerie mansion with a lurid history of violent death and insanity.",
+            "popularity": 11.481,
+            "poster_path": "/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg",
+            "release_date": "1963-08-21",
+            "title": "The Haunting",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 492
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uxQW0C3TkbasUJbShlFTnvaaZP4.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 18781,
+            "original_language": "en",
+            "original_title": "The Haunting in Connecticut",
+            "overview": "When the Campbell family moves to upstate Connecticut, they soon learn that their charming Victorian home has a disturbing history: not only was the house a transformed funeral parlor where inconceivable acts occurred, but the owner's clairvoyant son Jonah served as a demonic messenger, providing a gateway for spiritual entities to crossover.",
+            "popularity": 15.458,
+            "poster_path": "/dTfL0YbTa7S59vZYmWbk6UofHkI.jpg",
+            "release_date": "2009-03-27",
+            "title": "The Haunting in Connecticut",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 957
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jE1CpCE4tVLmU1dbVz5hC1mjmXC.jpg",
+            "genre_ids": [
+                27,
+                18,
+                53
+            ],
+            "id": 150202,
+            "original_language": "en",
+            "original_title": "The Haunting in Connecticut 2: Ghosts of Georgia",
+            "overview": "A young family moves into a historic home in Georgia, only to learn they are not the house's only inhabitants. Soon they find themselves in the presence of a secret rising from underground and threatening to bring down anyone in its path.",
+            "popularity": 18.46,
+            "poster_path": "/af6YNKYQsX76RSNHh3X4k2OcoQC.jpg",
+            "release_date": "2013-02-01",
+            "title": "The Haunting in Connecticut 2: Ghosts of Georgia",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 441
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8JWfh0F9PE7nvg2S3HNnrxbKjuc.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 738542,
+            "original_language": "en",
+            "original_title": "The Haunting of Margam Castle",
+            "overview": "A team of American parapsychologists travel to Wales to conduct a study of Margam Castle, one of the UK's most haunted buildings.",
+            "popularity": 10.839,
+            "poster_path": "/r2BlIxjAaj0WERGrIehnczNE0On.jpg",
+            "release_date": "2020-09-01",
+            "title": "The Haunting of Margam Castle",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7OsMTSVI9pfurIsaOrGPW7cxqgk.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 503706,
+            "original_language": "en",
+            "original_title": "The Haunting of Sharon Tate",
+            "overview": "Pregnant with director Roman Polanski's child and awaiting his return from Europe, 26-year-old Hollywood actress Sharon Tate becomes plagued by visions of her imminent death.",
+            "popularity": 9.651,
+            "poster_path": "/qzIQjfKmrTKf25y3N3VU88bFn8H.jpg",
+            "release_date": "2019-04-05",
+            "title": "The Haunting of Sharon Tate",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hrP03tZLdxiEdkRDqIE3kIWEP29.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 14745,
+            "original_language": "en",
+            "original_title": "The Haunting of Molly Hartley",
+            "overview": "When teenage Molly Hartley moves to a new town, she's haunted by terrifying visions that may have to do with dark secrets from her past. Something evil lurks just beneath the lush surfaces of her private-school world, and it holds the rights to her very soul. On the eve of her 18th birthday, Molly is about to discover the truth of just who or what she is destined to become.",
+            "popularity": 9.058,
+            "poster_path": "/XSy8BKHIa19yMAt7XyO2s9oIT5.jpg",
+            "release_date": "2008-10-31",
+            "title": "The Haunting of Molly Hartley",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 610394,
+            "original_language": "en",
+            "original_title": "The Haunting of La Llorona",
+            "overview": "The screams of the children echo throughout the night as a violent reminder of a demon of the past. La Llorona, a paranormal force has returned and seeks the blood of the innocent, proving that the legend is real.",
+            "popularity": 9.176,
+            "poster_path": "/ogpb8E4tNc9TJ6YxuCnueOeoICW.jpg",
+            "release_date": "2019-05-17",
+            "title": "The Haunting of La Llorona",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQqoPPuc2JO9HHORPUL31zlMFfx.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 295339,
+            "original_language": "en",
+            "original_title": "The Haunting of Alice D",
+            "overview": "In the late 1890s the Davenport House was a famous and successful brothel, until a young prostitute named Alice killed herself there. After her death, the brothel became haunted by Alice's ghost, and was eventually abandoned. More than a century later, the old structure is renovated into a beautiful mansion. It is still rumored to inhabit the ghost of Alice. Despite this, the new owner; the rich and arrogant heir to the Davenport fortune, decides to throw a wild party for his first night in the house.",
+            "popularity": 3.982,
+            "poster_path": "/1jQBqXdKT4wTgM6QvJTJSAkwGhN.jpg",
+            "release_date": "2014-09-27",
+            "title": "The Haunting of Alice D",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qQrewfkdYVX1sk8SF0FFv3IFyqT.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 81185,
+            "original_language": "en",
+            "original_title": "The Amityville Haunting",
+            "overview": "This movie is a 'found-footage' film about the Benson family who move in to the infamous house where the DeFeo family were murdered in the 1970s over 30 years earlier. Things start happening to anyone who visits this house, and whoever lives there. This is the footage retrieved from the camera.",
+            "popularity": 8.685,
+            "poster_path": "/A8T0AS932umKIhwh9vbnX1Nr44y.jpg",
+            "release_date": "2011-12-27",
+            "title": "The Amityville Haunting",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ax6ZseXXe26LL9VjKzXf529zHfr.jpg",
+            "genre_ids": [
+                14,
+                27,
+                10751
+            ],
+            "id": 21935,
+            "original_language": "en",
+            "original_title": "The Haunting Hour: Don't Think About It",
+            "overview": "Cassie, a 13 year old Gothic girl, is trying to fit in at her new school. To entertain herself, she plays a series of pranks on the popular kids and her younger brother, Max. When she goes to a Halloween store looking for new tricks, she finds a little book called \"The Evil Thing\"",
+            "popularity": 6.926,
+            "poster_path": "/jqQfKmqR2qXjEjJ2F0cH5DbwIGv.jpg",
+            "release_date": "2007-09-04",
+            "title": "The Haunting Hour: Don't Think About It",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bamlu5mY6WOwjQR2AxjNpbtmzDK.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 681711,
+            "original_language": "en",
+            "original_title": "The Haunting of Alcatraz",
+            "overview": "Alcatraz. 1937. A young prison guard working the night shift experiences a string of chilling disturbances culminating in the bizarre death of an inmate at the most famous prison in the world",
+            "popularity": 2.059,
+            "poster_path": "/crElqQ3vJuKyuGjbnK6OfuZ67UN.jpg",
+            "release_date": "2020-03-09",
+            "title": "The Haunting of Alcatraz",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 120478,
+            "original_language": "en",
+            "original_title": "The Haunting of Whaley House",
+            "overview": "When a tour guide breaks into America's Most Haunted House, a bit of amateur ghost hunting with friends turns into more horror than they could have ever imagined.",
+            "popularity": 3.193,
+            "poster_path": "/kvwBbq5GYqBsMQ2s19o1Z13A9It.jpg",
+            "release_date": "2012-07-31",
+            "title": "The Haunting of Whaley House",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z80kYmoTGOFnJltLfZgpQK5lyNR.jpg",
+            "genre_ids": [
+                27,
+                53,
+                10749
+            ],
+            "id": 29905,
+            "original_language": "en",
+            "original_title": "The Haunting of Morella",
+            "overview": "An executed witch inhabits her teenaged daughter's body to continue in the pursuit of bloodshed.",
+            "popularity": 2.827,
+            "poster_path": "/8jUhBWFojwarw2TbxWDZpGplfPl.jpg",
+            "release_date": "1990-02-09",
+            "title": "The Haunting of Morella",
+            "video": false,
+            "vote_average": 3.9,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53,
+                9648,
+                10770
+            ],
+            "id": 28593,
+            "original_language": "en",
+            "original_title": "The Haunting of Sorority Row",
+            "overview": "Samantha Willows, a college freshman, looks to pledge a sorority. Unbeknownst to Sam, it is haunted by a former pledge taking revenge on those who wronged her.",
+            "popularity": 3.247,
+            "poster_path": "/wzPfd3ZS1Bty9xTgSey1EKIJ1Fv.jpg",
+            "release_date": "2007-10-06",
+            "title": "The Haunting of Sorority Row",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ouN6tUnlwhN0IgtnEI4ADIE6V3g.jpg",
+            "genre_ids": [
+                27,
+                36
+            ],
+            "id": 854881,
+            "original_language": "en",
+            "original_title": "The Haunting of the Tower of London",
+            "overview": "The Two Princes, imprisoned and allegedly murdered in the Bloody Tower within the Tower Of London by Richard III. The story tells how they allegedly came back to haunt the Tower and with guards and inmates starting to die in horrible circumstances, it becomes clear the Two Princes are out for revenge. A chilling ghost story based on the famous mystery.",
+            "popularity": 1.424,
+            "poster_path": "/bTapbNKXTb6E9jZ7DgAnRmPlkZK.jpg",
+            "release_date": "2022-06-27",
+            "title": "The Haunting of the Tower of London",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 169150,
+            "original_language": "en",
+            "original_title": "The Haunting of Hell House",
+            "overview": "A mysterious, morbid professor who has suffered a number of horrid events in his life tries to help a young troubled man, whose girl friend was killed during an illegal abortion.",
+            "popularity": 1.4,
+            "poster_path": "/hvJft6ruse7ezOIodSE0pBqInxE.jpg",
+            "release_date": "1999-11-16",
+            "title": "The Haunting of Hell House",
+            "video": false,
+            "vote_average": 4.2,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qTFc6NH2laI49ErQgrmISmdJqNv.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 854890,
+            "original_language": "en",
+            "original_title": "The Haunting of Pendle Hill",
+            "overview": "Based on the reportedly haunted location of Pendle Hill in Lancashire, England, a location which was at the heart of a series of notorious and bloody witch hunts in the year 1612.",
+            "popularity": 1.088,
+            "poster_path": "/tzXLV12vWo6rohaX0ZFXZ4k4Nt5.jpg",
+            "release_date": "2022-04-04",
+            "title": "The Haunting of Pendle Hill",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2lD7VNc7VpWznbaYRfqZv8SOmq5.jpg",
+            "genre_ids": [],
+            "id": 637321,
+            "original_language": "en",
+            "original_title": "The Haunting of Deiana Wood",
+            "overview": "Two young gay friends, Luke and Toby, go camping in local beauty spot Deiana Wood. As darkness falls, they share ghostly bedtime stories about Deiana Wood's blood-soaked history.",
+            "popularity": 1.086,
+            "poster_path": "/eJPJtXNo79Dlsj9Fyuwdun1I4rL.jpg",
+            "release_date": "2017-10-31",
+            "title": "The Haunting of Deiana Wood",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 6,
+    "total_results": 120
+}

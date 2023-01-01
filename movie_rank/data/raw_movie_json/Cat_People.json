@@ -1,0 +1,102 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/dAE4x4BgauvsRkErmLg1L05LNAV.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 25508,
+            "original_language": "en",
+            "original_title": "Cat People",
+            "overview": "Serbian fashion designer Irena Dubrovna and American marine engineer Oliver Reed meet in Central Park, fall in love, and marry after a brief courtship; but Irena won't consummate the union for fear that she will turn into a panther compelled to kill her lover, pursuant to a belief harbored by her home village.",
+            "popularity": 15.415,
+            "poster_path": "/zSNTDd5Q6No5BmY39Zp5BVgl8XE.jpg",
+            "release_date": "1942-12-05",
+            "title": "Cat People",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 448
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lsemRZwEmpA9iaosPy0dPGLNWr3.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 6217,
+            "original_language": "en",
+            "original_title": "Cat People",
+            "overview": "After years of separation, Irena and her minister brother, Paul, reunite in New Orleans in this erotic tale of the supernatural. When zoologists capture a wild panther, Irena is drawn to the cat -- and the zoo curator is drawn to her. Soon, Irena's brother will have to reveal the family secret: that when sexually aroused, they turn into predatory jungle cats.",
+            "popularity": 14.985,
+            "poster_path": "/tGuwddMzwcsDA26QOBUpdfglZeI.jpg",
+            "release_date": "1982-04-02",
+            "title": "Cat People",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 398
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1EYMFlz6zYq9etcMV4mIcoN8w3J.jpg",
+            "genre_ids": [
+                27,
+                18,
+                9648
+            ],
+            "id": 28436,
+            "original_language": "en",
+            "original_title": "The Curse of the Cat People",
+            "overview": "Amy, the young, friendless daughter of Oliver and Alice Reed, befriends her father's late first wife and an aging, reclusive actress.",
+            "popularity": 6.112,
+            "poster_path": "/a2KedIReZYiPLjy1Ib89OSYo8Iv.jpg",
+            "release_date": "1944-04-01",
+            "title": "The Curse of the Cat People",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 667747,
+            "original_language": "en",
+            "original_title": "Cat People",
+            "overview": "A documentary that poses the question of how we as humans coexist with cats by exploring the eclectic lives of devoted cat lovers. We'll journey from America to a small island in Japan to learn and explore various human/feline relationships.",
+            "popularity": 0.6,
+            "poster_path": "/8EQJNhm6f9CzxtraCgmtAKXbEF6.jpg",
+            "release_date": "2019-08-10",
+            "title": "Cat People",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cDkvk5VTObdHF4eokCoLNqw6SSZ.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 87200,
+            "original_language": "en",
+            "original_title": "The Cat That Hated People",
+            "overview": "A much-abused cat really hates living with people, so decides to go to the moon for some peace and quiet.",
+            "popularity": 2.573,
+            "poster_path": "/2yB217WP0T8tubz4FMM43l7IpRh.jpg",
+            "release_date": "1948-11-20",
+            "title": "The Cat That Hated People",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 26
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

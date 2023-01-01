@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xoh4iWOQ3l0JFFD8BBrmLMTvKSU.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 292280,
+            "original_language": "en",
+            "original_title": "The Bye Bye Man",
+            "overview": "When three college students move into an old house off campus, they unwittingly unleash a supernatural entity known as The Bye Bye Man, who comes to prey upon them once they discover his name. The friends must try to save each other, all the while keeping The Bye Bye Man's existence a secret to save others from the same deadly fate.",
+            "popularity": 22.308,
+            "poster_path": "/bape74Eeli5NJ6x4UKuUr604xXh.jpg",
+            "release_date": "2017-01-12",
+            "title": "The Bye Bye Man",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 1098
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

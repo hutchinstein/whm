@@ -1,0 +1,104 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+            "genre_ids": [
+                27,
+                14,
+                12,
+                9648,
+                28
+            ],
+            "id": 539537,
+            "original_language": "en",
+            "original_title": "Fantasy Island",
+            "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+            "popularity": 18.802,
+            "poster_path": "/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+            "release_date": "2020-02-12",
+            "title": "Fantasy Island",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 2057
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1059972,
+            "original_language": "en",
+            "original_title": "FANTASY ISLAND",
+            "overview": "The mysterious Mr. Roarke makes the private fantasies of his wealthy visitors come true at an opulent but secluded tropical island resort, even when unexpected events can transform those fantasies into nightmares. Tattoo, a little guy who could be relied upon to call out \"Da aircraft! Da plane!\" when each new batch of guests arrived, helps him out. Lawrence, a handsome Englishman, joins Roarke in the show's last season. The show, which functioned as a type of anthology series, welcomed fresh guest stars each week, and several well-known figures from the time period visited \"Fantasy Island.\"",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "FANTASY ISLAND",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 1061343,
+            "original_language": "en",
+            "original_title": "Fantasy Island",
+            "overview": "Uses plasticine animation to portray the homophobia in Britain's Isle of Man, where until recently homosexuality was completely illegal.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1991-01-01",
+            "title": "Fantasy Island",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14,
+                18,
+                10749,
+                10770
+            ],
+            "id": 1022253,
+            "original_language": "en",
+            "original_title": "Return to Fantasy Island",
+            "overview": "A second feature-length pilot film for the wish-fulfillment series sees six lucky people having their dreams fulfilled on the luxury resort island. Career woman Margo Dean's assistant, Lowell Benson, hopes to romance her; Brian and Lucy Faber want to see the daughter they gave up for adoption; Janet Fleming, who lost her memory on her honeymoon, wants to relive it to cure her amnesia.",
+            "popularity": 0.884,
+            "poster_path": "/jAR1Gw2cf72W9NPoDUwAHOxczmM.jpg",
+            "release_date": "1978-01-20",
+            "title": "Return to Fantasy Island",
+            "video": false,
+            "vote_average": 0.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10751,
+                12,
+                18
+            ],
+            "id": 125114,
+            "original_language": "en",
+            "original_title": "George's Island",
+            "overview": "After telling his class about the ghost of Captain Kidd and his buried treasure on George\u2019s Island, George is placed in a foster home. George and another foster child, Bonnie, flee to the island on Halloween but when they\u2019re followed by adults Captain Kidd\u2019s ghost is awakened.",
+            "popularity": 0.635,
+            "poster_path": "/1LpT1B20eqntnxN1UFPbLKLOsiP.jpg",
+            "release_date": "1989-08-15",
+            "title": "George's Island",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

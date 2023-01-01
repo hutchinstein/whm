@@ -1,0 +1,380 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hPlL6FjbbZGZNfNaBePhOXSB9WY.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53,
+                28
+            ],
+            "id": 1642,
+            "original_language": "en",
+            "original_title": "The Net",
+            "overview": "Angela Bennett is a freelance software engineer who lives in a world of computer technology. When a cyber friend asks Bennett to debug a new game, she inadvertently becomes involved in a conspiracy that will soon turn her life upside down and make her the target of an assassination.",
+            "popularity": 17.933,
+            "poster_path": "/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+            "release_date": "1995-07-28",
+            "title": "The Net",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1092
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o4XkGHM8DT5uFJRG2mzjUMAi0SA.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 9834,
+            "original_language": "en",
+            "original_title": "The Net 2.0",
+            "overview": "The life of a young computer systems analyst is thrown into turmoil after arriving in Istanbul to start a new job. She soon finds her passport missing, her credit cards useless, her bank account empty and her identity stolen. As the story progresses we find people and events may not be what they seem...",
+            "popularity": 7.649,
+            "poster_path": "/7ofTl14cmpu5hCeD2HWh2T5QFH5.jpg",
+            "release_date": "2006-02-15",
+            "title": "The Net 2.0",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qR1SO2YQPaJ6wJvyZPtgttu9V4w.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 515743,
+            "original_language": "en",
+            "original_title": "Back of the Net",
+            "overview": "A new student at a soccer academy is determined to beat her rival's team in the national tournament.",
+            "popularity": 8.846,
+            "poster_path": "/f6og7oUTH6vXeu3Li5SNhjfUwx5.jpg",
+            "release_date": "2019-04-11",
+            "title": "Back of the Net",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hdmy4qQhVP008GWLKsJXtevgExo.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "id": 46434,
+            "original_language": "en",
+            "original_title": "The Man in the Net",
+            "overview": "A artist living in a quiet Connecticut town is the main suspect in the disappearance of his shrew wife. Things turn ugly when the townsfolk attempt to take the law into their own hands.",
+            "popularity": 2.618,
+            "poster_path": "/sdJlxL96ZIOi9oB7Uq35cp9mlGI.jpg",
+            "release_date": "1959-06-10",
+            "title": "The Man in the Net",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 847363,
+            "original_language": "en",
+            "original_title": "The Net",
+            "overview": "In the home of the stalwart young son and his mother, the girl rescued from the sea grows strong again after her fearful exposure. Her attractiveness, so different from that of the fisher maidens, has a telling effect on the young man. He asks her, at length, to become his bride, and she accepts. But a few days before the wedding the affianced bride disappears, sailing away with a strange man from the city, who has suddenly appeared. Thinking that his sweetheart had deserted him for another, the fisherman is heartbroken for a time, but gradually the keen edge of his sorrow wears away, and he succumbs to the attractions of another girl, one who had recently come to the village with her father, and who had lived together and alone at the end of the town.",
+            "popularity": 0.6,
+            "poster_path": "/p9mxOMCp8rFLRyaFrOSg0NGdcFy.jpg",
+            "release_date": "1916-04-01",
+            "title": "The Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sjjl4vQM25UURrLILnJwNrCFFl3.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 235081,
+            "original_language": "en",
+            "original_title": "The Net",
+            "overview": "A secret jet aircraft capable of traveling three times the speed of sound is being developed by a group of scientists. On the day of the test flight, one of the scientists dies in a mysterious accident, and there are many arguments concerning the flight itself; some think it should be ground-controlled while Heathley (James Donald) wants it to be a manned flight with himself at the controls. Conflict also arises when one of his fellow scientists, taking advantage of Heathley's lack of attention toward his wife, Lydia (Phyllis Calvert), makes some moves on her. Then there is the question of just who is the enemy agent on the project.",
+            "popularity": 0.763,
+            "poster_path": "/eHndBzRrLGqgjjWfd6kDczs25BF.jpg",
+            "release_date": "1953-02-09",
+            "title": "The Net",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uA3hZDG1CFEieIkwCPesiytzHq0.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749,
+                9648
+            ],
+            "id": 682364,
+            "original_language": "en",
+            "original_title": "The Net",
+            "overview": "The Net is a 1924 silent mystery drama.",
+            "popularity": 0.6,
+            "poster_path": "/kn6FoN17tcrVtqHisOQEcQqtz7I.jpg",
+            "release_date": "1923-12-02",
+            "title": "The Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 45575,
+            "original_language": "en",
+            "original_title": "Warriors of the Net",
+            "overview": "For the first time in history people and machinery are working together, realizing a dream. A uniting force that knows no geographical boundaries. Without regard to race, creed or color. A new era where communication truly brings people together. This is the dawn of The Net.",
+            "popularity": 1.167,
+            "poster_path": "/2bOm5mEZK603Gqz3XEAZN7w7kuD.jpg",
+            "release_date": "1999-01-01",
+            "title": "Warriors of the Net",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mCUqwBWO7PFkh5Ihf8wLKwVWZpo.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 671064,
+            "original_language": "fr",
+            "original_title": "Into the Net",
+            "overview": "Madge Clayton, a society girl, mysteriously disappears. The police suspect a master criminal is behind the girl's abduction, but her brother, Bob, and fianc\u00e9, Bert Moore, help with the search. They unearth a scheme to kidnap another girl, Natalie Van Cleef, and the evidence takes Bob and Bert to an estate on Long Island.",
+            "popularity": 0.6,
+            "poster_path": "/9vaGmkn1QYmvvJdstEBqAzDKsxW.jpg",
+            "release_date": "1924-08-03",
+            "title": "Into the Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 988861,
+            "original_language": "en",
+            "original_title": "The Net Makers",
+            "overview": "In rural Southern Indiana, two men carry on the tradition of crafting hoopnets and commercially fishing in the White and Wabash Rivers. Despite the threat of invasive species, climate change impacts and the shifting dynamics of commercial fishing and social norms, Larry and Danny spend countless hours hand-tying thousands of knots to create the intricate hoopnets that have been used in the area since the Great Depression. While they take their own approaches to crafting their nets, both recognize the precarious state of this tradition, and hope that the culture of hoopnet making will be picked up by future generations before it becomes lost to time.",
+            "popularity": 0.6,
+            "poster_path": "/lG3JsPwwEba0L3XUDvVcjxeqGGL.jpg",
+            "release_date": "",
+            "title": "The Net Makers",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 941983,
+            "original_language": "en",
+            "original_title": "The Net of Deceit",
+            "overview": "Unable to purchase the formula of the explosive about to be sold to the government by Mallott, the representative of a foreign power orders Le Farge and Gabrielle to obtain it. Gabrielle, posing as Le Farge's sister, easily fascinates Fanshell, Mallott's secretary. The adventuress also meets David, a fisherman, and engages him in a violent flirtation.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1915-10-25",
+            "title": "The Net of Deceit",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10751
+            ],
+            "id": 323237,
+            "original_language": "en",
+            "original_title": "Caught in the Net",
+            "overview": "The work of Peter Ketley on Fisheries Research in Devon is being disorganised by a mysterious new method of salmon poaching. His young brother Bob, with the help of two children from London, eventually uncovers and catches the poachers.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1960-03-31",
+            "title": "Caught in the Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 267501,
+            "original_language": "en",
+            "original_title": "Caught in the net",
+            "overview": "A sequel to Run for Your Wife. Gavin Smith, son of John and Barbara Smith, ends up meeting Vicki Smith, daughter of John and Mary Smith, online. They fall in love, and they discover that their fathers have the same name. They decide that they have to meet, and their dad, John finds out. He enlists the aid of his pal, the not-so-bright Stanley Gardner, who brings along his father. The result is confusion, lying, and all sorts of craziness.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "title": "Caught in the net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 693796,
+            "original_language": "en",
+            "original_title": "The Dragon's Net",
+            "overview": "A set of eight golden lotus leaves holds the secret for eternal life. A young girl is tricked out of the one she holds, and enlists the aid of an adventurer is tracking down the entire set. Based on \"The Petals of Lao-Tze\".",
+            "popularity": 0.6,
+            "poster_path": "/5QDnfFm4ZfGnliJ3tfTLCr9YTNg.jpg",
+            "release_date": "1920-08-23",
+            "title": "The Dragon's Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1030392,
+            "original_language": "hu",
+            "original_title": "The Fishing Net",
+            "overview": "Budapest, 1953. A man was killed. Andras, a prestigious doctor and family man, is interrogated by the Secret Police. This is the era of spies. Freedom is relative. And being gay is a punishable offence.",
+            "popularity": 0.6,
+            "poster_path": "/7cxvDAYYruzQdSYii8jStizfhEx.jpg",
+            "release_date": "2022-09-30",
+            "title": "The Fishing Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                99
+            ],
+            "id": 953759,
+            "original_language": "en",
+            "original_title": "The Safety Net",
+            "overview": "A BAFTA award nominated docu-drama that illustrates the fact that every individual working in any potentially hazardous situation is responsible for his own safety and for the safety of others.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1978-01-01",
+            "title": "The Safety Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 943088,
+            "original_language": "en",
+            "original_title": "The Love Net",
+            "overview": "Little Patty Barnes lives with her grandfather, Captain Amos Barnes, in a rickety shack on the New England coast. The wealthy Mrs. Gaythorne, who wishes to adopt Patty, instructs James Henley to secure the mortgage on the shack, and when Amos, now homeless and penniless, departs for the poor farm, Patty is forced to live with the cruel old woman.",
+            "popularity": 0.6,
+            "poster_path": "/5mMQFZ6LwtKVxS25qswBPlgQp0G.jpg",
+            "release_date": "1918-12-23",
+            "title": "The Love Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o7ItFstZ5eabAZ95b1IdyM10N4J.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 423732,
+            "original_language": "en",
+            "original_title": "The Drag Net",
+            "overview": "A 1928 silent film crime drama produced by Famous Players-Lasky and distributed by Paramount Pictures, directed by Josef von Sternberg from an original screen story and starring George Bancroft and Evelyn Brent.",
+            "popularity": 0.6,
+            "poster_path": "/yrOojQVqRNIfnQj6dtN8lh02KiA.jpg",
+            "release_date": "1928-05-01",
+            "title": "The Drag Net",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yvAHJNJiZTrTegkDKzLzGsuEMpg.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 215222,
+            "original_language": "en",
+            "original_title": "The Drag-Net",
+            "overview": "A playboy takes a job as an assistant district attorney, finds himself up against a tough crime boss and his gang.",
+            "popularity": 0.6,
+            "poster_path": "/uvzlFHXYgZBGfILdFSEAljHI1Vb.jpg",
+            "release_date": "1936-04-15",
+            "title": "The Drag-Net",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9X1HSLMT6CU6FdPQPjtNcBK5Va.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 412094,
+            "original_language": "ko",
+            "original_title": "\uadf8\ubb3c",
+            "overview": "A poor North Korean fisherman finds himself an accidental defector, and is groomed to be a spy by an ambitious South Korean military officer.",
+            "popularity": 5.795,
+            "poster_path": "/mzR6uMMOixsCg1MjghvbNvOAb73.jpg",
+            "release_date": "2016-10-06",
+            "title": "The Net",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 161
+        }
+    ],
+    "total_pages": 5,
+    "total_results": 87
+}

@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wdVM1soj2s9ixta8R7NDwoZA12Y.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 9489,
+            "original_language": "en",
+            "original_title": "You've Got Mail",
+            "overview": "Book superstore magnate, Joe Fox and independent book shop owner, Kathleen Kelly fall in love in the anonymity of the Internet\u2014both blissfully unaware that he's trying to put her out of business.",
+            "popularity": 22.76,
+            "poster_path": "/dkPPPpgs9ME6V5qrdK9yIJ7JUrI.jpg",
+            "release_date": "1998-02-26",
+            "title": "You've Got Mail",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2772
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

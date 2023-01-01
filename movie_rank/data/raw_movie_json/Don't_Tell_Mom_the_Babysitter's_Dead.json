@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/blgiH5lMrhdkDRBD6gIou1BzDuJ.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 15413,
+            "original_language": "en",
+            "original_title": "Don't Tell Mom the Babysitter's Dead",
+            "overview": "Sue Ellen Crandell is a teenager eagerly awaiting her mother's summer-long absence. While the babysitter looks after her rambunctious younger siblings, Sue Ellen can party and have fun. But then the babysitter abruptly dies, leaving the Crandells short on cash. Sue Ellen finds a sweet job in fashion by lying about her age and experience on her r\u00e9sum\u00e9. But, while her siblings run wild, she discovers the downside of adulthood",
+            "popularity": 17.474,
+            "poster_path": "/gx8EHsDkNxuY28qP2497QvUQMnL.jpg",
+            "release_date": "1991-06-07",
+            "title": "Don't Tell Mom the Babysitter's Dead",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 339
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

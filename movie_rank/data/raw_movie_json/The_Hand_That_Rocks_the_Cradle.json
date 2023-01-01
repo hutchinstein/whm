@@ -1,0 +1,44 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/l3qZ3wYF0iRCrWuYTSMsp70qiH9.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 11087,
+            "original_language": "en",
+            "original_title": "The Hand that Rocks the Cradle",
+            "overview": "A suburban family chooses seemingly sweet Peyton Flanders as their newborn's nanny. Only much later does the infant's mother, Claire Bartel, realize Peyton's true intentions -- to destroy Claire and replace her in the family. The nail-biting suspense builds quickly in this chilling psychological thriller about deception and bitter revenge.",
+            "popularity": 19.93,
+            "poster_path": "/1fBnyO3SbNBplck45js6O4pQaLw.jpg",
+            "release_date": "1992-01-10",
+            "title": "The Hand that Rocks the Cradle",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 741
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 566189,
+            "original_language": "en",
+            "original_title": "The Hand That Rocks the Cradle",
+            "overview": "A doctor's wife is arrested for educating impoverished women about birth control.",
+            "popularity": 0.877,
+            "poster_path": "/9fMYdN7kXimXNoCaTnZ1VSDC6PU.jpg",
+            "release_date": "1917-05-13",
+            "title": "The Hand That Rocks the Cradle",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

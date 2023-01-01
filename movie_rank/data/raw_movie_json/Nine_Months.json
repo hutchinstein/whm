@@ -1,0 +1,112 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/4zzuWYwejsrCTnqN3nM0XTf9B9w.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 11472,
+            "original_language": "en",
+            "original_title": "Nine Months",
+            "overview": "When he finds out his longtime girlfriend is pregnant, a commitment-phobe realizes he might have to change his lifestyle for better or much, much worse.",
+            "popularity": 15.172,
+            "poster_path": "/z1nzYuoeTbGBrSicDxJEhJhEQz8.jpg",
+            "release_date": "1995-07-12",
+            "title": "Nine Months",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 560
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 388412,
+            "original_language": "en",
+            "original_title": "Nine Months to Freedom",
+            "overview": "Documentary about the violent events that led to the creation of Bangladesh.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1972-04-01",
+            "title": "Nine Months to Freedom",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 667406,
+            "original_language": "en",
+            "original_title": "The First Nine Months Are the Hardest",
+            "overview": "The First Nine Months are the Hardest a musical comedy produced by the legendary team of Bill Persky and Sam Denoff with music written by Ray Charles and staring the iconic Sonny and Cher with Dick Van Dyke.",
+            "popularity": 0.6,
+            "poster_path": "/l8zYCyGlzEiBUsYGhF9EMoqjsU4.jpg",
+            "release_date": "1971-02-24",
+            "title": "The First Nine Months Are the Hardest",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sQtgxKhjSqgcP3Eu0po2Hitwb2I.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 358954,
+            "original_language": "hu",
+            "original_title": "Kilenc h\u00f3nap",
+            "overview": "Village-girl (Juli Kov\u00e1cs) arrives in the city to work in a factory. The works manager (J\u00e1nos Bodn\u00e1r) sets his eye on her, but at first the girl refuses his advance.",
+            "popularity": 1.4,
+            "poster_path": "/eJWOVgDTK30uOTz452cOVpsFGhg.jpg",
+            "release_date": "1976-11-25",
+            "title": "Nine Months",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 762809,
+            "original_language": "hr",
+            "original_title": "Devet mjeseci",
+            "overview": "We are branches in the wind.",
+            "popularity": 0.6,
+            "poster_path": "/lTMvMl0eUGEOhc8hHdmGbTROdh4.jpg",
+            "release_date": "2020-11-10",
+            "title": "Nine Months",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 274126,
+            "original_language": "es",
+            "original_title": "Despu\u00e9s de los nueve meses",
+            "overview": "",
+            "popularity": 0.62,
+            "poster_path": "/rpOnReMdo7jidKmtjFplDjm63j8.jpg",
+            "release_date": "1970-04-29",
+            "title": "After Nine Months",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

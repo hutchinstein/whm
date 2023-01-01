@@ -1,0 +1,61 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/vCOD2t2r8e5e9nCEXrwAqh4wSkt.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 42688,
+            "original_language": "en",
+            "original_title": "Wild in the Streets",
+            "overview": "Striking a zeitgeist nerve, Wild in the Streets stars Christopher Jones (Ryan's Daughter) as Max Frost, rock singer and poster boy for the counterculture revolution of the '60s. While performing with his band, The Troopers, at a political rally for Senate candidate Johnny Fergus (Hal Holbrook, Into the Wild), Max seizes the opportunity to spout his own political philosophies which include, among other things, that the voting age should be lowered to 14.  And thus begins the tale of Max's meteoric rise. But as he moves further and further into uncharted waters, first as a voice for the youth movement (or is he just a mouthpiece for opportunist politicians?) and then as a nominee for President of the United States, Max will not bend to the will of the old guard. Instead he begins implementing his own ideas of what would make a better world, including re-education camps for those over the age of 35 along with a liberal dosing of LSD.",
+            "popularity": 1.301,
+            "poster_path": "/fJHCvd5wQszKZdVZ43U5Wu0k03Z.jpg",
+            "release_date": "1968-05-29",
+            "title": "Wild in the Streets",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 188819,
+            "original_language": "en",
+            "original_title": "Wild in the Streets",
+            "overview": "An ancient football game is the lifeblood of an English market town and the origin of soccer, rugby and American football.",
+            "popularity": 0.844,
+            "poster_path": null,
+            "release_date": "2013-04-23",
+            "title": "Wild in the Streets",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 309409,
+            "original_language": "en",
+            "original_title": "Hollywood Raw!: Wild on the Streets / Celebrities: Caught on Camera",
+            "overview": "In Wild on the Streets, paparazzi catch Cameron Diaz and other stars cutting loose on Hollywood's Sunset Strip, while in Celebrities: Caught on Camera, tabloid journalist Doug Bruckner exposes naughty behavior from Madonna and others. Other celebrities revealed in candid, unguarded moments include Pamela Anderson and Tommy Lee, Carmen Electra, Anna Nicole Smith, Howard Stern, Leonardo DiCaprio and many more.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Hollywood Raw!: Wild on the Streets / Celebrities: Caught on Camera",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

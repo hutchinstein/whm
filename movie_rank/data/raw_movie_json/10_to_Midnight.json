@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hG6zRhEtSX1FlX3oKAZZ1TgDqfb.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 18587,
+            "original_language": "en",
+            "original_title": "10 to Midnight",
+            "overview": "Warren Stacy, an office equipment repairman, begins murdering women after they reject his advances. To minimize the evidence, Stacy always kills while naked, wearing nothing but gloves, and further evades the law with his strong alibis. Veteran detective Leo Kessler is convinced of Stacy's guilt and begins using questionable methods to catch him.",
+            "popularity": 9.834,
+            "poster_path": "/hOsrVTxKS5aAsbQknKSpCLGUdjQ.jpg",
+            "release_date": "1983-03-11",
+            "title": "10 to Midnight",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l5rjAaliZH9cZj2yRIE8bUeUJcs.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 691100,
+            "original_language": "en",
+            "original_title": "Ten Minutes to Midnight",
+            "overview": "A late night radio host is trapped inside the station by a violent storm after being bitten by a rabid bat.",
+            "popularity": 1.454,
+            "poster_path": "/k8xmHHVnkb2c52lDVautBEi23jb.jpg",
+            "release_date": "2020-08-14",
+            "title": "Ten Minutes to Midnight",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 14
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

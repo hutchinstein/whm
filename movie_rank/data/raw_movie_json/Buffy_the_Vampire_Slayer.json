@@ -1,0 +1,47 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xK28lhRlypVf1sE3sNZNfcsPKPA.jpg",
+            "genre_ids": [
+                28,
+                35,
+                27
+            ],
+            "id": 10206,
+            "original_language": "en",
+            "original_title": "Buffy the Vampire Slayer",
+            "overview": "Blonde, bouncy Buffy is your typical high school cheerleader. But all that changes when a strange man informs her she's been chosen by fate to kill vampires.",
+            "popularity": 19.722,
+            "poster_path": "/2uaFS4bkWqX4jaAP8IXH46p8K3A.jpg",
+            "release_date": "1992-07-24",
+            "title": "Buffy the Vampire Slayer",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 665
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                16,
+                14
+            ],
+            "id": 450191,
+            "original_language": "en",
+            "original_title": "Buffy The Vampire Slayer: The Animated Series",
+            "overview": "In this un-aired pilot for the animated \"Buffy the Vampire Slayer\" series that was never picked up by a network, Buffy is attacked by a vampire in an alley. Later, Giles informs Buffy, Xander, and Willow that they will have to miss the party they were planning on attending because the followers of a being named Morgala are planning an apocalypse. Also, Buffy is attacked by a dragon.",
+            "popularity": 1.016,
+            "poster_path": null,
+            "release_date": "2004-04-02",
+            "title": "Buffy The Vampire Slayer: The Animated Series",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 5
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

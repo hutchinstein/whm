@@ -1,0 +1,380 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8NPs9xKPO5Or77wVfbRU6Ja2rfe.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                53
+            ],
+            "id": 9618,
+            "original_language": "en",
+            "original_title": "Tango & Cash",
+            "overview": "Ray Tango and Gabriel Cash are narcotics detectives who, while both being extremely successful, can't stand each other. Crime Lord Yves Perret, furious at the loss of income that Tango and Cash have caused him, frames the two for murder. Caught with the murder weapon on the scene of the crime, the two have no alibi. Thrown into prison with most of the criminals they helped convict, it appears that they are going to have to trust each other if they are to clear their names and catch the evil Perret.",
+            "popularity": 22.101,
+            "poster_path": "/bLTBlfV0sJwrwwLJW4JgHwgHrJJ.jpg",
+            "release_date": "1989-12-22",
+            "title": "Tango & Cash",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1567
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jjtH0BTwO5026jyT4P4IFpbBQMw.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1643,
+            "original_language": "it",
+            "original_title": "Ultimo tango a Parigi",
+            "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+            "popularity": 25.064,
+            "poster_path": "/vDuI72CpwWYIWJzNNA01PA2Utdr.jpg",
+            "release_date": "1972-10-14",
+            "title": "Last Tango in Paris",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1034
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lGTFeQ40L9f1Wim77XrG0BzSQ8h.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 279641,
+            "original_language": "en",
+            "original_title": "Whiskey Tango Foxtrot",
+            "overview": "In 2002, cable news producer Kim Barker decides to shake up her routine by taking a daring new assignment in Kabul, Afghanistan. Dislodged from her comfortable American lifestyle, Barker finds herself in the middle of an out-of-control war zone. Luckily, she meets Tanya Vanderpoel, a fellow journalist who takes the shell-shocked reporter under her wing. Amid the militants, warlords and nighttime partying, Barker discovers the key to becoming a successful correspondent.",
+            "popularity": 13.633,
+            "poster_path": "/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
+            "release_date": "2016-03-04",
+            "title": "Whiskey Tango Foxtrot",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 818
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7v4WhTSr3tG0eVFZaMkN3W09Vbz.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 10563,
+            "original_language": "en",
+            "original_title": "Three to Tango",
+            "overview": "Oscar and Peter land a career-making opportunity when a Chicago tycoon chooses them to compete for the design of a cultural center. The tycoon mistakenly believes that Oscar is gay and has him spy on his mistress Amy. Oscar goes along with it and ends up falling in love with Amy.",
+            "popularity": 9.968,
+            "poster_path": "/z2EhRgWvzNa2NgoX0uModV6mEb2.jpg",
+            "release_date": "1999-10-22",
+            "title": "Three to Tango",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 218
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vWYTqkGCFgnvcbFUhPmO95oCbqO.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "id": 16425,
+            "original_language": "en",
+            "original_title": "Assassination Tango",
+            "overview": "John J. is a seasoned hit man sent on a job to Argentina. When the General he's sent to kill delays his return to the country, John passes the time with Manuela, a beautiful dancer who becomes his teacher and guide into Argentina's sensual world of the tango.",
+            "popularity": 4.883,
+            "poster_path": "/3muiZ9yF1RpKfzn9eqAxqA1YFWG.jpg",
+            "release_date": "2003-03-08",
+            "title": "Assassination Tango",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fnUp0nMx769yG2nn8tvH5eCJnWd.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 48496,
+            "original_language": "xx",
+            "original_title": "Tango",
+            "overview": "A static camera observes a room as it slowly fills with thirty-six characters from different stages of life, as they move in loops through an absurd dance of social disconnection.",
+            "popularity": 3.401,
+            "poster_path": "/haq47eEoNGhLjVEtiqxcH6MUpOK.jpg",
+            "release_date": "1981-05-01",
+            "title": "Tango",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tuGS2QsDecd8bxZhzEsRxgwAmw6.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 479198,
+            "original_language": "en",
+            "original_title": "Tango One",
+            "overview": "Three officers are assigned to go undercover and join a mission to capture Den Donovan.",
+            "popularity": 3.711,
+            "poster_path": "/xtHF1l1ESIxVdFTxiv84ze7tqwk.jpg",
+            "release_date": "2018-03-02",
+            "title": "Tango One",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8v1GLkggK8cr4NR6uxC2pvMwgmM.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 73857,
+            "original_language": "es",
+            "original_title": "Tango feroz: La leyenda de Tanguito",
+            "overview": "A biopic based on the life of one of the pioneer argentine rock stars 'Tanguito'. The movie tells the story of his rise and fall from grace, encompassed in violent times of a military regime.",
+            "popularity": 5.45,
+            "poster_path": "/n9mDdOQ2CpDb7WKRVQgOapxBN0P.jpg",
+            "release_date": "1993-06-03",
+            "title": "Wild Tango",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4vPRCouHo3kl2Zvne2P2sbHQYE0.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 53370,
+            "original_language": "en",
+            "original_title": "Tango Tangles",
+            "overview": "In a dance hall, two members of the orchestra and a tipsy dancer fight over the hat check girl.",
+            "popularity": 3.685,
+            "poster_path": "/vx5EXwCwH8FBoXFraIY9zaulwy6.jpg",
+            "release_date": "1914-03-09",
+            "title": "Tango Tangles",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 266626,
+            "original_language": "sr",
+            "original_title": "Tango argentino",
+            "overview": "A boy who is helping lonely, elderly people revives their urge to live and receives in return their love and understanding, which have been denied to him by his parents.",
+            "popularity": 2.69,
+            "poster_path": "/kC74FBjkY4P6XI7OpzoKpZi3bL.jpg",
+            "release_date": "1992-02-17",
+            "title": "Tango Argentino",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uiEcc0rRtbYGFpwvm35MeBFQjCa.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 65749,
+            "original_language": "es",
+            "original_title": "Tango, no me dejes nunca",
+            "overview": "A dangerous love affair inspires a director to create the most spectacular and bodly seductive dance film ever made. 1998 Oscar Nominee Best Foreign Language Film.",
+            "popularity": 4.138,
+            "poster_path": "/87Ze0JLbWYuYbWc1qf6aGxHipnI.jpg",
+            "release_date": "1998-08-06",
+            "title": "Tango",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1a81UWKrHQsU1B1ak4HYcVtIAUR.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 66447,
+            "original_language": "fr",
+            "original_title": "Tango",
+            "overview": "Vincent, a stunt pilot, is acquitted of murdering his wife and her lover. However, a few years later, L'Elegant, the Judge in the case, comes to blackmail him. The Judge's nephew, Paul, is having trouble with his wife and they demand that Vincent kill her. The Judge, a confirmed bachelor, takes Paul and Vincent on the road to search for Paul's wife Marie. The three men get on well together, and spend their time discussing their relationship with women.",
+            "popularity": 2.437,
+            "poster_path": "/zFrckeBscdJO0UiLzi0SfUHT14m.jpg",
+            "release_date": "1993-02-03",
+            "title": "Tango",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/CZgAqxLr9NTuKQ7PLXTlfXlU2s.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 144752,
+            "original_language": "fr",
+            "original_title": "Tango Libre",
+            "overview": "A prison guard is attracted to a woman at his weekly tango class. They meet again when she visits her husband in the prison where he works and he is drawn into her complicated romantic life. Meanwhile the prisoners are learning the tango.",
+            "popularity": 2.815,
+            "poster_path": "/8IxNyOPKBZvo94iZqmVMePlmiwH.jpg",
+            "release_date": "2012-11-28",
+            "title": "Tango Libre",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ylMka7O3OrVdZ62Jn52VU7XpH2c.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 8380,
+            "original_language": "ro",
+            "original_title": "Asfalt Tango",
+            "overview": "A desperate husband chases a bus full of beautiful women headed for Paris, France.",
+            "popularity": 2.021,
+            "poster_path": "/cPmzRplh5P8CGSFsPxZ31GoV4zw.jpg",
+            "release_date": "1996-11-13",
+            "title": "Asphalt Tango",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 60801,
+            "original_language": "en",
+            "original_title": "Naked Tango",
+            "overview": "When a young European woman assumes a false identity in 1920s Argentina, she gets more than she bargained for.",
+            "popularity": 2.479,
+            "poster_path": "/AniyZOjYr5zgfmro4zf2VEKhgpa.jpg",
+            "release_date": "1991-08-23",
+            "title": "Naked Tango",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 425275,
+            "original_language": "de",
+            "original_title": "Matratzen - Tango",
+            "overview": "",
+            "popularity": 1.4,
+            "poster_path": null,
+            "release_date": "1973-09-06",
+            "title": "Matratzen - Tango",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 150208,
+            "original_language": "fi",
+            "original_title": "Vares \u2013 Pimeyden tango",
+            "overview": "The tango king Harry Koivikko was found dead six years ago in a sleazebag motel, with a knife is his back. The biggest manhunt in the county faded away without results.  Jussi Vares gets a phone call from a down-and-out journalist; the informant tells Vares he knows the murderer. Then the journalist disappears without a trace and Vares has to face the biggest challenge of his career. To add insult to the injury, an old acquaintance Veikko Hopea gets his first prison furlough\u2026",
+            "popularity": 1.435,
+            "poster_path": "/geDKkibsZKaHzdFsIe4ALeTgbRb.jpg",
+            "release_date": "2012-10-05",
+            "title": "Vares: Tango of Darkness",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vRAVN6Pn3dWuQTC6JD88ZnhjH4F.jpg",
+            "genre_ids": [],
+            "id": 301687,
+            "original_language": "hi",
+            "original_title": "Tango Charlie",
+            "overview": "Indian Army Sepoy Tarun Chauhan is assigned to proceed to Northeastern part of India that has been rocked by riots and violence with orders to report to his superior, Havaldar Mohammed Ali. Once there, he comes to know that things can be quiet for weeks, following by sporadic violence, and casualties on both sides. His group also comes under attack by vicious terrorists, who like to cut an ear from a dead body, then leave the body as bait, in order to kill anyone who comes to the rescue. This is where Tarun makes his first kill.",
+            "popularity": 2.275,
+            "poster_path": "/jGfWsWcndUpzrdxZ8uddKYlJUsk.jpg",
+            "release_date": "2005-03-25",
+            "title": "Tango Charlie",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 358505,
+            "original_language": "es",
+            "original_title": "Un tango m\u00e1s",
+            "overview": "Mar\u00eda Nieves Rego (80) and Juan Carlos Copes (83) met when they were 14 and 17, and they danced together for nearly fifty years. In all those years they loved and hated each other and went through several painful separations. Now, at the end of their lives, the two dancers are willing to open up about their love, their hatred, and their passion. In \"Our Last Tango\" Juan and Mar\u00eda tell their story to a group of young tango dancers and choreographers from Buenos Aires, who transform the most beautiful, moving and dramatic moments of the  lives into incredible tango-choreographies.  These beautifully-shot performances compliment the soul-searching interviews and documentary moments of the film to make this an unforgettable journey into the heart of the tango.",
+            "popularity": 1.599,
+            "poster_path": "/lLu1CyT1w3KpQ4QqAtt2udwXVJc.jpg",
+            "release_date": "2015-12-10",
+            "title": "Our Last Tango",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8UepZvv8uGXa5x6v5hrNTlkTBPJ.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 34838,
+            "original_language": "en",
+            "original_title": "The Tango Lesson",
+            "overview": "On a trip to Paris Sally meets Pablo, a tango dancer. He starts teaching her to dance then she returns to London to work on some \"projects\". She visits Buenos Aires and learns more from Pablo's friends. Sally and Pablo meet again but this time their relationship changes, she realises they want different things from each other. On a trip to Buenos Aires they cement their friendship.",
+            "popularity": 2.106,
+            "poster_path": "/c3auD7NWGsfZoL7RYi4EylsMaBs.jpg",
+            "release_date": "1997-11-28",
+            "title": "The Tango Lesson",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 19
+        }
+    ],
+    "total_pages": 14,
+    "total_results": 262
+}

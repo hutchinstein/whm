@@ -1,0 +1,134 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7fdy9iThI5qfJ9WMra8SrdvQs02.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                53
+            ],
+            "id": 257088,
+            "original_language": "en",
+            "original_title": "Point Break",
+            "overview": "A young undercover FBI agent infiltrates a gang of thieves who share a common interest in extreme sports. A remake of the 1991 film, \"Point Break\".",
+            "popularity": 29.304,
+            "poster_path": "/z7JOvw5Lqs9ezoFTJxmz3nx3av2.jpg",
+            "release_date": "2015-12-03",
+            "title": "Point Break",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 2017
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yGOHbICOQwlJ20UjK8F2ChGJjvl.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 1089,
+            "original_language": "en",
+            "original_title": "Point Break",
+            "overview": "In Los Angeles, a gang of bank robbers who call themselves The Ex-Presidents commit their crimes while wearing masks of Reagan, Carter, Nixon and Johnson. Believing that the members of the gang could be surfers, the F.B.I. sends young agent Johnny Utah to the beach undercover to mix with the surfers and gather information.",
+            "popularity": 24.436,
+            "poster_path": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+            "release_date": "1991-01-31",
+            "title": "Point Break",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 2946
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wMlPXoZbD3AZbVrRZZYK0qDW9cf.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 250572,
+            "original_language": "en",
+            "original_title": "Break Point",
+            "overview": "Jimmy Price is a reckless man-child on the last leg of his career as a doubles tennis player. When his latest partner drops him, he realizes he's officially burned all of his bridges on the pro circuit. He decides to make one last ditch effort to revive his career, reaching outside of the tennis world and convincing his childhood partner -- his estranged brother Darren, now an apathetic substitute teacher - to team up with him. The mismatched pair, with the help of a unique 11-year-old named Barry, make an unlikely run at a grand slam tournament and are forced to re-discover their game, and their brotherhood.",
+            "popularity": 4.173,
+            "poster_path": "/vJFAg3vc2s9aHV14CWirg3JNFOQ.jpg",
+            "release_date": "2014-03-08",
+            "title": "Break Point",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zIKtGwcCiC7JkrDKhvipYafKy3U.jpg",
+            "genre_ids": [],
+            "id": 556883,
+            "original_language": "en",
+            "original_title": "RIPTIDE: Point Break",
+            "overview": "3rd Nov 2017 - Full Show  Match Card:  Triple threat first to two falls table match:  Matt Riddle v Keith Lee v Jimmy Havoc  Jack Sexsmith vs Cara Noir  Eddie Dennis vs Omari  Aussie Open (Kyle Fletcher Mark Davis vs The OJMO Big T vs Session Moth Martina Shay Purser vs Damian Dunne Los Federales Santos JR  Chuck Mambo vs Chris Brookes  Damon Moser vs Spike Trivet  Dahlia Black vs Candyfloss",
+            "popularity": 0.6,
+            "poster_path": "/ltmYP8wqOkeo16t1QQOqke9moOw.jpg",
+            "release_date": "2017-11-03",
+            "title": "RIPTIDE: Point Break",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lYfFWtQZErbeOnx6rfEYZwTdEsK.jpg",
+            "genre_ids": [],
+            "id": 631988,
+            "original_language": "en",
+            "original_title": "RIPTIDE Point Break 2019",
+            "overview": "RIPTIDE Wrestling presents the SOLD OUT second Point Break event from the Brighthelm Centre in Brighton, UK!",
+            "popularity": 0.604,
+            "poster_path": "/1Iw3vP4reZQipoZvOLrTculk9uF.jpg",
+            "release_date": "2019-07-05",
+            "title": "RIPTIDE Point Break 2019",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ypUalHFDhGR7ZhYrCPCdLZxOaZt.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 762732,
+            "original_language": "en",
+            "original_title": "Break Point: A Davis Cup Story",
+            "overview": "For the first time, the tennis world championship would be held for just one week and in a city: Madrid. Eighteen teams strove to win the prized \u201csalad bowl\u201d trophy. Lead by Rafa Nadal, the Spanish team were this year\u2019s favourite until they suffered a serious setback.",
+            "popularity": 0.626,
+            "poster_path": "/g9pWFQDBlNMaZn1OU4Bg8jOqai3.jpg",
+            "release_date": "2020-11-26",
+            "title": "Break Point: A Davis Cup Story",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749
+            ],
+            "id": 626120,
+            "original_language": "ru",
+            "original_title": "\u0411\u0440\u0435\u0439\u043a-\u043f\u043e\u0439\u043d\u0442",
+            "overview": "A touching love story of two pupils of the famous European tennis school - the Russian girl Asya and the Croatian Duchamp - who unexpectedly find themselves with a difficult choice: a sports career in the name of fame and international recognition or high, bright feelings ...",
+            "popularity": 0.6,
+            "poster_path": "/cFhebFaXQPP1qu37T80CcPt6EUq.jpg",
+            "release_date": "2004-09-18",
+            "title": "Break Point",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

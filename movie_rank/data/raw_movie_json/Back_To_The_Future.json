@@ -1,0 +1,374 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+            "genre_ids": [
+                12,
+                35,
+                878
+            ],
+            "id": 105,
+            "original_language": "en",
+            "original_title": "Back to the Future",
+            "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+            "popularity": 57.891,
+            "poster_path": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+            "release_date": "1985-07-03",
+            "title": "Back to the Future",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 17278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg",
+            "genre_ids": [
+                12,
+                35,
+                878
+            ],
+            "id": 165,
+            "original_language": "en",
+            "original_title": "Back to the Future Part II",
+            "overview": "Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+            "popularity": 38.591,
+            "poster_path": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+            "release_date": "1989-11-22",
+            "title": "Back to the Future Part II",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 11087
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+            "genre_ids": [
+                12,
+                35,
+                878
+            ],
+            "id": 196,
+            "original_language": "en",
+            "original_title": "Back to the Future Part III",
+            "overview": "The final installment of the Back to the Future trilogy finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+            "popularity": 30.619,
+            "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+            "release_date": "1990-05-25",
+            "title": "Back to the Future Part III",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 9055
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7oTRDF9X16pCdHYgZzjPVmYU6u.jpg",
+            "genre_ids": [
+                10770,
+                99
+            ],
+            "id": 48499,
+            "original_language": "en",
+            "original_title": "Back to the Future Part II - Back to the Future Night",
+            "overview": "",
+            "popularity": 2.024,
+            "poster_path": "/eA7oa7uBUpksFkWCXCTPS6un5bm.jpg",
+            "release_date": "1989-11-17",
+            "title": "Back to the Future Part II - Back to the Future Night",
+            "video": true,
+            "vote_average": 7.3,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rXeMshov0W7LTwjqRqRzmjJAawy.jpg",
+            "genre_ids": [],
+            "id": 517683,
+            "original_language": "en",
+            "original_title": "Back to the Future... The Ride",
+            "overview": "Visitors to the \"Institute of Future Technology\" enter what they believe to be a tour of the facilities, but instead get involved in a chase through time to recover a time-machine stolen by Biff Tannen.",
+            "popularity": 0.6,
+            "poster_path": "/hWDkUBBtN6P3C02uubct6LE1eMw.jpg",
+            "release_date": "1991-05-02",
+            "title": "Back to the Future... The Ride",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                12,
+                878,
+                99
+            ],
+            "id": 113268,
+            "original_language": "en",
+            "original_title": "The Secrets of the Back to the Future Trilogy",
+            "overview": "The Secrets of the Back to the Future Trilogy was a program hosted by Kirk Cameron. The show answered questions that Back to the Future fans sent in by letter.  It was released onto videocassette in 1990 and as a bonus feature on the disc for Back to the Future Part III in the 2002 release of the Back to the Future trilogy. It is also available in the 2010 Blu-Ray trilogy.",
+            "popularity": 3.188,
+            "poster_path": "/vxOgVE8JPjPVaUo3eJfk5whby7H.jpg",
+            "release_date": "1990-06-12",
+            "title": "The Secrets of the Back to the Future Trilogy",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 451306,
+            "original_language": "en",
+            "original_title": "Looking Back to the Future",
+            "overview": "A 9-part retrospective documentary from 2009 on the trilogy\u2019s legacy.",
+            "popularity": 1.4,
+            "poster_path": "/cyn7sa1eUYUU9GBFmVZ2FJJbsOs.jpg",
+            "release_date": "2009-02-10",
+            "title": "Looking Back to the Future",
+            "video": true,
+            "vote_average": 8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uT2Pa2T3NFybbXdeTSJb6FFDitn.jpg",
+            "genre_ids": [
+                10770,
+                99
+            ],
+            "id": 230364,
+            "original_language": "en",
+            "original_title": "The Making of Back to the Future",
+            "overview": "The Making of 'Back to the Future'",
+            "popularity": 1.943,
+            "poster_path": "/hK2EhjkAzHNiFySGeTPk9dP8iod.jpg",
+            "release_date": "1986-10-25",
+            "title": "The Making of Back to the Future",
+            "video": true,
+            "vote_average": 7.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 48501,
+            "original_language": "en",
+            "original_title": "Back to the Future: Making the Trilogy",
+            "overview": "This is the making of the Back to the Future Trilogy by acclaimed documentary maker Laurent Bouzereau and appears on the Back to the Future DVD set.",
+            "popularity": 1.111,
+            "poster_path": "/e7bvQ9p1omPfgLXMn7DNrYG6Eii.jpg",
+            "release_date": "2002-01-01",
+            "title": "Back to the Future: Making the Trilogy",
+            "video": true,
+            "vote_average": 7.4,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1039755,
+            "original_language": "en",
+            "original_title": "Back to the Future 3",
+            "overview": "After receiving a 70 year old letter from Doc Brown that he has time traveled and retired to a town in the old west, Marty time travels back in time to Hill Valley in the 1880\u2019s to see Doc, and to warn him that he will be murdered and to take whatever measures he can to prevent it from happening.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Back to the Future 3",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2tbaUjDRHAtD0NTXJOg94tx35yu.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 578873,
+            "original_language": "en",
+            "original_title": "Romesh's Look Back to the Future",
+            "overview": "One year ago Romesh Ranganathan and special guests Richard Osman, Katherine Ryan and Danny Dyer made some bold predictions for 2018. Now they\u2019re getting together to see who got it bang on and whose crystal ball was on the blink.",
+            "popularity": 0.637,
+            "poster_path": "/3iuxqymDfoPBv13Icaa1qK3GCMz.jpg",
+            "release_date": "2018-12-17",
+            "title": "Romesh's Look Back to the Future",
+            "video": true,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/YkHnAZFOcaGRd1RigZ65LDEHvR.jpg",
+            "genre_ids": [
+                12,
+                16,
+                878,
+                10751
+            ],
+            "id": 691742,
+            "original_language": "en",
+            "original_title": "Project 88: Back to the Future Too",
+            "overview": "More than 300 fans from 9 different countries joined together to remake Back to the Future Part II during the COVID-19 quarantine. The film was split into 88 scenes with 88 teams producing their segment using available resources all while obeying local social distancing guidelines. The result is an absurdly fun, wild ride that sees everything from pro-level live action to killer animation to... bananas and potatoes used to bring Back to the Future Part II to life all over again.",
+            "popularity": 0.6,
+            "poster_path": "/n90ey2b7OFg5oFAWfIzK7HNSzak.jpg",
+            "release_date": "2020-04-08",
+            "title": "Project 88: Back to the Future Too",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d7Aax0fvHLM0Gq8Kpm1Kec6518v.jpg",
+            "genre_ids": [],
+            "id": 294145,
+            "original_language": "en",
+            "original_title": "Looking Back to the Future: Raymond Loewy, Industrial Designer",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/xFuQfuPgvMgc6x17lRGK49CmPpP.jpg",
+            "release_date": "1985-01-01",
+            "title": "Looking Back to the Future: Raymond Loewy, Industrial Designer",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 924881,
+            "original_language": "en",
+            "original_title": "BACK TO THE FUTURE predicts 9/11",
+            "overview": "This film is a perfidious representation of the totality of Back to the Future. Its facts and component parts have been removed from the depth of their intended context. The resulting re-contextualization is a perversion via production, intended to distort character perspectives. At the same time, this is an exploration of the archetypal relationship that does exist between the narrative of Back to the Future and the 9/11 terror events. The correlations uncovered are meant to indicate a conscious connective fabric that ties together all matter and energy within the universe, producing non-local phenomenon which can be referred to as synchronicity. As this fabric is observed by the characters it chronicles, their own stories will appear to reflect the fabric itself. Be cautious; there is no message here divisible from this medium.",
+            "popularity": 0.846,
+            "poster_path": "/lYTOR69gp60iExHabKMFzI2HmIA.jpg",
+            "release_date": "2015-07-27",
+            "title": "BACK TO THE FUTURE predicts 9/11",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878
+            ],
+            "id": 876939,
+            "original_language": "en",
+            "original_title": "BTTF Project 85: The Back to the Future Fan Remake",
+            "overview": "BTTF Project 85 is a fan made remake of the classic 1985 movie Back to the Future, and is inspired by the popular fan film Project 88: Back to the Future Too. The project was created and organized by Ari Turobiner and Poppy Kampalis, and aims to raise money for the Michael J. Fox Foundation For Parkinson's Research. Featuring original cast cameos and starring Back to the Future fans from all over the world, Project 85 is sure to make you say \"Great Scott!\"",
+            "popularity": 0.6,
+            "poster_path": "/f7TXuBhiGMQeoDMnzKVtKqWj6x9.jpg",
+            "release_date": "",
+            "title": "BTTF Project 85: The Back to the Future Fan Remake",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 412272,
+            "original_language": "en",
+            "original_title": "Back to the 2015 Future",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2015-10-21",
+            "title": "Back to the 2015 Future",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z8125Gm4hadwQZOcFiZ7uor77E4.jpg",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "id": 20803,
+            "original_language": "ru",
+            "original_title": "\u0418\u0432\u0430\u043d \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447 \u043c\u0435\u043d\u044f\u0435\u0442 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u044e",
+            "overview": "A scientist builds a time machine and accidentally sends his apartment complex manager and a petty burglar to 16th century Moscow, while Tsar Ivan the Terrible travels to 1973.",
+            "popularity": 10.472,
+            "poster_path": "/6f7vhvnma8sbO6821ShE5ViA3r8.jpg",
+            "release_date": "1973-09-17",
+            "title": "Ivan Vasilyevich Changes His Profession",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 211984,
+            "original_language": "en",
+            "original_title": "Looking Back at the Future",
+            "overview": "Looking to the future is a documentary about the filming of the legendary trilogy Back to the Future.",
+            "popularity": 0.712,
+            "poster_path": null,
+            "release_date": "2006-06-16",
+            "title": "Looking Back at the Future",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                35,
+                878
+            ],
+            "id": 1057240,
+            "original_language": "en",
+            "original_title": "TAKING BACK THE FUTURE",
+            "overview": "An apathetic, time traveling tinkerer seeks purpose after finding his future granddaughter amidst a barren wasteland inhabited by maniacal outlaws.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "TAKING BACK THE FUTURE",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 791264,
+            "original_language": "en",
+            "original_title": "DeLorean: Back from the Future",
+            "overview": "John Z DeLorean\u2019s extraordinary and doomed attempt to build the sports car of the future in 1980s Northern Ireland is the stuff of legend. A buccaneering American entrepreneur, DeLorean had film star looks, a famous fashion model as a wife, and an enormous ego that drove him to rival the giants of the US car industry.",
+            "popularity": 0.6,
+            "poster_path": "/mAsgMCWgiZEtmwVKGsSBfz4EuBa.jpg",
+            "release_date": "2021-01-27",
+            "title": "DeLorean: Back from the Future",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 20
+}

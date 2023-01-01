@@ -1,0 +1,381 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 271110,
+            "original_language": "en",
+            "original_title": "Captain America: Civil War",
+            "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+            "popularity": 84.487,
+            "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+            "release_date": "2016-04-27",
+            "title": "Captain America: Civil War",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 20553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 1771,
+            "original_language": "en",
+            "original_title": "Captain America: The First Avenger",
+            "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+            "popularity": 46.967,
+            "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+            "release_date": "2011-07-22",
+            "title": "Captain America: The First Avenger",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 19315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yHB0eNR8rvCpn0VdghEwBsXAC0N.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 100402,
+            "original_language": "en",
+            "original_title": "Captain America: The Winter Soldier",
+            "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy\u2014the Winter Soldier.",
+            "popularity": 41.62,
+            "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+            "release_date": "2014-03-20",
+            "title": "Captain America: The Winter Soldier",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 16799
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fHx9e35Vn7mMH3O0Fmfds70ABo8.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                10752
+            ],
+            "id": 13995,
+            "original_language": "en",
+            "original_title": "Captain America",
+            "overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
+            "popularity": 12.167,
+            "poster_path": "/lUsDBhzogxYOU5XshARgnnZY4Xd.jpg",
+            "release_date": "1990-12-14",
+            "title": "Captain America",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hGvAIrlWqXOnctvyVlX8RzKLgKz.jpg",
+            "genre_ids": [
+                12,
+                16,
+                28
+            ],
+            "id": 284274,
+            "original_language": "en",
+            "original_title": "Iron Man & Captain America: Heroes United",
+            "overview": "Iron Man and Captain America battle to keep the Red Skull and his triggerman, Taskmaster, from unleashing an army of Hydra Brutes on the world!  Sequel to the film \"Iron Man & Hulk: Heroes United\" and feature Iron Man teaming up with Captain America, it comes to accompany the live-action film \"Captain America: The Winter Soldier\".",
+            "popularity": 20.556,
+            "poster_path": "/CX7eRlaxFXiW3UGQBdQUoSVZRi.jpg",
+            "release_date": "2014-07-29",
+            "title": "Iron Man & Captain America: Heroes United",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 822119,
+            "original_language": "en",
+            "original_title": "Captain America: New World Order",
+            "overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
+            "popularity": 5.974,
+            "poster_path": "/3DgdfIoJsGnEvSSvUs5hOAYbZlL.jpg",
+            "release_date": "2024-05-01",
+            "title": "Captain America: New World Order",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l2vddRxLkQGLRXR8OLdC0M3oKQ6.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                10770
+            ],
+            "id": 197467,
+            "original_language": "en",
+            "original_title": "Captain America",
+            "overview": "An artist, Steve Rogers, is nearly murdered by spies, looking for his late father's national secrets. He is saved during surgery when a secret formula is injected into him; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help him solve the mystery behind his father\u2019s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
+            "popularity": 4.932,
+            "poster_path": "/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
+            "release_date": "1979-01-19",
+            "title": "Captain America",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/911CxMNSN8EycQSnTcaIXC7DBx0.jpg",
+            "genre_ids": [
+                28,
+                18,
+                878,
+                10770
+            ],
+            "id": 197481,
+            "original_language": "en",
+            "original_title": "Captain America II: Death Too Soon",
+            "overview": "A government agent is looking for a missing scientist, believing that a revolutionary leader known as Miguel has him, and that he is using him to get his formula for something that can accelerate the aging process. He sends Steve Rogers aka Captain America to find him and rescue the scientist, his only lead is a chemical that the scientist needs for his formula. As he gets closer to the truth Miguel threatens to spray the chemical on a major city unless his demands are met. But the President does not negotiate with terrorists, can Captain America save the day!?",
+            "popularity": 7.642,
+            "poster_path": "/pocmh0P8Ddf5w33pP3Vuqm0JRP9.jpg",
+            "release_date": "1979-11-23",
+            "title": "Captain America II: Death Too Soon",
+            "video": false,
+            "vote_average": 3.7,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKVwvPUwMXcVqTJXOkPXUTQ7GMU.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 106355,
+            "original_language": "en",
+            "original_title": "Captain America",
+            "overview": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
+            "popularity": 3.518,
+            "poster_path": "/nBRcChS66NohR3x6KVYMp6Obutt.jpg",
+            "release_date": "1944-02-05",
+            "title": "Captain America",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                99
+            ],
+            "id": 473941,
+            "original_language": "en",
+            "original_title": "Captain America: Civil War Reenactors",
+            "overview": "Chad and Angus (Tony Hale & Adam Pally) are pool store employees who share a passion for cosplay and faithfully reenacting major battles from Marvel comic book canon. This documentary examines the coworkers' devoted yet contentious relationship.",
+            "popularity": 2.733,
+            "poster_path": "/8or9JKM93yfwWcEL816Ch8g1jDh.jpg",
+            "release_date": "2016-05-11",
+            "title": "Captain America: Civil War Reenactors",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hGg4e8ZuLOYT46ERS5LY2Qnb4q5.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 379040,
+            "original_language": "en",
+            "original_title": "Marvel's Captain America: 75 Heroic Years",
+            "overview": "A full-length documentary that follows the history of Captain America from 1941 to present and explores how \u201cCap\u201d has been a reflection of the changing times and the world he has existed in throughout the years. Fans will hear from various Marvel luminaries including Stan Lee, Joe Quesada, Clark Gregg, Ming-Na Wen, Chloe Bennet, Jeph Loeb, Louis D\u2019Esposito, Chris Evans and Hayley Attwell, as well as family members of Cap\u2019s creators.",
+            "popularity": 2.637,
+            "poster_path": "/lr8ZujMvC36pHXRiamsrEex5Nip.jpg",
+            "release_date": "2016-01-19",
+            "title": "Marvel's Captain America: 75 Heroic Years",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 448359,
+            "original_language": "en",
+            "original_title": "Captain America: The First Avenger - The Transformation",
+            "overview": "A brief piece that offers an in-depth look at the process of digitally shrinking Actor Chris Evans for the film's first act.",
+            "popularity": 1.243,
+            "poster_path": "/8YXB6PzoEbcpx3pCcgXxBF6qWi5.jpg",
+            "release_date": "2011-10-25",
+            "title": "Captain America: The First Avenger - The Transformation",
+            "video": true,
+            "vote_average": 9.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 925045,
+            "original_language": "en",
+            "original_title": "Captain America vs. The Mutant",
+            "overview": "A spacecraft lands on Earth. Steve Rogers (played by Randal Kleiser) observes the landing and investigates as Captain America.",
+            "popularity": 1.09,
+            "poster_path": "/yNWef8KtKqh3lD4ZWwOyu9Fo6V7.jpg",
+            "release_date": "",
+            "title": "Captain America vs. The Mutant",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 315164,
+            "original_language": "en",
+            "original_title": "The Origin of Captain America",
+            "overview": "A young man reads a comic depicting what the title says. We see his face and reactions. He finally finishes the book and leaves the scene.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1964-01-01",
+            "title": "The Origin of Captain America",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 925037,
+            "original_language": "en",
+            "original_title": "Captain America Battles the Red Skull",
+            "overview": "The Red Skull (played by Larry Ivie), is about to destroy an American city with only Steve Rogers as Captain America (played by Don Glut) able to stop him. Will he be in time?",
+            "popularity": 0.841,
+            "poster_path": "/31HG8G9DoFFSy0GbHYnIrCLQEQh.jpg",
+            "release_date": "1964-01-01",
+            "title": "Captain America Battles the Red Skull",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/NV8h1qAu9q4iK6G0eUT0LNR6GO.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 791401,
+            "original_language": "en",
+            "original_title": "Captain Mike Across America",
+            "overview": "During the 2004 presidential election, Michael Moore set off on a 60 city tour (mostly colleges), making stops in the 20 battleground states, to help raise voting awareness.",
+            "popularity": 1.917,
+            "poster_path": "/xf81BLFGy22QqI03Z2Yte5jqv32.jpg",
+            "release_date": "2007-09-07",
+            "title": "Captain Mike Across America",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 448352,
+            "original_language": "en",
+            "original_title": "Behind the Skull",
+            "overview": "A look back at the history of Red Skull, casting the role, and creating the character's right look for the movie.",
+            "popularity": 1.6,
+            "poster_path": "/bJlf0AFAV36z9KRRP99y5GcaCap.jpg",
+            "release_date": "2011-10-25",
+            "title": "Captain America: The First Avenger - Behind the Skull",
+            "video": true,
+            "vote_average": 6,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 58447,
+            "original_language": "tr",
+            "original_title": "3 dev adam",
+            "overview": "Istanbul is being terrorized by a crime wave, and the police call in American superhero Captain America and Mexican wrestler Santo to put a stop to it.",
+            "popularity": 3.968,
+            "poster_path": "/wAwzuwe5BGglw4WEdSViSKx02wZ.jpg",
+            "release_date": "1973-01-01",
+            "title": "Three Giant Men",
+            "video": false,
+            "vote_average": 3.8,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 303008,
+            "original_language": "en",
+            "original_title": "Captain Amazing-Lad Saves America",
+            "overview": "With just a flyspeck of talent and a ginormous amount of dumb-luck, this gallantly square-jawed super person dispenses a cup of American justice that no dastardly villain or reckless pedestrian can withstand. CRIMINALS TAKE CARE! JAYWALKERS BEWARE! Wittily written and vividly voiced, this timeless collection contains some of the most enduring and entertaining episodes from the Quality Cheese Archives. Animated absurdly for all ages.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2014-03-25",
+            "title": "Captain Amazing-Lad Saves America",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 400689,
+            "original_language": "ru",
+            "original_title": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u041f\u0440\u043e\u043d\u0438\u043d 2 - \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435",
+            "overview": "Captain Pronin goes to America to settle some business.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1993-01-01",
+            "title": "Captain Pronin 2: In America",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 20
+}

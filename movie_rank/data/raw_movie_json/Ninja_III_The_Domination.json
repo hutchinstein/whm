@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1RT358BoSuhU2oqecR6uJBolRjv.jpg",
+            "genre_ids": [
+                28,
+                14
+            ],
+            "id": 28148,
+            "original_language": "en",
+            "original_title": "Ninja III: The Domination",
+            "overview": "A female aerobic instructor is possessed by the soul of a fallen ninja when coming to his aid. The spirit seeks revenge on those who killed him and uses the instructor's body to carry out his mission. The only way the spirit will leave her body is with the help of another ninja.",
+            "popularity": 9.061,
+            "poster_path": "/2pwMy8nS1Tiyo6NOvLUOUjehw9.jpg",
+            "release_date": "1984-09-14",
+            "title": "Ninja III: The Domination",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 91
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

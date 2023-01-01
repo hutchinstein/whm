@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/muLjql468QblQrvh7zWbQauefxz.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10402,
+                10749
+            ],
+            "id": 25199,
+            "original_language": "en",
+            "original_title": "Teen Witch",
+            "overview": "Louise is not very popular at her highschool. Then she learns that she's descended from the witches of Salem and has inherited their powers. At first she uses them to get back at the girls and teachers who teased her and to win the heart of the handsome footballer's captain. But soon she has doubts if it's right to 'cheat' her way to popularity.",
+            "popularity": 9.525,
+            "poster_path": "/51A71crqobviJRX2Ktl7JVROwdv.jpg",
+            "release_date": "1989-04-28",
+            "title": "Teen Witch",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 139
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

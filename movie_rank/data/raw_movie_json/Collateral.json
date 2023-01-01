@@ -1,0 +1,299 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/luaCdru9mok7iCUGALkKDOVsptd.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 1538,
+            "original_language": "en",
+            "original_title": "Collateral",
+            "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+            "popularity": 27.541,
+            "poster_path": "/iOpi3ut5DhQIbrVVjlnmfy2U7dI.jpg",
+            "release_date": "2004-08-04",
+            "title": "Collateral",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4685
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iovi35nPfjbYTw2gRo7uImWblRU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 345920,
+            "original_language": "en",
+            "original_title": "Collateral Beauty",
+            "overview": "Retreating from life after a tragedy, a man questions the universe by writing to Love, Time and Death. Receiving unexpected answers, he begins to see how these things interlock and how even loss can reveal moments of meaning and beauty.",
+            "popularity": 24.531,
+            "poster_path": "/4jfwP5Nc6WB5G7HvCnv3GQGzsH2.jpg",
+            "release_date": "2016-12-06",
+            "title": "Collateral Beauty",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4986
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dbcIjw5Ng0y4RcQXAKOtLB2VYfT.jpg",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "id": 9884,
+            "original_language": "en",
+            "original_title": "Collateral Damage",
+            "overview": "Firefighter Gordon Brewer is plunged into the complex and dangerous world of international terrorism after he loses his wife and child in a bombing credited to Claudio 'The Wolf' Perrini.",
+            "popularity": 22.12,
+            "poster_path": "/uyzgI1jqMjQMzbjhMrWvWHd76Ua.jpg",
+            "release_date": "2002-02-06",
+            "title": "Collateral Damage",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 1178
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 605162,
+            "original_language": "en",
+            "original_title": "Collateral Murder",
+            "overview": "A documentary of classified military footage released by WikiLeaks showing an attack by the US military in the Iraqi suburb of New Baghdad. This attack left 12 dead including two Reuters staff.",
+            "popularity": 0.6,
+            "poster_path": "/lwfSNQnnVYx75JyBHtOGNTiPNRf.jpg",
+            "release_date": "2010-04-05",
+            "title": "Collateral Murder",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 565666,
+            "original_language": "en",
+            "original_title": "Special Delivery: Michael Mann on Making 'Collateral'",
+            "overview": "",
+            "popularity": 3.476,
+            "poster_path": "/t9GDCt32NTkiBxdPxgHPjvPd1Jy.jpg",
+            "release_date": "2004-06-07",
+            "title": "Special Delivery: Michael Mann on Making 'Collateral'",
+            "video": true,
+            "vote_average": 7,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                9648,
+                35
+            ],
+            "id": 785442,
+            "original_language": "en",
+            "original_title": "Collateral Damage",
+            "overview": "A modern twist of a classic 'whodunit' tale.",
+            "popularity": 0.6,
+            "poster_path": "/kscpQb3Q3k8zDZW70BCPZisWRjc.jpg",
+            "release_date": "2021-01-13",
+            "title": "Collateral Damage",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 781983,
+            "original_language": "en",
+            "original_title": "Collateral Damages",
+            "overview": "An intimate look at the emotional and psychological impact of September 11 on New York firefighters in the year after the attack on the World Trade Center.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Collateral Damages",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 799933,
+            "original_language": "en",
+            "original_title": "Collateral Consequences",
+            "overview": "Two men work as low budget film stuntmen and stunt coordinators but a stunt backfires and one is injured. The two men try and outdo each other by pushing every stunt to the very limit to see who is indeed the best stuntman.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2012-12-10",
+            "title": "Collateral Consequences",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 565663,
+            "original_language": "en",
+            "original_title": "City of Night: The Making of 'Collateral'",
+            "overview": "This documentary chronicles the making of the film Collateral (2004). We get to see Tom Cruise and Jamie Foxx training for their roles, as well as Jada Pinket Smith's Audition. Michael Mann also informs us on his preparation for the film, as well as some more behind-the-scenes looks at the 17 special camera-ready taxis and the taxi crash.",
+            "popularity": 1.551,
+            "poster_path": "/yW6415ycqfUu5TChsL35wlVAx0g.jpg",
+            "release_date": "2004-12-14",
+            "title": "City of Night: The Making of 'Collateral'",
+            "video": true,
+            "vote_average": 6,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/htyMJhFpau8goMMLQoUXyLZf6cs.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 589174,
+            "original_language": "ko",
+            "original_title": "\ub2f4\ubcf4",
+            "overview": "A debt collector who looks intimidating, but actually has a warm heart, ends up becoming the guardian of a child, who has been left behind as collateral by her illegal immigrant mother.",
+            "popularity": 14.593,
+            "poster_path": "/nNgeb1Jy18azKKDcUUdh1Hhkjbr.jpg",
+            "release_date": "2020-09-29",
+            "title": "Pawn",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lFZSl4SW9MF5oP66Vh8dMXvCTUe.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 442094,
+            "original_language": "en",
+            "original_title": "Check Point",
+            "overview": "Port City North Carolina: During a routine camp out, a local vagrant discovers plans for an invasion in America. When he tries to notify the local Sheriff about his discovery, the Sheriff dismisses his claims and has him locked up for loitering. When the Sheriff notices odd interactions with other towns folk he begins to look into the vagrants' claim of a sleeper cell living amongst the locals within this small town. After evidence of a beheading is exposed, others begin to fear that the insurgents attack on hometown USA. Questions and tempers begin to rise. Why this little beach community with it's Norman Rockwell way of life? A town where everyone knows one another... or so they thought. When the truth is blind and justice seems lost, It will take an army of five unlikely heroes banding together to infiltrate the insurgents and foil their invasion plans.",
+            "popularity": 7.975,
+            "poster_path": "/wVeCqZYoAq8SK0CtDxERo2Ze9co.jpg",
+            "release_date": "2017-03-07",
+            "title": "Check Point",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 592237,
+            "original_language": "it",
+            "original_title": "Afganistan: Effetti collaterali",
+            "overview": "A documentary that follows the efforts of aid workers to re-open a hospital in Kabul from October to December 2001, while fighting between US and Taliban forces was still underway.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2002-07-28",
+            "title": "Afghanistan: Collateral Damage",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AiANMDluSadzaS6BqogOtGJcaxB.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 7871,
+            "original_language": "en",
+            "original_title": "Side Effects",
+            "overview": "America! Built on a better pill. Karly Hert has spent the last ten years selling drugs. Legally, that is. Karly is a pharmaceutical sales representative. She sells pills to doctors. She makes lots of money. She has a company car. She has a nice fat expense account. But there's a growing pit in Karly's stomach. Something isn't right behind the scenes at big pharma. Based on the director's decade working directly for the industry.",
+            "popularity": 3.154,
+            "poster_path": "/qhQiaAEChJTHyfDE39cIDOLsfgW.jpg",
+            "release_date": "2005-03-07",
+            "title": "Side Effects",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r4xP4BYzdny31piDdm2Uk0tDnGJ.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 12538,
+            "original_language": "en",
+            "original_title": "Senseless",
+            "overview": "A student gets his senses enhanced by an experimental drug. But abuse is not an option.",
+            "popularity": 14.84,
+            "poster_path": "/rqy7OFHWy1NMjmgjyI8XYcl0VU5.jpg",
+            "release_date": "1998-02-20",
+            "title": "Senseless",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 303
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gCTrUQMjcwUXiWUCAq4SGG6kUro.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "id": 109421,
+            "original_language": "en",
+            "original_title": "Side Effects",
+            "overview": "A woman turns to prescription medication as a way of handling her anxiety concerning her husband's upcoming release from prison.",
+            "popularity": 16.796,
+            "poster_path": "/ovWRK679TSuvWHVGOGOi1do2DUE.jpg",
+            "release_date": "2013-02-07",
+            "title": "Side Effects",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2727
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AmjUi3wBU4bSmhC7woKnXhgoXIB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 251994,
+            "original_language": "en",
+            "original_title": "Reach Me",
+            "overview": "Each member of a group of people has a connection to a self-help book authored by a reclusive former football coach.",
+            "popularity": 8.382,
+            "poster_path": "/cJl2GTmQsL6ygHabO2YLVA8Kb9i.jpg",
+            "release_date": "2014-03-14",
+            "title": "Reach Me",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 87
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 16
+}

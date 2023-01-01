@@ -1,0 +1,378 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "id": 703745,
+            "original_language": "en",
+            "original_title": "Deep Blue Sea 3",
+            "overview": "Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a \"scientific\" team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren't just any bull sharks.",
+            "popularity": 33.015,
+            "poster_path": "/bKthjUmxjHjvJK8FktFfQdmwP12.jpg",
+            "release_date": "2020-08-25",
+            "title": "Deep Blue Sea 3",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "id": 8914,
+            "original_language": "en",
+            "original_title": "Deep Blue Sea",
+            "overview": "Researchers on the undersea lab Aquatica have genetically altered the brains of captive sharks to develop a cure for Alzheimer's disease. But there's an unexpected side effect: the sharks got smarter, faster, and more dangerous. After a big storm damages their remote research facility, they must fight for their lives.",
+            "popularity": 16.739,
+            "poster_path": "/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg",
+            "release_date": "1999-07-28",
+            "title": "Deep Blue Sea",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 2038
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5UKLqsKJIhouJPVr8AQSTuh7S4n.jpg",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "id": 492336,
+            "original_language": "en",
+            "original_title": "Deep Blue Sea 2",
+            "overview": "When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.",
+            "popularity": 22.193,
+            "poster_path": "/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg",
+            "release_date": "2018-04-17",
+            "title": "Deep Blue Sea 2",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 443
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iAyzpvldbIxLdDIjRMOJoBORola.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 51994,
+            "original_language": "en",
+            "original_title": "The Deep Blue Sea",
+            "overview": "The wife of a British Judge is caught in a self-destructive love affair with a Royal Air Force pilot.",
+            "popularity": 8.776,
+            "poster_path": "/tZAXsFxxYWWSpEy5XQtdBaETYoc.jpg",
+            "release_date": "2011-09-11",
+            "title": "The Deep Blue Sea",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AbfXLaKxVZhmcY0pKXAeHdaL8fF.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 193321,
+            "original_language": "en",
+            "original_title": "The Deep Blue Sea",
+            "overview": "A woman is unhappy in her marriage to a boring, stiff judge, so she takes up with a wild-living RAF pilot, who ends up being more than she can handle. (TCM.com)",
+            "popularity": 1.248,
+            "poster_path": "/98TFnJ8GZlbBnbCZ6v8IIcdCPsP.jpg",
+            "release_date": "1955-11-01",
+            "title": "The Deep Blue Sea",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mhvJiYGLPRA5OmEPOhDP7miJ7v3.jpg",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "id": 233566,
+            "original_language": "en",
+            "original_title": "The Deep Blue Sea",
+            "overview": "Hester Collyer is rescued by a neighbor after attempting suicide in the flat she shares with her young lover, ex-RAF pilot Freddie Page. The neighbors alert her husband, who arrives at the flat only to find her fully recovered...",
+            "popularity": 0.6,
+            "poster_path": "/zqk1WUDTEgqBlU1RCYZRjelXand.jpg",
+            "release_date": "1994-11-12",
+            "title": "The Deep Blue Sea",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gv7T101MfFQdUobEOngre3OogNo.jpg",
+            "genre_ids": [],
+            "id": 426342,
+            "original_language": "en",
+            "original_title": "National Theatre Live: The Deep Blue Sea",
+            "overview": "A flat in Ladbroke Grove, West London. 1952.  When Hester Collyer is found by her neighbours in the aftermath of a failed suicide attempt, the story of her tempestuous affair with a former RAF pilot and the breakdown of her marriage to a High Court judge begins to emerge.  With it comes a portrait of need, loneliness and long-repressed passion. Behind the fragile veneer of post-war civility burns a brutal sense of loss and longing.",
+            "popularity": 0.625,
+            "poster_path": "/hXU9hMpZARRclozFvPDdxrn6HTN.jpg",
+            "release_date": "2016-11-14",
+            "title": "National Theatre Live: The Deep Blue Sea",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 197552,
+            "original_language": "en",
+            "original_title": "Between the Devil and the Deep Blue Sea",
+            "overview": "A Greek-Irish sailor becomes friends with a 10-year-old sampan girl while his freighter is docked in Hong Kong.",
+            "popularity": 1.058,
+            "poster_path": "/zVgLWFXAyjJHPRDrBxq3R0TGvTI.jpg",
+            "release_date": "1995-05-28",
+            "title": "Between the Devil and the Deep Blue Sea",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                10402
+            ],
+            "id": 881285,
+            "original_language": "en",
+            "original_title": "Down In The Deep Blue Sea",
+            "overview": "Dive down into the deep blue sea with Finny The Shark and friends. You\u2019ll see a fish, an octopus, a whale, a shark, a jellyfish, and a starfish!",
+            "popularity": 0.6,
+            "poster_path": "/gIglou5a6MSS2YlGDoWLRKkSYve.jpg",
+            "release_date": "2020-01-01",
+            "title": "Down In The Deep Blue Sea",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 168232,
+            "original_language": "en",
+            "original_title": "Out in That Deep Blue Sea",
+            "overview": "A real estate agent encounters a slump late in his career. Exhibiting questionable behaviour, he struggles to find balance between his professional obligations and personal relationships.",
+            "popularity": 0.6,
+            "poster_path": "/kv7fgS1LebOp1e2iGJ2NNpxHJtx.jpg",
+            "release_date": "2009-09-10",
+            "title": "Out in That Deep Blue Sea",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 343935,
+            "original_language": "en",
+            "original_title": "Between the Devil and the Deep Blue Sea",
+            "overview": "When she was 9, Zainab\u2019s parents made the heartbreaking decision to leave their home in northern Afghanistan. They set out on a journey across the globe, putting the fate of their family in the hands of strangers.  Across borders, behind bars and onto a smuggler\u2019s boat \u2013 the family chased freedom.  \u2018Between the Devil and the Deep Blue Sea\u2019 tells Zainab\u2019s story, and the story of many others who have trodden the same path.  Jessie Taylor and Ali Reza Sadiqi travelled across Indonesia and met with 250 asylum seekers in jails, detention centres and hostels. Through candid interviews, hidden camera footage and in the words of asylum seekers themselves, the story of the \u2018refugee\u2019 is told. What pushes people to leave home? What do they leave behind? What do they fear? Why did they choose this path? And what does it take to turn someone into a \u2018boat person\u2019?  Meet the human faces behind the most controversial issue of our time.",
+            "popularity": 0.719,
+            "poster_path": null,
+            "release_date": "2011-06-01",
+            "title": "Between the Devil and the Deep Blue Sea",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 589802,
+            "original_language": "en",
+            "original_title": "Between the Devil and the Deep Blue Sea",
+            "overview": "After his best friend disappears following a violent argument, a troubled marine must wrestle with his identity and guilty conscience.",
+            "popularity": 0.6,
+            "poster_path": "/AjtWPSNpeXBzbL9drHrSMKaQ3p2.jpg",
+            "release_date": "2018-05-23",
+            "title": "Between the Devil and the Deep Blue Sea",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 751770,
+            "original_language": "en",
+            "original_title": "between the devil and the deep blue sea",
+            "overview": "A Report on the TV took the director on a trip inside her house, during the lockdown to remember her late parents",
+            "popularity": 0.6,
+            "poster_path": "/6eeNuyIZ8V4YXNqZl1PRtPAoI22.jpg",
+            "release_date": "",
+            "title": "between the devil and the deep blue sea",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z2skoShPIyGJL1qRcXRgkXYHNsJ.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 768737,
+            "original_language": "id",
+            "original_title": "Between the Devil and the Deep Blue Sea",
+            "overview": "For Ona, a young woman from the small Indonesian island of Kaledupa, the struggle to receive an education and marry a decent man is hard won. Her dream is to become a marine biologist and she has the drive to do it, despite no one in her family believing in her. However, her focus on her studies is interrupted when the man she is betrothed to marry is released from prison and rapes her, leaving her no choice but to demand he marry her, so she can protect the good name of her unsupportive family.",
+            "popularity": 0.614,
+            "poster_path": "/6exv8qXx5PyIWixbkfZAKvQFHe8.jpg",
+            "release_date": "2020-11-24",
+            "title": "Between the Devil and the Deep Blue Sea",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lnuoWN7YEYE6ICncq4fzoVpRWl3.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 575981,
+            "original_language": "pt",
+            "original_title": "A Viagem de Pedro",
+            "overview": "The story of Brazil\u2019s first emperor, returning to Europe on board the English ship Warspite. The trip makes Pedro conquer his fears and face his life from a personal point of view. He goes back in time and relives outstanding moments of his earlier life \u2013 since his childhood, when in 1808 he arrived coming from Portugal with his family, until he left in the dead of the night, in 1831, running away from Brazil.",
+            "popularity": 2.08,
+            "poster_path": "/pW2wpWgb7DeKPbbrCsLG7bmju7B.jpg",
+            "release_date": "2022-09-01",
+            "title": "Pedro, Between the Devil and the Deep Blue Sea",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 385367,
+            "original_language": "ja",
+            "original_title": "\u9752\u3044\u6d77\u539f",
+            "overview": "To fulfill a friend\u2019s dying wish, a young sailor Kenji takes on the task of delivering an heirloom to his friend\u2019s daughter, Harumi, who has been adopted by another family. When he arrives, Kenji soon discovers that Harumi and her adopted family are the targets of an evil gang boss. In an attempt to help them, he decides to take matters into his own hands.",
+            "popularity": 0.6,
+            "poster_path": "/bkRqUCMWLDpUs6SSTLbU3cvSPkb.jpg",
+            "release_date": "1957-07-30",
+            "title": "The Deep Blue Sea",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zSY1Tspzqcmzt0St3l8rawp7VZ.jpg",
+            "genre_ids": [
+                16,
+                12,
+                878
+            ],
+            "id": 692298,
+            "original_language": "ja",
+            "original_title": "\u84bc\u3044\u6d77\u306e\u30c8\u30ea\u30b9\u30c6\u30a3\u30a2",
+            "overview": "An ocean city, Tristia.  Tristia used to be prospering playing an important role of the maritime trade, and it was as beautiful as to be praised as \"marine jewelry\".  However, that was a long time ago.  The attack of the dragons deprived the city of their original brightness. The people in Tristia worked hard to reconstruct their city, but everything they did went wrong, and the city became desolated on the contrary.  At the end of their hope, they asked a Great Artisan for the recovery of the city, Prospero Flanka. Prospero was a legendary inventor who had revived cities that otherwise would have been ruined.  The long-awaited day came when the Great Artisan Prosper arrived in the city... However, it was only one girl who stood at the port of the city. Prospero sent his grand daughter, Nanoka, for him.",
+            "popularity": 0.845,
+            "poster_path": "/z2l4F8Gt1RCRyepHSphW98omR1N.jpg",
+            "release_date": "2004-07-23",
+            "title": "Tristia of the Deep Blue Sea",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nhSlg3xCaolEWLS0IGKGba6Xbko.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 352885,
+            "original_language": "en",
+            "original_title": "The Book of Love",
+            "overview": "After tragedy strikes Henry and Penny, he befriends a tenacious young girl and discovers she is constructing a raft to sail across the Atlantic to find her lost father. Together, along with some unlikely friends, they set forth to construct the vessel and subsequently rebuild their lives.",
+            "popularity": 8.704,
+            "poster_path": "/TnGRaxeNPA82FGOEwunZTUivu0.jpg",
+            "release_date": "2017-01-13",
+            "title": "The Book of Love",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 185
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 281790,
+            "original_language": "en",
+            "original_title": "Summer Snow",
+            "overview": "Short experimental movie about sea, love and trust.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2014-03-20",
+            "title": "Summer Snow",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 1028246,
+            "original_language": "zh",
+            "original_title": "\u6c34\u4ed9",
+            "overview": "A Shaw and Sons production",
+            "popularity": 0.6,
+            "poster_path": "/2lj1AmiFhVDESwGAUZH81VYC1gy.jpg",
+            "release_date": "1956-09-07",
+            "title": "Beyond the Blue Horizon",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 20
+}

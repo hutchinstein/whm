@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/b10Y539sFC9LFvGhYiNDIVlNDax.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 17795,
+            "original_language": "en",
+            "original_title": "My Fellow Americans",
+            "overview": "They used to run the country. Now they're running for their lives! Two on-the-lam former Presidents of the United States. Framed in a scandal by the current President and pursued by armed agents, the two squabbling political foes plunge into a desperately frantic search for the evidence that will establish their innocence.",
+            "popularity": 10.573,
+            "poster_path": "/l5TDGKAUmqbmWPeCb6k30iNAVtz.jpg",
+            "release_date": "1996-12-20",
+            "title": "My Fellow Americans",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 119
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

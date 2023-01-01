@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/gqemVzi13T4oB95EBufIxqafSCl.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 412988,
+            "original_language": "en",
+            "original_title": "The Happytime Murders",
+            "overview": "In a world where human beings and puppets live together, when the members of the cast of a children's television show aired during the 1990s begin to get murdered one by one, puppet Phil Philips, a former LAPD detective who fell in disgrace and turned into a private eye, takes on the case at the request of his old boss in order to assist detective Edwards, who was his partner in the past.",
+            "popularity": 16.644,
+            "poster_path": "/rWxkur51srfVnMn2QOFjE7mbq6h.jpg",
+            "release_date": "2018-08-22",
+            "title": "The Happytime Murders",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 864
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

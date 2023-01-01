@@ -1,0 +1,29 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6x7yvYQjVvqGHf9fkLUUlHAFo9R.jpg",
+            "genre_ids": [
+                53,
+                28,
+                35,
+                80,
+                18
+            ],
+            "id": 11595,
+            "original_language": "en",
+            "original_title": "Another 48 Hrs.",
+            "overview": "For the past four years, San Francisco cop Jack Cates has been after an unidentified drug kingpin who calls himself the Ice Man. Jack finds a picture that proves that the Ice Man has put a price on the head of Reggie Hammond, who is scheduled to be released from prison on the next day.",
+            "popularity": 17.484,
+            "poster_path": "/2gQaZQ6REriS7Gclv1akT5Urwgf.jpg",
+            "release_date": "1990-06-08",
+            "title": "Another 48 Hrs.",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 697
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

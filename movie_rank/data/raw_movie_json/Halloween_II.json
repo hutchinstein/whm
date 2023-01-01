@@ -1,0 +1,164 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/4UiNo0vUAKLgO9xq1JKYsGQ9avo.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 24150,
+            "original_language": "en",
+            "original_title": "Halloween II",
+            "overview": "Laurie Strode struggles to come to terms with her brother Michael's deadly return to Haddonfield, Illinois. Meanwhile, Michael prepares for another reunion with his sister.",
+            "popularity": 23.719,
+            "poster_path": "/vSHPM4LQDpWdQrD5KZWK6wNqSOD.jpg",
+            "release_date": "2009-08-28",
+            "title": "Halloween II",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fDhUxDHgjXzLZEzHNgIS75SzaCA.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 11281,
+            "original_language": "en",
+            "original_title": "Halloween II",
+            "overview": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+            "popularity": 21.418,
+            "poster_path": "/gL3dPbbZInWn4U9jd87uoFGOdot.jpg",
+            "release_date": "1981-10-30",
+            "title": "Halloween II",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1649
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eyOKqtgNeEEIp7zYMHnpISpsaS3.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "id": 10676,
+            "original_language": "en",
+            "original_title": "Halloween III: Season of the Witch",
+            "overview": "Dr. Daniel Challis and Ellie Grimbridge stumble onto a gruesome murder scheme when Ellie's novelty-salesman father, Harry, is killed while in possession of a halloween mask made by the Silver Shamrock mask company. The company's owner, Conal Cochran, wants to return Halloween to its darker roots using his masks -- and his unspeakable scheme would unleash death and destruction across the country.",
+            "popularity": 20.353,
+            "poster_path": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+            "release_date": "1982-10-22",
+            "title": "Halloween III: Season of the Witch",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 1103
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 554366,
+            "original_language": "en",
+            "original_title": "The Nightmare Isn't Over! The Making of Halloween II",
+            "overview": "Retrospective documentary about the making of \"Halloween II.\"",
+            "popularity": 0.6,
+            "poster_path": "/2ki4v7wHxCPNkyMTeu5783zV9UY.jpg",
+            "release_date": "2012-09-18",
+            "title": "The Nightmare Isn't Over! The Making of Halloween II",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AfMAcS5HmPPRtJ3d9tipXTQV2Xt.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                10770
+            ],
+            "id": 34205,
+            "original_language": "en",
+            "original_title": "Halloweentown II: Kalabar's Revenge",
+            "overview": "The Cromwell clan live in the real world, except for their grandmother who lives in Halloweentown, a place where monsters go to escape reality. But now the son of the Cromwells' old enemy Kalabar has a plan to use the grandmother's book to turn Halloweentown into a grey dreary version of the real world, while transform the denizens of the real world into monsters.",
+            "popularity": 11.646,
+            "poster_path": "/uDnp52aGXxnfU4vqnnc6YpfzjHb.jpg",
+            "release_date": "2001-10-12",
+            "title": "Halloweentown II: Kalabar's Revenge",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/efLwxaTo0VbmXTEZB1R5ATVTLIf.jpg",
+            "genre_ids": [
+                12,
+                35,
+                10751,
+                14,
+                10770
+            ],
+            "id": 34560,
+            "original_language": "en",
+            "original_title": "Halloweentown High",
+            "overview": "Marnie Piper prepares to begin a new school year, she asks the Halloweentown Hot Witches' Council to work toward openness between Halloweentown and the mortal world. She proposes to bring a group of Halloweentown students to her own high school in the mortal world.",
+            "popularity": 13.018,
+            "poster_path": "/dJsmptwkTWbxk1NwLAKeoYtcTuJ.jpg",
+            "release_date": "2004-10-08",
+            "title": "Halloweentown High",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 262
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nODFvlrbHEKsGkJiCH8A2FS0wM.jpg",
+            "genre_ids": [
+                99,
+                27
+            ],
+            "id": 560864,
+            "original_language": "en",
+            "original_title": "Stand Alone: The Making of \"Halloween III: Season of the Witch\"",
+            "overview": "Retrospective documentary on the making of \"Halloween III: Season of the Witch.\"",
+            "popularity": 1.07,
+            "poster_path": "/rpkA7nhemPyZEQnfuiKwQmiZtdn.jpg",
+            "release_date": "2012-09-18",
+            "title": "Stand Alone: The Making of \"Halloween III: Season of the Witch\"",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j14Z0pP7tpuHZlVBSuUL7tq2SGb.jpg",
+            "genre_ids": [
+                16,
+                9648,
+                28,
+                80
+            ],
+            "id": 736074,
+            "original_language": "en",
+            "original_title": "Batman: The Long Halloween, Part Two",
+            "overview": "As Gotham City's young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.",
+            "popularity": 33.416,
+            "poster_path": "/f46QMSo2wAVY1ywrNc9yZv0rkNy.jpg",
+            "release_date": "2021-07-26",
+            "title": "Batman: The Long Halloween, Part Two",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 387
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 8
+}

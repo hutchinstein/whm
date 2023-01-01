@@ -1,0 +1,101 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
+            "genre_ids": [
+                9648,
+                18
+            ],
+            "id": 15,
+            "original_language": "en",
+            "original_title": "Citizen Kane",
+            "overview": "Newspaper magnate, Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+            "popularity": 26.044,
+            "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+            "release_date": "1941-04-17",
+            "title": "Citizen Kane",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 4659
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uOVN0h286rHRfAvHA77mS0FDh9v.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 173077,
+            "original_language": "en",
+            "original_title": "Beyond Citizen Kane",
+            "overview": "Beyond Citizen Kane (1993) is a British documentary film directed by Simon Hartog, produced by John Ellis, and broadcast on Channel 4.  It details the dominant position of the Rede Globo media group in the Brazilian society, discussing the group's influence, power, and political connections.[2] Globo's president and founder Roberto Marinho came in for particular criticism, being compared with fictional newspaper tycoon Charles Foster Kane, created by Orson Welles for the 1941 film Citizen Kane. According to the documentary, Marinho's media group engages in the same Kane wholesale manipulation of news to influence the public opinion.",
+            "popularity": 1.511,
+            "poster_path": "/mpgEvSwkxXkef5mcFDRTBZagoEL.jpg",
+            "release_date": "1993-09-01",
+            "title": "Beyond Citizen Kane",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7fogdyBpaLGktxXzANmsO80wUmN.jpg",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "id": 278484,
+            "original_language": "en",
+            "original_title": "The Battle Over Citizen Kane",
+            "overview": "Documentary about the battle between Orson Welles and William Randolph Hearst over Welles' Citizen Kane (1941). Features interviews with Welles' and Hearst's co-workers also as a relative complete bio of Hearst.",
+            "popularity": 1.921,
+            "poster_path": "/tPZ9EioXBZ8j8aUqVdBX3vD8uKS.jpg",
+            "release_date": "1996-01-29",
+            "title": "The Battle Over Citizen Kane",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 296021,
+            "original_language": "en",
+            "original_title": "The Complete Citizen Kane",
+            "overview": "Documentary looking at Orson Welles and the production of the film CITIZEN KANE fifty years ago, considering the furore that accompanied it and the real life press baron William Randolph Hearst upon whom Kane is based, and his efforts to halt the film, destroy the negative and persecution of people involved with its production and showing. It includes BBC interviews with Welles made in 1960 and 1982, and film historian Robert Carringer looks at the scenes that never made it to the screen. American film critic Pauline Kael also analyses the film's enduring appeal. Extracts from \"The RKO Story\" (producer: Rosemary Wilton) and \"Yesterday's Whitness\" (producers: Christopher Cook and Stephen Peet).",
+            "popularity": 0.6,
+            "poster_path": "/kiZNwHsGGdcWpx1HOx7zN0UMqgT.jpg",
+            "release_date": "1991-10-13",
+            "title": "The Complete Citizen Kane",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rzOCr1VCQa0BUU9x34JbwzM5mRo.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10770
+            ],
+            "id": 50008,
+            "original_language": "en",
+            "original_title": "RKO 281",
+            "overview": "In 1939, boy-wonder Orson Welles leaves New York, where he has succeeded in radio and theater, and, hired by RKO Pictures, moves to Hollywood with the purpose of making his first film.",
+            "popularity": 8.573,
+            "poster_path": "/v8Z4ENMOAT5OpiMeS1PBNPui3X0.jpg",
+            "release_date": "2000-04-07",
+            "title": "RKO 281",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 68
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

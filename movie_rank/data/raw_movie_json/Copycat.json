@@ -1,0 +1,174 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7RNTb85mueTQSiUbCj9BrE2IqcG.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 1710,
+            "original_language": "en",
+            "original_title": "Copycat",
+            "overview": "An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.",
+            "popularity": 19.168,
+            "poster_path": "/lKNjGQXTy5WkSjAtLzLzAN9IHCD.jpg",
+            "release_date": "1995-05-03",
+            "title": "Copycat",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 772
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GnCzrda1am53gYXK1LhWybbS0u.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 927597,
+            "original_language": "en",
+            "original_title": "Copycat Killer",
+            "overview": "A visualizer for Phoebe Bridgers' Copycat Killer EP, featuring four songs originally released on the Grammy-nominated album Punisher, with new orchestral instrumentation and arrangements by Rob Moose.",
+            "popularity": 0.705,
+            "poster_path": "/r9KQ8ym61DgzTCeC6dwmOtVc34J.jpg",
+            "release_date": "2021-09-24",
+            "title": "Copycat Killer",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                99
+            ],
+            "id": 366897,
+            "original_language": "en",
+            "original_title": "Copycat",
+            "overview": "In the summer of 1990, a teenage filmmaker successfully raises $100,000 to shoot a pioneering horror film. 25 years later, he tells the story of a cult classic that never was.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2015-03-06",
+            "title": "Copycat",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 437177,
+            "original_language": "en",
+            "original_title": "Copycat",
+            "overview": "After 16 years of servicing the printing needs of the community, Copycat will be closing its doors. On the final day of business the store manager, Sam, leads his crew on a crazy and unpredictable day. The staff will entertain a cast of interesting customers. During this final day they will encounter two wanna-be rappers that have had an unfortunate experience with a tattoo artist, a pair of local celebrity Cougars on the prowl, a waitress from \"The Wiener Shack\" who has a big secret, and a worthy challenger to Bob's karaoke crown. Lyssa, the copier tech, will spend the day in the center of the mayhem as she breaks down the equipment. Joe the bum, who considers the Copycat \"the home he doesn't have\", will need to re-locate. As the staff ponders their future plans, the events of the day unfold as they discuss important subjects such as UFOs, Chupacabras and the potential upcoming Zombie Apocalypse. The final day will culminate in a karaoke battle for the ages.",
+            "popularity": 0.6,
+            "poster_path": "/xwetAvRkO3t7emYjaDPmzrl6wDt.jpg",
+            "release_date": "2016-09-30",
+            "title": "Copycat",
+            "video": false,
+            "vote_average": 2.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 777076,
+            "original_language": "en",
+            "original_title": "Copycat Triptych",
+            "overview": "Copycat Triptych draws on three fragments from old movies which all reference the double: the echo from the wishing well in Snow White, the reflection in the mirror in Mary Poppins and Solange Garnier\u2019s twin in Les Demoiselle de Rochefort.",
+            "popularity": 0.6,
+            "poster_path": "/xwzRXQ4G3OQ9bVpVpiOGwnCZaiK.jpg",
+            "release_date": "2020-04-25",
+            "title": "Copycat Triptych",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p2MdXxysmMY0Wncm6AacqxXeJoS.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 118775,
+            "original_language": "ja",
+            "original_title": "\u6a21\u5023\u72af",
+            "overview": "Masahiro Nakai (SMAP) stars in this hit film based on the best-selling novel by Miyuki Miyabe. Directed by Yoshimitsu Morita, the film also stars Tsutomu Yamazaki and Yoshino Kimura. The title \u201cMohouhan\u201d means \u201ccopycat\u201d, and it tells the story of a criminal who abducts and kills women, and those who try to catch him. Nakai is cast as a cold-blooded, intelligent and evil guy who uses the media to announce and show his murders live to the public.",
+            "popularity": 0.991,
+            "poster_path": "/qedEX0Bhlk4jeXo6MiI53IamBSO.jpg",
+            "release_date": "2002-06-08",
+            "title": "Copycat Killer",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 852202,
+            "original_language": "en",
+            "original_title": "The Chameleon Killer",
+            "overview": "A small town is haunted by a mysterious killer who bases each murder on a different movie slasher.",
+            "popularity": 0.6,
+            "poster_path": "/rfOty8Q2i0htb6mClVDgQQClGNN.jpg",
+            "release_date": "2003-07-29",
+            "title": "The Chameleon Killer",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 46117,
+            "original_language": "en",
+            "original_title": "Diary of a Serial Killer",
+            "overview": "Tormented by the serial killer who took her Mother\u2019s life, Journalist Laura Nelson investigates the only clue he ever leaves behind at his crime scenes; his diary pages. References in the blood soaked pages to Richard Ramirez, Jeffrey Dahmer and Ed Gein lead Laura to learn more than she ever wanted to know about the sick minds of these monsters.",
+            "popularity": 0.888,
+            "poster_path": "/s0dviNEHYWrrnlOnQSCM6QEfSyc.jpg",
+            "release_date": "2008-10-21",
+            "title": "Diary of a Serial Killer",
+            "video": false,
+            "vote_average": 3.6,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n8eKjcO5Bx69x4mTwDsRyS1abSi.jpg",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "id": 549990,
+            "original_language": "fr",
+            "original_title": "Archi-faux",
+            "overview": "A smaller scale Eiffel Tower and the Champs-Elys\u00e9es can be found just outside Shanghai; a copy of St. Peter\u2019s in Rome can be found in Yamoussoukro, in the Ivory Coast: a journey over three continents to see the architecture of imitation, the uncanny world of the fake.",
+            "popularity": 0.6,
+            "poster_path": "/oJDneIRRuLFjIfwcmWbFkX1Rqnn.jpg",
+            "release_date": "2018-05-01",
+            "title": "The Real Thing",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 4
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 9
+}

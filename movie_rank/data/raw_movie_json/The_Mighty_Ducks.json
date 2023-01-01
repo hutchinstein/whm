@@ -1,0 +1,69 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/npbgAGwcOha7bDQC7oiPoU4aJMa.jpg",
+            "genre_ids": [
+                35,
+                28,
+                10751,
+                18
+            ],
+            "id": 10680,
+            "original_language": "en",
+            "original_title": "D3: The Mighty Ducks",
+            "overview": "The Ducks are offered scholarships at Eden Hall Academy but struggle with their new coach's methods and come under pressure from the board to retain their scholarships before their big game against the Varsity team.",
+            "popularity": 18.978,
+            "poster_path": "/wltMr1loUKSCaEV4EDgh21eCRI3.jpg",
+            "release_date": "1996-10-04",
+            "title": "D3: The Mighty Ducks",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 376
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oWuF16bVVgL8zwWI62OXQZxPRh1.jpg",
+            "genre_ids": [
+                35,
+                28,
+                10751,
+                18
+            ],
+            "id": 11164,
+            "original_language": "en",
+            "original_title": "D2: The Mighty Ducks",
+            "overview": "After Gordon Bombay's hockey comeback is cut short he is named coach of Team USA Hockey for the Junior Goodwill Games. Bombay reunites the Mighty Ducks and introduces a few new players, however, he finds himself distracted by his newfound fame and must regather if the Ducks are to defeat tournament favourites Iceland.",
+            "popularity": 17.443,
+            "poster_path": "/w9YOPeoQ4mT1DpuyYWhUSEDY3O7.jpg",
+            "release_date": "1994-03-25",
+            "title": "D2: The Mighty Ducks",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 502
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/44Bp516RmEQWEqYEOqkkTwqUDV9.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                18
+            ],
+            "id": 10414,
+            "original_language": "en",
+            "original_title": "The Mighty Ducks",
+            "overview": "After reckless young lawyer Gordon Bombay gets arrested for drunk driving, he must coach a kids hockey team for his community service. Gordon has experience on the ice, but isn't eager to return to hockey, a point hit home by his tense dealings with his own former coach, Jack Reilly. The reluctant Gordon eventually grows to appreciate his team, which includes promising young Charlie Conway, and leads them to take on Reilly's tough players.",
+            "popularity": 10.517,
+            "poster_path": "/zxaCHxKDFNi6frh1Q0dj19L216o.jpg",
+            "release_date": "1992-10-02",
+            "title": "The Mighty Ducks",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 711
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

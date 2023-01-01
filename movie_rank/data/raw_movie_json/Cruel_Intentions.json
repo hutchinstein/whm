@@ -1,0 +1,62 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/m2QvGozzKz5ux74gKocn4kFTGz1.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 796,
+            "original_language": "en",
+            "original_title": "Cruel Intentions",
+            "overview": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
+            "popularity": 25.983,
+            "poster_path": "/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+            "release_date": "1999-03-05",
+            "title": "Cruel Intentions",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 2744
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rhj7SiBtWzP2ZkVuJvpcKDr5Byn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 5458,
+            "original_language": "en",
+            "original_title": "Cruel Intentions 2",
+            "overview": "After his precocious behavior has gotten him bounced out of one more in a string of exclusive private schools, 16-year old Sebastian Valmont has arrived in New York City to live with his father and stepmother. The cunning and handsome Sebastian may have met his match, however in his equally manipulative and beautiful stepsister Kathryn Merteuil.",
+            "popularity": 20.042,
+            "poster_path": "/pm0y9yZItfm4EHlGo7oQ0wq1Agk.jpg",
+            "release_date": "2001-03-13",
+            "title": "Cruel Intentions 2",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2LbxG1ANjRuACbwmgaRRb2Ry1mG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 5460,
+            "original_language": "en",
+            "original_title": "Cruel Intentions 3",
+            "overview": "Meet Cassie, Jason and Patrick, three amoral college students who, through a series of sexual wagers, take malicious pleasure in ruining the lives of their fellow classmates.",
+            "popularity": 17.929,
+            "poster_path": "/pnXAP64pI30UZGiXb228F4opUWt.jpg",
+            "release_date": "2004-05-25",
+            "title": "Cruel Intentions 3",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 171
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

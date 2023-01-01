@@ -1,0 +1,139 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6mKAKhj8POVGqV1GsroS5mGIUe9.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "id": 666750,
+            "original_language": "en",
+            "original_title": "Dragonheart: Vengeance",
+            "overview": "Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.",
+            "popularity": 22.798,
+            "poster_path": "/qs6gz6atyQcAvqC6qZaslOjliUG.jpg",
+            "release_date": "2020-02-04",
+            "title": "Dragonheart: Vengeance",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 269
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p8pgb189HfbuKZ5T7TeFrNQNxvb.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12,
+                18
+            ],
+            "id": 8840,
+            "original_language": "en",
+            "original_title": "DragonHeart",
+            "overview": "In an ancient time when majestic fire-breathers soared through the skies, a knight named Bowen comes face to face and heart to heart with the last dragon on Earth, Draco. Taking up arms to suppress a tyrant king, Bowen soon realizes his task will be harder than he'd imagined: If he kills the king, Draco will die as well.",
+            "popularity": 16.205,
+            "poster_path": "/yfoBpR6aQ4IKT46oALjGxxCthoZ.jpg",
+            "release_date": "1996-05-31",
+            "title": "DragonHeart",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1733
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GbOdewDl8194WoOx9PSsnbyUDK.jpg",
+            "genre_ids": [
+                14
+            ],
+            "id": 300803,
+            "original_language": "en",
+            "original_title": "Dragonheart 3: The Sorcerer's Curse",
+            "overview": "When aspiring knight Gareth goes in search of a fallen comet rumored to contain gold, he is shocked to instead find the dragon Drago. After Drago saves Gareth's life the two become intricately bonded, and must work together to defeat an evil sorcerer and stop his reign of terror. Along the way, Gareth learns the true meaning of being a knight in this fantasy action-adventure for the ages.",
+            "popularity": 27.807,
+            "poster_path": "/mN6B5ITOFelW7OhR7tGd51VhXmH.jpg",
+            "release_date": "2015-02-24",
+            "title": "Dragonheart 3: The Sorcerer's Curse",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/83QeqJ5QPljmAxPdgLv6BMzgo3u.jpg",
+            "genre_ids": [
+                14,
+                12
+            ],
+            "id": 451644,
+            "original_language": "en",
+            "original_title": "Dragonheart: Battle for the Heartfire",
+            "overview": "When the King Gareth dies, his potential heirs, twin grandchildren who possess the dragon\u2019s unique strengths, use their inherited powers against each other to vie for the throne. When Drago\u2019s source of power \u2013 known as the Heartfire \u2013 is stolen, more than the throne is at stake; the siblings must end their rivalry with swords and sorcery or the kingdom may fall.",
+            "popularity": 23.75,
+            "poster_path": "/nPjqwumVHyx2nOCyZH5dpXAmhpf.jpg",
+            "release_date": "2017-07-09",
+            "title": "Dragonheart: Battle for the Heartfire",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oASfjqueQdR0wpeI2Q4xW2mSaZ.jpg",
+            "genre_ids": [
+                14,
+                12
+            ],
+            "id": 10473,
+            "original_language": "en",
+            "original_title": "DragonHeart: A New Beginning",
+            "overview": "When Geoff, an orphaned stable boy (Chris Masterson), discovers Drake (voice of Robby Benson), the world's last living dragon, he realizes that his dream of becoming a knight in shining armor can now come true. Together, they soon face challenges that turn them into heroes. But caught up in the excitement of their new lives, Geoff and Drake fail to see the hidden dangers that surround them.",
+            "popularity": 14.175,
+            "poster_path": "/yTRf0eiLAFCSRfiboiUFUloRc3l.jpg",
+            "release_date": "2000-08-08",
+            "title": "DragonHeart: A New Beginning",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 246
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 485293,
+            "original_language": "en",
+            "original_title": "The Making of 'DragonHeart'",
+            "overview": "This documentary was first released on the laserdisc for DragonHeart, and was then re-released on both the Collector's Edition and Franchise Collection DVDs.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1997-01-14",
+            "title": "The Making of 'DragonHeart'",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10751,
+                14
+            ],
+            "id": 1021748,
+            "original_language": "sv",
+            "original_title": "Drakhj\u00e4rta",
+            "overview": "Nisse received a lizard from his mother shortly before she passed away. At first he finds the lizard very boring but then it starts talking to him.",
+            "popularity": 0.6,
+            "poster_path": "/1nE8jd1Jkwmpm0yfCpKBB4Kfnna.jpg",
+            "release_date": "2016-11-01",
+            "title": "Dragonheart",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

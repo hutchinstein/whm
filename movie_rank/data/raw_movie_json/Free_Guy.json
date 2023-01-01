@@ -1,0 +1,67 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
+            "genre_ids": [
+                35,
+                12,
+                878
+            ],
+            "id": 550988,
+            "original_language": "en",
+            "original_title": "Free Guy",
+            "overview": "A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.",
+            "popularity": 88.81,
+            "poster_path": "/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+            "release_date": "2021-08-11",
+            "title": "Free Guy",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 6608
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                28,
+                12,
+                878
+            ],
+            "id": 861345,
+            "original_language": "en",
+            "original_title": "Untitled Free Guy Sequel",
+            "overview": "A sequel to the 2021 comedy Free Guy. Plot unknown.",
+            "popularity": 2.131,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Untitled Free Guy Sequel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 409270,
+            "original_language": "zh",
+            "original_title": "Freeze! Guys",
+            "overview": "Gangster son autumn Jen East ( Yuwen Qiu ornaments) will be handed over to his father's memorial diamond younger brother Zhang Wei ( Ge Zheng ornaments ) Made into a ring, but unfortunately, the diamond was accidentally swallowed by a Labrador dog named \"Standing\" at the ring processing, and the dog was inexplicably missing, Zhang Wei, Diamondsmith (Lu Ye) , The dog owner ( Xu Yizi ) has a series of gangsters in the process of finding dogs and real diamonds, making the story ridiculous and complicated. After the loss of the diamond, Zhang Wei can only use the fake diamond ring to pre-blind the customs, the paper can not hold the fire and finally found the truth by the boss, Zhang Wei life is difficult to protect.",
+            "popularity": 0.6,
+            "poster_path": "/uMrgKLmMsMqjWayOchY9Bz0O6Fj.jpg",
+            "release_date": "2016-07-30",
+            "title": "Freeze! Guys",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

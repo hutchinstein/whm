@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/eyOKqtgNeEEIp7zYMHnpISpsaS3.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "id": 10676,
+            "original_language": "en",
+            "original_title": "Halloween III: Season of the Witch",
+            "overview": "Dr. Daniel Challis and Ellie Grimbridge stumble onto a gruesome murder scheme when Ellie's novelty-salesman father, Harry, is killed while in possession of a halloween mask made by the Silver Shamrock mask company. The company's owner, Conal Cochran, wants to return Halloween to its darker roots using his masks -- and his unspeakable scheme would unleash death and destruction across the country.",
+            "popularity": 20.353,
+            "poster_path": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+            "release_date": "1982-10-22",
+            "title": "Halloween III: Season of the Witch",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 1103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nODFvlrbHEKsGkJiCH8A2FS0wM.jpg",
+            "genre_ids": [
+                99,
+                27
+            ],
+            "id": 560864,
+            "original_language": "en",
+            "original_title": "Stand Alone: The Making of \"Halloween III: Season of the Witch\"",
+            "overview": "Retrospective documentary on the making of \"Halloween III: Season of the Witch.\"",
+            "popularity": 1.07,
+            "poster_path": "/rpkA7nhemPyZEQnfuiKwQmiZtdn.jpg",
+            "release_date": "2012-09-18",
+            "title": "Stand Alone: The Making of \"Halloween III: Season of the Witch\"",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

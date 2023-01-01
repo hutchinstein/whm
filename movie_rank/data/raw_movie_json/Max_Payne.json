@@ -1,0 +1,105 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jPgK390hufgEdCgSaU6CSoMl12d.jpg",
+            "genre_ids": [
+                80,
+                28,
+                18,
+                53
+            ],
+            "id": 13051,
+            "original_language": "en",
+            "original_title": "Max Payne",
+            "overview": "A DEA agent whose family was slain as part of a conspiracy, and an assassin out to avenge her sister's death, join forces to solve a series of murders in New York City.",
+            "popularity": 17.741,
+            "poster_path": "/3cWnCG5NyXJYARO2hmNqfbbgrMA.jpg",
+            "release_date": "2008-10-15",
+            "title": "Max Payne",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1766
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9cZYy43BCHJzJjqf4ZCIzI1tukt.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 424274,
+            "original_language": "en",
+            "original_title": "Max Payne: Retribution",
+            "overview": "Blocking out the shadows of his past Max Payne is unexpectedly confronted by former friend and love interest Mona Sax, who reveals vital information that can bring down drug lord Jack Lupino.",
+            "popularity": 1.287,
+            "poster_path": "/oEOVK4tf3by6dfYNJvoJ1l9mXbP.jpg",
+            "release_date": "2017-07-24",
+            "title": "Max Payne: Retribution",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 553624,
+            "original_language": "en",
+            "original_title": "Max Payne: Hero",
+            "overview": "",
+            "popularity": 1.259,
+            "poster_path": "/d5sGDIervPSwGrD78pjJr5VOyla.jpg",
+            "release_date": "2003-04-22",
+            "title": "Max Payne: Hero",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Tr7MYlHZAIx8N4i0aGThEXhfU6.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 679739,
+            "original_language": "it",
+            "original_title": "Max Payne: Days of Revenge",
+            "overview": "Short film based on the neo-noir action video game",
+            "popularity": 1.454,
+            "poster_path": "/n5W6mrkDYMV6SGpP93S8BYuC0St.jpg",
+            "release_date": "2009-04-07",
+            "title": "Max Payne: Days of Revenge",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l3UvCMQgf415icjz8ifepAeRneW.jpg",
+            "genre_ids": [
+                80,
+                18,
+                27,
+                53
+            ],
+            "id": 509679,
+            "original_language": "en",
+            "original_title": "Payne & Redemption",
+            "overview": "The story of \"Payne & Redemption\" surrounds the psychological trauma endured by the film's main character, a weathered New York Detective, and his journey to seek redemption, after having to deal with a long line of traumatic incidents that have occurred in his recent life.",
+            "popularity": 2.047,
+            "poster_path": "/npkHrKSkySeWtzw326gOKJEc4f6.jpg",
+            "release_date": "2022-10-04",
+            "title": "Payne & Redemption",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

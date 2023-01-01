@@ -1,0 +1,61 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/oUGE7v7gpkKdrgeGaWffZRvysKK.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 6393,
+            "original_language": "en",
+            "original_title": "Taking Care of Business",
+            "overview": "An uptight advertising exec has his entire life in a filofax organizer which mistakenly ends up in the hands of a friendly convict who poses as him.",
+            "popularity": 8.717,
+            "poster_path": "/ckTnIaUpnkRh3pR7GdhtzWFv0Xz.jpg",
+            "release_date": "1990-08-16",
+            "title": "Taking Care of Business",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 655852,
+            "original_language": "en",
+            "original_title": "Betye Saar: Taking Care of Business",
+            "overview": "At age 93, there's no stopping the legendary artist Betye Saar.",
+            "popularity": 0.6,
+            "poster_path": "/rFjW0BvBBOSQADJSeYPkNLL7agp.jpg",
+            "release_date": "2020-01-24",
+            "title": "Betye Saar: Taking Care of Business",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 578431,
+            "original_language": "en",
+            "original_title": "Taking Care of Business Vol. 2: Logging",
+            "overview": "Charlie Conway continues his railroad ride-along ventures, this time conniving the logging industry. Join the fun as Charlie visits the Hull-Oakes Lumber Co. and learns the ins and outs of modern logging and lumber operation. He then spends a day working with the engine crew of the Mt. Rainer Railroad, showing you just what it takes to run and maintain a working steam locomotive. Big industry, spectacular scenery, and live steam are all part of this trip!",
+            "popularity": 0.6,
+            "poster_path": "/xWTqGnfhKeoGUmros8NZqZY68EV.jpg",
+            "release_date": "2017-01-01",
+            "title": "Taking Care of Business Vol. 2: Logging",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

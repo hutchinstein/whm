@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/pfgUk6IgobtEhisyJBBrjSVkfZR.jpg",
+            "genre_ids": [
+                35,
+                14,
+                878
+            ],
+            "id": 9304,
+            "original_language": "en",
+            "original_title": "Multiplicity",
+            "overview": "Construction worker Doug Kinney finds that the pressures of his working life, combined with his duties to his wife Laura and daughter Jennifer leaves him with little time for himself. However, he is approached by geneticist Dr. Owen Leeds, who offers Doug a rather unusual solution to his problems: cloning.",
+            "popularity": 12.816,
+            "poster_path": "/rlG2vi85uSEwWigVTtqDecVFTxR.jpg",
+            "release_date": "1996-07-19",
+            "title": "Multiplicity",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 446
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 830219,
+            "original_language": "pt",
+            "original_title": "R. F. Lucchetti, a Multiplicidade da Linguagem",
+            "overview": "Everything that is said about Rubens Francisco Lucchetti will still be little. Lucchetti is one of the most forgotten cultural personalities in our history. Newspaper, magazine, comic book, cinema, television, radio and now the internet. The man who wrote over fifteen hundred books. There is not a single medium of communication in which he has not shone. And what happens? Almost nobody knows who he is and what he did or represents for our Culture. This short film captures the mythical writer in flagrante delicto of his intimacy, in his daily life, bringing him closer to his readers. His house is an invitation to the universe of letters and images.",
+            "popularity": 0.6,
+            "poster_path": "/kaXMMVmg1EPouRRFdvpsEISwEf2.jpg",
+            "release_date": "2016-08-13",
+            "title": "R. F. Lucchetti, a Multiplicidade da Linguagem",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

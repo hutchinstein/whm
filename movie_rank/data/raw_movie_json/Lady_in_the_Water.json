@@ -1,0 +1,80 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/mPH8S91pUYB5vfbaVUcxsW1NO1J.jpg",
+            "genre_ids": [
+                18,
+                14,
+                9648
+            ],
+            "id": 9697,
+            "original_language": "en",
+            "original_title": "Lady in the Water",
+            "overview": "Apartment building superintendent Cleveland Heep rescues what he thinks is a young woman from the pool he maintains. When he discovers that she is actually a character from a bedtime story who is trying to make the journey back to her home, he works with his tenants to protect his new friend from the creatures that are determined to keep her in our world.",
+            "popularity": 12.375,
+            "poster_path": "/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg",
+            "release_date": "2006-07-20",
+            "title": "Lady in the Water",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 1159
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                14
+            ],
+            "id": 435052,
+            "original_language": "en",
+            "original_title": "Reflections of Lady in the Water",
+            "overview": "Explores the nature of creativity and collaboration on the making of this very unique story in an earnest and unexpectedly touching manner.",
+            "popularity": 0.745,
+            "poster_path": "/mmzVgIWHz20ZH7sLvW6F7d472r7.jpg",
+            "release_date": "2006-12-19",
+            "title": "Reflections of Lady in the Water",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14
+            ],
+            "id": 685658,
+            "original_language": "en",
+            "original_title": "Lady in the Water: A Bedtime Story",
+            "overview": "A five-minute reading of Shyamalan's children's book of Lady in the Water.",
+            "popularity": 0.622,
+            "poster_path": "/3beTq65GKH4LLjPwFCxOrQle5t3.jpg",
+            "release_date": "2006-12-19",
+            "title": "Lady in the Water: A Bedtime Story",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 232643,
+            "original_language": "en",
+            "original_title": "Badende damer paa Badeanstalt",
+            "overview": "Bathing Danish beauties.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1901-11-12",
+            "title": "Bathing Ladies at the Waterpark",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

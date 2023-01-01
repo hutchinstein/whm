@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6bK8SrTkcdpE6Ild4NdJtZFL1Rg.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11284,
+            "original_language": "en",
+            "original_title": "Freddy's Dead: The Final Nightmare",
+            "overview": "Just when you thought it was safe to sleep, Freddy Krueger returns in this sixth installment of the Nightmare on Elm Street films, as psychologist Maggie Burroughs, tormented by recurring nightmares, meets a patient with the same horrific dreams. Their quest for answers leads to a certain house on Elm Street -- where the nightmares become reality.",
+            "popularity": 31.381,
+            "poster_path": "/doyiGwpxbBs4G2og9G8gV7ZKoih.jpg",
+            "release_date": "1991-09-05",
+            "title": "Freddy's Dead: The Final Nightmare",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 1058
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

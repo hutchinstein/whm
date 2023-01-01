@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/y6tKHt7iwcYwqckk3iOZV0vWKRM.jpg",
+            "genre_ids": [
+                80,
+                35
+            ],
+            "id": 353070,
+            "original_language": "en",
+            "original_title": "Going in Style",
+            "overview": "Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.",
+            "popularity": 20.859,
+            "poster_path": "/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg",
+            "release_date": "2017-04-06",
+            "title": "Going in Style",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2421
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bI6qOwa7yWb8bKX3wHnCYaA7H0Z.jpg",
+            "genre_ids": [
+                35,
+                18,
+                80
+            ],
+            "id": 65066,
+            "original_language": "en",
+            "original_title": "Going in Style",
+            "overview": "Three senior citizens in their 70s who live together are slowly decaying in endless days with nothing to do but feed the birds. One of them comes up with an idea - rob a bank. They certainly could use the money if they get away with it and if they are caught, what could happen to three old men?",
+            "popularity": 4.031,
+            "poster_path": "/uwB9BQU2p0vcwlXTISyK6pz07lq.jpg",
+            "release_date": "1979-12-07",
+            "title": "Going in Style",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 41
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

@@ -1,0 +1,372 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/x3YFn10ehQKMRIJwIfiDAX8S9Xt.jpg",
+            "genre_ids": [
+                14,
+                28,
+                27
+            ],
+            "id": 561,
+            "original_language": "en",
+            "original_title": "Constantine",
+            "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+            "popularity": 60.517,
+            "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+            "release_date": "2005-02-08",
+            "title": "Constantine",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 5989
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12
+            ],
+            "id": 791348,
+            "original_language": "en",
+            "original_title": "Constantine: The House of Mystery",
+            "overview": "John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!",
+            "popularity": 81.036,
+            "poster_path": "/kqYDoEb9PxLXM2ccoHInMMJalti.jpg",
+            "release_date": "2022-05-02",
+            "title": "Constantine: The House of Mystery",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4DDayvXxs7vwjd33fZNyWfTlCDA.jpg",
+            "genre_ids": [
+                14,
+                16,
+                27,
+                28
+            ],
+            "id": 539517,
+            "original_language": "en",
+            "original_title": "Constantine: City of Demons - The Movie",
+            "overview": "A decade after a tragic mistake, family man Chas and occult detective John Constantine set out to cure Chas\u2019s daughter Trish from a mysterious supernatural coma. With the help of the mysterious Nightmare Nurse, the influential Queen of Angels, and brutal Aztec God Mictlantecuhtli, the pair just might have a chance at outsmarting the demon Beroul to save Trish\u2019s soul. In a world of shadows and dark magic, not everything is what it seems, and there\u2019s always a price to pay. The path to redemption is never easy, and if Constantine is to succeed, he must navigate through the dark urban underbelly of Los Angeles, outwit the most cunning spawns of hell, and come face to face with arch-nemesis Nergal \u2013 all while battling his own inner demons!",
+            "popularity": 18.189,
+            "poster_path": "/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg",
+            "release_date": "2018-10-04",
+            "title": "Constantine: City of Demons - The Movie",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 477
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 732423,
+            "original_language": "en",
+            "original_title": "Constantine",
+            "overview": "Shows locations and people in and around Constantine, Algeria.",
+            "popularity": 2.538,
+            "poster_path": "/tAM3h2aa0ZZVxi5oZeWAtdKhLYM.jpg",
+            "release_date": "1913-01-01",
+            "title": "Constantine",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                14,
+                27
+            ],
+            "id": 570678,
+            "original_language": "en",
+            "original_title": "Untitled Constantine Sequel",
+            "overview": "After a long hiatus, John Constantine is drawn back into action after finding out supreme demons have acquired a map to Heaven and are planning a mission to destroy the kingdom of God.",
+            "popularity": 4.279,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Untitled Constantine Sequel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s6eobtqBtCTfBlFjdOPcjG2ioKy.jpg",
+            "genre_ids": [],
+            "id": 578773,
+            "original_language": "en",
+            "original_title": "Constantine Giannaris The Short Films",
+            "overview": "Three short films from Greece's greatest filmaker with Introduction to each by the filmaker: Caught Looking, Noth of Votrex, A place in the Sun.",
+            "popularity": 2.44,
+            "poster_path": "/adEGZjgU9wx0bzLQbVX6NS19k63.jpg",
+            "release_date": "1994-01-01",
+            "title": "Constantine Giannaris The Short Films",
+            "video": true,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p2PdjN4OGAArTS4knMUVJr1Os4d.jpg",
+            "genre_ids": [],
+            "id": 959819,
+            "original_language": "en",
+            "original_title": "Konstantin \"Constantine\" Belenko",
+            "overview": "My self portrait.",
+            "popularity": 0.707,
+            "poster_path": "/9u1fQjrjd6RgpNiNkwJtDyI2h3U.jpg",
+            "release_date": "2022-01-30",
+            "title": "Konstantin \"Constantine\" Belenko",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 429026,
+            "original_language": "en",
+            "original_title": "Panorama de Constantine",
+            "overview": "From the fairground Theater Morieux.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1903-12-05",
+            "title": "Panorama de Constantine",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 15033,
+            "original_language": "en",
+            "original_title": "Constantine's Sword",
+            "overview": "An exploration of the dark side of Christianity, following acclaimed author and former priest James Carroll on a journey of remembrance and reckoning.",
+            "popularity": 1.43,
+            "poster_path": "/4eJiXgbL14DIyYhYPD7WdVNlzzf.jpg",
+            "release_date": "2008-04-18",
+            "title": "Constantine's Sword",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7eMG6eZOcSV709LI5q1YvvYd2bn.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 822208,
+            "original_language": "fr",
+            "original_title": "Le cort\u00e8ge \u00e0 Constantine",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/cyE9nJaN5hntr8rTxAshshRvq9A.jpg",
+            "release_date": "1903-04-24",
+            "title": "Le cort\u00e8ge \u00e0 Constantine",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tuHo4yAJDjF8TQL2TZWK9WcqDOA.jpg",
+            "genre_ids": [
+                12,
+                18,
+                36
+            ],
+            "id": 101853,
+            "original_language": "it",
+            "original_title": "Costantino il grande",
+            "overview": "Constantin is fighting against Barbarians with his father when he is called to Rome. In his way to Rome, he falls in an ambush planned by Maxence, who wants to become emperor.",
+            "popularity": 3.822,
+            "poster_path": "/4pRO4o9J43htENGqTOzAHYzwK9I.jpg",
+            "release_date": "1961-06-01",
+            "title": "Constantine and the Cross",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 444882,
+            "original_language": "fr",
+            "original_title": "L'abb\u00e9 Constantin",
+            "overview": "A rich American lady has bought the Castle of Longueval. Her sister is being courted by two young villagers, one that fell in love with her, and the other one that fell in love with the Castle.",
+            "popularity": 0.825,
+            "poster_path": "/hrjlyrpuACuuym0L8JTokuU5m2n.jpg",
+            "release_date": "1933-10-19",
+            "title": "Abbot Constantine",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 585101,
+            "original_language": "bg",
+            "original_title": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u0424\u0438\u043b\u043e\u0441\u043e\u0444",
+            "overview": "The story of St. Cyrilus (Constantine The Philosopher) in his quest of enlightening the Slavic people.",
+            "popularity": 0.726,
+            "poster_path": "/3CVH4w79PksQ8Pm5fGqAy7TEnTq.jpg",
+            "release_date": "1983-05-24",
+            "title": "Constantine The Philosopher",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eEtBGMENh3UBax2wz0ZvBzCzxPu.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                10752
+            ],
+            "id": 89584,
+            "original_language": "tr",
+            "original_title": "Fetih 1453",
+            "overview": "After the death of his father Murat II, Mehmet II ascends to the Ottoman throne. After braving internal and external enemies, he decides to complete what he was destined to do: Conquer Constantinople.",
+            "popularity": 9.103,
+            "poster_path": "/xzTAM0yaOKkdD4C2tVbdHilcNAc.jpg",
+            "release_date": "2012-02-16",
+            "title": "Conquest 1453",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 245656,
+            "original_language": "hu",
+            "original_title": "Sziget a sz\u00e1razf\u00f6ld\u00f6n",
+            "overview": "Persuaded by the janitor's wife, a lively, but lonesome old woman, who is only attached to the world through her cherished objects and memories, decides to exchange her two-room apartment for a smaller one. For a little while her everyday life is changed. She meets and entertains new people every day.",
+            "popularity": 1.4,
+            "poster_path": "/lyo0UrNpobfgg7mSPnsHSwicHJS.jpg",
+            "release_date": "1969-09-04",
+            "title": "The Lady from Constantinople",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 619720,
+            "original_language": "ro",
+            "original_title": "A doua c\u0103dere a Constantinopolului",
+            "overview": "A romanian comedy from 1994",
+            "popularity": 0.6,
+            "poster_path": "/47qt4P0IIAbfoIol4SSvFKDUGkb.jpg",
+            "release_date": "1994-01-06",
+            "title": "The Second Fall of Constantinople",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10751,
+                99
+            ],
+            "id": 340930,
+            "original_language": "pt",
+            "original_title": "Constantino",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/8xsGLDzBYzC8vSrBR7x2zOL1lNS.jpg",
+            "title": "Constantino",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 799195,
+            "original_language": "nl",
+            "original_title": "Gekleurde kijkjes uit de geheele wereld - Calais & Constantinopel",
+            "overview": "Film from the collection of EYE (Amsterdam).",
+            "popularity": 0.6,
+            "poster_path": "/q8ZRf5RXClRHtGWwOd8GlnJ249A.jpg",
+            "release_date": "1925-01-01",
+            "title": "Glimpses in Colour from the Whole World - Calais & Constantinople",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                36,
+                10752
+            ],
+            "id": 272059,
+            "original_language": "tr",
+            "original_title": "\u0130stanbul'un Fethi",
+            "overview": "The Turkish Sultan decides to send his armies in war against the remnant of the Roman Empire, Byzantine. All of his advisory council assent to the move with the exception of one aged councilor, who allies himself with the Byzantines, who kidnap the fianc\u00e9e of the Turkis army leader. The Sultan orders the army leader, along with two others, to proceed to Byzantine for espionage purposes. There, they contact a couple sympathetic to the Turkish cause and, with their home as the base, gather information about the city's defenses. The Byzantines capture the couple and two of the Turks, leaving only the army leader to escape with the vital information. The Turks use it to make an easy conquest, ending the Roman empire, and creating the Ottoman empire.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1954-01-01",
+            "title": "The Conquest of Constantinople",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 507795,
+            "original_language": "el",
+            "original_title": "\u03a4\u03b7 \u039d\u03c5\u03c7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03bf \u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03c4\u03bf \u03a0\u03b5\u03c3\u03c3\u03cc\u03b1 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03b7\u03c3\u03b5 \u03c4\u03bf\u03bd \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf \u039a\u03b1\u03b2\u03ac\u03c6\u03b7",
+            "overview": "Portugal's Fernando Pessoa and Greece's Constantine Cavafy were two of the greatest poets of the 20th century, and the literary giants finally met in 1929 aboard a transatlantic ocean liner carrying immigrants to the U.S. This genre-bending documentary from Greek filmmaker Stelios Charalambopoulos blends truth with fiction in imagining what that meeting must have been like, offering an innovative mix of archival footage and fictional re-enactments of the poets interacting with one of the ship's immigrant passengers.",
+            "popularity": 0.6,
+            "poster_path": "/cLWPNPiFF4mO8vXvkPzcXMLuBkz.jpg",
+            "release_date": "2008-03-14",
+            "title": "The Night Fernando Pessoa Met Constantine Cavafy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 34
+}

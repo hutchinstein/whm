@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/iovi35nPfjbYTw2gRo7uImWblRU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 345920,
+            "original_language": "en",
+            "original_title": "Collateral Beauty",
+            "overview": "Retreating from life after a tragedy, a man questions the universe by writing to Love, Time and Death. Receiving unexpected answers, he begins to see how these things interlock and how even loss can reveal moments of meaning and beauty.",
+            "popularity": 24.531,
+            "poster_path": "/4jfwP5Nc6WB5G7HvCnv3GQGzsH2.jpg",
+            "release_date": "2016-12-06",
+            "title": "Collateral Beauty",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4986
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

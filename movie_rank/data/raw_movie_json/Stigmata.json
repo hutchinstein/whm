@@ -1,0 +1,109 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/t1wXPJuhUXCcv5X2Wl615nmIvtk.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10307,
+            "original_language": "en",
+            "original_title": "Stigmata",
+            "overview": "A young woman with no strong religious beliefs, Frankie Paige begins having strange and violent experiences, showing signs of the wounds that Jesus received when crucified. When the Vatican gets word of Frankie's situation, a high-ranking cardinal requests that the Rev. Andrew Kiernan investigate her case. Soon Kiernan realizes that very sinister forces are at work, and tries to rescue Frankie from the entity that is plaguing her.",
+            "popularity": 20.87,
+            "poster_path": "/q1ubP9C8HgDa9XgyJurfE3OdiPu.jpg",
+            "release_date": "1999-09-10",
+            "title": "Stigmata",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 894
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 580490,
+            "original_language": "en",
+            "original_title": "Stigmata",
+            "overview": "A half dozen men and women, each addressing the camera directly and alone, speak of their involvement with drugs.",
+            "popularity": 0.84,
+            "poster_path": "/xzjnudlFNk5lpHcbGmEQR6SK7ld.jpg",
+            "release_date": "1991-01-01",
+            "title": "Stigmata",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 638935,
+            "original_language": "en",
+            "original_title": "Stigmata",
+            "overview": "A man loses everything he has day-dreaming his way through life",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1970-01-01",
+            "title": "Stigmata",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 920882,
+            "original_language": "en",
+            "original_title": "Stigmata",
+            "overview": "A tableau of a crucified man over Braddock PA.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2008-01-01",
+            "title": "Stigmata",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 807560,
+            "original_language": "en",
+            "original_title": "Stigmata: The Transfigured Body",
+            "overview": "A graphic depiction of the many ways that women modify their bodies, through piercing, tattooing, branding and cuttings. This is a documentary about self determination and sexuality, beauty and the use of the body as a tool for self discovery.",
+            "popularity": 0.6,
+            "poster_path": "/4hCuFN1DrpGuuoLdZ4MqRURKlYh.jpg",
+            "release_date": "1991-01-01",
+            "title": "Stigmata: The Transfigured Body",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 125418,
+            "original_language": "es",
+            "original_title": "Estigmas",
+            "overview": "The story of Bruno, a rough, heavy man overly fond of drinking. His only desire is to be a normal person, but fate would have it otherwise. One day he wakens to find that his hands are starting to bleed, marking the start of a journey of redemption through suffering, pain and death. From now on he'll have to live with his new stigmata.",
+            "popularity": 1.032,
+            "poster_path": "/31cNUMJSCP53PkiaERgxFPPhk6F.jpg",
+            "release_date": "2009-10-26",
+            "title": "Stigmata",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 6
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/bq2awIrLZnPznz8PANPGAVLKS6t.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 9876,
+            "original_language": "en",
+            "original_title": "Stop! Or My Mom Will Shoot",
+            "overview": "A tough police sergeant's mother comes to visit him, and promptly starts trying to fix up his life, much to his embarrassment. For his birthday she buys him a machine gun out of the back of a van, and begins to further interfere with his job and love life, eventually helping him with a case he's on.",
+            "popularity": 18.158,
+            "poster_path": "/meHDNuHPqCTOjgU3COImhxVa5H0.jpg",
+            "release_date": "1992-02-21",
+            "title": "Stop! Or My Mom Will Shoot",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 857
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

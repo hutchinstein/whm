@@ -1,0 +1,87 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1bvYFK5mSPuW88WZQNFKOQ146PG.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 16246,
+            "original_language": "en",
+            "original_title": "Gone in 60 Seconds",
+            "overview": "Insurance investigator Maindrian Pace and his team lead double-lives as unstoppable car thieves. When a South American drug lord pays Pace to steal 48 cars for him, all but one, a 1973 Ford Mustang, are in the bag. As Pace prepares to rip-off the fastback, codenamed \"Eleanor\", in Long Beach, he is unaware that his boss has tipped off the police after a business dispute.",
+            "popularity": 10.514,
+            "poster_path": "/r754JbHV6Rcf6vMGlJV6N4M4a4q.jpg",
+            "release_date": "1974-07-28",
+            "title": "Gone in 60 Seconds",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6lVHi3YEa2n3nK8aGpVDEYmxDKK.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 698171,
+            "original_language": "en",
+            "original_title": "Gone in 60 Seconds 2",
+            "overview": "For the first time in history you'll be able to see the last unfinished film from one of the greatest car-chase filmmaker's (Halicki) that ever lived, who loved to chase, wreck and destroy anything on four wheels. He bought over 400 cars to devour. It's one of the most amazing car crash chases ever filmed! Halicki reprises his role as the legendary car booster... on the run from some killers and the police he boost a Semi Tractor-Trailer... the chase destroys half the city... the other half is destroyed by the 'Slicer' (a custom built wedge car). The car is unstoppable - it can flip any truck or car in it's speeding path! You'll see why they nick named Halicki \"The Car-Crash-King.\" You won't believe your eyes - you'll watch it again and again... the action never stops!",
+            "popularity": 0.62,
+            "poster_path": "/e6QtFwMejTT5JxqZx8Nzj84GpJe.jpg",
+            "release_date": "1989-01-01",
+            "title": "Gone in 60 Seconds 2",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xPIEzVHER3lCQfZMA9bMtZzH9P0.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 9679,
+            "original_language": "en",
+            "original_title": "Gone in Sixty Seconds",
+            "overview": "Upon learning that he has to come out of retirement to steal 50 cars in one night to save his brother Kip's life, former car thief Randall \"Memphis\" Raines enlists help from a few \"boost happy\" pals to accomplish a seemingly impossible feat. From countless car chases to relentless cops, the high-octane excitement builds as Randall swerves around more than a few roadblocks to keep Kip alive.",
+            "popularity": 30.502,
+            "poster_path": "/lFsJJjnGcNhewSIM9XBTaHsI2et.jpg",
+            "release_date": "2000-06-09",
+            "title": "Gone in Sixty Seconds",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 3743
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1xHUMMnpRP7p1OrZYRetmpIs2fN.jpg",
+            "genre_ids": [
+                80,
+                28,
+                53,
+                35
+            ],
+            "id": 54498,
+            "original_language": "en",
+            "original_title": "The Junkman",
+            "overview": "As film-maker Harlan Hollis drives to a James Dean festival, he's unaware that killers are tracking his every move. The fast and furious race to avoid their net, stay alive and discover who is behind this lethal plan, will take Hollis through a fiery battle, turning highways and city streets into a blazing junkyard.",
+            "popularity": 1.504,
+            "poster_path": "/yn1wkmPP9QUUDPOR2M4fYzolXrE.jpg",
+            "release_date": "1982-08-28",
+            "title": "The Junkman",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 8
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

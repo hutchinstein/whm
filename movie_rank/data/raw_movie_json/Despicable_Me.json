@@ -1,0 +1,315 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/v4W554WRfWdWn1P9WJ9XYbXz36l.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                35,
+                80
+            ],
+            "id": 20352,
+            "original_language": "en",
+            "original_title": "Despicable Me",
+            "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+            "popularity": 64.351,
+            "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+            "release_date": "2010-07-08",
+            "title": "Despicable Me",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 13602
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 93456,
+            "original_language": "en",
+            "original_title": "Despicable Me 2",
+            "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+            "popularity": 68.664,
+            "poster_path": "/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+            "release_date": "2013-06-26",
+            "title": "Despicable Me 2",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 10081
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+            "genre_ids": [
+                28,
+                16,
+                35,
+                10751,
+                12
+            ],
+            "id": 324852,
+            "original_language": "en",
+            "original_title": "Despicable Me 3",
+            "overview": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.",
+            "popularity": 40.064,
+            "poster_path": "/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
+            "release_date": "2017-06-15",
+            "title": "Despicable Me 3",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 6240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cQ3tM5ueROE3s7nT86fmdjh5kvS.jpg",
+            "genre_ids": [
+                10751,
+                12,
+                16,
+                35
+            ],
+            "id": 286558,
+            "original_language": "en",
+            "original_title": "Despicable Me Presents: Minion Madness",
+            "overview": "3 Mini movies that feature the Minions. Orientation Day, Home Makeover and Banana.",
+            "popularity": 22.831,
+            "poster_path": "/vTaOgxhK5MFarbJZ5rCBif40599.jpg",
+            "release_date": "2010-12-14",
+            "title": "Despicable Me Presents: Minion Madness",
+            "video": true,
+            "vote_average": 6.9,
+            "vote_count": 150
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12
+            ],
+            "id": 519182,
+            "original_language": "en",
+            "original_title": "Despicable Me 4",
+            "overview": "The fourth installment of the Despicable Me franchise.",
+            "popularity": 6.165,
+            "poster_path": null,
+            "release_date": "2024-07-03",
+            "title": "Despicable Me 4",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Dw4TjQkBlXAk3jG8duPfmPAGNr.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 326396,
+            "original_language": "en",
+            "original_title": "Despicable Me 2: 3 Mini-Movie Collection",
+            "overview": "Bringing laughs for the whole family, the mischievous Minions return in three new hilariously entertaining mini-movies. In \"Puppy,\" when Kyle is unwilling to behave like a real dog, the Minions go looking for one who will. As usual, nothing goes as planned, and when their new friend gets homesick, it's time for some very creative thinking! \"Panic In The Mailroom\" is what happens when a suspicious package arrives and the Minions are totally unprepared. And in \"Training Wheels,\" Agnes has some trouble with her bike and the Minions come to her aid - armed with a few helpful gadgets.",
+            "popularity": 10.567,
+            "poster_path": "/AoFxkze5c3JBkWm9zuAvulto2kv.jpg",
+            "release_date": "2014-10-24",
+            "title": "Despicable Me 2: 3 Mini-Movie Collection",
+            "video": true,
+            "vote_average": 7.4,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d7agIcSuRJpBDDF4GU4DR8BEPKz.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751,
+                878
+            ],
+            "id": 943482,
+            "original_language": "en",
+            "original_title": "Despicable Me: Minion Mayhem",
+            "overview": "Gru, one of the world's greatest villains and fathers, has invented a new weapon, the Minion Gun, a machine capable of turning ordinary humans into Minions. He has let his three daughters (Margo, Edith and Agnes) in charge of training some guests. However, because of a distraction in the middle of the training, the Minion-transformed riders, along with Gru and his daughters are forced to recover Agnes' one-year anniversary adoption gift for Gru in the depths of his own laboratory.",
+            "popularity": 2.569,
+            "poster_path": "/a4decOGsC1Z0KqJsP0cUr11jzZR.jpg",
+            "release_date": "2012-07-02",
+            "title": "Despicable Me: Minion Mayhem",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                12,
+                35
+            ],
+            "id": 211672,
+            "original_language": "en",
+            "original_title": "Minions",
+            "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+            "popularity": 32.437,
+            "poster_path": "/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg",
+            "release_date": "2015-06-17",
+            "title": "Minions",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 9610
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fDjknkPghKnkFqqG268QEaW79X1.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35
+            ],
+            "id": 54551,
+            "original_language": "en",
+            "original_title": "Banana",
+            "overview": "The Minions fight over a delicious banana... but is that all they want?!",
+            "popularity": 14.308,
+            "poster_path": "/AnmIMKAQjXLjD2DI0ba4D9DpkHv.jpg",
+            "release_date": "2010-12-13",
+            "title": "Banana",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 241
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vK48h2fZarnDjXdsnHZFyL5lveI.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                878
+            ],
+            "id": 229407,
+            "original_language": "en",
+            "original_title": "Minions: Puppy",
+            "overview": "A Minion, seeing many owners walk their dogs, wants a puppy of his own. He tries to leash a ladybug but fails. Luckily, a UFO that sweeps away the ladybug somehow agrees to become a Puppy.",
+            "popularity": 12.291,
+            "poster_path": "/bapLpnoV3PUbgcZNDwg6Hxe75HI.jpg",
+            "release_date": "2013-12-10",
+            "title": "Minions: Puppy",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Hckt3ug71qy1z9qrzHZx94pP0v.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35
+            ],
+            "id": 54553,
+            "original_language": "en",
+            "original_title": "Minions: Home Makeover",
+            "overview": "A social worker is coming to Gru's house to check if it's suitable for children. Margo, Edith, Agnes and the Minions must take care of the situation.",
+            "popularity": 14.353,
+            "poster_path": "/ch1QTMEOBrBhSSILw6CPFXCdxgB.jpg",
+            "release_date": "2010-12-13",
+            "title": "Minions: Home Makeover",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wPgAh9xtJL10WcFy93uTqD6sl1l.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 229408,
+            "original_language": "en",
+            "original_title": "Minions: Training Wheels",
+            "overview": "Margo, Edith, and Agnes spot an ice cream truck.The three of them go after the truck but Agnes falls as she attempts to pedal to the truck. The Minions, seeing her so upset by this, decide to build her a unicorn-themed motorcycle. Agnes goes for a little ride around town.",
+            "popularity": 14.165,
+            "poster_path": "/5irlpcx6tmpQ5sq42nojwICZrHN.jpg",
+            "release_date": "2013-12-10",
+            "title": "Minions: Training Wheels",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/db1Gkg23uJ9weejvObOjTRWK5sV.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                878
+            ],
+            "id": 229405,
+            "original_language": "en",
+            "original_title": "Panic in the Mailroom",
+            "overview": "Two Minions are busy at work in the mailroom. One of them, bored, decides to throw a box of expired PX-41 samples into its designated chute.",
+            "popularity": 8.826,
+            "poster_path": "/xwZjM44xSQBhlQ55G1VCHKG5kC.jpg",
+            "release_date": "2013-12-10",
+            "title": "Panic in the Mailroom",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lOA8GjNcsE7QKfMrJMcBjNG6SJ3.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 484809,
+            "original_language": "en",
+            "original_title": "The Secret Life of Kyle",
+            "overview": "After the events of Despicable Me 3, we follow Kyle and his secret life when Gru and his family are gone.",
+            "popularity": 2.904,
+            "poster_path": "/AbgAtTZkNvXDZ3RtNW7LOnWkz1Q.jpg",
+            "release_date": "2017-08-02",
+            "title": "The Secret Life of Kyle",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rWXhj6vAVstbZdNRrgF8tAXrx1y.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35
+            ],
+            "id": 54559,
+            "original_language": "en",
+            "original_title": "Minions: Orientation Day",
+            "overview": "With so many jobs to choose from, the Minions have to make serious decisions after watching an 'Initiation Video'. What could go wrong?!",
+            "popularity": 9.884,
+            "poster_path": "/bSTNLXAqkLmImXNcELrdCaew8dj.jpg",
+            "release_date": "2010-12-13",
+            "title": "Minions: Orientation Day",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 161
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 15
+}

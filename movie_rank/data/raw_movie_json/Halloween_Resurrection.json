@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jnSB3v76tGte9lzHS1XLGu75oaT.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11442,
+            "original_language": "en",
+            "original_title": "Halloween: Resurrection",
+            "overview": "Serial Killer Michael Myers is not finished with Laurie Strode, and their rivalry finally comes to an end. But is this the last we see of Myers? Freddie Harris and Nora Winston are reality programmers at DangerTainment, and are planning to send a group of 6 thrill-seeking teenagers into the childhood home of Myers. Cameras are placed all over the house and no one can get out of the house... and then Michael arrives home!",
+            "popularity": 18.664,
+            "poster_path": "/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg",
+            "release_date": "2002-07-01",
+            "title": "Halloween: Resurrection",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 1035
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

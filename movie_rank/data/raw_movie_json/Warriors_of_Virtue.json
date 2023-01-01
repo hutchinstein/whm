@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/oL31tu5qgxHY7KlAEJQ8xad5STo.jpg",
+            "genre_ids": [
+                14,
+                10751,
+                28
+            ],
+            "id": 49478,
+            "original_language": "en",
+            "original_title": "Warriors of Virtue",
+            "overview": "A young man, Ryan, suffering from a disability, wishes to join the other kids from his schools football team. During an initiation rite, Ryan is swept away through a whirlpool to the land of Tao. There he is hunted by the evil Lord Komodo, who desires the boy as a key to enter the real world. Ryan is rescued by the protectors of Tao, five humanoid kangaroos, each embued with the five elements and virtues. Ryan learns his valuable lesson while saving the land of Tao.",
+            "popularity": 5.375,
+            "poster_path": "/8fT8cttGyXx36P24W0tum2QxsLf.jpg",
+            "release_date": "1997-05-02",
+            "title": "Warriors of Virtue",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14
+            ],
+            "id": 44854,
+            "original_language": "en",
+            "original_title": "Warriors of Virtue: The Return to Tao",
+            "overview": "Warriors of Virtue: The Return to Tao is a 2002 fantasy martial arts film and sequel to the 1997 film Warriors of Virtue. Warriors of Virtue: The Return to Tao (set a few years after the original film) sees a new villain, Dogon, seize control of Tao, a parallel universe forming the film's major setting. On Earth, 12\u2013year\u2013old Ryan and his friend Chucky arrive at a martial arts competition in Beijing, whereupon they are unexpectedly taken to Tao. There, it is shown that they are to become Warriors of Virtue.",
+            "popularity": 1.176,
+            "poster_path": "/dHLsR4ekmo8X5RZi8PX0OJ2WYuV.jpg",
+            "release_date": "2002-10-22",
+            "title": "Warriors of Virtue: The Return to Tao",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 9
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/gA6DuqAOJTsrVsqZQSU2qjTu9sn.jpg",
+            "genre_ids": [
+                35,
+                28,
+                12,
+                53
+            ],
+            "id": 10553,
+            "original_language": "en",
+            "original_title": "Remo Williams: The Adventure Begins",
+            "overview": "An officially \"dead\" cop is trained to become an extraordinary unique assassin in service of the U.S. President.",
+            "popularity": 8.793,
+            "poster_path": "/xTSrGyfmr3xbnnlT9d1SVYC4gtt.jpg",
+            "release_date": "1985-10-11",
+            "title": "Remo Williams: The Adventure Begins",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 200
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

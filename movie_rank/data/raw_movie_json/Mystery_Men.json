@@ -1,0 +1,48 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hhw6DMJ4AQ5ifHyBENEwCgsLthI.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28,
+                35,
+                878
+            ],
+            "id": 9824,
+            "original_language": "en",
+            "original_title": "Mystery Men",
+            "overview": "When Champion City's hero Captain Amazing is kidnapped by the recently paroled supervillain Casanova Frankenstein, a trio of average, everyday superheroes -- Mr. Furious, the Shoveler and the Blue Raja -- assemble a new super team to save him.",
+            "popularity": 21.258,
+            "poster_path": "/3O2uzpG97ndCeAWgS22rNB2xL6N.jpg",
+            "release_date": "1999-08-06",
+            "title": "Mystery Men",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 684
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 273057,
+            "original_language": "en",
+            "original_title": "The Mystery of Men",
+            "overview": "Four middle-aged men concoct a scheme which involves them insuring their lives, so that if one of them dies the others inherit a tidy sum. Suddenly fate throws a darkly comic chain of mishaps their way:",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1999-08-30",
+            "title": "The Mystery of Men",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

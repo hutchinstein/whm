@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/mVwHzPqOi5QlviMSDsOy0nEyicI.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9310,
+            "original_language": "en",
+            "original_title": "American Dreamz",
+            "overview": "The new season of \"American Dreamz,\" the wildly popular television singing contest, has captured the country's attention, as the competition looks to be between a young Midwestern gal and a showtunes-loving young man from Orange County. Recently awakened President Staton even wants in on the craze, as he signs up for the potential explosive season finale.",
+            "popularity": 9.695,
+            "poster_path": "/loww8fONhdlZQmvMhZFirrg2c1d.jpg",
+            "release_date": "2006-03-04",
+            "title": "American Dreamz",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 255
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

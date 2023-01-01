@@ -1,0 +1,63 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hqJfW8G8FL28rckFHuCoKPecpG9.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 5491,
+            "original_language": "en",
+            "original_title": "Battlefield Earth",
+            "overview": "In the year 3000, man is no match for the Psychlos, a greedy, manipulative race of aliens on a quest for ultimate profit. Led by the powerful Terl, the Psychlos are stripping Earth clean of its natural resources, using the broken remnants of humanity as slaves. What is left of the human race has descended into a near primitive state. After being captured, it is up to Tyler to save mankind.",
+            "popularity": 13.876,
+            "poster_path": "/neMUscYddxr4cP8wnRHRMLcWS0A.jpg",
+            "release_date": "2000-05-12",
+            "title": "Battlefield Earth",
+            "video": false,
+            "vote_average": 3.2,
+            "vote_count": 686
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g6yoMHNX597BG9GAiQHSBdYsvV3.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 924056,
+            "original_language": "en",
+            "original_title": "Alien: Battlefield Earth",
+            "overview": "Aliens invade Earth after the capture of two Extra-terrestrials by the American military.",
+            "popularity": 1.198,
+            "poster_path": "/oBl7jUR6U55q9p7EWibTkdWv8Gh.jpg",
+            "release_date": "2021-09-07",
+            "title": "Alien: Battlefield Earth",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 5492,
+            "original_language": "en",
+            "original_title": "Battlefield Earth: Evolution & Creation",
+            "overview": "Travolting (unfortunately I can't take credit for this brilliant insult)!!! One of the worst movies I have ever seen; yet you(might) have to give Travolta credit for sticking it out with this obvious train-wreck, which most likely was quite evident even during the filming. One of the most infuriating things about this movie is the complete lack of any creativity in order to explain the inconsistencies and conflicts of logic in the plot and story, like using 1000 year old weapons and airplanes!; either the creators of this film think that anyone who would watch this movie are completely retarded (which may be true, and that includes me!), or the people who made this movie are freaking delusional- both are obviously true! (by n-reynolds (United States))",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2000-05-01",
+            "title": "Battlefield Earth: Evolution & Creation",
+            "video": true,
+            "vote_average": 5.7,
+            "vote_count": 3
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

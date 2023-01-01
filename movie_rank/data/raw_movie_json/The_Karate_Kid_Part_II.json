@@ -1,0 +1,50 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fStLMyjMzIGOch0lCgAyZ0mqwly.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                10749,
+                10751
+            ],
+            "id": 8856,
+            "original_language": "en",
+            "original_title": "The Karate Kid Part II",
+            "overview": "After discovering that his father is at death's door, Mr. Miyagi sets out to Japan, to see him with Daniel. Upon arriving, Miyagi must confront an old rival. Meanwhile, Daniel encounters a new love, and some new enemies.",
+            "popularity": 29.371,
+            "poster_path": "/k0OwgRR6PNu7h3SiqpCbRdZWNaG.jpg",
+            "release_date": "1986-06-18",
+            "title": "The Karate Kid Part II",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 1809
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c12c7Rpq4kakQiaZIQgp5aTaDFB.jpg",
+            "genre_ids": [
+                28,
+                10751,
+                18,
+                12
+            ],
+            "id": 10495,
+            "original_language": "en",
+            "original_title": "The Karate Kid Part III",
+            "overview": "Despondent over the closing of his karate school, Cobra Kai teacher John Kreese joins a ruthless businessman and martial artist to get revenge on Daniel and Mr. Miyagi.",
+            "popularity": 22.986,
+            "poster_path": "/zE58VthFwD9vKy1vEDnSYR6loqm.jpg",
+            "release_date": "1989-06-29",
+            "title": "The Karate Kid Part III",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1308
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

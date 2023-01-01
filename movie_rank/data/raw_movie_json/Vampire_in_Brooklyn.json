@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/puGrHNxFpJWSWwY9OoMjJQXsVYR.jpg",
+            "genre_ids": [
+                35,
+                27,
+                10749
+            ],
+            "id": 12158,
+            "original_language": "en",
+            "original_title": "Vampire in Brooklyn",
+            "overview": "Maximillian, the lone survivor of a race of vampires, comes to Brooklyn in search of a way to live past the next full moon. His ticket to survival is Rita, a NYPD detective who doesn't know she's half vampire -- and Maximillian will do whatever's necessary to put her under his spell.",
+            "popularity": 13.69,
+            "poster_path": "/i8ZD5LsBjwF45MsZ1nCClpvaOcn.jpg",
+            "release_date": "1995-10-26",
+            "title": "Vampire in Brooklyn",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 468
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

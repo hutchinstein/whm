@@ -1,0 +1,381 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 438631,
+            "original_language": "en",
+            "original_title": "Dune",
+            "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+            "popularity": 108.491,
+            "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+            "release_date": "2021-09-08",
+            "title": "Dune",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 8073
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 841,
+            "original_language": "en",
+            "original_title": "Dune",
+            "overview": "In the year 10,191, the world is at war for control of the desert planet Arrakis\u2014the only place where the space-travel substance Melange 'Spice' can be found. But when one leader gives up control, it's only so he can stage a coup with some unsavory characters.",
+            "popularity": 40.453,
+            "poster_path": "/ngUaHgSZGkKy1Izwjk7qwZLOC5A.jpg",
+            "release_date": "1984-12-14",
+            "title": "Dune",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/25YBjWegdCXqutKgV57wAFEbBAF.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 191720,
+            "original_language": "en",
+            "original_title": "Jodorowsky's Dune",
+            "overview": "Shot in France, England, Switzerland and the United States, this documentary covers director Alejandro Jodorowsky (El Topo, Holy Mountain, Santa Sangre) and his 1974 Quixotic attempt to adapt the seminal sci-fi novel Dune into a feature film. After spending 2 years and millions of dollars, the massive undertaking eventually fell apart, but the artists Jodorowsky assembled for the legendary project continued to work together. This group of artists, or his \u201cwarriors\u201d as Jodorowsky named them, went on to define modern sci-fi cinema with such films as Alien, Blade Runner, Star Wars and Total Recall.",
+            "popularity": 9.04,
+            "poster_path": "/maxjevZcGbfrp55XRk4gcZGeJVd.jpg",
+            "release_date": "2013-08-30",
+            "title": "Jodorowsky's Dune",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 517
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iKOs7caYOHzsRNWfY9RfIpbuLeI.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 693134,
+            "original_language": "en",
+            "original_title": "Dune: Part Two",
+            "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+            "popularity": 14.689,
+            "poster_path": "/fU7mxkzsAXioPvDT7b9ge79bnPj.jpg",
+            "release_date": "2023-11-03",
+            "title": "Dune: Part Two",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vFU53Ue7s2RflLl7wBjTZmRpivb.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 744738,
+            "original_language": "en",
+            "original_title": "Dune Drifter",
+            "overview": "When the trainee pilot and her mortally wounded gunner are shot down, they crash land on a nearby planet. An enemy craft offers the chance of spare parts to fix her ship, but then she spots another survivor - an enemy alien soldier with no intention of letting her escape.",
+            "popularity": 7.699,
+            "poster_path": "/hBLJzYriF9zZAHc2Gjb3KTQGTGT.jpg",
+            "release_date": "2020-10-24",
+            "title": "Dune Drifter",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dJww8jI8Zqx1vL70lDK3EcxiZ04.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 222339,
+            "original_language": "en",
+            "original_title": "Dune Warriors",
+            "overview": "After the end of the world, Earth is a thirsty planet ruled by vicious warlords. One woman is brave enough to fight back; she bands together five warriors to save her town and their precious water",
+            "popularity": 3.035,
+            "poster_path": "/gIdY8sYd3joPeHqnK5qUxABNieD.jpg",
+            "release_date": "1991-01-18",
+            "title": "Dune Warriors",
+            "video": false,
+            "vote_average": 3.3,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                9648,
+                53
+            ],
+            "id": 697620,
+            "original_language": "hu",
+            "original_title": "D\u0171ne",
+            "overview": "Sounds as witnesses. They blurr into memories, half-dreams, it is undecided if they are real or not. A fluctuation between imagination and reality.",
+            "popularity": 1.559,
+            "poster_path": "/CecUPdnnP22wV1NoRFQaG231zj.jpg",
+            "release_date": "2020-06-15",
+            "title": "Dune",
+            "video": false,
+            "vote_average": 1.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eKYIX3NpIqAoVxl3FFpZjEsrMuw.jpg",
+            "genre_ids": [
+                878,
+                27,
+                12
+            ],
+            "id": 881460,
+            "original_language": "en",
+            "original_title": "Planet Dune",
+            "overview": "A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet\u2019s apex predators: giant sand worms.",
+            "popularity": 2.239,
+            "poster_path": "/cPSPghn6tr6fGY6hTi78SrxBcqY.jpg",
+            "release_date": "2021-10-29",
+            "title": "Planet Dune",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3CHJC6r52T5rTrxgSgx2vt9Sm2X.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 203474,
+            "original_language": "fr",
+            "original_title": "Le journal intime d'une nymphomane",
+            "overview": "Linda comes to the big city in search of fun and excitement.  What she finds is exploitation and abuse at the hands of a succession of sleazy guys.  Searching for love, she enters into a lesbian relationship with a beautiful countess, discovers drugs and swingers' parties and starts acting in porno movies.  She also begins to write a secret diary... With a cast of some of the most stunning Euro actresses of the period, wall-to-wall sex and nudity, pot parties, porno shoots and a psychedelic soundtrack, this is a gem of 1970s exploitation cinema from Jess Franco.  Street scenes shot in Benidorm (Alicante, Spain) and Las Palmas (Gran Canaria, Spain).",
+            "popularity": 34.867,
+            "poster_path": "/2hSxkdZtDPlkn1Gy5cBYtqjzlnM.jpg",
+            "release_date": "1973-06-21",
+            "title": "Sinner: The Secret Diary of a Nymphomaniac",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6V6y3aBbzO9fQDDjEPxtOI6vzBh.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 112160,
+            "original_language": "fr",
+            "original_title": "Chroniques sexuelles d'une famille d'aujourd'hui",
+            "overview": "Three generations of a French family open up about their sexual experiences and desires after young Romain is caught masturbating in his biology class.",
+            "popularity": 30.657,
+            "poster_path": "/pebwFXu7izkXf8b8soWVXoRyJoR.jpg",
+            "release_date": "2012-05-09",
+            "title": "Sexual Chronicles of a French Family",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 271683,
+            "original_language": "fr",
+            "original_title": "La dune",
+            "overview": "Through the course of several accidents and chance encounters, Hanoch and Ruben will meet and each of them will have to face a page of his personal history, a page that they both need to turn for good.",
+            "popularity": 0.66,
+            "poster_path": "/qNnFzvRyXk0FkHOGuxS4jWqj1vO.jpg",
+            "release_date": "2014-08-13",
+            "title": "The Dune",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/T6jRmCIYoHcTj1i0cmkueurkZw.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 843281,
+            "original_language": "en",
+            "original_title": "Dune World",
+            "overview": "A deep space crew takes a job on a mysterious remote planet. A crash landing strands them on the hostile surface. Soon they find out what creatures live there, and the hidden fate of the crew before them.",
+            "popularity": 1.168,
+            "poster_path": "/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg",
+            "release_date": "2021-08-08",
+            "title": "Dune World",
+            "video": false,
+            "vote_average": 2.6,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14,
+                53,
+                9648
+            ],
+            "id": 818926,
+            "original_language": "fr",
+            "original_title": "Dune Dreams",
+            "overview": "In the wake of his wife\u2019s death, Simon tries to make a fresh start by moving with his son Camille to Dubai. In that extraordinary city, Camille manages to forget, let go, and begin a new life. But for Simon, it\u2019s not so easy. He begins to feel an alarming presence in their home - someone quietly, patiently lurking in the shadows. Could it really be his double? Simon slowly succumbs to anxiety and thinks he is going mad. But he\u2019s not the only one to feel threatened this way. It seems to be happening to all people in Dubai who refuse to cut off all ties to their past.",
+            "popularity": 1.4,
+            "poster_path": "/5UI57QaaKArOx7vUrmHQ8symLPj.jpg",
+            "release_date": "2021-06-02",
+            "title": "Dune Dreams",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 378668,
+            "original_language": "en",
+            "original_title": "Dune Bug",
+            "overview": "The Ant is spending his vacation at the beach, but the Aardvark sniffs him out. A beligirent Life Guard mistakes Aardvark for a dog a repeatedly kicks him off the beach. Ultimately Aardvark is send off to the Dog Pound.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1969-10-28",
+            "title": "Dune Bug",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gpspruXYu8zZu822wF63KEj0KBq.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 320003,
+            "original_language": "fr",
+            "original_title": "Journal d'une femme de chambre",
+            "overview": "France, around 1900. Coming from the vibrancy of Paris, pert C\u00e9lestine is procured as a chambermaid in Normandy. In the Lanlaire's villa she encounters the lecherous man of the house and his asexual, tyrannical and jealous wife. C\u00e9lestine is determined to avoid the fate suffered by the cook Marianne who has already secretly killed one child born out of wedlock and now despairingly realises she is pregnant again. The lively maid is intrigued by what the mysterious manservant Joseph is up to: he distributes anti-Semitic leaflets and suggests that she could work for him as a prostitute in Cherbourg\u2026",
+            "popularity": 10.961,
+            "poster_path": "/imQp5gncyqgwWygmD4lWDmBrBIw.jpg",
+            "release_date": "2015-04-01",
+            "title": "Diary of a Chambermaid",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 919946,
+            "original_language": "en",
+            "original_title": "Destination Dune",
+            "overview": "A short documentary that was originally produced to promote the film at conventions and publicity events in the lead-up to its release.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1984-01-01",
+            "title": "Destination Dune",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53
+            ],
+            "id": 354144,
+            "original_language": "en",
+            "original_title": "Dune Surfer",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1988-01-01",
+            "title": "Dune Surfer",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 539644,
+            "original_language": "fr",
+            "original_title": "La maison dans la dune",
+            "overview": "In a village on the French-Belgian border, a smuggler named Sylvain falls in love with the pretty Pascaline, which infuriates Germaine, his mistress. The jealous woman reports Sylvain to the police. As a result, the young man gets hurt during a night chase. Fortunately Pascaline offers him hospitality and looks after him.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1934-08-03",
+            "title": "The House on the Dune",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749
+            ],
+            "id": 613359,
+            "original_language": "en",
+            "original_title": "The Sand Dune",
+            "overview": "It only takes one look, one touch, one kiss to know you've met the one person who will change your life forever. Such is the case for young Jake and Aylin as they venture into The Sand Dune that one fateful evening.",
+            "popularity": 0.6,
+            "poster_path": "/sPDbOE2PMEer7JkFTP6df9Goabw.jpg",
+            "release_date": "2018-01-01",
+            "title": "The Sand Dune",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 799785,
+            "original_language": "tl",
+            "original_title": "Goat Buster: Sa Templo ni Dune",
+            "overview": "On a mission to eradicate crime, Baldo the \u201cGoatbuster\u201d disguised himself as his brother Bogard, ahead of a very notorious syndicate.",
+            "popularity": 0.876,
+            "poster_path": "/8KSJblT8ra8D7kFpM0JFDkvdmT9.jpg",
+            "release_date": "1985-03-14",
+            "title": "Goat Buster: Sa Templo ni Dune",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 36,
+    "total_results": 715
+}

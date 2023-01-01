@@ -1,0 +1,104 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/s5kqyWWjuWNNjWEIkPSyqADyjdF.jpg",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "id": 2162,
+            "original_language": "en",
+            "original_title": "Chill Factor",
+            "overview": "A store clerk and an ice cream truck driver are thrown together when a dying scientist entrusts them with a deadly chemical kept in ice. This chemical will kill every living thing once it melts. They have to take the chemical codenamed 'Elvis' to the next nearest military base while being chased by terrorists who want it to hold the country for ransom.",
+            "popularity": 9.867,
+            "poster_path": "/alOPXtR6nxMiEvk6zRA9sX6Hbjk.jpg",
+            "release_date": "1999-09-01",
+            "title": "Chill Factor",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 210634,
+            "original_language": "en",
+            "original_title": "Chill Factor: House Call",
+            "overview": "In poor and lonely farm country, a woman calls a doctor out to make a house call on her strangly-ailing son. And what the old doctor finds when he gets there isn't listed in any medical books...  Originally a pilot for a proposed television series, now exists as a stand-alone short film, and as the final segment in the film \"Deadtime Stories Volume 1.\"",
+            "popularity": 0.84,
+            "poster_path": null,
+            "release_date": "2004-08-24",
+            "title": "Chill Factor: House Call",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yXJ20pKVuhqYjyAQ3gGlrDoH6Jx.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 124668,
+            "original_language": "en",
+            "original_title": "The Chill Factor",
+            "overview": "A group of snowmobilers become trapped on a lake, and hole up in an abandoned camp once used by a satanic cult for its rituals.",
+            "popularity": 1.04,
+            "poster_path": "/iKa5SAv2yxRDPsEAl051nbh8pQr.jpg",
+            "release_date": "1993-07-28",
+            "title": "The Chill Factor",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 361329,
+            "original_language": "en",
+            "original_title": "Chill Factor",
+            "overview": "After a day of filming her popular \"Window On The World\"  television series, hostess Katherine returns to her hotel room to  find Clifford, an ex-CIA agent who reveals a saga of a worldwide  organization that seeks to destroy the economic stability of  every major country. Katherine seizes this opportunity to become  a \"real journalist\" like star reporter Jerry, against the direct  orders of news director Carl.",
+            "popularity": 0.6,
+            "poster_path": "/tBN0bEcY8JzJchn5K8zGuJd6PeG.jpg",
+            "release_date": "1989-01-01",
+            "title": "Chill Factor",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwsn6KT2GAYEr9pbxxJtQ3CcdLQ.jpg",
+            "genre_ids": [
+                27,
+                878,
+                53,
+                10770
+            ],
+            "id": 100788,
+            "original_language": "en",
+            "original_title": "A Cold Night's Death",
+            "overview": "Scientists Culp and Wallach suspect that there is someone other than their research primates inhabiting their polar station.",
+            "popularity": 3.71,
+            "poster_path": "/7akJh2BAAdInXc4tGjZO8CXw5t1.jpg",
+            "release_date": "1973-01-30",
+            "title": "A Cold Night's Death",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 25
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

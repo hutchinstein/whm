@@ -1,0 +1,118 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8KA3VUkaxHvCQAuxXDWhxVDUI0c.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 22434,
+            "original_language": "en",
+            "original_title": "If Looks Could Kill",
+            "overview": "Michael Corben, along with the rest of his high-school French class, sets out for a trip to France when he is mistaken for an agent of the same name. He is beseiged by both the good guys and the bad guys. British Intelligence outfits him with a series of James-Bond-like gizmos, and Steranko sends more would-be assassins after him. Can Michael stop the evil Steranko's plans for European domination?",
+            "popularity": 13.124,
+            "poster_path": "/rTjcoGpHONeacV4zewHi1oSttW.jpg",
+            "release_date": "1991-03-15",
+            "title": "If Looks Could Kill",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bW5hv3UqA4pwJvE6mchlZinkBEG.jpg",
+            "genre_ids": [
+                53,
+                18,
+                10770
+            ],
+            "id": 435478,
+            "original_language": "en",
+            "original_title": "If Looks Could Kill",
+            "overview": "Based on true events, Faith is proud to finally be a cop in her hometown where she joins old flame Paul on the force. She is soon troubled and a bit disappointed when he becomes romantically involved with Jessica, a dangerous beauty with a criminal past. So when Jessica starts an affair with an impressionable young man, Faith must build a case against her before Jessica puts her deadly plans in place.",
+            "popularity": 2.384,
+            "poster_path": "/ukrV5F1Ul3iVwF5iWa1oXNUrcJ7.jpg",
+            "release_date": "2016-12-31",
+            "title": "If Looks Could Kill",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 515435,
+            "original_language": "en",
+            "original_title": "If Looks Could Kill",
+            "overview": "The true story of John Hawkins as featured on America's Most Wanted.",
+            "popularity": 0.84,
+            "poster_path": "/ytvbHpgskOjBV1jAH0mtBcLdP0r.jpg",
+            "release_date": "1996-02-06",
+            "title": "If Looks Could Kill",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53,
+                80,
+                28
+            ],
+            "id": 417869,
+            "original_language": "en",
+            "original_title": "If Looks Could Kill",
+            "overview": "Private eye George accepts the job to shadow a woman and to film her on video. But it's a set-up: the film is manipulated and used against him when the woman is killed. He has to prove his innocence against a load of circumstantial evidence.",
+            "popularity": 0.623,
+            "poster_path": "/bIr9YwWBhF9xclyqEf8A7SydMiF.jpg",
+            "release_date": "1986-10-01",
+            "title": "If Looks Could Kill",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 943458,
+            "original_language": "en",
+            "original_title": "If Looks Could Kill",
+            "overview": "This work, originally shot on Super-8 was made as part of a Women and Art course at Sydney College of the Arts. Students who worked on the little experiment were: Sue Callanan, Ingrid Cullen, Ruby Davies, Sue Doust, Anne Ferran, Beth Gibbins, Pam Ledden, Kate Millington, Jenny O\u2019Brien, Jane Parkes, Jenny Pitty, John Simpson, with extras, Eliza Campbell and Judith Lodwick.",
+            "popularity": 0.6,
+            "poster_path": "/v3dfIWZNWiOvZ8Aw4otUmnPWerW.jpg",
+            "release_date": "",
+            "title": "If Looks Could Kill",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 515750,
+            "original_language": "en",
+            "original_title": "Biography: Bette Davis \u2014 If Looks Could Kill",
+            "overview": "Share the magical memories - and see clips from her Oscar winning performances - in this profile of the \"First Lady of the American screen.\"",
+            "popularity": 0.6,
+            "poster_path": "/ssGRTuRpFiQZHVtxceEejHgLMYq.jpg",
+            "release_date": "1994-09-13",
+            "title": "Biography: Bette Davis \u2014 If Looks Could Kill",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

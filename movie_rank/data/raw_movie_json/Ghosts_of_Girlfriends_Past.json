@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/oy9Ox4WGPkOJ3656CNKasVjAnKS.jpg",
+            "genre_ids": [
+                14,
+                35,
+                10749
+            ],
+            "id": 12556,
+            "original_language": "en",
+            "original_title": "Ghosts of Girlfriends Past",
+            "overview": "When notorious womanizer Connor Mead attends his brother Paul's wedding, he is forced to re-evaluate his behavior as he comes face-to-face with the ghosts of girlfriends past, present, and future, along with his deceased uncle. The experience changes his attitude and allows him to reconnect with his first and only love, Jenny.",
+            "popularity": 25.001,
+            "poster_path": "/yNn5NjNQF8m7w05Jqk2kEW2XOfU.jpg",
+            "release_date": "2009-05-01",
+            "title": "Ghosts of Girlfriends Past",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 2034
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

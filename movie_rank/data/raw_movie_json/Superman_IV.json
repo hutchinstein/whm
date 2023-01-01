@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5VdpO1zWqritRhZnulbbhprBatW.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 11411,
+            "original_language": "en",
+            "original_title": "Superman IV: The Quest for Peace",
+            "overview": "With global superpowers engaged in an increasingly hostile arms race, Superman leads a crusade to rid the world of nuclear weapons. But Lex Luthor, recently sprung from jail, is declaring war on the Man of Steel and his quest to save the planet. Using a strand of Superman's hair, Luthor synthesizes a powerful ally known as Nuclear Man and ignites an epic battle spanning Earth and space.",
+            "popularity": 26.975,
+            "poster_path": "/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
+            "release_date": "1987-07-24",
+            "title": "Superman IV: The Quest for Peace",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 1028
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

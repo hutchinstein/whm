@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/i7MuOy3doflbnLeHQezpMI8whk7.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 16337,
+            "original_language": "en",
+            "original_title": "The Texas Chainsaw Massacre 2",
+            "overview": "Chainsaw-wielding maniac Leatherface is up to his cannibalistic ways once again, along with the rest of his twisted clan, including the equally disturbed Chop-Top. This time, the masked killer has set his sights on pretty disc jockey Vanita \"Stretch\" Brock, who teams up with Texas lawman Lefty Enright to battle the psychopath and his family deep within their lair, a macabre abandoned amusement park.",
+            "popularity": 30.231,
+            "poster_path": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
+            "release_date": "1986-08-22",
+            "title": "The Texas Chainsaw Massacre 2",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 669
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

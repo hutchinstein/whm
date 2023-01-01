@@ -1,0 +1,398 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                80,
+                14
+            ],
+            "id": 854,
+            "original_language": "en",
+            "original_title": "The Mask",
+            "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+            "popularity": 59.399,
+            "poster_path": "/vdcHFQk12qYjbeQlcBPSGZnm8aM.jpg",
+            "release_date": "1994-07-29",
+            "title": "The Mask",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 8786
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/od5chJN27AKS2ZfMhwZVShTo1Kg.jpg",
+            "genre_ids": [
+                14,
+                35,
+                10751,
+                12
+            ],
+            "id": 10214,
+            "original_language": "en",
+            "original_title": "Son of the Mask",
+            "overview": "Tim Avery, an aspiring cartoonist, finds himself in a predicament when his dog stumbles upon the mask of Loki. Then after conceiving an infant son \"born of the mask\", he discovers just how looney child raising can be.",
+            "popularity": 36.042,
+            "poster_path": "/Adgnfhm9B8YAQmC0osuP4zO9SRc.jpg",
+            "release_date": "2005-02-18",
+            "title": "Son of the Mask",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 1543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7tqV9ihSDfsa9C7D7PRRnZ1ZrVA.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 9342,
+            "original_language": "en",
+            "original_title": "The Mask of Zorro",
+            "overview": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",
+            "popularity": 31.311,
+            "poster_path": "/8ZpFaSjAEfr6ArJUS7jOVvg6eZa.jpg",
+            "release_date": "1998-07-16",
+            "title": "The Mask of Zorro",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3476
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rD3FElz0xjZp9eIi8jEAx7KJoZ.jpg",
+            "genre_ids": [
+                35,
+                27,
+                53
+            ],
+            "id": 10961,
+            "original_language": "en",
+            "original_title": "Behind the Mask: The Rise of Leslie Vernon",
+            "overview": "The next great psycho horror slasher has given a documentary crew exclusive access to his life as he plans his reign of terror over the sleepy town of Glen Echo, all the while deconstructing the conventions and archetypes of the horror genre for them.",
+            "popularity": 12.333,
+            "poster_path": "/vie8a3z219Zsw81eAsM58B6VFEn.jpg",
+            "release_date": "2006-08-29",
+            "title": "Behind the Mask: The Rise of Leslie Vernon",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 353
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmxAtfGZUbb95F1dKM0HD0FlCQE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "id": 318954,
+            "original_language": "en",
+            "original_title": "Beyond the Mask",
+            "overview": "A former assassin tries to redeem himself by becoming a masked highwayman in Colonial America.",
+            "popularity": 8.063,
+            "poster_path": "/ewFEIWkszzZbZ2aJOSQlb4ffVgI.jpg",
+            "release_date": "2015-04-06",
+            "title": "Beyond the Mask",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/69GY219MYBurtf8joA2okEa3x8I.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 787923,
+            "original_language": "en",
+            "original_title": "Marvel's Behind the Mask",
+            "overview": "A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window \u2013 they have become a reflection of our own identities and who we truly are.",
+            "popularity": 8.281,
+            "poster_path": "/p71YgDQk5sFHTqF3FBygLPmZEX5.jpg",
+            "release_date": "2021-02-12",
+            "title": "Marvel's Behind the Mask",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lTQmIIUg7VdW3F6l3lMkJllX2VJ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 57665,
+            "original_language": "en",
+            "original_title": "The Mask",
+            "overview": "A young archaeologist believes he is cursed by a mask that causes him to have weird nightmares and possibly to murder. Before committing suicide, he mails the mask to his psychiatrist, Dr. Barnes, who is soon plunged into the nightmare world of the mask.",
+            "popularity": 3.795,
+            "poster_path": "/i0TzUtwGt1oz4nmraLwIwaJ64FO.jpg",
+            "release_date": "1961-10-27",
+            "title": "The Mask",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tjfLCnhJOpEpgAu4Nf9iGLvtUfy.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                9648
+            ],
+            "id": 35006,
+            "original_language": "en",
+            "original_title": "The Mask of Dimitrios",
+            "overview": "A mystery writer is intrigued by the tale of notorious criminal Dimitrios Makropolous, whose body was found washed up on the shore in Istanbul. He decides to follow the career of Dimitrios around Europe, in order to learn more about the man. Along the way he is joined by the mysterious Mr. Peters, who has his own motivation.",
+            "popularity": 5.732,
+            "poster_path": "/wsf399maXMnhOWfQSjOxErURxzN.jpg",
+            "release_date": "1944-06-23",
+            "title": "The Mask of Dimitrios",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 657847,
+            "original_language": "en",
+            "original_title": "Mr. Robot: Behind the Mask",
+            "overview": "Mr. Robot documentary",
+            "popularity": 3.516,
+            "poster_path": "/bH9pYRHBfdmHrtE0iYcsR2mBfQl.jpg",
+            "release_date": "2017-01-01",
+            "title": "Mr. Robot: Behind the Mask",
+            "video": false,
+            "vote_average": 8.8,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iuFBORoulPz4iMkyOnabiJeA5LC.jpg",
+            "genre_ids": [
+                12,
+                27,
+                878
+            ],
+            "id": 3484,
+            "original_language": "en",
+            "original_title": "The Mask of Fu Manchu",
+            "overview": "The villainous Dr. Fu Manchu races against a team of Englishmen to find the tomb of Ghengis Khan, because he wants to use the relics to cause an uprising in the East to wipe out the white race.",
+            "popularity": 5.084,
+            "poster_path": "/4iMjZwxFGxlF0RkfSAzgn6iTUb3.jpg",
+            "release_date": "1932-11-05",
+            "title": "The Mask of Fu Manchu",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 224972,
+            "original_language": "en",
+            "original_title": "The Mask You Live In",
+            "overview": "Compared to girls, research shows that boys in the United States are more likely to be diagnosed with a behaviour disorder, prescribed stimulant medications, fail out of school, binge drink, commit a violent crime, and/or take their own lives. The Mask You Live In asks: as a society, how are we failing our boys?",
+            "popularity": 4.287,
+            "poster_path": "/7436ZhdHSvCojPYinu1eFgpgCjH.jpg",
+            "release_date": "2015-01-05",
+            "title": "The Mask You Live In",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xUVezmJfHgGmQe3NUamnPLUJdQk.jpg",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "id": 28305,
+            "original_language": "en",
+            "original_title": "Behind the Mask",
+            "overview": "A Secret Service agent nabs a scalpel-happy doctor who runs drugs in caskets.",
+            "popularity": 2.512,
+            "poster_path": "/rdfXrS8pKVdg4o1cAjver1FnsWt.jpg",
+            "release_date": "1932-02-25",
+            "title": "Behind the Mask",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 200800,
+            "original_language": "en",
+            "original_title": "Behind the Mask",
+            "overview": "A newly qualified surgeon takes the blame for his drug addict colleague after the death their patient through neglect.",
+            "popularity": 2.276,
+            "poster_path": "/lkazY5KeDps8G3pPTYNYwMV9FSY.jpg",
+            "release_date": "1958-11-23",
+            "title": "Behind the Mask",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xzCe37rMKvYUnrAhIxpLJwv7Xmo.jpg",
+            "genre_ids": [
+                12,
+                28,
+                18
+            ],
+            "id": 9313,
+            "original_language": "en",
+            "original_title": "The Man in the Iron Mask",
+            "overview": "Years have passed since the Three Musketeers, Aramis, Athos and Porthos, have fought together with their friend, D'Artagnan. But with the tyrannical King Louis using his power to wreak havoc in the kingdom while his twin brother, Philippe, remains imprisoned, the Musketeers reunite to abduct Louis and replace him with Philippe.",
+            "popularity": 21.143,
+            "poster_path": "/zHE9yRURvA7DyhYtQxkGTfE1Ywi.jpg",
+            "release_date": "1998-03-12",
+            "title": "The Man in the Iron Mask",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 3352
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 657086,
+            "original_language": "en",
+            "original_title": "Revenge of the Mask 2",
+            "overview": "The world of Revenge of the Mask 2 follows the events of the Big Head murders. Edge City is now experiencing a period of unintentional peace but not everybody is happy with Big Head's actions. Detectives Kellaway and Doyle uncover the truth of Alan's actions.",
+            "popularity": 3.071,
+            "poster_path": "/mWUi2Kos2jiDgcr1qLZxCPGluXR.jpg",
+            "release_date": "2019-12-15",
+            "title": "Revenge of the Mask 2",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hpiELaZR7fDrZsBjkWEfY8jPRzl.jpg",
+            "genre_ids": [
+                27,
+                35,
+                28
+            ],
+            "id": 1054368,
+            "original_language": "en",
+            "original_title": "The Mask",
+            "overview": "Gianna is locked in the basement with mysterious masked men, as the three others try to break in and save the day.",
+            "popularity": 1.24,
+            "poster_path": "/AqD3EOnO9T6kkapTPpKVHbThLFy.jpg",
+            "release_date": "2022-11-25",
+            "title": "The Mask",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xhpgyQTOzERzI6xZcRMmqFrEqGm.jpg",
+            "genre_ids": [
+                80,
+                18,
+                27
+            ],
+            "id": 34943,
+            "original_language": "en",
+            "original_title": "The Face Behind the Mask",
+            "overview": "In this low-budget thriller, Peter Lorre plays Janos Szabo, an immigrant from Hungary who is a skilled craftsman. After he's caught in a fire, his face is horribly scarred; his terrifying appearance makes it impossible for him to get a job. With nowhere else to turn, Janos begins working for the criminal underworld. Janos begins having second thoughts about his life of crime when he falls in love.",
+            "popularity": 2.45,
+            "poster_path": "/x9r2dwKDYIGiEhN2iUEQ8wDUFx5.jpg",
+            "release_date": "1941-01-16",
+            "title": "The Face Behind the Mask",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                18,
+                10770
+            ],
+            "id": 216102,
+            "original_language": "en",
+            "original_title": "Behind the Mask",
+            "overview": "Dr. Bob Shushan is an overworked and absent father who runs a centre for the mentally and physically challenged. When Shushan suffers a heart attack, his life is saved by James Jones, a young patient at the center. The two men forge a friendship and help each other rekindle the father-son bond that has been missing in their lives.",
+            "popularity": 1.425,
+            "poster_path": "/kYwJ1TX3f5BYw0lp5KFHchWpXdY.jpg",
+            "release_date": "1999-02-28",
+            "title": "Behind the Mask",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m2aG5SQPLnaOB9WcH3n6wupIt13.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 38763,
+            "original_language": "en",
+            "original_title": "The Mask of Diijon",
+            "overview": "A stage illusionist plots a revenge after a particularly humiliating comeback attempt.",
+            "popularity": 1.821,
+            "poster_path": "/73lljonh5cAXBSaXybz9cJhl09k.jpg",
+            "release_date": "1946-03-11",
+            "title": "The Mask of Diijon",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1RLvp02NwVDaH4wUo9PlKD40XEX.jpg",
+            "genre_ids": [
+                9648,
+                10770
+            ],
+            "id": 540486,
+            "original_language": "en",
+            "original_title": "Garage Sale Mysteries: The Mask Murder",
+            "overview": "When Jennifer buys a storage locker at auction, she discovers a dead body inside - along with a mask matching the deceased woman.",
+            "popularity": 2.12,
+            "poster_path": "/7gR58YkpMHSayezpDrTvJu86QNT.jpg",
+            "release_date": "2018-08-12",
+            "title": "Garage Sale Mysteries: The Mask Murder",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 25
+        }
+    ],
+    "total_pages": 12,
+    "total_results": 235
+}

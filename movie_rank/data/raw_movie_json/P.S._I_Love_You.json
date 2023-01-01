@@ -1,0 +1,64 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7JrXKA5vkyqITySzbx8iZB89ivk.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 6023,
+            "original_language": "en",
+            "original_title": "P.S. I Love You",
+            "overview": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.",
+            "popularity": 18.586,
+            "poster_path": "/bZlRZKBOR6cC8L35BgGoh4hJ63F.jpg",
+            "release_date": "2007-11-15",
+            "title": "P.S. I Love You",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 2999
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 365261,
+            "original_language": "tl",
+            "original_title": "P.S. I Love You",
+            "overview": "Kristine is a teenager living an affluent life with her mother whose managing the hacienda left them by her late husband. Since her mother is not used to managing the business, the hacienda\u00a0risks getting foreclosed by the bank, which is managed by a former boyfriend she dumped to marry Kristine's father. Meanwhile, Kristine meets Mark in the school and they fall in love. Her mother finds out that Mark is the son of her former boyfriend.",
+            "popularity": 1.161,
+            "poster_path": "/n81ikATYOefAulDYgji8ij4rVEw.jpg",
+            "release_date": "1981-11-02",
+            "title": "P.S. I Love You",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9LsJP9OuIBmBUxZpmVKtUUjF0PA.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 565426,
+            "original_language": "en",
+            "original_title": "To All the Boys: P.S. I Still Love You",
+            "overview": "Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.",
+            "popularity": 23.165,
+            "poster_path": "/maib5VlmEqp5xlN8lptnBSftp2o.jpg",
+            "release_date": "2020-02-12",
+            "title": "To All the Boys: P.S. I Still Love You",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 2280
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

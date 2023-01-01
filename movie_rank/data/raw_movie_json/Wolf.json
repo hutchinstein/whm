@@ -1,0 +1,401 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 520946,
+            "original_language": "en",
+            "original_title": "100% Wolf",
+            "overview": "Freddy Lupin, heir to a proud family line of werewolves, is in for a shock when on his 14th birthday his first 'warfing' goes awry, turning him into a ferocious poodle.  The pack elders give Freddy until the next moonrise to prove he has the heart of a wolf, or risk being cast out forever.  With the help of an unlikely ally in a streetwise stray named Batty, Freddy must prove he's 100% Wolf.",
+            "popularity": 27.836,
+            "poster_path": "/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg",
+            "release_date": "2020-06-26",
+            "title": "100% Wolf",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f7PaEq1g6vxBucgIanVn5mZN6M1.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10749
+            ],
+            "id": 11824,
+            "original_language": "en",
+            "original_title": "Teen Wolf",
+            "overview": "When a shy teenager's new-found powers help him score at basketball - and with the popular girls - he has some pretty hairy decisions to make.",
+            "popularity": 37.033,
+            "poster_path": "/bv9rY9eoue2Hat6tcvrKVQ0ow8v.jpg",
+            "release_date": "1985-08-23",
+            "title": "Teen Wolf",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bXnsgHH3WTRCPYCpOGPRxD0snqd.jpg",
+            "genre_ids": [
+                18,
+                27,
+                14
+            ],
+            "id": 877703,
+            "original_language": "en",
+            "original_title": "Teen Wolf: The Movie",
+            "overview": "A full moon rises in Beacon Hills, and with it a terrifying evil has emerged. The wolves are howling once again, calling for the return of Banshees, Werecoyotes, Hellhounds, Kitsunes, and every other shapeshifter in the night. But only a Werewolf like Scott McCall, no longer a teenager yet still an Alpha, can gather both new allies and reunite trusted friends to fight back against what could be the most powerful and deadliest enemy they\u2019ve ever faced.",
+            "popularity": 30.024,
+            "poster_path": "/vhbLJUXf73uHkvyiN2rcEonqT87.jpg",
+            "release_date": "2023-01-26",
+            "title": "Teen Wolf: The Movie",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/br7n8b3ELexcvs6l30IH2x9P2ux.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 106646,
+            "original_language": "en",
+            "original_title": "The Wolf of Wall Street",
+            "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+            "popularity": 96.277,
+            "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+            "release_date": "2013-12-25",
+            "title": "The Wolf of Wall Street",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 20750
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dAFKnTzyOBbZyRCAb33F632ctva.jpg",
+            "genre_ids": [
+                14,
+                18,
+                27
+            ],
+            "id": 10395,
+            "original_language": "en",
+            "original_title": "Wolf",
+            "overview": "Publisher Will Randall becomes a werewolf and has to fight to keep his job.",
+            "popularity": 13.817,
+            "poster_path": "/8ocZb9x6rN82i8ZzZ05j1vWKVOC.jpg",
+            "release_date": "1994-06-17",
+            "title": "Wolf",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 746
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aKum63B4j5pHCSNrRvDSvrHRR0m.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 199534,
+            "original_language": "en",
+            "original_title": "Wolf Creek 2",
+            "overview": "Lured by the promise of an Australian holiday, backpackers Rutger, Katarina and Paul visit the notorious Wolf Creek Crater.  Their dream Outback adventure soon becomes a horrific reality when they encounter the site's most infamous local, the last man any traveller to the region ever wants to meet\u2014Mick Taylor.  As the backpackers flee, Mick pursues them on an epic white knuckled rampage across hostile wasteland.",
+            "popularity": 18.371,
+            "poster_path": "/uELzdTzPOpZwSFqBbwpjuKE7UW3.jpg",
+            "release_date": "2013-08-30",
+            "title": "Wolf Creek 2",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 501
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3EqlGktjkisbJjMnCCBsQf6GCDb.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 9885,
+            "original_language": "en",
+            "original_title": "Wolf Creek",
+            "overview": "Stranded backpackers in remote Australia fall prey to a murderous bushman, who offers to fix their car, then takes them captive.",
+            "popularity": 12.433,
+            "poster_path": "/8NiRpqO3vx7ny6jagrEN61hu7qG.jpg",
+            "release_date": "2005-09-16",
+            "title": "Wolf Creek",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 930
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8MAhWT95ZW0t3DMPvJ0ehAsSzPm.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 14854,
+            "original_language": "en",
+            "original_title": "Lone Wolf McQuade",
+            "overview": "The archetypical renegade Texas Ranger wages war against a drug kingpin with automatic weapons, his wits and martial arts after a gun battle leaves his partner dead. All of this inevitably culminates in a martial arts showdown between the drug lord and the ranger, and involving the woman they both love.",
+            "popularity": 18.104,
+            "poster_path": "/dTUTDPilI2Ozi5GeoBRczidQTaZ.jpg",
+            "release_date": "1983-04-15",
+            "title": "Lone Wolf McQuade",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9yWoqYOB0dA10CpsdEr5i9vK3R.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                12
+            ],
+            "id": 25913,
+            "original_language": "en",
+            "original_title": "Balto II: Wolf Quest",
+            "overview": "Balto and his daughter Aleu embark on a journey of adventure and self discovery.",
+            "popularity": 18.319,
+            "poster_path": "/dZ958HnW3JO2pEZeedjmoZCV8Rn.jpg",
+            "release_date": "2002-02-19",
+            "title": "Balto II: Wolf Quest",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 460
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gU4MTmcZeNoFy0jlKwADO3NKAe0.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 673121,
+            "original_language": "en",
+            "original_title": "Wolf",
+            "overview": "Jacob, a man who believes he is a wolf trapped in a human body, is sent to a clinic by his family where he is forced to undergo increasingly extreme forms of \"curative\" therapies at the hands of The Zookeeper. Jacob\u2019s only solace is the enigmatic Wildcat, with whom he roams the hospital in the dead of night. The two form an improbable friendship that develops into infatuation.",
+            "popularity": 7.693,
+            "poster_path": "/jIky0LivUi8iBnZUi6oC6KBVWfh.jpg",
+            "release_date": "2021-12-03",
+            "title": "Wolf",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qeDgecvGMKPuiPhpku7eD9yMMx1.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10751
+            ],
+            "id": 15582,
+            "original_language": "en",
+            "original_title": "Teen Wolf Too",
+            "overview": "Although awkward college student Todd Howard is particularly adept at science, he's paying for school with an athletic scholarship that he will lose should he not fare well in an upcoming boxing tournament. Luckily for Todd, he has inherited the same family curse that once turned his cousin into a werewolf. As he transforms into the hairy, fanged, howling monster, he finds both his physical agility and his popularity skyrocketing -- but at what cost?",
+            "popularity": 10.574,
+            "poster_path": "/pFNzeyxgUwuPqlAhOVPlDupu1Ov.jpg",
+            "release_date": "1987-11-20",
+            "title": "Teen Wolf Too",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hLtv6gYV9hIPWPFDniLSCodhmq.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 652004,
+            "original_language": "en",
+            "original_title": "The Wolf of Snow Hollow",
+            "overview": "A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.",
+            "popularity": 24.171,
+            "poster_path": "/nXeTSXR5ryFwxrlpmD9hhXJTAuc.jpg",
+            "release_date": "2020-10-23",
+            "title": "The Wolf of Snow Hollow",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 288
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xYa0RmhZZqlodl082qLhAOWKZfp.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 13666,
+            "original_language": "en",
+            "original_title": "The Wolf Man",
+            "overview": "After his brother's death, Larry Talbot returns home to his father and the family estate. Events soon take a turn for the worse when Larry is bitten by a werewolf.",
+            "popularity": 10.657,
+            "poster_path": "/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg",
+            "release_date": "1941-12-12",
+            "title": "The Wolf Man",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 445
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/77RUNIreKz94Q8MlIfmjE8raO1U.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 39341,
+            "original_language": "en",
+            "original_title": "Big Bad Wolf",
+            "overview": "In Cameron, a group of hunters is attacked by a wild animal, and Charlie Cowley survives, but sees his brother Scott dying. Seven years later, his teenage nephew Derek Cowley steals the key of his stepfather's cabin in the isolated Fire Road 13, and travels with four classmates and his friend Sam to spend the weekend having a party with booze and sex. However, they are attacked by a Beast that kills his friends in a sadistic way. Sam and Derek survive, and they suspect that his stepfather, Mitchell Toblat, is a werewolf. When Charlie meets Derek and Sam, they decide to collect evidence to prove that Mitchell is the Beast and kill him, but Mitchell discovers their plot and chases the trio.",
+            "popularity": 9.25,
+            "poster_path": "/31nFN67QsO3oJ4DDaytejEKKB1J.jpg",
+            "release_date": "2006-10-25",
+            "title": "Big Bad Wolf",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/orGlr1vHTgbDkGJPwuBjd8ncVjQ.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "id": 666243,
+            "original_language": "en",
+            "original_title": "The Witcher: Nightmare of the Wolf",
+            "overview": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.",
+            "popularity": 23.719,
+            "poster_path": "/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+            "release_date": "2021-08-23",
+            "title": "The Witcher: Nightmare of the Wolf",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzXp9ayYUfSZQVdslIbAqc2MFoS.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 13197,
+            "original_language": "en",
+            "original_title": "10th & Wolf",
+            "overview": "A former street thug returns to his Philadelphia home after a stint in the military. Back on his home turf, he once again finds himself tangling with the mob boss who was instrumental in his going off to be a soldier.",
+            "popularity": 6.692,
+            "poster_path": "/2OBZth9rnSyMzZR8M0WwGj8ivDG.jpg",
+            "release_date": "2006-02-19",
+            "title": "10th & Wolf",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ToXi1lFK6E69dBTBxkOx5Oh9JV.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 191104,
+            "original_language": "nl",
+            "original_title": "Wolf",
+            "overview": "A promising kickboxer struggles to resist the temptations of a life of crime.",
+            "popularity": 4.367,
+            "poster_path": "/hEguGz3kRRhUQs1WP5u0vHfbXVy.jpg",
+            "release_date": "2013-09-11",
+            "title": "Wolf",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z992KHHG5Dg5kwbix80bo9JJtjU.jpg",
+            "genre_ids": [
+                53,
+                27,
+                10752
+            ],
+            "id": 20850,
+            "original_language": "en",
+            "original_title": "Ilsa: She Wolf of the SS",
+            "overview": "Ilsa is a warden at a Nazi death camp that conducts experiments on prisoners. Ilsa's goal is to prove that woman can withstand more pain and suffering than men and should be allowed to fight on the front lines.",
+            "popularity": 17.165,
+            "poster_path": "/kSB8msWxpqE4YENeKZJqd4CMdWd.jpg",
+            "release_date": "1975-10-01",
+            "title": "Ilsa: She Wolf of the SS",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 294
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pGzUGy5EJFfZudzKXXc2kyQN4mu.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 525657,
+            "original_language": "en",
+            "original_title": "Daughter of the Wolf",
+            "overview": "Ex-military specialist Clair Hamilton returns home from her tour in the Middle East due to her father's passing and to claim her inheritance. Her son is then kidnapped and held for ransom by a gang led by a mysterious figure known only as \u201cFather\u201d.",
+            "popularity": 12.055,
+            "poster_path": "/ghoNQkJX9Hk1m8GxTsBg4Xez1gn.jpg",
+            "release_date": "2019-06-14",
+            "title": "Daughter of the Wolf",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDzub52wGcLB2XJwtRIhiW1u7TY.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28
+            ],
+            "id": 14280,
+            "original_language": "en",
+            "original_title": "Never Cry Wolf",
+            "overview": "A scientific researcher, sent on a government study: The Lupus Project, must investigate the possible \"menace\" of wolves in the north. To do so, he must survive in the wilderness for six months on his own. In the course of these events, he learns about the true beneficial and positive nature of the wolf species. Based on the book and true story by Farley Mowat.",
+            "popularity": 7.958,
+            "poster_path": "/e61tGxVtobTQuFPmAC7xWwdC4O1.jpg",
+            "release_date": "1983-10-07",
+            "title": "Never Cry Wolf",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 101
+        }
+    ],
+    "total_pages": 57,
+    "total_results": 1123
+}

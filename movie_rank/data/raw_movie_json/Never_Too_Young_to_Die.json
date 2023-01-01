@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6qRL2cfEsriaZGMklHFWmgw71gt.jpg",
+            "genre_ids": [
+                12,
+                28,
+                18
+            ],
+            "id": 27408,
+            "original_language": "en",
+            "original_title": "Never Too Young to Die",
+            "overview": "Secret agent Drew Stargrove is brutally murdered by the ruthless hermaphrodite gang leader Velvet Von Ragnar. The murdered secret agent's son, Lance Stargrove is thrust into the dangerous and intriguing world of secret agents and espionage when he seeks revenge. Danja Deerling teams up with Lance as his sidekick and love interest.",
+            "popularity": 3.376,
+            "poster_path": "/rFnu1HQgg4o3Z1QQ7VQMp1k5zoS.jpg",
+            "release_date": "1986-06-13",
+            "title": "Never Too Young to Die",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 39
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

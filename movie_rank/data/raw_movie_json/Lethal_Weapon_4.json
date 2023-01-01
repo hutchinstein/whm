@@ -1,0 +1,146 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/kP1wrQD0ou9G2Z9JODecJolCRUB.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                80,
+                53
+            ],
+            "id": 944,
+            "original_language": "en",
+            "original_title": "Lethal Weapon 4",
+            "overview": "In the combustible action franchise's final installment, maverick detectives Martin Riggs and Roger Murtaugh square off against Asian mobster Wah Sing Ku, who's up to his neck in slave trading and counterfeit currency. With help from gumshoe Leo Getz and smart-aleck rookie cop Lee Butters, Riggs and Murtaugh aim to take down Ku and his gang.",
+            "popularity": 26.98,
+            "poster_path": "/cRm7ro9tfiHagQb8i3wO4F1CiuB.jpg",
+            "release_date": "1998-07-10",
+            "title": "Lethal Weapon 4",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+            "genre_ids": [
+                12,
+                28,
+                35,
+                53,
+                80
+            ],
+            "id": 941,
+            "original_language": "en",
+            "original_title": "Lethal Weapon",
+            "overview": "Veteran buttoned-down LAPD detective Roger Murtaugh is partnered with unhinged cop Martin Riggs, who -- distraught after his wife's death -- has a death wish and takes unnecessary risks with criminals at every turn. The odd couple embark on their first homicide investigation as partners, involving a young woman known to Murtaugh with ties to a drug and prostitution ring.",
+            "popularity": 32.819,
+            "poster_path": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+            "release_date": "1987-03-06",
+            "title": "Lethal Weapon",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3860
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i4R2yYpGeyF7O9GRrNlItAVRBYl.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                80,
+                53
+            ],
+            "id": 942,
+            "original_language": "en",
+            "original_title": "Lethal Weapon 2",
+            "overview": "In the opening chase, Martin Riggs and Roger Murtaugh stumble across a trunk full of Krugerrands. They follow the trail to a South African diplomat who's using his immunity to conceal a smuggling operation. When he plants a bomb under Murtaugh's toilet, the action explodes!",
+            "popularity": 31.527,
+            "poster_path": "/1EEIUw0tkX7AJZ1ikZrtKZZKlC6.jpg",
+            "release_date": "1989-07-07",
+            "title": "Lethal Weapon 2",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2880
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kmt9XmhmX36sJduuDVFlTgEWh9U.jpg",
+            "genre_ids": [
+                12,
+                28,
+                35,
+                53,
+                80
+            ],
+            "id": 943,
+            "original_language": "en",
+            "original_title": "Lethal Weapon 3",
+            "overview": "Archetypal buddy cops Riggs and Murtaugh are back for another round of high-stakes action, this time setting their collective sights on bringing down a former Los Angeles police lieutenant turned black market weapons dealer. Lorna Cole joins as the beautiful yet hardnosed internal affairs sergeant who catches Riggs's eye.",
+            "popularity": 28.256,
+            "poster_path": "/8FnOudDHPOY7MFJnvQMR1qpuyek.jpg",
+            "release_date": "1992-05-15",
+            "title": "Lethal Weapon 3",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2432
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 898789,
+            "original_language": "en",
+            "original_title": "Lethal Finale",
+            "overview": "Fifth and final film in the Lethal Weapon franchise.",
+            "popularity": 5.358,
+            "poster_path": "/eQ5yCxYp4eGiQkwKY3uF2PQNqPq.jpg",
+            "release_date": "",
+            "title": "Lethal Finale",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 981669,
+            "original_language": "ko",
+            "original_title": "\ucc9c\uc9c0\uc601\uc6c5 \uc7a5\uccad",
+            "overview": "General Jang-cheong is a straight-forward and upright person, so it becomes a big obstacle for high-ranking officials of the academy to steal military supplies. Even in the confrontation with Yangsan Park, Jangcheong was holding on with the momentum of one hundred and one hundred victories.",
+            "popularity": 0.6,
+            "poster_path": "/oGvTaw9ToteMXQhF7JHVgI5NfhV.jpg",
+            "release_date": "2016-09-09",
+            "title": "The lethal weapon",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 824247,
+            "original_language": "en",
+            "original_title": "Maximum Impact: The Legacy of 'Lethal Weapon'",
+            "overview": "This documentary showcases producer Joel Silver, Donner, Gibson, Glover, Rene Russo and other members of all four films' production teams as they examine the franchise, look at the various social issues each film tackled, attempt to measure the series' cultural impact and, of course, touch on its legacy, for the actors, the filmmakers and audiences the world over.",
+            "popularity": 0.74,
+            "poster_path": null,
+            "release_date": "2012-07-04",
+            "title": "Maximum Impact: The Legacy of 'Lethal Weapon'",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

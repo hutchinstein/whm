@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/d11ZZO99pnB66viF0FuquLNkbyV.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 8866,
+            "original_language": "en",
+            "original_title": "The Truth About Cats & Dogs",
+            "overview": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+            "popularity": 7.551,
+            "poster_path": "/5V10mg1rAbwWYNF6IjnEYokIR8f.jpg",
+            "release_date": "1996-04-26",
+            "title": "The Truth About Cats & Dogs",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 270
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

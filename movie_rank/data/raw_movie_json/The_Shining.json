@@ -1,0 +1,366 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 694,
+            "original_language": "en",
+            "original_title": "The Shining",
+            "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+            "popularity": 48.683,
+            "poster_path": "/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+            "release_date": "1980-05-23",
+            "title": "The Shining",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 15160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m8PPjY6igKfsMp0wZC1JtmMRgTT.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 18875,
+            "original_language": "en",
+            "original_title": "Making The Shining",
+            "overview": "Directed and edited by Stanley Kubrick's daughter Vivian Kubrick, this film offers a look behind the scenes during the making of The Shining.",
+            "popularity": 9.422,
+            "poster_path": "/upBsuweJjBftrkJGqVf8PHCdH0l.jpg",
+            "release_date": "1980-10-04",
+            "title": "Making The Shining",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r44SvivavoZ5KNOZtMhbit5S52j.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 111463,
+            "original_language": "en",
+            "original_title": "The Shining Hour",
+            "overview": "A nightclub dancer shakes the foundations of a wealthy farming family after she marries into it.",
+            "popularity": 2.582,
+            "poster_path": "/icPlJYyRg3zhvONL1wwbqbbXXpH.jpg",
+            "release_date": "1938-11-18",
+            "title": "The Shining Hour",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vPL7G9amrW935rWEreOL6mX56ty.jpg",
+            "genre_ids": [],
+            "id": 269571,
+            "original_language": "en",
+            "original_title": "Angelina Ballerina: The Shining Star Trophy",
+            "overview": "Angelina shines brighter than ever in this all-new movie! Ms. Mimi announces that there\u2019s going to be a big talent show at Camembert Academy \u2013 and the winner will walk away with the Shining Star Trophy. With celebrity guest judge Perry Parmesan deciding the winner, every minute of practice counts. But when Angelina goes out of her way to help her friends find their special talents, she has little time to work on her own routine. Who will take center stage and win the Shining Star Trophy? Watch as Angelina follows her heart to become a true shining star!",
+            "popularity": 2.418,
+            "poster_path": "/6cujRwFBv38K9ODmkJ8NHUUFSqE.jpg",
+            "release_date": "2011-08-01",
+            "title": "Angelina Ballerina: The Shining Star Trophy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 267574,
+            "original_language": "en",
+            "original_title": "The Shining: Forwards and Backwards",
+            "overview": "An experimental film comprised of Stanley Kubrick's THE SHINING played forwards and backwards at the same time on the same screen, creating bizarre juxtapositions and startling synchronicities",
+            "popularity": 1.238,
+            "poster_path": "/c9QsTViFVZdriDW9jQW7KSWyUOO.jpg",
+            "release_date": "2011-03-09",
+            "title": "The Shining: Forwards and Backwards",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "id": 257402,
+            "original_language": "en",
+            "original_title": "The Shining Future",
+            "overview": "Documentary short film intended to drum up support for the Fifth War Loan Campaign. It shows a happy family in the future of 1960 enjoying the prosperity and advantages made possible by the successful prosecution of the war, and how the sacrifices of 1944 have made the world a better place.",
+            "popularity": 0.913,
+            "poster_path": "/4NA3Gz1ALgHwHGlCTtUkneTzNbh.jpg",
+            "release_date": "1944-04-11",
+            "title": "The Shining Future",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                18,
+                10770
+            ],
+            "id": 1013699,
+            "original_language": "en",
+            "original_title": "The Shining Pyramid",
+            "overview": "When stones begin miraculously arranging themselves on the edge of one young man's private land, he and his friend begin trying to decipher them in any way possible. When they realize that it might be a dark portent, they become desperate to achieve their goal before it is too late.",
+            "popularity": 0.6,
+            "poster_path": "/g8IlNYICgmLNZvb2Bl6FnZT3lpa.jpg",
+            "release_date": "1979-08-22",
+            "title": "The Shining Pyramid",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 977541,
+            "original_language": "en",
+            "original_title": "The Shining Hour",
+            "overview": "A child playing in the playground, a silent street. Innocent scenes which take on another aspect when viewed as the last few minutes before the bomb fell.",
+            "popularity": 0.6,
+            "poster_path": "/jl32NTtOxY84cbt9XXckYDdziPm.jpg",
+            "release_date": "1982-06-01",
+            "title": "The Shining Hour",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 182225,
+            "original_language": "en",
+            "original_title": "The Shining Code 2.0",
+            "overview": "The makers of \"The Shining Code 2.0\" are one of five featured conspiracists in \"Room 237\" who\u2019ve all ascribed different meanings and markers and signifiers to Stanley Kubrick\u2019s 1980 adaptation of Stephen King\u2019s \"The Shining\", in their case that the filmmaker\u2019s ostensible horror movie is actually a coded confession regarding his participation in the faking of the Apollo moon landings...",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2012-01-01",
+            "title": "The Shining Code 2.0",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 775443,
+            "original_language": "fr",
+            "original_title": "Short Cuts : The Shining",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2017-06-15",
+            "title": "Short Cuts : The Shining",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 401662,
+            "original_language": "en",
+            "original_title": "Bigger Than The Shining",
+            "overview": "Mark Cousins (The Story of Film: An Odyssey) reflects on questions concerning copyright and the extent to which a film can conform to the associations of the person watching it. Can two people ever really see the same film?",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2016-02-03",
+            "title": "Bigger Than The Shining",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 228633,
+            "original_language": "en",
+            "original_title": "View from the Overlook: Crafting 'The Shining'",
+            "overview": "An overview of the making of, and a look at the continuing popularity of, Stanley Kubrick's The Shining.",
+            "popularity": 1.037,
+            "poster_path": "/hasJFizAMYeqeWcYAAgkaufwO38.jpg",
+            "release_date": "2007-10-23",
+            "title": "View from the Overlook: Crafting 'The Shining'",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 392507,
+            "original_language": "en",
+            "original_title": "The Shining Star of Losers Everywhere",
+            "overview": "In Japanese, Haru Urara means \u201cGlorious Spring.\u201d But as this 30 for 30 Short, directed by Mickey Duzyj, makes delightfully clear, the name means a great deal more to the Japanese people. Haru Urara was a thoroughbred mare who never won a race. She first came to the public\u2019s attention after her 88th straight loss at troubled Kochi Racetrack, then picked up more and more supporters with each defeat. With her pink Hello Kitty patches, she became a symbol of hope in Japan. And though she never did win, Haru Urara did accomplish something greater: she saved the racetrack.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2016-05-20",
+            "title": "The Shining Star of Losers Everywhere",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1062338,
+            "original_language": "en",
+            "original_title": "Just King Things Goes To The Shining Opera",
+            "overview": "Just King Things went to Opera Colorado during the spring of 2022 to watch Moravec and Campbell\u2019s opera adaptation of The Shining. This is a document of that experience.  JUST KING THINGS is a podcast where CMRN and Michael read and talk about the books of Stephen King in publication order.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Just King Things Goes To The Shining Opera",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 258857,
+            "original_language": "en",
+            "original_title": "Staircases to Nowhere: Making Stanley Kubrick's The Shining",
+            "overview": "The full oral history story of the making of Stanley Kubrick's horror masterpiece \"The Shining\".",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2013-05-20",
+            "title": "Staircases to Nowhere: Making Stanley Kubrick's The Shining",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 666517,
+            "original_language": "ja",
+            "original_title": "\u821e\u53f0 \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba! \u30aa\u30f3\u30fb\u30b9\u30c6\u30fc\u30b8 \uff5eTo the shining future\uff5e",
+            "overview": "The 3rd live-action Ensamble Stars",
+            "popularity": 0.6,
+            "poster_path": "/xzvANtq9wX3iq6krVJEEEOOgxb7.jpg",
+            "release_date": "2018-04-24",
+            "title": "Ensemble Stars! On Stage ~To the Shining Future~",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 475008,
+            "original_language": "en",
+            "original_title": "Shining the Ball",
+            "overview": "An attractive young man joins a cricket club and finds that the vice captain may have an unexpected vice...",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2005-06-10",
+            "title": "Shining the Ball",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7SSpqETdnPK49WWPqUATfyciQMI.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 437947,
+            "original_language": "ja",
+            "original_title": "\u305d\u308c\u3044\u3051!\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30ad\u30e9\u30ad\u30e9\u661f\u306e\u6d99",
+            "overview": "Anpanman helps the princess Nandananda to find the The Shining Star's Tear.",
+            "popularity": 2.711,
+            "poster_path": "/rOLyOzCe8x27EgAiOSVvuHDcmN0.jpg",
+            "release_date": "1989-11-03",
+            "title": "Go! Anpanman: The Shining Star's Tear",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pYxLP0MWvhMG1Sx852N2PT8F3zf.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 84330,
+            "original_language": "en",
+            "original_title": "Room 237",
+            "overview": "A subjective documentary that explores various theories about hidden meanings in Stanley Kubrick's classic film The Shining. Five very different points of view are illuminated through voice over, film clips, animation and dramatic reenactments.",
+            "popularity": 10.122,
+            "poster_path": "/wPXxJSz36VjAkxa4MZ0C28uOdwA.jpg",
+            "release_date": "2012-10-26",
+            "title": "Room 237",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 436
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+            "genre_ids": [
+                27,
+                53,
+                14
+            ],
+            "id": 501170,
+            "original_language": "en",
+            "original_title": "Doctor Sleep",
+            "overview": "Still irrevocably scarred by the trauma he endured as a child at the Overlook, Dan Torrance has fought to find some semblance of peace. But that peace is shattered when he encounters Abra, a courageous teenager with her own powerful extrasensory gift, known as the 'shine'. Instinctively recognising that Dan shares her power, Abra has sought him out, desperate for his help against the merciless Rose the Hat and her followers.",
+            "popularity": 33.872,
+            "poster_path": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+            "release_date": "2019-10-30",
+            "title": "Doctor Sleep",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3581
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 35
+}

@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/mnXOfgasuAldIwmTRB0wQKJSsz4.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "id": 9619,
+            "original_language": "en",
+            "original_title": "Dante's Peak",
+            "overview": "Volcanologist Harry Dalton comes to the sleepy town of Dante's Peak to investigate the recent rumblings of the dormant volcano the burg is named for. Before long, his worst fears are realized when a massive eruption hits, and immediately, Harry, the mayor and the townspeople find themselves fighting for their lives amid a catastrophic nightmare.",
+            "popularity": 25.252,
+            "poster_path": "/chApdYLprUhuAVpeBXn2Ytytyo6.jpg",
+            "release_date": "1997-02-07",
+            "title": "Dante's Peak",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1543
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 951158,
+            "original_language": "en",
+            "original_title": "Getting Close to the Show",
+            "overview": "",
+            "popularity": 0.871,
+            "poster_path": null,
+            "release_date": "1998-02-10",
+            "title": "Getting Close to the Show",
+            "video": true,
+            "vote_average": 9,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

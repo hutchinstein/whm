@@ -1,0 +1,382 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9iQWsXwjOMGDvTDdvCnpiyR0UG3.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 8681,
+            "original_language": "en",
+            "original_title": "Taken",
+            "overview": "While vacationing with a friend in Paris, an American girl is kidnapped by a gang of human traffickers intent on selling her into forced prostitution. Working against the clock, her ex-spy father must pull out all the stops to save her. But with his best years possibly behind him, the job may be more than he can handle.",
+            "popularity": 102.42,
+            "poster_path": "/wrJjDB8SSJJKcpXVf4KAxZIHvBZ.jpg",
+            "release_date": "2008-02-18",
+            "title": "Taken",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 9872
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ivj0wsH0RU2IEGc8LdvCr97WL1.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 260346,
+            "original_language": "en",
+            "original_title": "Taken 3",
+            "overview": "Ex-government operative Bryan Mills finds his life is shattered when he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.",
+            "popularity": 107.125,
+            "poster_path": "/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
+            "release_date": "2014-12-16",
+            "title": "Taken 3",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 5085
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m4c1V53pQ4Z1Jk6rC0Ve3OTcWqW.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 82675,
+            "original_language": "en",
+            "original_title": "Taken 2",
+            "overview": "In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.",
+            "popularity": 87.427,
+            "poster_path": "/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
+            "release_date": "2012-09-27",
+            "title": "Taken 2",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 5902
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/acVxD0LJifkKc9gZrQHjPoxxqtA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 567714,
+            "original_language": "en",
+            "original_title": "The Roads Not Taken",
+            "overview": "The film follows 24 hours in the life of father and daughter Leo and Molly, as they weave their way around New York City, until their ordinary but stressful day takes on a hallucinatory and epic quality.",
+            "popularity": 3.582,
+            "poster_path": "/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
+            "release_date": "2020-03-13",
+            "title": "The Roads Not Taken",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                9648,
+                10770
+            ],
+            "id": 231242,
+            "original_language": "en",
+            "original_title": "Taken: The Search for Sophie Parker",
+            "overview": "After her daughter is abducted in Russia, an NYPD detective goes out of her way to find and save her.",
+            "popularity": 5.54,
+            "poster_path": "/2n4bAaNu2kBdW4BBFfwfXqy8OkC.jpg",
+            "release_date": "2013-09-21",
+            "title": "Taken: The Search for Sophie Parker",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "id": 304024,
+            "original_language": "en",
+            "original_title": "Taken Away",
+            "overview": "A corrupt politician covers up his daughter Vicky's pregnancy by forcing her to give the baby up for adoption. The newborn is adopted by a loving couple unable to have children, but a year later Vicky, now in college, realizes she was forced into signing the papers and really wants her daughter back. After sneaking into the adoption agency to find out who the adoptive parents are, she takes them to court to fight for custody.",
+            "popularity": 2.899,
+            "poster_path": "/6qU9SyXxkz1avIPZtaLSy3qNi6p.jpg",
+            "release_date": "2014-10-20",
+            "title": "Taken Away",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sIEd8lYcWUDEQNoGDqgplCc2Ged.jpg",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "id": 70692,
+            "original_language": "en",
+            "original_title": "Taken from Me: The Tiffany Rubin Story",
+            "overview": "In 2008, New York mother Tiffany Rubin faced every parent's worst nightmare when her six year old son Kobe vanished into thin air. Upon learning that Kobe had been kidnapped by his biological father and taken to South Korea, Tiffany seeks the assistance of American Association for Lost Children representative Mark Miller, who guides her through the arduous process of traveling to Korea, and getting Kobe back.",
+            "popularity": 6.569,
+            "poster_path": "/4iiA0V2IL1ERvqYb0MwRW1p8wkl.jpg",
+            "release_date": "2011-01-31",
+            "title": "Taken from Me: The Tiffany Rubin Story",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9EqMt4T30CCUIdX6zfGI2yDPN5E.jpg",
+            "genre_ids": [
+                10770,
+                18,
+                53,
+                9648
+            ],
+            "id": 122282,
+            "original_language": "en",
+            "original_title": "Taken Back: Finding Haley",
+            "overview": "Unable to get over the abduction of her daughter, a mother is convinced she has finally found her, but is she simply a mother obsessed?",
+            "popularity": 2.993,
+            "poster_path": "/jSX6PrE9LwC8zkBDfZ1Q4UWusX8.jpg",
+            "release_date": "2012-08-24",
+            "title": "Taken Back: Finding Haley",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                80,
+                10770
+            ],
+            "id": 19560,
+            "original_language": "en",
+            "original_title": "Taken in Broad Daylight",
+            "overview": "Every 24 hrs. after a child's been kidnapped by a stranger, chances of finding them alive diminishes to almost 100% ... The true and inspiring survival story of kidnapped teen, Anne Sluti, and how she manages to stay alive by manipulating her captor, engineering her own rescue and negotiating her safe release after 6 days of hell.",
+            "popularity": 4.016,
+            "poster_path": "/fGhe5mboWWXJrLidm9AQa2QV7cK.jpg",
+            "release_date": "2009-11-10",
+            "title": "Taken in Broad Daylight",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bptTnkLWRb1wBMY28mPvDqCkgXN.jpg",
+            "genre_ids": [
+                53,
+                10770
+            ],
+            "id": 454051,
+            "original_language": "en",
+            "original_title": "Taken Too Far",
+            "overview": "A jealous dance mom takes extreme measures to ensure her daughter wins a scholarship to an exclusive dance academy. But the victim's mother will do whatever necessary to protect her own daughter from the rival mom's evil scheme.",
+            "popularity": 2.833,
+            "poster_path": "/3KM8AqpurduQZtwBtfOFuNTdMRW.jpg",
+            "release_date": "2017-04-24",
+            "title": "Taken Too Far",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/haTe4eskXrSn3hnmrH97rOyc6by.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 441744,
+            "original_language": "en",
+            "original_title": "Taken Heart",
+            "overview": "When her daughter is kidnapped in Belize and held hostage to be used for human organ trafficking, Kate Johnson goes on a crusade to infiltrate the cartel and rescue her.",
+            "popularity": 2.237,
+            "poster_path": "/2DqlgdPHWOI6hPRFMY1TOskMQgg.jpg",
+            "release_date": "2017-01-24",
+            "title": "Taken Heart",
+            "video": false,
+            "vote_average": 3.9,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 574591,
+            "original_language": "en",
+            "original_title": "Miss Taken",
+            "overview": "Miss Taken (2008)",
+            "popularity": 0.871,
+            "poster_path": null,
+            "release_date": "2008-01-15",
+            "title": "Miss Taken",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 261391,
+            "original_language": "en",
+            "original_title": "Taken Away",
+            "overview": "A young single mother has to work late one night. Her daughter begs her to allow her to stay alone instead of going to a babysitter. The mother finally agrees. When the girl falls and is injured, police are called and she is taken to a hospital, the courts decide that the mother is unfit and take her daughter away. She must fight to all ends to get her back.",
+            "popularity": 1.4,
+            "poster_path": null,
+            "release_date": "1989-11-04",
+            "title": "Taken Away",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 294772,
+            "original_language": "en",
+            "original_title": "Taken",
+            "overview": "A kidnapped businessman, finding out that no one is willing to pay the ransom to save his life, befriends his aggressor.",
+            "popularity": 0.666,
+            "poster_path": null,
+            "release_date": "1999-01-01",
+            "title": "Taken",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 825940,
+            "original_language": "en",
+            "original_title": "Taken",
+            "overview": "A young woman who has been subjected to sexual violence comes face to face with her tormentor.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2016-01-01",
+            "title": "Taken",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 946882,
+            "original_language": "en",
+            "original_title": "Girl, Taken",
+            "overview": "On April 28, 1997, Morn\u00e9 and Celeste Nurse's firstborn was born - a baby girl they named Zephany. Three days later, that baby disappeared from her crib. They continued to search for her for 17 years after her second daughter, Cassidy, went to a new school in 2015 and met someone who looked like her. DNA tests have shown that she is their lost daughter. Zephany, who grew up as Mich\u00e9 Solomon, was taken to a place of safe custody and the woman she had known as her all her life was arrested and eventually sent to prison. However, Mich\u00e9 chose to stay with her abductor and not by her biological parents. This documentary tells a moving story of hope and loss",
+            "popularity": 0.6,
+            "poster_path": "/cZEKkijsfDBVBelzrUO4afoaXKx.jpg",
+            "release_date": "2022-06-30",
+            "title": "Girl, Taken",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 580416,
+            "original_language": "en",
+            "original_title": "Beyond The Spectrum - Being Taken",
+            "overview": "This is the definitive Documentary on Alien Abduction. A careful fact based study of the most credible cases, hoaxes, military historical involvement and expert interviews.",
+            "popularity": 1.168,
+            "poster_path": "/iqu4kNpv6j58KCZbRos26NcrSoy.jpg",
+            "release_date": "2018-11-26",
+            "title": "Beyond The Spectrum - Being Taken",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1048111,
+            "original_language": "en",
+            "original_title": "Taken Hostage",
+            "overview": "Unfolding like a political thriller, Taken Hostage tells the story of the Iran hostage crisis, when 52 American diplomats, Marines and civilians were held hostage at the American Embassy in Tehran on November 4, 1979. For the next 444 days, the world watched as the United States received a daily barrage of humiliation, vitriol and hatred from a country that had long been one of our closest allies. Told through the candid, personal testimony of those whose lives were upended by the action, the crisis would transform both the U.S. and Iran and forever upend the focus and direction of American foreign policy.",
+            "popularity": 1.4,
+            "poster_path": "/r2v8xBJorr6agoRyIhPZD5P5ite.jpg",
+            "release_date": "2022-11-14",
+            "title": "Taken Hostage",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18,
+                10770
+            ],
+            "id": 193984,
+            "original_language": "en",
+            "original_title": "They've Taken Our Children : The Chowchilla Kidnapping",
+            "overview": "Three young men decide to make easy money by mass kidnapping. After careful preparations, they hijack the school bus and take 26 children and the driver as hostages. However, the bravery and the wit of the old driver could spoil their plan for the perfect crime.",
+            "popularity": 2.279,
+            "poster_path": null,
+            "release_date": "1993-02-28",
+            "title": "Vanished Without a Trace",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wYF5Edc7nx4dtezUBj0100jfCy8.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 295943,
+            "original_language": "en",
+            "original_title": "Taken Alive",
+            "overview": "A beautiful secret agent recruits a local sculptor to aid her in rescuing a presidential candidate's kidnapped mistress.",
+            "popularity": 0.676,
+            "poster_path": "/zOHldUyFTmI7lu39EIUvrEemvxA.jpg",
+            "release_date": "1994-05-12",
+            "title": "Taken Alive",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 5,
+    "total_results": 93
+}

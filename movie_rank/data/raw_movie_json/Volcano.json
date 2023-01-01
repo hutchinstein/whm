@@ -1,0 +1,368 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/61XtDSnrGuBEML8BZummJVPKik6.jpg",
+            "genre_ids": [
+                878,
+                28,
+                18,
+                53
+            ],
+            "id": 10357,
+            "original_language": "en",
+            "original_title": "Volcano",
+            "overview": "An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep into the earth, causing lava to start bubbling up. As a volcano begins forming in the La Brea Tar Pits, the director of the city's emergency management service, working with a geologist, must then use every resource in the city to try and stop the volcano from consuming LA.",
+            "popularity": 22.421,
+            "poster_path": "/6JA1o2Xz3QJRfdZqhAwlGqAVQyR.jpg",
+            "release_date": "1997-04-25",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1247
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kFVVRNlm9Dh9vHxkF72hhbwjkX0.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 2565,
+            "original_language": "en",
+            "original_title": "Joe Versus the Volcano",
+            "overview": "Hypochondriac Joe Banks finds out he has six months to live, quits his dead end job, musters the courage to ask his co-worker out on a date, and is then hired to jump into a volcano by a mysterious visitor.",
+            "popularity": 15.396,
+            "poster_path": "/dP1KjMbZEBLO76Sg4W5Klyol3jk.jpg",
+            "release_date": "1990-03-09",
+            "title": "Joe Versus the Volcano",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 435
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/thj7VHPEQcbsu3JqV4Nl7i7zzJr.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 258210,
+            "original_language": "en",
+            "original_title": "Airplane vs Volcano",
+            "overview": "When a commercial airliner is trapped within a ring of erupting volcanoes, the passengers and crew must find a way to survive - without landing.",
+            "popularity": 6.96,
+            "poster_path": "/8BSo6rhPljuBKWiTQVbST07JkQF.jpg",
+            "release_date": "2014-03-28",
+            "title": "Airplane vs Volcano",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tULz2edNiKH9XExH7dkBP3uc06o.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 41089,
+            "original_language": "en",
+            "original_title": "Under the Volcano",
+            "overview": "Against a background of war breaking out in Europe and the Mexican fiesta Day of Death, we are taken through one day in the life of Geoffrey Firmin, a British consul living in alcoholic disrepair and obscurity in a small southern Mexican town in 1939. The consul's self-destructive behaviour, perhaps a metaphor for a menaced civilization, is a source of perplexity and sadness to his nomadic, idealistic half-brother, Hugh, and his ex-wife, Yvonne, who has returned with hopes of healing Geoffrey and their broken marriage.",
+            "popularity": 8.082,
+            "poster_path": "/414VrLFf8gffMUNTGm0zlg2UuHh.jpg",
+            "release_date": "1984-06-12",
+            "title": "Under the Volcano",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/77xrCIpZ5StH1lkQj8EqBmWwt3g.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 1018645,
+            "original_language": "en",
+            "original_title": "The Volcano: Rescue from Whakaari",
+            "overview": "A close examination of the Whakaari / White Island volcanic eruption of 2019 in which 22 lives were lost, the film viscerally recounts a day when ordinary people were called upon to do extraordinary things, placing this tragic event within the larger context of nature, resilience, and the power of our shared humanity.",
+            "popularity": 8.835,
+            "poster_path": "/7LQUp64Ub9JfnLVuzyhEHdc7DBg.jpg",
+            "release_date": "2022-11-03",
+            "title": "The Volcano: Rescue from Whakaari",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jhcG4Crk1CNxKSB8zh6Sx7XX78n.jpg",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "id": 65388,
+            "original_language": "en",
+            "original_title": "Volcano: Fire on the Mountain",
+            "overview": "Angel Falls is a mountain ski resort where a nearby volcano is about to erupt. Volcanic scientist Peter Slater must convince his boss and the local population of the danger and begin the town evacuation before it\u2019s too late.",
+            "popularity": 3.965,
+            "poster_path": "/qTbqVmnwfrsgSM7kTcMBZzZxsnb.jpg",
+            "release_date": "1997-02-23",
+            "title": "Volcano: Fire on the Mountain",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mxS6GVau7vHUOw4Bh1BzOCL0RPg.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 145969,
+            "original_language": "en",
+            "original_title": "Superman: Volcano",
+            "overview": "Superman comes to the rescue when a volcano erupts.",
+            "popularity": 1.506,
+            "poster_path": "/lki1fwPWfG3b6exnCevz7aSYBKw.jpg",
+            "release_date": "1942-07-10",
+            "title": "Superman: Volcano",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zwcxpnzWVCabI8Jd6IDZ804XcVf.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 804013,
+            "original_language": "en",
+            "original_title": "Under the Volcano",
+            "overview": "The story of George Martin\u2019s AIR Studios Montserrat and the island that changed music forever.",
+            "popularity": 1.723,
+            "poster_path": "/iVlOOpvFCddoLYc0R5lm0UsHjeU.jpg",
+            "release_date": "2021-03-20",
+            "title": "Under the Volcano",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53
+            ],
+            "id": 153695,
+            "original_language": "es",
+            "original_title": "Nature Unleashed: Volcano",
+            "overview": "While on assignment covering a volcanic eruption journalist Russell Woods' life is shattered when his wife is killed in the ensuing carnage. Grieving he travels to the small village in Italy where she was born. There he is followed by a curious young girl Angela whom the townspeople believe is cursed by the devil. Despite their warnings he feels a strange connection to her and believes her odd behaviour is somehow linked to the death of his wife. But when things turn otherworldly Russell realises that bigger events are unfolding. Something supernatural has come to this small village and Angela is the key.",
+            "popularity": 1.744,
+            "poster_path": "/ltp5JwJayxmXzFHCJYyErNucXIB.jpg",
+            "release_date": "2005-02-04",
+            "title": "Nature Unleashed: Volcano",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/keXdquTOHH7BCWGzZz38ZaJcGFA.jpg",
+            "genre_ids": [],
+            "id": 619684,
+            "original_language": "en",
+            "original_title": "Volcano",
+            "overview": "Hannah and Jess meet up at a tiki bar, seeing each other for the first time since Hannah's romantic Mexico trip. Hannah has a lot to say about it, except what really happened.",
+            "popularity": 1.055,
+            "poster_path": "/2UWQiGCFUyC524kemTmw4gbWmJs.jpg",
+            "release_date": "2019-09-06",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6a3nXWGXhbUaML1iyZb8F07m8zl.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 748018,
+            "original_language": "pt",
+            "original_title": "Volcano",
+            "overview": "She has a mysterious and indomitable urge.",
+            "popularity": 0.6,
+            "poster_path": "/cdaahW6BHKYqSlnxok4Er5Ln3AR.jpg",
+            "release_date": "2018-06-20",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ocW1FiX1Qj7kThCMELQw5qj3seP.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 47318,
+            "original_language": "en",
+            "original_title": "Disaster Zone: Volcano in New York",
+            "overview": "Illegal experimentation accidentally rips open a previously unknown hidden magma reserve directly under Manhattan!",
+            "popularity": 3.374,
+            "poster_path": "/zBorzOFEMIrC4rYxxUdEwK7J7Uw.jpg",
+            "release_date": "2006-02-25",
+            "title": "Disaster Zone: Volcano in New York",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lyOlJIz0e3nQkTUsKkBfdjHThaX.jpg",
+            "genre_ids": [
+                12
+            ],
+            "id": 109216,
+            "original_language": "en",
+            "original_title": "The Lost Volcano",
+            "overview": "Little David Gordon lives in the jungle with his parents Ruth and Fred Gordon along with their servant Nona. David likes living there while his father captures wild animals. He's made friends with Bomba the jungle boy who has shown a great deal about life in the jungle. His parents have heard the stories of Bomba but think it's just myth along with a bit of David's imagination. When David is kidnapped by two adventurers looking for ancient treasure in the shadow of a live volcano, Bomba comes to the rescue.",
+            "popularity": 1.4,
+            "poster_path": "/w8fUq6X6yPmzwhAMfW0xFqKvbVs.jpg",
+            "release_date": "1950-06-25",
+            "title": "The Lost Volcano",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 829739,
+            "original_language": "en",
+            "original_title": "Volcano",
+            "overview": "A house robbery goes wrong.",
+            "popularity": 0.6,
+            "poster_path": "/zNElTdt5BKOc77QLZsYOpVuxpoU.jpg",
+            "release_date": "2021-05-21",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nZ16l17c5Igztd9Udjy6ypOTsUp.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 767773,
+            "original_language": "en",
+            "original_title": "Volcano",
+            "overview": "Zabette de Chauvalons leaves a convent in Brussels to join her father on the island of Martinique, escorted by P\u00e8re B\u00e9n\u00e9dict. In St. Pierre she finds that her father has died; his widow, who rules the island's French society, believes Zabette to be the child of a beautiful quadroon with whom Zabette's father left for France; when Zabette is sent to the mulatto quarter, St\u00e9phane S\u00e9quineau is present and takes an interest in her. Destitute, Zabette is forced to auction off her Paris fashions, and though Quembo, a cunning quadroon, is the highest bidder, St\u00e9phane outbids him at the last minute and professes his love, which she accepts, believing herself to be une fille de couleur; however, his older brother, Maurice, insinuating that a mixed marriage would ruin him, persuades her to desist.",
+            "popularity": 1.091,
+            "poster_path": "/9iEljVkgAAOevAHfJEpguvr2Wl3.jpg",
+            "release_date": "1926-05-23",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 980867,
+            "original_language": "en",
+            "original_title": "Volcano",
+            "overview": "A family reunion goes awry when the housemaid is found dead and threats from an unknown killer put all under house arrest.",
+            "popularity": 0.6,
+            "poster_path": "/dsP6Yoy4dV0i1vmhiRs7EZZTWj.jpg",
+            "release_date": "2020-12-01",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 319605,
+            "original_language": "en",
+            "original_title": "Volcano",
+            "overview": "Volcano, half hour, silent, shot on 16mm on a volcano in Hawaii, the film attempts to deal with those questions of representation that persist as problematic, for me, for the basic questions of aesthetics, what it is to view, how to view the unknown as to view the known is not possibly a viewing. The question of recognition, the impossibility of recognition or, better said, the impossibility o f a viewer viewing at all if it is predicated up on recognition... at that moment, you the viewer I the viewer am no longer part of a process, a material however metaphysical or not process of making meaning through the conflicts of perception of something...",
+            "popularity": 0.6,
+            "poster_path": "/7nbvlHHTKJjLWD6FZBEEiIKpSHS.jpg",
+            "release_date": "2002-01-20",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 422376,
+            "original_language": "en",
+            "original_title": "Volcano",
+            "overview": "A moving record of a natural disaster, Volcano documents the effect of a sudden volcanic eruption on the tiny island of Haimaey, off the coast of Iceland. Blasts of flame, clouds of black smoke and showers of rock erupt from the screen in a poignant portrait of a stricken town.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1973-01-01",
+            "title": "Volcano",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 338630,
+            "original_language": "en",
+            "original_title": "Volcano Saga",
+            "overview": "This short film shot in Iceland and New York, which is based on a thirteenth-century Icelandic Laxdeala Saga, features Tilda Swinton as a young woman whose dreams foretell the future.",
+            "popularity": 0.84,
+            "poster_path": "/fyKGxCwXEm5YbekvRo7dF0wM0D5.jpg",
+            "release_date": "1989-01-01",
+            "title": "Volcano Saga",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 1011977,
+            "original_language": "en",
+            "original_title": "The Volcano",
+            "overview": "Ruth Carroll, a schoolteacher in New York's Lower East Side, meets Bolshevist Alexis Minski at her grandfather's bookstore. After Ruth complains to her superintendent about undernourished schoolchildren, Minski's ravings cause her suspension, and she joins the Reds. Meanwhile, Captain Nathan Levison, returning from the Argonne, is assigned by the Secret Service to investigate New York's radicals. While visiting the Carrolls to announce the imminent arrival of Ruth's brother Davy, who saved Levison's life but lost his foot, Levison falls in love with Ruth. Chagrined, Minski convinces Ruth that Levison plans to arrest her and her grandfather, whereupon Ruth furiously requests that Levison be killed. After Governor Alfred E. Smith signs a bill making it illegal to display the Red flag, the Bolshevists plot to assassinate him, the Mayor of Seattle, and Attorney General Alexander Palmer, but Davy, with other soldiers, break up the meeting.",
+            "popularity": 0.6,
+            "poster_path": "/ned95qthil75VGIcVBu8IpYIUtl.jpg",
+            "release_date": "1919-08-24",
+            "title": "The Volcano",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 7,
+    "total_results": 133
+}

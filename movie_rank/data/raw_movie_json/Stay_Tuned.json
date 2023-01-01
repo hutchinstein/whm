@@ -1,0 +1,96 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/pDcgM8KWad6IARWbI04N9sTFJMC.jpg",
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 23939,
+            "original_language": "en",
+            "original_title": "Stay Tuned",
+            "overview": "Salesman Roy Knable spends all his free time watching television, to the exasperation of his wife, Helen. One day, TV salesman Spike convinces Roy to buy a satellite dish offering 666 channels. The new addition to Roy's home entertainment system sucks him and Helen into Hellvision, a realm run by Spike, who is an emissary of Satan. For 24 hours, the couple must survive devilish parodies of TV programs if they want to return to reality alive.",
+            "popularity": 8.158,
+            "poster_path": "/yd2MN9zA30eGjf89DaaNoUXbRNp.jpg",
+            "release_date": "1992-08-14",
+            "title": "Stay Tuned",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 813978,
+            "original_language": "en",
+            "original_title": "Stay Tuned",
+            "overview": "Physically, mentally, intuitively\u2026but really it\u2019s just a movie about having fun and keeping your board tuned.",
+            "popularity": 0.6,
+            "poster_path": "/A1i1pN6Jp6bOMausPnzZtPWEncb.jpg",
+            "release_date": "2018-01-01",
+            "title": "Stay Tuned",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 292984,
+            "original_language": "en",
+            "original_title": "Stay Tuned For Murder",
+            "overview": "When a lawyer she's investigating is brutally murdered, TV reporter Zac McKay becomes a prime suspect. With the help of a suspicious police lieutenant and despite threats from a local politician she continues with her expos\u00e9.",
+            "popularity": 0.6,
+            "poster_path": "/mHVNpcEDj8vSEEgpakCIMsDPZdM.jpg",
+            "release_date": "1988-06-29",
+            "title": "Stay Tuned For Murder",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ltpMAKnrMHuzlNkM8dXf3MFzen.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 141123,
+            "original_language": "es",
+            "original_title": "Extra\u00f1a invasi\u00f3n",
+            "overview": "A succession of television broadcasts has unexpected and terrifying effects on the minds of viewers.",
+            "popularity": 1.581,
+            "poster_path": "/dRoZBClKWujaAdZGRLSCJjrnAHt.jpg",
+            "release_date": "1965-01-01",
+            "title": "Stay Tuned for Terror",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 981004,
+            "original_language": "ur",
+            "original_title": "Intezar Farmaiye",
+            "overview": "Stay Tune - A journey through time of Pakistan's tumultuous history seen across the TV screen through the eyes of three generations where times do change but people have the same misguided mindset of believing the media and blaming the other person instead of looking unto themselves for reflections and betterment.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Stay Tuned",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

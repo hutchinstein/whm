@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/y7sZ75DmyJQyAbuE5pX0P8iTDsr.jpg",
+            "genre_ids": [
+                878,
+                28,
+                80
+            ],
+            "id": 9278,
+            "original_language": "en",
+            "original_title": "Freejack",
+            "overview": "Time-traveling bounty hunters find a doomed race-car driver in the past and bring him to 2009 New York, where his mind will be replaced with that of a terminally ill billionaire.",
+            "popularity": 17.786,
+            "poster_path": "/3n9wCzxIkH2at50XiUWbL5W8aHS.jpg",
+            "release_date": "1992-01-17",
+            "title": "Freejack",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 259
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

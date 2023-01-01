@@ -1,0 +1,61 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9428,
+            "original_language": "en",
+            "original_title": "The Royal Tenenbaums",
+            "overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+            "popularity": 22.748,
+            "poster_path": "/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+            "release_date": "2001-10-05",
+            "title": "The Royal Tenenbaums",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3900
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                35
+            ],
+            "id": 687170,
+            "original_language": "en",
+            "original_title": "The Peter Bradley Show: The Royal Tenenbaums",
+            "overview": "Apparently an attempt to parody the \"Charlie Rose\" show, here host Peter Bradley interviews 6 (well, 5, since one doesn't show up) of the bit players from \"The Royal Tenenbaums.\"",
+            "popularity": 1.379,
+            "poster_path": "/2H0tDTOaplSXMgBsg64e79J1cWp.jpg",
+            "release_date": "2002-07-09",
+            "title": "The Peter Bradley Show: The Royal Tenenbaums",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 920498,
+            "original_language": "en",
+            "original_title": "Wes Anderson, Class, and Aesthetic: The Royal Tenenbaums and Fantastic Mr. Fox",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2021-01-01",
+            "title": "Wes Anderson, Class, and Aesthetic: The Royal Tenenbaums and Fantastic Mr. Fox",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

@@ -1,0 +1,174 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6JGIPKTUkLReVQ6lVyrPKztXWPc.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                18
+            ],
+            "id": 10081,
+            "original_language": "en",
+            "original_title": "The Principal",
+            "overview": "Burglary. Drugs. Assault. Rape. The students at Brandel High are more than new Principal Rick Latimer bargained for. Gangs fight to control the school using knives - even guns - when they have to. When Latimer and the head of security try to clean up the school and stop the narcotics trade, they run up against a teenage mafia. A violent confrontation on the campus leads to a deadly showdown with the drug dealer's gang, and one last chance for Latimer to save his career... and his life.",
+            "popularity": 12.725,
+            "poster_path": "/kwwDruwoHwNMY6tV7KOdVGcEusT.jpg",
+            "release_date": "1987-09-18",
+            "title": "The Principal",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1051904,
+            "original_language": "en",
+            "original_title": "The Principal Story",
+            "overview": "The Principal Story tells two stories, painting a dramatic portrait of the challenges facing America's public schools \u2014 and of the great difference a dedicated principal can make. Tresa Dunbar is a second-year principal at Chicago's Nash Elementary, where 98% of students come from low-income families; in Springfield, Illinois, Kerry Purcell has led Harvard Park Elementary, with similar demographics, for six years.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2009-11-09",
+            "title": "The Principal Story",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 752544,
+            "original_language": "en",
+            "original_title": "Picturesque Scenes on the Principal Waterways",
+            "overview": "Footage shot from the steam tram, along the Amsterdam - Monnickendam - Volendam line.",
+            "popularity": 0.6,
+            "poster_path": "/2uuT59mqXdVw5QODGOCHmGmhZ5T.jpg",
+            "release_date": "1915-01-01",
+            "title": "Picturesque Scenes on the Principal Waterways",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1012760,
+            "original_language": "en",
+            "original_title": "The Principal\u2019s Fight",
+            "overview": "The Principal\u2019s Fight examines the case of Community School, Sector II, Sabalibougou and the struggles of Negueting Traore and his fellow teachers to keep in functioning. We meet various government officials who emphasise the importance of community schools to the nation without being able to guarantee sufficient support to keep Sector II viable. Along the way we see something of the home life of Principal Traore and his wife \u2013 who also teaches at the school \u2013 and we come to realise that they have a fight on their hands just to keep their own family viable.",
+            "popularity": 0.6,
+            "poster_path": "/mwNQhhJKdsC9l7QvhtvRybHSUvm.jpg",
+            "release_date": "2009-01-01",
+            "title": "The Principal\u2019s Fight",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vVghWhigJKNQIHXDwril5QCVFvE.jpg",
+            "genre_ids": [
+                99,
+                10751
+            ],
+            "id": 572615,
+            "original_language": "nl",
+            "original_title": "De Hoofdvrouw",
+            "overview": "\u201cThe Principal Wife\u201d is an impressive and moving demonstration of how to trace one's family history even if no one is willing to talk about it. At its centre is the 38-year-old painter Marijke van der Meulen, whose mother Aagje left her and the family to join a Christian sect when her daughter was eight.",
+            "popularity": 0.6,
+            "poster_path": "/wm28WmpmRxvIyJU1pPPkZBU3VYN.jpg",
+            "release_date": "2018-05-23",
+            "title": "The Principal Wife",
+            "video": false,
+            "vote_average": 9,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 501726,
+            "original_language": "es",
+            "original_title": "Jatun auka",
+            "overview": "A guerrilla group arrives in an indigenous community of the Peruvian sierra with the intention of recruiting volunteers.",
+            "popularity": 0.6,
+            "poster_path": "/rypMVlriR1FY2XkycfDVnGTaTwp.jpg",
+            "release_date": "1974-06-01",
+            "title": "The Principal Enemy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                36
+            ],
+            "id": 691611,
+            "original_language": "sr",
+            "original_title": "\u041a\u043d\u0435\u0436\u0435\u0432\u0438\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "overview": "The main plot of the film \"The Principality of Serbia\" was put in the first seven decades of the nineteenth century when the state was being formed and strengthened together with its historical fate. This film shows the Serbs as people who fought during the two Risings while trying to liberate by themselves hardly and for a long time. It also shows how they hardly got the recognition to their liberty and the international recognition to the right to have their own state.",
+            "popularity": 0.6,
+            "poster_path": "/yVwrxe6b69QeOhzqiZzHew7hSXN.jpg",
+            "release_date": "2008-02-15",
+            "title": "The Principality of Serbia",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 654881,
+            "original_language": "en",
+            "original_title": "Den Onde Rektor Svint",
+            "overview": "The Evil Principal Svint, a vindictive madman is rampaging through middle schools in Tr\u00f8ndelag, Norway stealing the teachers knowledge and their joy of life. Anna and the rest of the children starts the intense fight to stop the evil Principal, and thereby releasing the stolen knowledge and joy from his life-sucking machine.",
+            "popularity": 0.6,
+            "poster_path": "/c7BTiPtd4GDFj6C37ljHhilfdc5.jpg",
+            "release_date": "",
+            "title": "The Evil Principal",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 766823,
+            "original_language": "ja",
+            "original_title": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30d7\u30ea\u30f3\u30b7\u30d1\u30eb THE LIVE Yuki Kajiura\u00d7Void_Chords",
+            "overview": "A live concert performed by Yuki Kajiura and Ryo Takahashi's alias, Void_Chords, presenting to the music of the anime Princess Principal",
+            "popularity": 0.972,
+            "poster_path": "/oGrEa6TXlQv3Eqluln1tfvoIRmG.jpg",
+            "release_date": "2020-03-27",
+            "title": "Princess Principal THE LIVE Yuki Kajiura\u00d7Void_Chords",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 9
+}

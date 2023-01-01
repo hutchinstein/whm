@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 337339,
+            "original_language": "en",
+            "original_title": "The Fate of the Furious",
+            "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+            "popularity": 72.393,
+            "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+            "release_date": "2017-04-12",
+            "title": "The Fate of the Furious",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 9187
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

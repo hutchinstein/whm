@@ -1,0 +1,44 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/3xLT29KkCwLqRgRRtaUHGG6OaZ5.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10280,
+            "original_language": "en",
+            "original_title": "Thinner",
+            "overview": "An obese lawyer finds himself growing \"Thinner\" when an old gypsy man places a hex on him. Now the lawyer must call upon his friends in organized crime to help him persuade the gypsy to lift the curse. Time is running out for the desperate lawyer as he draws closer to his own death, and grows ever thinner.",
+            "popularity": 21.741,
+            "poster_path": "/3GR7uE3zMwERu2CgwdgTbAufFzU.jpg",
+            "release_date": "1996-10-25",
+            "title": "Thinner",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 484
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwwPJYpkPCVqVunrLnti8knzlol.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 839837,
+            "original_language": "en",
+            "original_title": "Chilli Powder and Thinner",
+            "overview": "Chili powder and thinner painted the based on true story of young Malaysian boys in police custody, where they were brutally beaten and lost a dear friend.",
+            "popularity": 0.6,
+            "poster_path": "/uEDUdmSxpsJTb5ggLVHNc7cVWWr.jpg",
+            "release_date": "2021-06-12",
+            "title": "Chilli Powder and Thinner",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

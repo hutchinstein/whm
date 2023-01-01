@@ -1,0 +1,43 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/j1fRNWSROvatAF3pWnlJXlkJDZx.jpg",
+            "genre_ids": [
+                10749,
+                10402,
+                35
+            ],
+            "id": 1496,
+            "original_language": "en",
+            "original_title": "Cool as Ice",
+            "overview": "Freewheeling, motorcycle-riding musician Johnny rolls into a small town with his band, and meets Kathy, an honor student who catches his eye. Meanwhile, Kathy's father, after being in the Witness Protection Program, is finally tracked down by two corrupt cops he escaped from years ago, who want the money he owes them.",
+            "popularity": 10.882,
+            "poster_path": "/fO0YbAJiMPFMquixdZgbC98I3MP.jpg",
+            "release_date": "1991-10-18",
+            "title": "Cool as Ice",
+            "video": true,
+            "vote_average": 5,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 510566,
+            "original_language": "en",
+            "original_title": "Cool As Ice 2",
+            "overview": "Cool as Ice 2 is the sequel to the 1991 film starring Vanilla Ice. This film does not star Vanilla Ice.",
+            "popularity": 0.937,
+            "poster_path": "/3VJUS83kJu5cpwyAnDq67AmG3MR.jpg",
+            "release_date": "2014-12-20",
+            "title": "Cool As Ice 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

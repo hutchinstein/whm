@@ -1,0 +1,78 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ufUdEHvs31M8yw3HMFjhTaVJIVp.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1374,
+            "original_language": "en",
+            "original_title": "Rocky IV",
+            "overview": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.",
+            "popularity": 43.468,
+            "poster_path": "/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg",
+            "release_date": "1985-11-21",
+            "title": "Rocky IV",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 3656
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/71qx5Q7l2YNrFd1gLMiqvj7jLXf.jpg",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "id": 428184,
+            "original_language": "fr",
+            "original_title": "Rocky IV : Le Coup de poing am\u00e9ricain",
+            "overview": "Rocky IV is dually symbolic - it embodies both the victory of the American boxer over the Soviet one and the victory of neo-liberalism over a dwindling socialism. Today, Rocky is held up as a model by some and is a subject of derision for others. An emblem of the 1980s, its culture and its heroes, the film will be the subject of an entertaining analysis of popular culture.",
+            "popularity": 2.463,
+            "poster_path": "/wIWfcdusLobtRDe1bXgiBQmnkeF.jpg",
+            "release_date": "2014-10-11",
+            "title": "Rocky IV: The American Punch",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1059871,
+            "original_language": "en",
+            "original_title": "Rocky IV: Rocky vs. Drago - The Ultimate Director's Cut",
+            "overview": "",
+            "popularity": 1.187,
+            "poster_path": "/i8drgqDos0aaZUWqhAlDd9vsQHw.jpg",
+            "release_date": "2022-08-19",
+            "title": "Rocky IV: Rocky vs. Drago - The Ultimate Director's Cut",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 606975,
+            "original_language": "tl",
+            "original_title": "Johny Rocky Tan-Go Part IV",
+            "overview": "A philipine parody of the Rocky Saga about Rocky Tan-go, a pour man with a golden heart.",
+            "popularity": 0.6,
+            "poster_path": "/1cWozz3MlRiu5wRorwMrzBoOMbq.jpg",
+            "release_date": "1986-01-01",
+            "title": "Johny Rocky Tan-Go Part IV",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

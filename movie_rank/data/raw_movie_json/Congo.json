@@ -1,0 +1,378 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/g3wWgcKTGhfAA4LPvVGBPx0drWw.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 10329,
+            "original_language": "en",
+            "original_title": "Congo",
+            "overview": "Eight people embark on an expedition into the Congo, a mysterious expanse of unexplored Africa where human greed and the laws of nature have gone berserk. When the thrill-seekers -- some with ulterior motives -- stumble across a race of killer apes.",
+            "popularity": 20.976,
+            "poster_path": "/hPNSToNIIpRO6y5Rh973leqQqNr.jpg",
+            "release_date": "1995-06-09",
+            "title": "Congo",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 727
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v5wjxJ8c7nuDFtb7DSlEEi8u5OT.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "id": 163775,
+            "original_language": "en",
+            "original_title": "Congo Crossing",
+            "overview": "Congotanga, West Africa, has no extradition laws; the government is controlled by foreign gangsters, headed by Carl Rittner. The latest plane from Europe carries lovely Louise Whitman, fleeing a French murder charge, and Mannering, who pays resident hit man O'Connell to kill her. Through a chain of circumstances Louise, O'Connell, and heroic surveyor David Carr end up alone in the jungle on Carr's mission to determine the true border of Congotanga... in which Rittner is keenly interested.",
+            "popularity": 3.377,
+            "poster_path": "/oSRJ6HQl2rXd40ztDwJwVzLRLyR.jpg",
+            "release_date": "1956-07-01",
+            "title": "Congo Crossing",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 276124,
+            "original_language": "en",
+            "original_title": "Congo",
+            "overview": "An experimental ethnographic documentary that criticizes the colonizer view of anthropology.",
+            "popularity": 0.6,
+            "poster_path": "/qyp6xQKp6niMHbJwZK9CASBVvfy.jpg",
+            "release_date": "1972-01-01",
+            "title": "Congo",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vN2jCwtGsBUhP6w4VOiiYJdUVBF.jpg",
+            "genre_ids": [
+                35,
+                16
+            ],
+            "id": 166635,
+            "original_language": "en",
+            "original_title": "Congo Jazz",
+            "overview": "Bosko hunts in the jungle, but ends up playing music with the animals.",
+            "popularity": 1.548,
+            "poster_path": "/1zXAoa9X2EUI128Ptnl2yBQfVW1.jpg",
+            "release_date": "1930-08-07",
+            "title": "Congo Jazz",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 886199,
+            "original_language": "fr",
+            "original_title": "Bana Congo Oyez!",
+            "overview": "This film is documents the struggles of Mr. Jean-Lucien Bussa, an idealistic member of the National Assembly, who routinely confronts his own conflicting incentives of service to others and service to his own needs. When does patronage end and corruption begin?",
+            "popularity": 0.6,
+            "poster_path": "/lk4GY4a2koFkV8Q3jooJrvGJZMO.jpg",
+            "release_date": "2019-03-27",
+            "title": "Children of Congo, Listen!",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 631534,
+            "original_language": "de",
+            "original_title": "Congo Calling",
+            "overview": "Three Europeans in the crisis zone of eastern Congo. They want to help, but their situation is complicated. Three personal perspectives on coexistence and cooperation between Europe and Africa - and the question: how helpful is the help of the West?",
+            "popularity": 0.83,
+            "poster_path": "/wnUHWewfpTurfYM8GKtu70LDEdq.jpg",
+            "release_date": "2019-08-22",
+            "title": "Congo Calling",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdaGSAhSVsjVJFToEGHSuzWk0xm.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 653757,
+            "original_language": "es",
+            "original_title": "\u00c9rase una vez en Venezuela, Congo Mirador",
+            "overview": "Once upon a time, the Venezuelan village of Congo Mirador was prosperous, alive with fisherman and poets. Now it is decaying and disintegrating\u2014a small but prophetic reflection of Venezuela itself.",
+            "popularity": 2.226,
+            "poster_path": "/7YUH5CepiykY1mCg2TGU7t5q4vI.jpg",
+            "release_date": "2020-03-13",
+            "title": "Once Upon a Time in Venezuela",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 212846,
+            "original_language": "en",
+            "original_title": "Mission Congo",
+            "overview": "A documentary that examines whether a charity organized by Pat Robertson to aid Rwandan genocide refugees was a front for diamond mining.",
+            "popularity": 0.934,
+            "poster_path": "/iwrrp9gABhuJabKVs5emcCmRswL.jpg",
+            "release_date": "2013-09-09",
+            "title": "Mission Congo",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1nlv9RM9NZvj4L48g2yUzFlEeEA.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 69207,
+            "original_language": "en",
+            "original_title": "Congo Maisie",
+            "overview": "Maisie gets lost in a jungle in Africa and the jungle of romance. The African jungle has snakes, crocodiles and witch doctors. The romantic jungle has a dedicated doctor with an un-dedicated wife and an embittered doctor who is dedicated to no one.",
+            "popularity": 0.696,
+            "poster_path": "/aHkwT0yeoojRlIHPUhCqpZ7k14S.jpg",
+            "release_date": "1940-01-19",
+            "title": "Congo Maisie",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 506913,
+            "original_language": "it",
+            "original_title": "Congo vivo",
+            "overview": "In Congo during the revolution, an Italian journalist is in love with the wife of a Belgian businessman.",
+            "popularity": 0.6,
+            "poster_path": "/wCzzgCcm4BdL85prVzoAmYYuqbh.jpg",
+            "release_date": "1962-03-29",
+            "title": "Eruption",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/BGa8OQfa7qIz8gkUDQ2rDhW65w.jpg",
+            "genre_ids": [
+                99,
+                10752
+            ],
+            "id": 473749,
+            "original_language": "en",
+            "original_title": "This Is Congo",
+            "overview": "An unfiltered look in to the lives of 3 characters surviving amongst the most recent cycle of conflict in the Democratic Republic of Congo, otherwise known as the M23 rebellion.",
+            "popularity": 0.898,
+            "poster_path": "/fnni4EGsD180uC3FgyhEprbXbIp.jpg",
+            "release_date": "2017-09-01",
+            "title": "This Is Congo",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tkXR5J1pB2zXwa10lQoH5CNwdlx.jpg",
+            "genre_ids": [
+                99,
+                10752
+            ],
+            "id": 790054,
+            "original_language": "en",
+            "original_title": "Congo, My Precious",
+            "overview": "The Democratic Republic of Congo in Africa is one of the world\u2019s most resource-rich countries. A wide range of rare minerals can be found here in abundance, all commanding high prices in world commodity markets. Diamonds for jewellery, tantalum, tungsten and gold for electronics; uranium used in power generation and weaponry and many others. Congo has copious deposits of raw materials that are in high demand internationally but remains one of the poorest countries in the world.  For our translator, Bernard Kalume Buleri, his country\u2019s history of turmoil is very personal; like most Congolese people, he and his family fell victim to the unending mineral based power struggle. Born in the year of his country\u2019s independence, he has lived through war and seen his homeland torn apart by violent looting and greed. His story is a damning testament, illustrating how nature\u2019s bounty, instead of being a blessing, becomes a deadly curse.",
+            "popularity": 0.664,
+            "poster_path": "/nyonXE2RfyuLyj7sW4fq6GBwkAB.jpg",
+            "release_date": "2017-05-01",
+            "title": "Congo, My Precious",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 631659,
+            "original_language": "lb",
+            "original_title": "Ech war am Congo",
+            "overview": "Between 1880 and 1960, hundreds of Luxembourgers went to settle in the Belgian Congo to live and work there; some for some time, others for ever. The film tells their story and their experiences.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2001-04-23",
+            "title": "My Life in the Congo",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vXD7GvMreNnvMOo01iaNTGW1y9o.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 616275,
+            "original_language": "fr",
+            "original_title": "Congo sauvage",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/dPbbEmKfuJQHrR7WWUEE5ajXIEY.jpg",
+            "release_date": "2017-05-24",
+            "title": "Congo sauvage",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 516588,
+            "original_language": "fr",
+            "original_title": "Congo: Une tragedie politique",
+            "overview": "Resource-rich Africa has been a feeding hand for many successful countries and businesses that have never really benefited the continent itself nor the majority of its people.  First of a 3-film series, Congo: A Political Tragedy is a feature-length documentary chronicling the political history of the Democratic Republic of the Congo from the arrival of the first European settlers to the nation\u2019s struggle for independence.  It offers the unique perspective of Congolese co-writers Patrick Kabeya and Mina Malu, as they document the history of a country that has so far mostly been told through the eyes of foreigners.",
+            "popularity": 0.6,
+            "poster_path": "/gFuFwFku6tUOs4BHixAIVRqzfXL.jpg",
+            "release_date": "2018-05-25",
+            "title": "Congo - A Political Tragedy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12
+            ],
+            "id": 223635,
+            "original_language": "en",
+            "original_title": "King of the Congo",
+            "overview": "An Air Force captain is assigned to find some missing top-secret microfilm.",
+            "popularity": 1.4,
+            "poster_path": "/31eCSqjYYI3DKUjz7lmLYdwr0fJ.jpg",
+            "release_date": "1952-04-10",
+            "title": "King of the Congo",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/naBGYUrevC0YiTgepLTtVi9atPE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80
+            ],
+            "id": 115702,
+            "original_language": "en",
+            "original_title": "Fury of the Congo",
+            "overview": "Jungle Jim must protect rare pony-like animals whose glands produce a powerful narcotic. On the way, he fights a giant spider.",
+            "popularity": 1.003,
+            "poster_path": "/4zDdYBMwlP61nq2B8PEo5Yvd0Uo.jpg",
+            "release_date": "1951-02-26",
+            "title": "Fury of the Congo",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 850659,
+            "original_language": "en",
+            "original_title": "Miss Congo",
+            "overview": "Miss Congo\r 2007\r 3 channel video, sound\r 4 minutes 44 seconds",
+            "popularity": 0.6,
+            "poster_path": "/45h1pxlwBpdwJhTGbfQ8DQyLSyH.jpg",
+            "release_date": "2007-01-01",
+            "title": "Miss Congo",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 687451,
+            "original_language": "en",
+            "original_title": "Mama Congo",
+            "overview": "Mama Congo is about three women who risk their own lives to help their fellow sisters in a war-ravaged Eastern Congo. They are nicknamed \"Mama\", a sign of respect.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2014-01-01",
+            "title": "Mama Congo",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 252523,
+            "original_language": "en",
+            "original_title": "Congo Bill",
+            "overview": "Congo Bill is hired to locate an heiress lost somewhere in Africa.",
+            "popularity": 0.6,
+            "poster_path": "/wvWimtHbhEsc6ACcecuAAsNu5ws.jpg",
+            "release_date": "1948-10-28",
+            "title": "Congo Bill",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 4,
+    "total_results": 74
+}

@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cxr9xwlF5jQnRwnquxVLYGheesf.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 9605,
+            "original_language": "en",
+            "original_title": "Single White Female",
+            "overview": "Attractive Manhattanite Allison Jones has it all: a handsome beau, a rent-controlled apartment, and a promising career as a fashion designer. When boyfriend Sam proves unfaithful, Allison strikes out on her own but must use the classifieds to seek out a roommate in order to keep her spacious digs.",
+            "popularity": 17.581,
+            "poster_path": "/2NwRcrVNTMf5MnsL5z4A6Mj816N.jpg",
+            "release_date": "1992-08-14",
+            "title": "Single White Female",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cs3HI0hCe5eKLcLpMUiRfs1cPm0.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 35683,
+            "original_language": "en",
+            "original_title": "Single White Female 2: The Psycho",
+            "overview": "A warped woman takes deadly measures to help a new roommate get rid of her problems.",
+            "popularity": 6.418,
+            "poster_path": "/qovxrkXIdOnhWyyqkJJLaFfYUxF.jpg",
+            "release_date": "2005-10-25",
+            "title": "Single White Female 2: The Psycho",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 44
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/nHkVcScSHcIs9weEhfHF44HuCXF.jpg",
+            "genre_ids": [
+                14,
+                878
+            ],
+            "id": 8010,
+            "original_language": "en",
+            "original_title": "Highlander II: The Quickening",
+            "overview": "In the year 2024, the ozone layer is believed to have been destroyed. It is up to MacLeod and Rameriz to set things right. Opposition comes from both the planet Ziest (MacLeod and Ramirez's homeworld) and a corporation profiting from the supposed lack of ozone. Also, flashbacks show the story behind MacLeod and Ramirez's exile from Ziest.",
+            "popularity": 15.667,
+            "poster_path": "/sJwYye8XEaE0jRDLyywiHI5GWai.jpg",
+            "release_date": "1991-01-13",
+            "title": "Highlander II: The Quickening",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 700
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

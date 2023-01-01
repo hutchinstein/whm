@@ -1,0 +1,47 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5tKiuZvvV1lic7v65rdoGPmoOvf.jpg",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "id": 534,
+            "original_language": "en",
+            "original_title": "Terminator Salvation",
+            "overview": "All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe.",
+            "popularity": 62.834,
+            "poster_path": "/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+            "release_date": "2009-05-20",
+            "title": "Terminator Salvation",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 5640
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2JNljYdphbMWX1Yq2JuusKvJyJc.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12
+            ],
+            "id": 222148,
+            "original_language": "en",
+            "original_title": "Terminator: Salvation The Machinima Series",
+            "overview": "In the Year 2016, Resistance fighter Blair Williams embarks on a deadly mission to search for a threat that is weakening humanity's defense against the self-aware artificial intelligence called Skynet and it's lethal Terminators.",
+            "popularity": 9.542,
+            "poster_path": "/aWX62gBQVpCJ1zOkMgqGx9o8Sli.jpg",
+            "release_date": "2009-05-18",
+            "title": "Terminator: Salvation The Machinima Series",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 19
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

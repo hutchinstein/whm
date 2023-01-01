@@ -1,0 +1,58 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/e5wrVtjUf8Qg62kz9AvdgRTfGJ7.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 188222,
+            "original_language": "en",
+            "original_title": "Entourage",
+            "overview": "Movie star Vincent Chase, together with his boys, Eric, Turtle and Johnny, are back\u2026and back in business with super agent-turned-studio head Ari Gold. Some of their ambitions have changed, but the bond between them remains strong as they navigate the capricious and often cutthroat world of Hollywood.",
+            "popularity": 21.961,
+            "poster_path": "/28dqsx1jCxhR05DfH35ui13ywNZ.jpg",
+            "release_date": "2015-06-03",
+            "title": "Entourage",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 876
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 826057,
+            "original_language": "en",
+            "original_title": "Senior Entourage",
+            "overview": "Senior Entourage is a wild, wacky \"Mockumentary\" comedy featuring a zany, multi-racial cast ranging in age from 9 to 90. It's \"Seinfeld for seniors\" starring Ed Asner, Helen Reddy, Charlie Robinson, Marion Ross and Mark Rydell",
+            "popularity": 0.6,
+            "poster_path": "/2cALuLFjdBLrGfC8LKsZOqNGQLR.jpg",
+            "release_date": "2021-05-03",
+            "title": "Senior Entourage",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 389506,
+            "original_language": "pt",
+            "original_title": "Entourage - Vidas em Hollywood 2015",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "title": "Entourage - Vidas em Hollywood 2015",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

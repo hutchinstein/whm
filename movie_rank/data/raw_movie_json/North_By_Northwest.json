@@ -1,0 +1,80 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 213,
+            "original_language": "en",
+            "original_title": "North by Northwest",
+            "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+            "popularity": 20.402,
+            "poster_path": "/8gvfRlVpcKaTVqipXpYOGWBN1aO.jpg",
+            "release_date": "1959-07-08",
+            "title": "North by Northwest",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 3420
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 423070,
+            "original_language": "en",
+            "original_title": "North by Northwest: One for the Ages",
+            "overview": "A discussion of North by Northwest, and its influence.",
+            "popularity": 1.252,
+            "poster_path": "/o7S8EpgfHZ910kYprN04V0zPD6y.jpg",
+            "release_date": "2009-01-01",
+            "title": "North by Northwest: One for the Ages",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 329128,
+            "original_language": "en",
+            "original_title": "Destination Hitchcock: The Making of 'North by Northwest'",
+            "overview": "Hosted by Eva Marie Saint, the film's leading lady, this 40-minute documentary of Alfred Hitchcock's only M-G-M film combines interviews (Martin Landau, Patricia Hitchcock, production designer Robert F. Boyle and screenwriter Ernest Lehman), movie clips and behind the scenes photos to make for a fascinating look at one of the silver screen's glowing gems. For fans of North by Northwest (1959) and Hitchcock aficionados, this is a must-see treat.",
+            "popularity": 0.6,
+            "poster_path": "/lbY5QK0jQMWR7lKsiKYpr2jEyJs.jpg",
+            "release_date": "2000-09-10",
+            "title": "Destination Hitchcock: The Making of 'North by Northwest'",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 1038550,
+            "original_language": "fr",
+            "original_title": "Short cuts : \"La Mort aux trousses\" d'Alfred Hitchcock",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2022-09-14",
+            "title": "Short Cuts: \"North by Northwest\"",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

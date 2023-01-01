@@ -1,0 +1,261 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/liLneLW1kllqWwjS7Wcku5eCEiV.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 32146,
+            "original_language": "en",
+            "original_title": "Body Parts",
+            "overview": "A criminal psychologist loses his arm in a car crash, and becomes one of three patients to have their missing limbs replaced by those belonging to an executed serial killer. One of them dies violently, and disturbing occurrences start happening to the surviving two.",
+            "popularity": 8.412,
+            "poster_path": "/8hFSFiLMy0wnyVaaJ4EHFlPD1yf.jpg",
+            "release_date": "1991-08-02",
+            "title": "Body Parts",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                35,
+                27
+            ],
+            "id": 69939,
+            "original_language": "en",
+            "original_title": "Body Parts",
+            "overview": "A psycho videotapes his dismemberment of strippers.",
+            "popularity": 1.301,
+            "poster_path": "/sBNoRg0sk7DLXifS5k97m60QAqv.jpg",
+            "release_date": "1992-03-13",
+            "title": "Body Parts",
+            "video": false,
+            "vote_average": 3.8,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gr0kVIjOQg7y0cPQwVVBvHuXzRa.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 890245,
+            "original_language": "en",
+            "original_title": "Body Parts",
+            "overview": "An eye-opening investigation into the making of Hollywood sex scenes, shedding light on the real-life experiences behind classic scenes of cinema and tracing the legacy of exploitation of women in the entertainment industry.",
+            "popularity": 1.519,
+            "poster_path": "/3HOHrenUr63tCkz72DahT2iZTwL.jpg",
+            "release_date": "2022-06-12",
+            "title": "Body Parts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 113399,
+            "original_language": "en",
+            "original_title": "Harold Robbins' Body Parts",
+            "overview": "Ty's pal J.J. frames him in a murder and cocaine theft in Hong Kong in 1992. Ty's wife Rachel may be in on the con, so, when Ty gets early release from prison as a gesture of good will from the city's new Mainland government, he doesn't bother to look her up. But she finds him in Southern California to warn him that J.J. wants him dead. Whack J.J. first, she tells Ty, so he heads for Manila where J.J. runs a lucrative business under the cover of exporting tropical fish. But what is that business and who's pulling the strings? With the help of Inez, a young Filipina prostitute, Ty gets to the heart of the matter even after Inez no longer has the stomach to pursue the guilty ones.",
+            "popularity": 0.717,
+            "poster_path": "/pDHFlxFhSFHA3ZhDEAnkbqsJBe9.jpg",
+            "release_date": "2001-02-07",
+            "title": "Harold Robbins' Body Parts",
+            "video": false,
+            "vote_average": 3.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 725992,
+            "original_language": "en",
+            "original_title": "Used Body Parts",
+            "overview": "Two friends fight for their lives and body parts when they stop at a gas station where the owners have a horrific ulterior agenda.",
+            "popularity": 0.626,
+            "poster_path": "/wRMWAnEE4ciqoOYhZRZGGRhf6Zu.jpg",
+            "release_date": "2016-01-01",
+            "title": "Used Body Parts",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 572587,
+            "original_language": "en",
+            "original_title": "Face & Body Parts",
+            "overview": "Fred Parke's thesis film on facial modeling at the University of Utah is an early landmark in computer animation.",
+            "popularity": 0.6,
+            "poster_path": "/tFoprs0iUn3ZgsLCPeLsIMd4t0z.jpg",
+            "release_date": "1974-05-01",
+            "title": "Face & Body Parts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 701195,
+            "original_language": "it",
+            "original_title": "Video 2: Body parts, fabrics and sports",
+            "overview": "A man describes in as few words as possible the human race, which may be already extinct.",
+            "popularity": 0.817,
+            "poster_path": "/p6mZUoz97E0iZwi1mBS7W3vXIXu.jpg",
+            "release_date": "2020-04-28",
+            "title": "Video 2: Body parts, fabrics and sports",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q7ngTq0vqLFYoAqSiePR6TpZAwf.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 917205,
+            "original_language": "en",
+            "original_title": "World's Weirdest: Extreme Body Parts",
+            "overview": "Inflatable eyes, a nose that sees and even a see-through head - this is a showcase for some of the strangest animal appendages on the planet.",
+            "popularity": 0.6,
+            "poster_path": "/cdxEJdCwLjw680UqKO9RnQcjGMY.jpg",
+            "release_date": "2014-01-07",
+            "title": "World's Weirdest: Extreme Body Parts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 807014,
+            "original_language": "en",
+            "original_title": "Her Body in Four Parts",
+            "overview": "A dedication to Lauren Howes' partner.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1994-01-01",
+            "title": "Her Body in Four Parts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 895202,
+            "original_language": "sr",
+            "original_title": "Delovi tela",
+            "overview": "Anita seems to be attracted to her beautiful mother, who is suffering in a very toxic relationship. Will the killing of her own father be enough to help her mother, and repair their family relations?",
+            "popularity": 0.6,
+            "poster_path": "/jh6rrcaiPceqU8puPiMrav3dn56.jpg",
+            "release_date": "2021-11-20",
+            "title": "Body Parts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 871753,
+            "original_language": "ru",
+            "original_title": "\u0427\u0430\u0441\u0442\u0438 \u0442\u0435\u043b\u0430",
+            "overview": "No matter how far the war retreats, its traces are imprinted on the torn earth and the memory of generations for tens, hundreds of years with bloody traces. The body of the earth is burned by shells, torn apart by mines - and we are its Parts. The heroes of the film are young Caucasian guys-children of the war that destroyed their childhood and youth. In this black-and-white movie, the past, present and future alike merge into the color of the tragedy of all times and peoples \u2013 the color of war.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2009-09-17",
+            "title": "Body Parts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z0oDYk5ZjTfvKH0A9QZwbVjxTlN.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 987538,
+            "original_language": "ko",
+            "original_title": "\uc2e0\uccb4\ubaa8\uc74c.zip",
+            "overview": "Si-Kyung, the youngest reporter, infiltrates an unnamed religious group. Invited to a special ceremony, she witnesses strange things happening in the prayer house. Five sacrifices and five stories offered by the church members. When the story is over, she too must make a sacrifice.",
+            "popularity": 0.6,
+            "poster_path": "/jzmcsW9usb9DqwJqEcklnKzB3IZ.jpg",
+            "release_date": "2022-07-09",
+            "title": "Body Parts",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 54612,
+            "original_language": "en",
+            "original_title": "Sutures",
+            "overview": "A group of longtime friends converge on a fatal course with destiny when they cross paths with Alexander Tatum, a mercenary surgeon. He is a hunter with the keen skill of one who has also been hunted. Prey turned predator. The victims quickly realize that Alexander is just the beginning of their problems, as they find themselves enmeshed in a fight for survival against a sociopath business man and his demonic staff, who will stop at nothing to prevail in the sale of Black Market Body Parts.",
+            "popularity": 1.501,
+            "poster_path": "/sLxE5clGRjSx7ldPk7JJarRVGej.jpg",
+            "release_date": "2009-10-04",
+            "title": "Sutures",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 73457,
+            "original_language": "en",
+            "original_title": "Autopsy 2",
+            "overview": "A group of longtime friends converge on a fatal course with destiny when they cross paths with Alexander Tatum, a mercenary surgeon. He is a hunter with the keen skill of one who has also been hunted. Prey turned predator. The victims quickly realize that Alexander is just the beginning of their problems, as they find themselves enmeshed in a fight for survival against a sociopath business man and his demonic staff, who will stop at nothing to prevail in the sale of Black Market Body Parts.",
+            "popularity": 0.682,
+            "poster_path": null,
+            "release_date": "2009-01-01",
+            "title": "Autopsy 2",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 3
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 14
+}

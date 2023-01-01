@@ -1,0 +1,63 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/A6BHafhuLL7qtQXtwPbjfNS1uzd.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 100219,
+            "original_language": "en",
+            "original_title": "Kill Crazy",
+            "overview": "Five Vietnam vets, on release from a mental hospital, think they're headed for a weekend camping trip. Instead they become target practice for an army of killers playing violent war games. It's a massacre until one of the vets becomes a machine of revenge.",
+            "popularity": 0.668,
+            "poster_path": "/coRnaZ9lNdcyNrE2snj2TBtJzWa.jpg",
+            "release_date": "1990-11-21",
+            "title": "Kill Crazy",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18,
+                10770
+            ],
+            "id": 488117,
+            "original_language": "en",
+            "original_title": "The Crazy Kill",
+            "overview": "Two escaped convicts hold a couple hostage in their country home.",
+            "popularity": 0.6,
+            "poster_path": "/7rMaN7oQVfTSWOpdkNCqbotKPvV.jpg",
+            "release_date": "1975-02-25",
+            "title": "The Crazy Kill",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 304988,
+            "original_language": "en",
+            "original_title": "In Till You Die",
+            "overview": "Inadequate musician's pay results in him resorting to more extreme income-getting measures.",
+            "popularity": 0.6,
+            "poster_path": "/tD8QZbmY3stXqCFoiBt2wGjBnJr.jpg",
+            "release_date": "1992-01-01",
+            "title": "In Till You Die",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

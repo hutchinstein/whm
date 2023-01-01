@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/okiioa6aKpwf8CrxgJ8lXpYHOFA.jpg",
+            "genre_ids": [
+                14,
+                28
+            ],
+            "id": 8011,
+            "original_language": "en",
+            "original_title": "Highlander III: The Sorcerer",
+            "overview": "Starts off in the 15th century, with Connor McLeod training with another immortal swordsman, the Japanese sorcerer Nakano. When an evil immortal named Kane kills the old wizard, the resulting battle leaves him buried in an underground cave. When Kane resurfaces in the 20th century to create havoc, it's up to McLeod to stop him.",
+            "popularity": 15.747,
+            "poster_path": "/o4GKLReSGRR0rulOBS9SrfFAXOz.jpg",
+            "release_date": "1994-11-29",
+            "title": "Highlander III: The Sorcerer",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 390
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

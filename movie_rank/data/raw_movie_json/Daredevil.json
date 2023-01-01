@@ -1,0 +1,371 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/e7jIX02GiSwsgkU5lMpeKjwq2Zc.jpg",
+            "genre_ids": [
+                14,
+                28
+            ],
+            "id": 9480,
+            "original_language": "en",
+            "original_title": "Daredevil",
+            "overview": "A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.",
+            "popularity": 23.876,
+            "poster_path": "/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
+            "release_date": "2003-02-14",
+            "title": "Daredevil",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 4421
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                12,
+                28
+            ],
+            "id": 270768,
+            "original_language": "en",
+            "original_title": "Daredevil vs. Spider-Man",
+            "overview": "Spider-Man and Daredevil team up to fight Kingpin.",
+            "popularity": 7.792,
+            "poster_path": "/mEtyZBbVl0sx0y1blYuVDgeNLkr.jpg",
+            "release_date": "1994-11-19",
+            "title": "Daredevil vs. Spider-Man",
+            "video": true,
+            "vote_average": 7.4,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pYtCpfIg6JYqOmF9GyNwSNNfcIA.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 84747,
+            "original_language": "en",
+            "original_title": "Daredevil Droopy",
+            "overview": "Droopy and Spike are applying for the job of Dare Devil Dog at the Circus, and the one who give the best performance in a variety of \"feats of strength and daring\" will get it.",
+            "popularity": 2.632,
+            "poster_path": "/fY7nulsEBLzVDbXoe9O3HGsrbxd.jpg",
+            "release_date": "1951-03-31",
+            "title": "Daredevil Droopy",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aswl69NruN1rdVD3ziZx1v8cQqo.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 80654,
+            "original_language": "en",
+            "original_title": "The Daredevil",
+            "overview": "In this action movie, a top stock-car driver causes a death on the race track and finds his career in shambles. Desperate for money, he gets a job as a driver for a drug ring.",
+            "popularity": 1.236,
+            "poster_path": "/xrx6YWtDkaGUOFPIVXX6y5o2rhI.jpg",
+            "release_date": "1972-01-01",
+            "title": "The Daredevil",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/crr1FltjnopMCyUYAHoZnS6J3un.jpg",
+            "genre_ids": [
+                35,
+                37
+            ],
+            "id": 901031,
+            "original_language": "en",
+            "original_title": "The Daredevil",
+            "overview": "When Timothy Atkinson arrives in a rough Western town to become the telegraph operator, the locals peg him as a tenderfoot.",
+            "popularity": 0.84,
+            "poster_path": "/sTgwUkVHGFecgC8iFpsRbfJF4XJ.jpg",
+            "release_date": "1920-03-07",
+            "title": "The Daredevil",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 287742,
+            "original_language": "en",
+            "original_title": "Daredevil O'Dare",
+            "overview": "Elmer O'Dare fancies himself an expert circus performer.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1934-08-11",
+            "title": "Daredevil O'Dare",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWuFJbWyuD9K7TkO5lLYSpE2NjA.jpg",
+            "genre_ids": [
+                28,
+                37,
+                10749,
+                12
+            ],
+            "id": 284863,
+            "original_language": "en",
+            "original_title": "Senor Daredevil",
+            "overview": "Don Luis O'Flagherty (Ken Maynard), a daredevil comes to the rescue of his long-lost father, \"Tiger\" O'Flagherty (George Nichols), the supervisor of a supply-wagon train destined for the miners in Sonora. Tiger is being terrorized by Jesse Wilks (J.P. McGowan), who hopes to starve the miners out of their claims. Falling in love with Tiger's ward, Sally (Dorothy Devore), Don Luis manages to turn the tables on Wilks, who is killed attempting to rob the supply train.",
+            "popularity": 0.805,
+            "poster_path": "/oZWKyLUAKU6SbhUKPmOdT6U0rnX.jpg",
+            "release_date": "1926-08-01",
+            "title": "Senor Daredevil",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1NbPOoAWm2QTk8fVR4vl49A82bV.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 434709,
+            "original_language": "en",
+            "original_title": "Don Daredevil Rides Again",
+            "overview": "Stock-footage from Republic Pictures' earlier Zorro serials was served up once again in this 12 chapter cliffhanger, this time without the financially strapped studio having to credit Zorro creator Johnston McCulley or pay any royalties. Zorro simply became \"Don Daredevil\" (Ken Curtis), a foppish Easterner by day turned masked avenger by night. Like his not too distant relative, Don wore his disguise in order to battle nasty Roy Barcroft who, under a forged Spanish land grant, attempts to take over the surrounding ranch land.",
+            "popularity": 1.341,
+            "poster_path": "/ygC3VTnd1JCbXGxVtW6Omhsp70I.jpg",
+            "release_date": "1951-04-10",
+            "title": "Don Daredevil Rides Again",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2IdAZeIM1dM3StQDUL0MZ6O9S9I.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 937243,
+            "original_language": "en",
+            "original_title": "Daredevil Kate",
+            "overview": "Orphaned sisters Kate and Irene are separated as children, but each keeps half of their mother's wedding ring. Years later Irene marries John West, the head of a munitions camp. Kate, as fate would have it, happens to run the saloon in the camp and she and Irene become friends, but neither has any idea that the other is her long-lost sister. Matters take a turn for the worse, however, when Kate starts a romance with Cliff, Irene's adopted brother--a relationship that Irene strongly disapproves of. Complications ensue.",
+            "popularity": 0.6,
+            "poster_path": "/vbWQRjEkIfh8DrjMGNSv9QeT6Pl.jpg",
+            "release_date": "1916-08-21",
+            "title": "Daredevil Kate",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 455400,
+            "original_language": "zh",
+            "original_title": "Five Kung Fu Daredevil Heroes",
+            "overview": "The heroes pose as gun dealers and acrobats in order to get close to the bad guys so they can avenge the death of one of their brothers.",
+            "popularity": 1.665,
+            "poster_path": "/8bqntB59rbY2W5xR1qWA34GbbTJ.jpg",
+            "release_date": "1977-01-01",
+            "title": "Five Kung Fu Daredevil Heroes",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 1004353,
+            "original_language": "en",
+            "original_title": "The Daredevil",
+            "overview": "When Roberta Carruthers' father, Capt. Carruthers, is killed in France during the war, she comes to live in the US with her uncle. When she finds out that her uncle is under the impression that his brother had a son and not a daughter, she decides to disguise herself as a male, and calls herself Bob.",
+            "popularity": 0.6,
+            "poster_path": "/zeaDrOhN1aLZmqFMYeoWEoQwozP.jpg",
+            "release_date": "1918-10-13",
+            "title": "The Daredevil",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                80,
+                9648
+            ],
+            "id": 264121,
+            "original_language": "en",
+            "original_title": "Daredevil: The Teaser",
+            "overview": "Daredevil is looking for King Pin and gets unexpected help in his search.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2001-01-01",
+            "title": "Daredevil: The Teaser",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/reKHll2yotaX4MWEHQbm0K1V2GZ.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                10749
+            ],
+            "id": 295137,
+            "original_language": "en",
+            "original_title": "The Daredevil Drivers",
+            "overview": "To spite his girlfriend, the owner of a successful bus company, an auto racer goes to work for her rival.",
+            "popularity": 0.6,
+            "poster_path": "/6GisIBauwK7YEYKYydkV4byrkbI.jpg",
+            "release_date": "1938-02-12",
+            "title": "The Daredevil Drivers",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 600174,
+            "original_language": "en",
+            "original_title": "Harold Buttleman: Daredevil Stuntman",
+            "overview": "Harold Buttleman, small town tuxedo salesman, thinks he's the next great daredevil stuntman. He's not.",
+            "popularity": 0.6,
+            "poster_path": "/ukkfw17vvVE9pRjt5KHxxGq2Tj3.jpg",
+            "release_date": "2003-05-08",
+            "title": "Harold Buttleman: Daredevil Stuntman",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1034860,
+            "original_language": "en",
+            "original_title": "Daredevil : The Long Night",
+            "overview": "Set between Episode 2 and 3 of Spider-Man Friend or Foe, Daredevil The Long Night, brings the Marvel classic into Minecraft with a classic comic inspired yellow and red suit. Featuring Daredevil and Hammerhead, Daredevil is on a mission to discover the hidden plan of the Kingpin Wilson Fisk as he kidnaps mutants.",
+            "popularity": 0.663,
+            "poster_path": "/mddwtp3RJoQGHOk7UkpvpfvaHhT.jpg",
+            "release_date": "2022-04-02",
+            "title": "Daredevil : The Long Night",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 533944,
+            "original_language": "pt",
+            "original_title": "Daredevil on a Snowmobile",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2013-12-24",
+            "title": "Daredevil on a Snowmobile",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 571754,
+            "original_language": "en",
+            "original_title": "Daredevil Issue #1: Motion Comic",
+            "overview": "The origin of Daredevil, The Man Without Fear! Matt Murdock is blinded but gains super power abilities he uses to patrol Hell's Kitchen.",
+            "popularity": 0.6,
+            "poster_path": "/w2cm5yFqozKeSTcZhcM99AAjZpc.jpg",
+            "release_date": "2004-10-12",
+            "title": "Daredevil Issue #1: Motion Comic",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nU5DdAZNWhCaPePkHNbTvuZmziv.jpg",
+            "genre_ids": [],
+            "id": 358246,
+            "original_language": "en",
+            "original_title": "The Adventures of Daredevil Jack",
+            "overview": "Heavyweight boxing champion Jack Dempsey stars in this 15 chapter action serial, of which portions of reels 1, 2, and 4 survive. In the serial he plays the star fullback of his college's football team who gets drawn into an adventure when he stops to rescue a young woman from some thugs on a country road. It includes a gag featuring an exploding football. The rest of the cast includes Lon Chaney, Edgar Kennedy, Bull Montana, Josie Sedgwick and Herschel Mayall.",
+            "popularity": 0.6,
+            "poster_path": "/emAQhkx7QIGrltLcSf7sDKxCpJL.jpg",
+            "release_date": "1920-06-30",
+            "title": "The Adventures of Daredevil Jack",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/585Mmjgc5I8sX0hcIrhb6bAJy23.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 175857,
+            "original_language": "en",
+            "original_title": "The Dare-Devil",
+            "overview": "The movie makers are filming the next installment of the western serial \"Get Your Man\". The movie's leading man wants his stunt double to do the next dangerous stunt. Purely by accident, a hapless, cross-eyed aspiring actor named Joe Magee ends up doing the stunt perfectly. He ends up doing dangerous stunt after stunt, all by accident, that fit the movie so perfectly that the movie's leading lady wants him in the picture. The exasperated director finds that getting Joe to do the stunts on command is an entirely different story.",
+            "popularity": 1.176,
+            "poster_path": "/2agEDM048wwax42GjDBYtsOQ13c.jpg",
+            "release_date": "1923-11-25",
+            "title": "The Dare-Devil",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c0Gdnusuazz3vI36NPbAiwUUq8z.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 900320,
+            "original_language": "en",
+            "original_title": "Daredevil's Reward",
+            "overview": "Tom Mix portrayed a daredevil ranger on the trail of a gang of outlaws. To get close to the gang, Tom utilizes various cunning disguises, including donning the garb of a medicine man. Along the way, complications arise when Tom falls for the niece (Natalie Joyce) of the gang leader (William Welch).",
+            "popularity": 0.6,
+            "poster_path": "/TCiKy8jUng1XbbbKfrhky6JqYa.jpg",
+            "release_date": "1928-01-15",
+            "title": "Daredevil's Reward",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 53
+}

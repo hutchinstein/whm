@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5S1WQYXOo4WZQYoSLswTyrtrAWz.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 35610,
+            "original_language": "en",
+            "original_title": "Philadelphia Experiment II",
+            "overview": "It is several years after the events of the first movie, and David Herdeg (the survivor of the Philadelphia Experiment from the first film) and Allison (the woman from 1984 he fell in love with) have married and have a child. David awakes, in agony, to a changed world. Germany won World War II and the United States is now about to mark 50 years as a Nazi conquest.",
+            "popularity": 5.059,
+            "poster_path": "/rfxDtw7hrVLR9Wq8JXw8KkoWTjI.jpg",
+            "release_date": "1993-11-12",
+            "title": "Philadelphia Experiment II",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 59
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

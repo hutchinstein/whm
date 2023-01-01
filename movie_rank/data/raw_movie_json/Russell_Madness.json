@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/amM2IWR6ykM23yDULs1bzCjY2lY.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 319924,
+            "original_language": "en",
+            "original_title": "Russell Madness",
+            "overview": "Russell, an undersized but big-hearted terrier, dreams of having a family of his own. After running away from his pet store, Russell gets taken in by The Ferraros, who discover their new pet pooch has incredible wrestling skills.",
+            "popularity": 4.833,
+            "poster_path": "/udurlPODKYMUeLA4wi9ET8mlLBM.jpg",
+            "release_date": "2015-02-21",
+            "title": "Russell Madness",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 23
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

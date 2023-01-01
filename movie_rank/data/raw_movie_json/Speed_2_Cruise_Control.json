@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wmwEjQpqNXEIadsQoqWUS1pVVBi.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 1639,
+            "original_language": "en",
+            "original_title": "Speed 2: Cruise Control",
+            "overview": "A disgruntled former employee hijacks the Seabourn Legend cruise liner. Set on a fixed course, without any means of communication and at the mercy of the hijacker, it's up to the one cop on vacation, and his soon to be fianc\u00e9 (hopefully) Annie, to regain control of it before it kills the passengers and causes an environmental disaster. Insurmountable and daunting tasks awaits them on their  perilous journey throughout the ship trying to fend off the hijacker and save the passengers.",
+            "popularity": 24.864,
+            "poster_path": "/gnK1ocpwUTj24zAktzomOJsD2bu.jpg",
+            "release_date": "1997-06-13",
+            "title": "Speed 2: Cruise Control",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 1372
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

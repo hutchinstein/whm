@@ -1,0 +1,43 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/d8o0NPBMbtzaCrvtOEjeMguE96s.jpg",
+            "genre_ids": [
+                18,
+                14,
+                27
+            ],
+            "id": 11979,
+            "original_language": "en",
+            "original_title": "Queen of the Damned",
+            "overview": "Lestat de Lioncourt is awakened from his slumber. Bored with his existence, he has now become this generation's new Rock God. While in the course of time, another has arisen, Akasha, the Queen of the Vampires and the Dammed. He wants immortal fame, his fellow vampires want him eternally dead for his betrayal, and the Queen wants him for her King. Who will be the first to reach him? Who shall win?",
+            "popularity": 23.877,
+            "poster_path": "/4MMpvQYgOz8K6lzlIVMXWjLzUPC.jpg",
+            "release_date": "2002-02-10",
+            "title": "Queen of the Damned",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 857
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 660682,
+            "original_language": "en",
+            "original_title": "Queens Of Combat QOC 38 Queens of the Damned",
+            "overview": "This all hallows edition of Queens of Combat emirates  from haunted Hebron Hall in Charlotte, NC.  Queens Dungeon Match  Randi West, Double D Rose, Ravana Xin & Dani Jordyn  VS Kenzie Paige, Dream Girl Ellie, Selina Rose, & Harlow O\u2019 Hara",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2019-10-19",
+            "title": "Queens Of Combat QOC 38 Queens of the Damned",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

@@ -1,0 +1,102 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6ohQykatk9yGS47m1OSXqwYhB0U.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 10351,
+            "original_language": "en",
+            "original_title": "Wishmaster",
+            "overview": "The Djinn having been released from his ancient prison seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+            "popularity": 15.374,
+            "poster_path": "/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg",
+            "release_date": "1997-09-19",
+            "title": "Wishmaster",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 466
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8J5XaKWh9Tvjr8K9vYzqPv0aVLh.jpg",
+            "genre_ids": [
+                14,
+                27
+            ],
+            "id": 12594,
+            "original_language": "en",
+            "original_title": "Wishmaster 2: Evil Never Dies",
+            "overview": "During a failed art heist, the Djinn is once again liberated. This time, to complete the 1001 wishes that he needs before the final 3, he lets himself go to prison, where he starts his evil reign twisting the hopes of the prisoners. Meanwhile, the woman who set him free accidentally, Morgana, tries to find a way to stop him, aided by a young priest.",
+            "popularity": 18.886,
+            "poster_path": "/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg",
+            "release_date": "1999-03-12",
+            "title": "Wishmaster 2: Evil Never Dies",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cjIY7VLjVGLVp46WqrhQemImEfr.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 38157,
+            "original_language": "en",
+            "original_title": "Wishmaster 4: The Prophecy Fulfilled",
+            "overview": "The unspeakable evil of the soul-devouring djinn rises again in this fourth electrifying installment of the unstoppable Wishmaster horror legacy! But now, as a host of new victims see their most nightmarish wishes come true, the world faces the ultimate demonic terror: an onslaught of multiple djinns hell-bent on destroying everything in their path!",
+            "popularity": 19.167,
+            "poster_path": "/vSw6lky9e4jKy0QnzfEKQx5T6FT.jpg",
+            "release_date": "2002-06-10",
+            "title": "Wishmaster 4: The Prophecy Fulfilled",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQhC7BgN35hWOR7fA7k1yZH3jkL.jpg",
+            "genre_ids": [
+                53,
+                27,
+                14
+            ],
+            "id": 28635,
+            "original_language": "en",
+            "original_title": "Wishmaster 3: Beyond the Gates of Hell",
+            "overview": "The evil Djinn is back at again, this time wreaking havoc on the students of Illinois' Baxter University. His victim is a beautiful, innocent and studious teenage girl named Diana Collins who accidentally opened up the Djinn's tomb and released him.",
+            "popularity": 10.462,
+            "poster_path": "/aQaOymRoRpNBFOaFRnoxXj6dwJv.jpg",
+            "release_date": "2001-10-23",
+            "title": "Wishmaster 3: Beyond the Gates of Hell",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 965408,
+            "original_language": "en",
+            "original_title": "Wicked Wishes: Making the Wishmaster",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1997-01-01",
+            "title": "Wicked Wishes: Making the Wishmaster",
+            "video": true,
+            "vote_average": 6,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

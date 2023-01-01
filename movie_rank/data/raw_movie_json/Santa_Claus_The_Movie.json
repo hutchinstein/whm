@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xLDSKsyAGFFCNYDmNynEOsms5jp.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                12
+            ],
+            "id": 13764,
+            "original_language": "en",
+            "original_title": "Santa Claus: The Movie",
+            "overview": "The first half of this film, set hundreds of years ago, shows how the man who eventually became Santa Claus was given immortality and chosen to deliver toys to all the children of the world. The second half moves into the modern era, in which Patch, the head elf, strikes out on his own and falls in with an evil toy manufacturer who wants to corner the market and eliminate Santa Claus.",
+            "popularity": 25.25,
+            "poster_path": "/9yrlEzsdT1kzeg8Tf6wHK9brjAF.jpg",
+            "release_date": "1985-10-29",
+            "title": "Santa Claus: The Movie",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 208
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

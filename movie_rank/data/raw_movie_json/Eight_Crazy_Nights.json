@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/vK8IuHHHNq6kn4tbw6KoqBdSmBq.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10402
+            ],
+            "id": 13376,
+            "original_language": "en",
+            "original_title": "Eight Crazy Nights",
+            "overview": "Davey Stone, a 33-year old party animal, finds himself in trouble with the law after his wild ways go too far.",
+            "popularity": 11.695,
+            "poster_path": "/pfQrbZxTv4BVf1XRQnCngZ3wQg8.jpg",
+            "release_date": "2002-11-27",
+            "title": "Eight Crazy Nights",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 255
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

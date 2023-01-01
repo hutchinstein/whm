@@ -1,0 +1,265 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5BkSkNtfrnTuKOtTaZhl8avn4wU.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12,
+                878,
+                27
+            ],
+            "id": 456740,
+            "original_language": "en",
+            "original_title": "Hellboy",
+            "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
+            "popularity": 60.683,
+            "poster_path": "/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+            "release_date": "2019-04-10",
+            "title": "Hellboy",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2908
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qdTUAwQKQ9n7PfZeVJzs7sOP8S8.jpg",
+            "genre_ids": [
+                14,
+                28
+            ],
+            "id": 1487,
+            "original_language": "en",
+            "original_title": "Hellboy",
+            "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+            "popularity": 33.896,
+            "poster_path": "/21hS8mD8uxBVvf8xVYR30LbbmPO.jpg",
+            "release_date": "2004-04-02",
+            "title": "Hellboy",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 6053
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/44Nxgb2yGPfopdD2k7yZXpiZPYJ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                27,
+                878
+            ],
+            "id": 11253,
+            "original_language": "en",
+            "original_title": "Hellboy II: The Golden Army",
+            "overview": "Hellboy must stop an elven prince from locating an ancient force that can destroy humanity: the all-powerful Golden Army.",
+            "popularity": 36.723,
+            "poster_path": "/fGQAO4RgUzspO7L4u5KXirIn34s.jpg",
+            "release_date": "2008-07-11",
+            "title": "Hellboy II: The Golden Army",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4512
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w4REhNx4c34jIK26lwX7nRatat2.jpg",
+            "genre_ids": [
+                10770,
+                14,
+                16,
+                28,
+                53,
+                878,
+                27
+            ],
+            "id": 16774,
+            "original_language": "en",
+            "original_title": "Hellboy Animated: Sword of Storms",
+            "overview": "A folklore professor becomes unwittingly possessed by the ancient Japanese demons of Thunder and Lightning. But when The Bureau of Paranormal Research & Defense dispatches a team of agents to investigate, a cursed samurai sword sends Hellboy to a supernatural dimension of ghosts, monsters, and feudal mayhem. Now while pyrokinetic Liz Sherman and fishboy Abe Sapien battle one very pissed-off dragon, a lost and cranky Hellboy must find his way home.",
+            "popularity": 18.294,
+            "poster_path": "/vUCrcikFCDsvA6IiS59kdfQkseU.jpg",
+            "release_date": "2006-10-28",
+            "title": "Hellboy Animated: Sword of Storms",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Jqw64UZMQUreNil3Brvngd0OxW.jpg",
+            "genre_ids": [
+                10770,
+                14,
+                16,
+                27,
+                28,
+                53,
+                878
+            ],
+            "id": 13204,
+            "original_language": "en",
+            "original_title": "Hellboy Animated: Blood and Iron",
+            "overview": "When Hellboy, Liz Sherman, and Abe Sapien are assigned to investigate the ghost-infested mansion of a publicity-hound billionaire, they uncover a plot to resurrect a beautiful yet monstrous vampire from Professor Bruttenholm\u2019s past. But before they can stop her bloodbath, Hellboy will have to battle harpies, hellhounds, a giant werewolf, and even the ferocious goddess Hecate herself.",
+            "popularity": 12.037,
+            "poster_path": "/itj3KXrYL6iSa7eBDLYIVWZuZtW.jpg",
+            "release_date": "2007-03-10",
+            "title": "Hellboy Animated: Blood and Iron",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 154207,
+            "original_language": "en",
+            "original_title": "Hellboy Animated: Iron Shoes",
+            "overview": "In Ireland in 1961, Hellboy enters a ruined tower and is attacked by Iron Shoes.",
+            "popularity": 3.915,
+            "poster_path": "/LhrfZWjdeI44t2sLg1bUZtYCAb.jpg",
+            "release_date": "2007-06-12",
+            "title": "Hellboy Animated: Iron Shoes",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 290834,
+            "original_language": "en",
+            "original_title": "Hellboy: In Service of the Demon",
+            "overview": "The making of Hellboy II: The Golden Army",
+            "popularity": 3.86,
+            "poster_path": "/AkXG0RTpa2qOKvsqd2ZyRzOq1xY.jpg",
+            "release_date": "2008-11-11",
+            "title": "Hellboy: In Service of the Demon",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 608972,
+            "original_language": "en",
+            "original_title": "Tales of the Wild Hunt: Hellboy Reborn",
+            "overview": "Documentary on the making of the 2019 movie.",
+            "popularity": 4.669,
+            "poster_path": "/kw3FdijeEiWZbufxBHsmAFZuLnW.jpg",
+            "release_date": "2019-07-23",
+            "title": "Tales of the Wild Hunt: Hellboy Reborn",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 72867,
+            "original_language": "en",
+            "original_title": "Hellboy: The Seeds of Creation",
+            "overview": "A comprehensive look at the history of the Hellboy character from his comic book roots through to his movie debut.",
+            "popularity": 2.136,
+            "poster_path": "/358FTzyn2TusjvdqoW0lLMr7KTY.jpg",
+            "release_date": "2004-07-27",
+            "title": "Hellboy: The Seeds of Creation",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k1RIgGk2QYM5vBR3jKKnSz3gTRp.jpg",
+            "genre_ids": [
+                16,
+                12
+            ],
+            "id": 789978,
+            "original_language": "en",
+            "original_title": "Hellboy Animated: The Dark Below",
+            "overview": "When our favorite half-demon falls into an ancient ruin, he must wander through a spooky cavern which houses a mysterious monster.",
+            "popularity": 1.291,
+            "poster_path": "/fHWMHLRjn9JxTCTbpaHAZkmCfBt.jpg",
+            "release_date": "2010-01-01",
+            "title": "Hellboy Animated: The Dark Below",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                16,
+                14
+            ],
+            "id": 384439,
+            "original_language": "en",
+            "original_title": "Hellboy II: The Golden Army - Zinco Epilogue",
+            "overview": "Sinister Mr. Zinco locates the remains of undead nazi assassin Kroenen from the first movie, as well as a lost Nazi base at Antarctica. However, he's tricked by Rasputin.",
+            "popularity": 1.4,
+            "poster_path": null,
+            "release_date": "2008-11-11",
+            "title": "Hellboy II: The Golden Army - Zinco Epilogue",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                14,
+                16
+            ],
+            "id": 384438,
+            "original_language": "en",
+            "original_title": "Hellboy II: The Golden Army - Prologue",
+            "overview": "Short motion-comic prologue to Hellboy II: The Golden Army. In 1955, Hellboy's caretaker, professor Broom, tells young Hellboy the tale of an indestructible mechanical army created to end the war between humans and magical races.",
+            "popularity": 0.873,
+            "poster_path": null,
+            "release_date": "2008-01-01",
+            "title": "Hellboy II: The Golden Army - Prologue",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 712603,
+            "original_language": "en",
+            "original_title": "Conceiving and Creating the Hellboy Movie Poster Art",
+            "overview": "For the first time, Drew Struzan opens his studio and welcomes us in. This is the only footage shot that shows his entire process, the same techniques he used to create some of his most iconic posters including: Indiana Jones, Star Wars, Back To The Future, Harry Potter, Walking Dead, and so many more. See him actually working, conceiving, drawing, and painting the original movie poster art for HELLBOY. The master reveals all. Hear him explain how, why, and what he is thinking all along the way.",
+            "popularity": 1.96,
+            "poster_path": "/xMLtsFMbiAN33FIiJySJdLddroC.jpg",
+            "release_date": "2010-06-14",
+            "title": "Conceiving and Creating the Hellboy Movie Poster Art",
+            "video": true,
+            "vote_average": 10,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 13
+}

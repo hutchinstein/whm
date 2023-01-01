@@ -1,0 +1,44 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/nENlPgXascVC71RDw5lCOTaPMHS.jpg",
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 2978,
+            "original_language": "en",
+            "original_title": "Ghostbusters II",
+            "overview": "Five years after they defeated Gozer, the Ghostbusters are out of business. When Dana begins to have ghost problems again, the boys come out of retirement to aid her and hopefully save New York City from a new paranormal threat.",
+            "popularity": 32.511,
+            "poster_path": "/u7UioNGwAeWfYPv5pSAZSM0ipSt.jpg",
+            "release_date": "1989-06-16",
+            "title": "Ghostbusters II",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3647
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 878786,
+            "original_language": "en",
+            "original_title": "Too Hot to Handle: Remembering Ghostbusters II",
+            "overview": "TOO HOT TO HANDLE: Remembering Ghostbusters II is the definitive feature length documentary on the making of Ghostbusters II, and is the companion film to the documentary CLEANIN' UP THE TOWN: Remembering Ghostbusters.",
+            "popularity": 0.6,
+            "poster_path": "/5RIMGlITW4yYUWK0PK32ZCkY2Er.jpg",
+            "release_date": "",
+            "title": "Too Hot to Handle: Remembering Ghostbusters II",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

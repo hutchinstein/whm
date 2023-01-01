@@ -1,0 +1,79 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qcCo2yV6xoak7tMI9YfGSoJgxKW.jpg",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "id": 1103,
+            "original_language": "en",
+            "original_title": "Escape from New York",
+            "overview": "In the future, crime is out of control and New York City's Manhattan is a maximum security prison. Grabbing a bargaining chip right out of the air, convicts bring down the President's plane in bad old Gotham. Gruff Snake Plissken, a one-eyed lone warrior new to prison life, is coerced into bringing the President, and his cargo, out of this land of undesirables.",
+            "popularity": 20.68,
+            "poster_path": "/bOXk4mF2TjMJVq8DZYUtblKOR92.jpg",
+            "release_date": "1981-05-23",
+            "title": "Escape from New York",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 2572
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                28
+            ],
+            "id": 900914,
+            "original_language": "en",
+            "original_title": "Escape from New York",
+            "overview": "A reboot of John Carpenter's 1981 classic.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Escape from New York",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 666351,
+            "original_language": "en",
+            "original_title": "ROH: Escape From New York",
+            "overview": "Escape from New York was a wrestling event promoted by Ring of Honor. It took place on July 9, 2005 at the New Yorker Hotel in New York, New York.",
+            "popularity": 0.6,
+            "poster_path": "/tmqU2qJAEbDHnbttZvLEIlurIXw.jpg",
+            "release_date": "2005-07-09",
+            "title": "ROH: Escape From New York",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 605830,
+            "original_language": "en",
+            "original_title": "Purgatory: Entering John Carpenter's 'Escape From New York'",
+            "overview": "A brand new retrospective documentary produced by Ballyhoo Motion Pictures and featuring interviews with writer Nick Castle, cinematographer Dean Cundey, composer Alan Howarth, production designer Joe Alves, special visual effects artist/model maker Gene Rizzardi, production assistant David De Coteau, photographer Kim Gottleib-Walker, Carpenter biographer John Muir, visual effects historian Justin Humphreys, and music historian Daniel Schweiger.",
+            "popularity": 0.864,
+            "poster_path": "/PCyeiGEX25ZXYoo5t061ceLPdW.jpg",
+            "release_date": "2018-11-26",
+            "title": "Purgatory: Entering John Carpenter's 'Escape From New York'",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

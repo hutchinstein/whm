@@ -1,0 +1,83 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/f7PaEq1g6vxBucgIanVn5mZN6M1.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10749
+            ],
+            "id": 11824,
+            "original_language": "en",
+            "original_title": "Teen Wolf",
+            "overview": "When a shy teenager's new-found powers help him score at basketball - and with the popular girls - he has some pretty hairy decisions to make.",
+            "popularity": 37.033,
+            "poster_path": "/bv9rY9eoue2Hat6tcvrKVQ0ow8v.jpg",
+            "release_date": "1985-08-23",
+            "title": "Teen Wolf",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bXnsgHH3WTRCPYCpOGPRxD0snqd.jpg",
+            "genre_ids": [
+                18,
+                27,
+                14
+            ],
+            "id": 877703,
+            "original_language": "en",
+            "original_title": "Teen Wolf: The Movie",
+            "overview": "A full moon rises in Beacon Hills, and with it a terrifying evil has emerged. The wolves are howling once again, calling for the return of Banshees, Werecoyotes, Hellhounds, Kitsunes, and every other shapeshifter in the night. But only a Werewolf like Scott McCall, no longer a teenager yet still an Alpha, can gather both new allies and reunite trusted friends to fight back against what could be the most powerful and deadliest enemy they\u2019ve ever faced.",
+            "popularity": 30.024,
+            "poster_path": "/vhbLJUXf73uHkvyiN2rcEonqT87.jpg",
+            "release_date": "2023-01-26",
+            "title": "Teen Wolf: The Movie",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qeDgecvGMKPuiPhpku7eD9yMMx1.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10751
+            ],
+            "id": 15582,
+            "original_language": "en",
+            "original_title": "Teen Wolf Too",
+            "overview": "Although awkward college student Todd Howard is particularly adept at science, he's paying for school with an athletic scholarship that he will lose should he not fare well in an upcoming boxing tournament. Luckily for Todd, he has inherited the same family curse that once turned his cousin into a werewolf. As he transforms into the hairy, fanged, howling monster, he finds both his physical agility and his popularity skyrocketing -- but at what cost?",
+            "popularity": 10.574,
+            "poster_path": "/pFNzeyxgUwuPqlAhOVPlDupu1Ov.jpg",
+            "release_date": "1987-11-20",
+            "title": "Teen Wolf Too",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 470118,
+            "original_language": "en",
+            "original_title": "Never Say Die: The Story Of Teen Wolf",
+            "overview": "A comprehensive documentary about the making and legacy of the TEEN WOLF, including  interviews with writers Jeph Loeb and Matthew Weisman; producers Mark Levinson and Scott Rosenfelt; stars Susan Ursitti-Sheinberg, Jerry Levine, Matt Adler, Jim MacKrell and Troy Evans; basketball double Jeff Glosser; casting director Paul Ventura; production designer Chester Kaczenski; special effects make-up artist Jeff Dawn; and editor Lois Freeman-Fox.  With a runtime of 2 hours and 23 minutes, the documentary also delves into the controversial urban legend regarding the final scenes of the film.",
+            "popularity": 1.768,
+            "poster_path": "/kFnAAxBSyiutDIK54IqGr80k48a.jpg",
+            "release_date": "2017-08-08",
+            "title": "Never Say Die: The Story Of Teen Wolf",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

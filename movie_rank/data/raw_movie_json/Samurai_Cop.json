@@ -1,0 +1,65 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9tMxMZA4L5YOSAeYa7wdq1Hg93c.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 65374,
+            "original_language": "en",
+            "original_title": "Samurai Cop",
+            "overview": "When Japanese organized crime imbeds itself within LA, the police turn to one man to take down the deadly Yakuza \u2014 Joe Marshall, aka \"The Samurai.\" With his fearless swagger and rock hard jaw, The Samurai tears a two-fisted hole through the mob and doesn't stop until the job is done.",
+            "popularity": 9.381,
+            "poster_path": "/jOlz0kpxlLY5xixyDYpcYUi2SJy.jpg",
+            "release_date": "1991-11-30",
+            "title": "Samurai Cop",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sQg9mZapqvudVi6TXOOKxKZofmc.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 284460,
+            "original_language": "en",
+            "original_title": "Samurai Cop 2: Deadly Vengeance",
+            "overview": "25 years later after the events of Samurai Cop (1991), Detective Frank Washington is forced to team up with his long estranged partner Joe Marshall to solve a series of assassinations being committed by a secret group of female vigilante killers.",
+            "popularity": 7.786,
+            "poster_path": "/yYoWUAzGe5PH8E3lltUiM1LzTD0.jpg",
+            "release_date": "2015-10-09",
+            "title": "Samurai Cop 2: Deadly Vengeance",
+            "video": false,
+            "vote_average": 3.8,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/M2MvfPNlQ7QP9qE926S8fUEzBa.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 465123,
+            "original_language": "en",
+            "original_title": "Rifftrax Live: Samurai Cop",
+            "overview": "The Samurai Cop is here to kick ass and chew bubblegum, and he\u2019s already infringed on enough movies and cliches so he\u2019s just going to stop with that introduction right there. Yes, the cop they call Samurai has travelled to Los Angeles from a faraway land they call San Diego. Because it would just make no sense to have the movie take place in San Diego, or to have the cop be from LA to start with. Or, y\u2019know, Japan.  Decapitations, explosions, poorly subbed in stunt doubles, mangled dialogue, prominent lion heads, and unfortunate banana hammocks abound in this extremely eighties-y nineties movie. Join Mike, Kevin, Bill, and Alfonso Rafael Federico Sebastian for Samurai Cop.",
+            "popularity": 0.784,
+            "poster_path": "/whPe9uh4ca2sOmnbnhNuTQAYMiC.jpg",
+            "release_date": "2017-04-13",
+            "title": "Rifftrax Live: Samurai Cop",
+            "video": true,
+            "vote_average": 6.2,
+            "vote_count": 5
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

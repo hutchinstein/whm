@@ -1,0 +1,376 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qkBWIZRaeMByMkoby48o71zYyA7.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 11811,
+            "original_language": "en",
+            "original_title": "Leprechaun",
+            "overview": "A demonic leprechaun terrorizes a group of young people whom he believes stole his gold.",
+            "popularity": 24.725,
+            "poster_path": "/fFSiXLJTqWU0Eh2DMvwi4sBmdAP.jpg",
+            "release_date": "1993-01-08",
+            "title": "Leprechaun",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 619
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kISScNcyitmRWzTVu2xmNffQlof.jpg",
+            "genre_ids": [
+                27,
+                14,
+                35
+            ],
+            "id": 518158,
+            "original_language": "en",
+            "original_title": "Leprechaun Returns",
+            "overview": "A group of unwitting sorority sisters accidentally awaken the serial-killing Leprechaun after they build a sorority house on his hunting grounds.",
+            "popularity": 17.26,
+            "poster_path": "/7kToQsV04Jel1ob7VJ471LDz7wD.jpg",
+            "release_date": "2018-12-11",
+            "title": "Leprechaun Returns",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 288
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z1RI7rLNAGiUKoayD7swYl2fHNT.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 18009,
+            "original_language": "en",
+            "original_title": "Leprechaun 2",
+            "overview": "A thousand years ago, the Leprechaun left a bloody trail when he ripped through the countryside in search of his stolen gold. Now he's back in the big city using all of his deadly tricks to snare the girl of his nightmares. His bloody quest becomes more deadly when her boyfriend steals one of the Leprechaun's gold coins. The town soon discovers two dead bodies and a trail of gold dust leads them to the Leprechaun's lair.",
+            "popularity": 23.967,
+            "poster_path": "/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg",
+            "release_date": "1994-04-07",
+            "title": "Leprechaun 2",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xGGRgSD7vbkyFwrt24x6cG4ytbp.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 19286,
+            "original_language": "en",
+            "original_title": "Leprechaun 3",
+            "overview": "It was a normal night in Las Vegas, Nevada, all the lights were flashing brightly, until a man with one hand, one eye, and one leg walks into a pawn shop with a statue of a hideous looking Leprechaun. The owner claims it's a good luck charm. The statue also wore a medallion around it's neck. The careless pawn shop owner took off the medallion setting the Leprechaun free...",
+            "popularity": 22.276,
+            "poster_path": "/z9NT2smK66pYOjBtmZuKFFTZ478.jpg",
+            "release_date": "1995-07-04",
+            "title": "Leprechaun 3",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 250
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5r52emjfcu5jqxDWgQrdAXN8FHp.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 126172,
+            "original_language": "en",
+            "original_title": "Leprechaun: Origins",
+            "overview": "Two young couples backpacking through Ireland discover that one of Ireland's most famous legends is a terrifying reality.",
+            "popularity": 11.861,
+            "poster_path": "/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg",
+            "release_date": "2014-08-22",
+            "title": "Leprechaun: Origins",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/euRQW8POblTtEVy19JLFzJlWObI.jpg",
+            "genre_ids": [
+                35,
+                14,
+                27,
+                878
+            ],
+            "id": 19287,
+            "original_language": "en",
+            "original_title": "Leprechaun 4: In Space",
+            "overview": "On a planet in a distant galaxy, a power hungry Leprechaun, holds a beautiful alien princess hostage in order to marry her for her royal title. With her title and his beloved gold, he'll be able to rule the universe. While making his maniacal plans, what he doesn't count on is an invading platoon of marines from Earth, to save the princess and foil his plans. An accomplished trickster, the Leprechaun stows himself away on the orbiting spaceship and wreaks havoc on the crew in an attempt to recapture his bride.",
+            "popularity": 18.388,
+            "poster_path": "/8uMaa4VnNN2TS42tGYu04we7GOM.jpg",
+            "release_date": "1996-12-25",
+            "title": "Leprechaun 4: In Space",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3wLPGWYSix2Rbz4QUoAiaQe08wE.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 19288,
+            "original_language": "en",
+            "original_title": "Leprechaun: Back 2 tha Hood",
+            "overview": "When Emily Woodrow and her friends happen on a treasure chest full of gold coins, they fail to to heed the warnings of a wise old psychic who had foretold that they would encounter trouble with a very nasty and protective Leprechaun.",
+            "popularity": 22.858,
+            "poster_path": "/uBXtcz92oigWaWnFDyS8j5tMAc1.jpg",
+            "release_date": "2003-12-30",
+            "title": "Leprechaun: Back 2 tha Hood",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8HgPnuTTsyLNw7oeLFwP79NMfip.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 18011,
+            "original_language": "en",
+            "original_title": "Leprechaun in the Hood",
+            "overview": "When Butch, Postmaster P, and Stray Bullet loot the local hip-hop mogul's studio to fund their demo album, the threesome unwittingly ends up with the secret of Mack Daddy's success: a magical flute. Their gigs instantly turn golden but a blood-thristy Leprechaun and an angry Mack Daddy are hot on their trail, leaving a wake of destruction tainted by politically incorrect limericks.",
+            "popularity": 16.358,
+            "poster_path": "/lCRwtuxnJWkZ04gwtfYF9h1GUkl.jpg",
+            "release_date": "2000-03-28",
+            "title": "Leprechaun in the Hood",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jntISkRFxBDyZwrakUYa0JH96wa.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 144242,
+            "original_language": "en",
+            "original_title": "Droopy Leprechaun",
+            "overview": "Droopy, on an Irish stopover of an international flight, buys a souvenir leprechaun hat, and is mistaken for a real leprechaun by Spike.",
+            "popularity": 1.589,
+            "poster_path": "/8at4dKCIJIG30BaiyzNgJRt3QeJ.jpg",
+            "release_date": "1958-07-04",
+            "title": "Droopy Leprechaun",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c1VyrBPAXze41mUn8KUm8F6HXom.jpg",
+            "genre_ids": [
+                14,
+                10751
+            ],
+            "id": 66457,
+            "original_language": "en",
+            "original_title": "A Very Unlucky Leprechaun",
+            "overview": "Nine year old Molly and her father, (Tim Matheson) move to ireland to a house they've inherited nicknamed \"Misfortune Manor\". It brings bad luck to anyone who lives in it, and Molly and her father soon fall victim to the curse: they will lose their new found home unless they can pay the taxes they owe on it.",
+            "popularity": 3.21,
+            "poster_path": "/jTu3EeogpfCIrAaWp809hXdmObP.jpg",
+            "release_date": "1998-08-18",
+            "title": "A Very Unlucky Leprechaun",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/canarDL9IWb5auWeTV1uu4jLVg.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 97589,
+            "original_language": "en",
+            "original_title": "Leprechaun's Revenge",
+            "overview": "An evil leprechaun who has been imprisoned within the roots of a majestic old oak tree, is accidentally set loose on St. Patrick's Day. Once free, he takes out his bloody revenge on the descendants of the people who originally imprisoned him.",
+            "popularity": 5.421,
+            "poster_path": "/tuK7NORkzywqB257WwgPn1qxYDl.jpg",
+            "release_date": "2012-03-17",
+            "title": "Red Clover",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14
+            ],
+            "id": 151742,
+            "original_language": "en",
+            "original_title": "The Last Leprechaun",
+            "overview": "Ethel and Tommy Barrick are sent to Ireland to spend the summer with their new stepmother. Once there, they discover her to be an evil, power-seeking witch, with real magical powers and a hatred for all things green.",
+            "popularity": 1.4,
+            "poster_path": "/lbN7FDLRtyorBJfOo4aLCzQznGe.jpg",
+            "release_date": "1998-10-27",
+            "title": "The Last Leprechaun",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 1001345,
+            "original_language": "en",
+            "original_title": "Amityville Leprechaun",
+            "overview": "Dealing with his impossible inner demons. A man battles temptation and goes against the grains and transforms himself into a real life meme. A new craze takes over the internet and the dance becomes what the night really is.",
+            "popularity": 0.6,
+            "poster_path": "/5VeQnJRzK6QUXU4KnbiSZBYYAUs.jpg",
+            "release_date": "",
+            "title": "Amityville Leprechaun",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 793835,
+            "original_language": "en",
+            "original_title": "The Leprechaun's Game",
+            "overview": "After a bunch of thieves are sent out to hunt for urban legends by a wealthy man intending to open a museum full of mythical creatures. Soon, the thieves will learn the legend of a Leprechaun.",
+            "popularity": 2.415,
+            "poster_path": "/iOFl3YCSsrh9VIqEgsqyYsk4zYF.jpg",
+            "release_date": "2020-11-02",
+            "title": "The Leprechaun's Game",
+            "video": false,
+            "vote_average": 2.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 424530,
+            "original_language": "en",
+            "original_title": "The Urban Leprechaun",
+            "overview": "A modern fairy tale about the supposed \"last Leprechaun\". Directed by Lee Lynch and starring James Gibbons. Filmed in 1999 on Super 8mm.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1999-01-01",
+            "title": "The Urban Leprechaun",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yK4XvzYkquqWQrxTy6ZjjMdTcSu.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 949569,
+            "original_language": "en",
+            "original_title": "The Leprechaun's Curse",
+            "overview": "Tilly has inherited a Manor House. Soon, she will learn just how she has managed to inherit it when an evil Leprechaun begins to stalk her down, taking out anyone in its way - for his gold.",
+            "popularity": 0.928,
+            "poster_path": "/b6Junth0Ekue4tSwsDerhtieLVK.jpg",
+            "release_date": "2021-11-02",
+            "title": "The Leprechaun's Curse",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 948326,
+            "original_language": "en",
+            "original_title": "How to Catch a Leprechaun",
+            "overview": "You've been planning all year and now it's St. Patrick's Day. Will your trap work and will this be the year that you catch the leprechaun?",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "How to Catch a Leprechaun",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 70371,
+            "original_language": "fr",
+            "original_title": "Leprechaun - le retour de l'Efle guerrier",
+            "overview": "",
+            "popularity": 0.621,
+            "poster_path": null,
+            "release_date": "1998-01-01",
+            "title": "Leprechaun - le retour de l'Efle guerrier",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 237363,
+            "original_language": "en",
+            "original_title": "Leprechauns Gold",
+            "overview": "A song-filled Noveltoon featuring the antics of the Irish Leprechauns during their annual gold-washing ceremony. It depicts the wee people of Ireland who flavor its traditions with laughs and legend.",
+            "popularity": 0.6,
+            "poster_path": "/xK1EZKlH78h2jhVtYt0YvqE6qu2.jpg",
+            "release_date": "1949-10-13",
+            "title": "Leprechauns Gold",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6rbaH5JfP6RtlAjh6xhMGp0Y1j.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10751
+            ],
+            "id": 744701,
+            "original_language": "en",
+            "original_title": "I Captured the King of the Leprechauns",
+            "overview": "Behind the scenes of Darby O'Gill and the Little People.",
+            "popularity": 1.137,
+            "poster_path": "/2pqcSMEeIs8lu3E0jjMPTo6WbyV.jpg",
+            "release_date": "1959-05-29",
+            "title": "I Captured the King of the Leprechauns",
+            "video": false,
+            "vote_average": 9,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 26
+}

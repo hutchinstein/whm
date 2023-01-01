@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/bF9k4L3E93fHESs55zcyvxG5qZH.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 205584,
+            "original_language": "en",
+            "original_title": "Gods of Egypt",
+            "overview": "A common thief joins a mythical god on a quest through Egypt.",
+            "popularity": 57.141,
+            "poster_path": "/hzH7fwaTyQNITLo40Hu3R7cVMqv.jpg",
+            "release_date": "2016-02-25",
+            "title": "Gods of Egypt",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 3596
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ylXJ1f2HIF6UTPkSaysOcGDAYkK.jpg",
+            "genre_ids": [
+                36,
+                99
+            ],
+            "id": 843496,
+            "original_language": "en",
+            "original_title": "Ancient Gods of Egypt",
+            "overview": "\"Gods of Egypt\" was a huge box office success but the true Gods were more ancient and mysterious than fiction. Powerful and deadly, all knowing, and all seeing, they were the original Masters of the Universe. They originated many thousands of years ago in a land far away from Egypt. From the Gods of the underworld, Osiris and Anubis; to the Gods of light such as Amun-Ra and Horus; the lives and actions of the Gods of Ancient Egypt explain our very existence and our place in the universe. Prepare to experience the Real Gods of Egypt and the original Game of Thrones",
+            "popularity": 1.4,
+            "poster_path": "/yt2tamk4SFlH66zQIeNCUOOsG6t.jpg",
+            "release_date": "2017-01-01",
+            "title": "Ancient Gods of Egypt",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

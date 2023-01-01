@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/goNk0VDnUjxKjB6o69kYS5vvZo2.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "id": 200,
+            "original_language": "en",
+            "original_title": "Star Trek: Insurrection",
+            "overview": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
+            "popularity": 19.8,
+            "poster_path": "/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg",
+            "release_date": "1998-12-11",
+            "title": "Star Trek: Insurrection",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 976
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

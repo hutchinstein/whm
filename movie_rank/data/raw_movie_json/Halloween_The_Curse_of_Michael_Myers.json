@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8xLsFPeMC2AjPiJPZlQeBKiTIqE.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10987,
+            "original_language": "en",
+            "original_title": "Halloween: The Curse of Michael Myers",
+            "overview": "Six years ago, Michael Myers terrorized the town of Haddonfield, Illinois. He and his niece, Jamie Lloyd, have disappeared. Jamie was kidnapped by a bunch of evil druids who protect Michael Myers. And now, six years later, Jamie has escaped after giving birth to Michael's child. She runs to Haddonfield to get Dr. Loomis to help her again.",
+            "popularity": 28.657,
+            "poster_path": "/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg",
+            "release_date": "1995-09-29",
+            "title": "Halloween: The Curse of Michael Myers",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 875
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

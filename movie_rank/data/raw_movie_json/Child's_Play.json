@@ -1,0 +1,372 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fCsi39CuitAmLSUvUy1EWmKETNx.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 10585,
+            "original_language": "en",
+            "original_title": "Child's Play",
+            "overview": "A single mother gives her son a beloved doll for his birthday, only to discover that it is possessed by the soul of a serial killer.",
+            "popularity": 59.611,
+            "poster_path": "/7jrOhGtRh6YK7sMfvH1E1f36aVx.jpg",
+            "release_date": "1988-11-09",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vHse4QK31Vc3X7BKKU5GOQhYxv6.jpg",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "id": 533642,
+            "original_language": "en",
+            "original_title": "Child's Play",
+            "overview": "Karen, a single mother, gifts her son Andy a Buddi doll for his birthday, unaware of its more sinister nature. A contemporary re-imagining of the 1988 horror classic.",
+            "popularity": 28.2,
+            "poster_path": "/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+            "release_date": "2019-06-19",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1643
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fZIyYBXzBuM0SgbBiL1lkKqS14N.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11186,
+            "original_language": "en",
+            "original_title": "Child's Play 2",
+            "overview": "When Andy\u2019s mother is admitted to a psychiatric hospital, the young boy is placed in foster care, andChucky, determined to claim Andy's soul, is not far behind.",
+            "popularity": 42.573,
+            "poster_path": "/kdnermMCBOnVxjDKA0FV1HZueqg.jpg",
+            "release_date": "1990-11-09",
+            "title": "Child's Play 2",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1473
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k0XTbNtE3fSiId7IcMXXRGDJRYp.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11187,
+            "original_language": "en",
+            "original_title": "Child's Play 3",
+            "overview": "Eight years have passed since the events of the second film. Chucky has been resurrected once again and seeks revenge on Andy, his former owner, who is now a teenager enrolled in military school.",
+            "popularity": 39.741,
+            "poster_path": "/rHUOQShfzQTdE625cqwZoIOTvik.jpg",
+            "release_date": "1991-08-30",
+            "title": "Child's Play 3",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lNOlzozoXepb6q9qzXuIbjM9Z2a.jpg",
+            "genre_ids": [
+                53,
+                27,
+                18
+            ],
+            "id": 82465,
+            "original_language": "en",
+            "original_title": "Child's Play",
+            "overview": "At an exclusive boys' school, a new gym teacher is drawn into a feud between two older instructors, and he discovers that everything at the school is not quite as staid, tranquil and harmless as it seems.",
+            "popularity": 4.452,
+            "poster_path": "/wVj20650r9QPgfM9YIYNkMkZ3iH.jpg",
+            "release_date": "1972-12-12",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 706545,
+            "original_language": "en",
+            "original_title": "Introducing Chucky: The Making of Child's Play",
+            "overview": "A vintage featurette about the making of Child's Play (1988).",
+            "popularity": 17.866,
+            "poster_path": "/mRTnim0xPxYiH0LWi2O59Lqk2Gd.jpg",
+            "release_date": "1988-11-09",
+            "title": "Introducing Chucky: The Making of Child's Play",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uMJCv4XYBmUprtE5i6rBUJWxP5K.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 424387,
+            "original_language": "en",
+            "original_title": "Child's Play",
+            "overview": "A science-fiction film about children who manage to split the atom and thereby create a new form of popcorn.",
+            "popularity": 1.217,
+            "poster_path": "/7KYDFZDwYwahXV4wBIqGTjvd91B.jpg",
+            "release_date": "1954-01-01",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 999049,
+            "original_language": "tl",
+            "original_title": "Child's Play",
+            "overview": "A young girl vlogger embarrasses herself on her live streaming video when she accidentally reveals the result of her life-changing decisions. As she is bashed online by her followers, she discovers a newfound strength from her perceived weakness.",
+            "popularity": 0.6,
+            "poster_path": "/pstyppLd7hniTu47KxOLgtVrYba.jpg",
+            "release_date": "2022-06-25",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6zQcvWTa619uvHArtWcsMB2wcG.jpg",
+            "genre_ids": [],
+            "id": 448873,
+            "original_language": "en",
+            "original_title": "Child's Play",
+            "overview": "A neighborhood boy (Bill Barrett) might have the solution to his problems, though. For two silver candlesticks, he promises to give Conrad a rare, vicious, growling and cunning animal with supernatural abilities, which supposedly was coveted in the past by Egyptian pharaohs, Borneo pirates and even Napoleon Bonaparte himself. Eventually the trade is made, Conrad gets the creature.",
+            "popularity": 0.6,
+            "poster_path": "/eDrhsy1a6rVzI8K9OyF3Q7jGIQG.jpg",
+            "release_date": "1980-05-17",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                18,
+                9648,
+                10770
+            ],
+            "id": 467151,
+            "original_language": "en",
+            "original_title": "Child's Play",
+            "overview": "A family awakens to find themselves trapped in their own home, all windows and doors sealed by impenetrable walls.",
+            "popularity": 0.6,
+            "poster_path": "/30TOZzVGyeg9qKd9VL98XNFrREr.jpg",
+            "release_date": "1984-10-08",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                27
+            ],
+            "id": 757564,
+            "original_language": "en",
+            "original_title": "Child's Play: Toy Story Massacre",
+            "overview": "Lee Hardcastle teamed up with Orion Pictures to bring you a big Andy's Room Welcome.",
+            "popularity": 2.467,
+            "poster_path": "/deDtKqy96tkrnVXzIJWLldaz1H6.jpg",
+            "release_date": "2019-06-21",
+            "title": "Child's Play: Toy Story Massacre",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 226438,
+            "original_language": "en",
+            "original_title": "A Child's Play Story: Chucky's Revenge",
+            "overview": "Chucky, still trapped in the body of a Good-Guy doll, breaks into a nearby home in a desperate attempt to find a new vessel.",
+            "popularity": 3.133,
+            "poster_path": null,
+            "release_date": "2006-11-06",
+            "title": "A Child's Play Story: Chucky's Revenge",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9gDzYmuy4Gait4GgeGiKdh68XvF.jpg",
+            "genre_ids": [
+                35,
+                27,
+                53
+            ],
+            "id": 11932,
+            "original_language": "en",
+            "original_title": "Bride of Chucky",
+            "overview": "Chucky hooks up with another murderous doll, the bridal gown-clad Tiffany, for a Route 66 murder spree with their unwitting hosts.",
+            "popularity": 60.412,
+            "poster_path": "/mAGviFp1ufYM3EaZBSrjPiKPBt6.jpg",
+            "release_date": "1998-10-16",
+            "title": "Bride of Chucky",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1546
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 1049196,
+            "original_language": "et",
+            "original_title": "Lapsem\u00e4ng",
+            "overview": "When dads leave their 6-year old sons unattended outside to chop wood, an accident happens that no parents want to see. A finger is missing. But whose fault was it actually, nobody seems to know, as well as the finger's location.",
+            "popularity": 0.713,
+            "poster_path": "/deePhKVKUVmOeFVq7474iNU3uLu.jpg",
+            "release_date": "2022-11-15",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e159wk9CTgODPPxB4oIBVTLfFVn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 296799,
+            "original_language": "de",
+            "original_title": "Kinderspiele",
+            "overview": "When Micha's mother leaves his irascible father, he tries to prevent their divorce by any means he can think of, but his attempts to hold the family together lead to a catastrophe...",
+            "popularity": 0.99,
+            "poster_path": "/gYJU3W41pdE9C1T9orXwAzeYYl8.jpg",
+            "release_date": "1992-09-13",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 889174,
+            "original_language": "fr",
+            "original_title": "Rififi dans le tiroir",
+            "overview": "Through collages of everyday situations, poetic or burlesque moments, through a mixture of truth and falsehood, Rififi dans le drawer tells of a long active wait, resistance and a poignant encounter of a French couple trying to adopt a child.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2021-10-01",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 646118,
+            "original_language": "tr",
+            "original_title": "\u00c7ocuk Oyunca\u011f\u0131",
+            "overview": "Becoming an adult begins with moving out from your parents' house. While leaving the house, Derin hides an adult secret in the toy-box filled with her childhood memories. We step into adulthood sometimes voluntarily, or sometimes involuntarily and it gradually expands with inevitable confrontations.",
+            "popularity": 0.6,
+            "poster_path": "/g4MC13jtg3ORPtDFExkHVc86Xw4.jpg",
+            "release_date": "2015-01-22",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1038170,
+            "original_language": "en",
+            "original_title": "Naye Ghode Ki Naye Chaal",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2022-11-03",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 284556,
+            "original_language": "fr",
+            "original_title": "Jeux d'enfants",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/li2MzxJe8ASqzg1Xz1CAoUqDEE8.jpg",
+            "release_date": "1913-01-02",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/joTtQICm7vrGrVitC1bobgBmxUh.jpg",
+            "genre_ids": [
+                35,
+                27,
+                53
+            ],
+            "id": 11249,
+            "original_language": "en",
+            "original_title": "Seed of Chucky",
+            "overview": "This time around, Chucky and his homicidal honey, Tiffany, are brought back to life by their orphan offspring, Glen. Then the horror goes Hollywood as Chucky unleashes his own brand of murderous mayhem!",
+            "popularity": 52.464,
+            "poster_path": "/vd9K93gQ9whMKjXzADZanxWpIXM.jpg",
+            "release_date": "2004-11-12",
+            "title": "Seed of Chucky",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1296
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 24
+}

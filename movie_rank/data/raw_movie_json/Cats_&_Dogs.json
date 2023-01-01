@@ -1,0 +1,403 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/rXSDDbT43pcTjppu1qTxs1cOwla.jpg",
+            "genre_ids": [
+                14,
+                35,
+                18
+            ],
+            "id": 536869,
+            "original_language": "en",
+            "original_title": "Cats",
+            "overview": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+            "popularity": 21.629,
+            "poster_path": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+            "release_date": "2019-12-19",
+            "title": "Cats",
+            "video": false,
+            "vote_average": 4.2,
+            "vote_count": 814
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kILQ61VAEl4UlTsFGajKmrVQT75.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 10992,
+            "original_language": "en",
+            "original_title": "Cats & Dogs",
+            "overview": "When a professor develops a vaccine that eliminates human allergies to dogs, he unwittingly upsets the fragile balance of power between cats and dogs and touches off an epic battle for pet supremacy. The fur flies as the feline faction, led by Mr. Tinkles, squares off against wide-eyed puppy Lou and his canine cohorts.",
+            "popularity": 26.918,
+            "poster_path": "/77dmCJelVTBPBwbTppiisQx0e82.jpg",
+            "release_date": "2001-07-04",
+            "title": "Cats & Dogs",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1396
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c3vNU1AAuSVNhWIthjigmycK6J1.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 26598,
+            "original_language": "en",
+            "original_title": "Cats",
+            "overview": "Cats is a pop-cultural phenomenon that has been performed on stage for more than 50 million patrons in 26 countries for almost 18 years, resulting in more than two billion dollars in ticket sales. Now that Cats has finally made it to the small screen, attention must be paid not just by fans of this critic-proof show, but also by those entertainment mavens who have somehow avoided it until now.",
+            "popularity": 12.413,
+            "poster_path": "/rdlzS4ubGzAKT5BfMdOc1jMB2QS.jpg",
+            "release_date": "1998-10-05",
+            "title": "Cats",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/axPvTxOKwbV70hdJgf3SfI71gDn.jpg",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 726739,
+            "original_language": "en",
+            "original_title": "Cats & Dogs 3: Paws Unite",
+            "overview": "It's been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.",
+            "popularity": 27.669,
+            "poster_path": "/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg",
+            "release_date": "2020-10-02",
+            "title": "Cats & Dogs 3: Paws Unite",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lKdpaG0G9kXU1wXcZm21FLiyTTQ.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "id": 24662,
+            "original_language": "en",
+            "original_title": "Cats Don't Dance",
+            "overview": "Danny, an ambitious singing/dancing cat, goes to Hollywood and overcomes several obstacles to fulfill his dream of becoming a movie star.",
+            "popularity": 13.406,
+            "poster_path": "/5Fq3lsn398I5djODa3v8fQW9ssC.jpg",
+            "release_date": "1997-03-26",
+            "title": "Cats Don't Dance",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mFTlNXsPzny0geJLxdo3ddzFR1Q.jpg",
+            "genre_ids": [
+                99,
+                12
+            ],
+            "id": 57586,
+            "original_language": "en",
+            "original_title": "African Cats",
+            "overview": "African Cats captures the real-life love, humor and determination of the majestic kings of the savanna. The story features Mara, an endearing lion cub who strives to grow up with her mother\u2019s strength, spirit and wisdom; Sita, a fearless cheetah and single mother of five mischievous newborns; and Fang, a proud leader of the pride who must defend his family from a once banished lion.",
+            "popularity": 11.411,
+            "poster_path": "/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
+            "release_date": "2011-04-21",
+            "title": "African Cats",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l8yf1Rfp58GGjt39R2jpo8nEshF.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 39691,
+            "original_language": "en",
+            "original_title": "Cats & Dogs: The Revenge of Kitty Galore",
+            "overview": "The ongoing war between the canine and feline species is put on hold when they join forces to thwart a rogue cat spy with her own sinister plans for conquest.",
+            "popularity": 29.475,
+            "poster_path": "/y0tbNwm7LI6etFTcLRP9ddISHNi.jpg",
+            "release_date": "2010-07-28",
+            "title": "Cats & Dogs: The Revenge of Kitty Galore",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 540
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hxUM806p8SeOwdsYamUOrTYc07E.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10552,
+            "original_language": "en",
+            "original_title": "Cat's Eye",
+            "overview": "Three short stories by shock-meister Stephen King are linked by a stray cat that roams from one tale to the next in this creepy triptych that begins as Dick (James Woods) tries to quit smoking by any means necessary. Next, we meet Johnny, an adulterous man who's forced by his lover's husband onto a building's hazardous ledge. Finally, Amanda is threatened by an evil gnome who throws suspicion on the family cat.",
+            "popularity": 19.037,
+            "poster_path": "/kKyq7izpMkmr8sT2nLic5qAuJPo.jpg",
+            "release_date": "1985-04-12",
+            "title": "Cat's Eye",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 526
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9gHLk2EBp6l4NJw7xgifyQ2viMa.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 40212,
+            "original_language": "en",
+            "original_title": "Sufferin' Cats!",
+            "overview": "Tom fights with another cat over Jerry.",
+            "popularity": 4.36,
+            "poster_path": "/oZak2kq8UWJFVdgw0aDD8TbLblZ.jpg",
+            "release_date": "1943-01-16",
+            "title": "Sufferin' Cats!",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d11ZZO99pnB66viF0FuquLNkbyV.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 8866,
+            "original_language": "en",
+            "original_title": "The Truth About Cats & Dogs",
+            "overview": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+            "popularity": 7.551,
+            "poster_path": "/5V10mg1rAbwWYNF6IjnEYokIR8f.jpg",
+            "release_date": "1996-04-26",
+            "title": "The Truth About Cats & Dogs",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sorTgQ8hiCKRchBy9IQnErbw0lt.jpg",
+            "genre_ids": [
+                10751,
+                18,
+                35,
+                10770
+            ],
+            "id": 72753,
+            "original_language": "en",
+            "original_title": "Alley Cats Strike",
+            "overview": "A group of hip retro teenage outsiders become involved in an interschool bowling rivalry.",
+            "popularity": 4.349,
+            "poster_path": "/jkl6dMYxz5LXkam5holzGKRybFF.jpg",
+            "release_date": "2000-03-18",
+            "title": "Alley Cats Strike",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AqZhnlpybYGZOhSHC8wTTJoHTOt.jpg",
+            "genre_ids": [
+                18,
+                80,
+                9648
+            ],
+            "id": 46554,
+            "original_language": "en",
+            "original_title": "Because of the Cats",
+            "overview": "A gang of six wealthy, well-dressed and well-spoken hoodlums break into a married couple's house and rape the wife while forcing the husband to watch. Thus begins a dogged investigation by a determined detective who quickly finds that their cult-like solidarity can be a serious obstacle to breaking them.",
+            "popularity": 3.919,
+            "poster_path": "/quAdsbVUIN884pVRHANmfq4v5Qu.jpg",
+            "release_date": "1973-03-15",
+            "title": "Because of the Cats",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8suCBWV0Z5rc3CVfVn7pfNsi0JM.jpg",
+            "genre_ids": [
+                35,
+                10770,
+                10749
+            ],
+            "id": 446866,
+            "original_language": "en",
+            "original_title": "Like Cats & Dogs",
+            "overview": "Spencer is a cat person. Laura is a dog person. Spencer is headed to a beach town to work on his thesis. Laura is coming to the same beach town to escape the shambles of her life. Their personalities couldn\u2019t be more different, but when a reservation screw up lands them \u2013 and their pets \u2013 in the same vacation rental house, they all have to figure out how to get along with each other.",
+            "popularity": 3.203,
+            "poster_path": "/m2c02VFjQsT11l6yu7coly10V8V.jpg",
+            "release_date": "2017-04-15",
+            "title": "Like Cats & Dogs",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                35,
+                28
+            ],
+            "id": 159898,
+            "original_language": "xx",
+            "original_title": "Prof. Welton's Boxing Cats",
+            "overview": "\"A glove contest between trained cats. A very comical and amusing subject, and is sure to create a great laugh.\" (by Edison Films)",
+            "popularity": 1.489,
+            "poster_path": "/ozdAWQ17qMAdmcS1bWYvBMmrFsG.jpg",
+            "release_date": "1894-07-16",
+            "title": "The Boxing Cats",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1g5jGwSgluDJ4VNP82DJUZGmeBM.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10749
+            ],
+            "id": 147913,
+            "original_language": "en",
+            "original_title": "The Cats Bah",
+            "overview": "Penelope, an American tourist cat who's gotten a white stripe of paint down her back, is pursued through the Casbah by the amorous skunk Pepe Le Pew, who woos her with his rendition of \"As Time Goes By.\"",
+            "popularity": 1.933,
+            "poster_path": "/v91BEhdZJFJQDsIyjVV2X7XBP1o.jpg",
+            "release_date": "1954-03-20",
+            "title": "The Cats Bah",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wuhoCvKRCo4k9lEukfZsQ6V2JpL.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                12,
+                35,
+                18,
+                10402
+            ],
+            "id": 264364,
+            "original_language": "en",
+            "original_title": "Top Cat and the Beverly Hills Cats",
+            "overview": "Beverly hills dowager leaves everything to Benny the Ball because her only rightful heir, her niece Amy, is missing. But that's only if Benny stays alive for 48 hours. If not, evil butler Snerdly and his mad Russian Wolfhound are next in line - and he's quick to pull every trick in the book to do poor Benny in and the troop sets off to rescue Benny and find the lost heir Amy.",
+            "popularity": 4.675,
+            "poster_path": "/8h0c4eP9QWn2BvI1N9uYTQqW09a.jpg",
+            "release_date": "1988-03-20",
+            "title": "Top Cat and the Beverly Hills Cats",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53
+            ],
+            "id": 416391,
+            "original_language": "en",
+            "original_title": "Cats Dancing on Jupiter",
+            "overview": "Two 20-something club hopping women in LA are at first glance living the good life of partying and casual sex, until they are revealed to be scarred by a childhood abduction and driven to take revenge on every man who crosses their path.",
+            "popularity": 2.047,
+            "poster_path": "/1nhlA2XzROxVrU5Qg2Uoqj0C2om.jpg",
+            "release_date": "2015-05-04",
+            "title": "Cats Dancing on Jupiter",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7mmvqZxqUlIQINnZcfANgqDr2uD.jpg",
+            "genre_ids": [
+                28,
+                18,
+                80
+            ],
+            "id": 94536,
+            "original_language": "en",
+            "original_title": "The Black Alley Cats",
+            "overview": "Wanting revenge on a street gang for a rape attack, four young girls get together, take kung-fu lessons, learn how to shoot, form a gang called the Black Alley Cats and search out the gang that attacked them.",
+            "popularity": 1.624,
+            "poster_path": "/klVQ1ryl0BTvOWvKUDJcnWcXYAC.jpg",
+            "release_date": "1973-09-01",
+            "title": "The Black Alley Cats",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1055133,
+            "original_language": "en",
+            "original_title": "Cats of Malta",
+            "overview": "A documentary celebrating the island\u2019s stray cats and the volunteers who show the large population unconditional love and support.",
+            "popularity": 1.598,
+            "poster_path": null,
+            "release_date": "2022-12-02",
+            "title": "Cats of Malta",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2bTtBL10fVvYBzugNMy0WV4r7pj.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 35080,
+            "original_language": "en",
+            "original_title": "The Cat's Meow",
+            "overview": "Semi-true story of the Hollywood murder that occurred at a star-studded gathering aboard William Randolph Hearst's yacht in 1924.",
+            "popularity": 6.182,
+            "poster_path": "/zEVZa9EuApL5AQl2mE9NNAeCUix.jpg",
+            "release_date": "2001-08-03",
+            "title": "The Cat's Meow",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 78
+        }
+    ],
+    "total_pages": 18,
+    "total_results": 347
+}

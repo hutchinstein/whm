@@ -1,0 +1,126 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fk4NXhazfRKtQaVEV9IPeM7OIVH.jpg",
+            "genre_ids": [
+                53,
+                80,
+                9648,
+                18
+            ],
+            "id": 10398,
+            "original_language": "en",
+            "original_title": "Double Jeopardy",
+            "overview": "Framed for the murder of her husband, Libby Parsons survives the long years in prison with two burning desires sustaining her -- finding her son and solving the mystery that destroyed her once-happy life. Standing between her and her quest; however, is her parole officer, Travis Lehman. Libby poses a challenge to the cynical officer, one that forces him to face up to his own failings while pitting him against his superiors and law enforcement colleagues.",
+            "popularity": 34.752,
+            "poster_path": "/lSYMeHoUh9uWX2kXi9Fqe4BX2Ml.jpg",
+            "release_date": "1999-09-24",
+            "title": "Double Jeopardy",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/apvtBeMdY5fzgKiXclPtoOgNKf4.jpg",
+            "genre_ids": [
+                53,
+                10770
+            ],
+            "id": 75836,
+            "original_language": "en",
+            "original_title": "Double Jeopardy",
+            "overview": "Jack Hart lives with his lawyer wife and yound daughter and enjoys a wonderful life. Jack's old girlfriend, Lisa, comes into town and they have an affair. Lisa kills her current boyfriend in self-defense and Jack witnesses the whole thing. Lisa goes on trial for murder with Jack's wife as her lawyer. As the movie progresses Lisa's devious side becomes known and make for an interesting conclusion",
+            "popularity": 2.159,
+            "poster_path": "/9PaPWQgh5Pf5eIJjoxSq8oaHusV.jpg",
+            "release_date": "1992-11-21",
+            "title": "Double Jeopardy",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ndGZVZR7B08cQrOXeL01dSqveYB.jpg",
+            "genre_ids": [
+                80
+            ],
+            "id": 29624,
+            "original_language": "en",
+            "original_title": "Double Jeopardy",
+            "overview": "Marc Hill is the attorney for Emmet Devrey, a real estate developer with a past, who is being blackmailed by his former partner Sam Baggett. When Sam's unfaithful wife Marge cooks up a scheme with her used car salesman lover Jeff Calder to bilk both Devrey and her alcoholic husband, Sam is killed and Devrey is accused of the crime. Mark is called to prove his employers innocence.",
+            "popularity": 1.785,
+            "poster_path": "/o17AKeNUMS6RNZMe0elp6TJJAji.jpg",
+            "release_date": "1955-06-23",
+            "title": "Double Jeopardy",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                10770
+            ],
+            "id": 412160,
+            "original_language": "en",
+            "original_title": "Double Jeopardy",
+            "overview": "A naive 16 year old waitress falls for a corrupt, married police officer. When she falls pregnant, her lover plots her murder.",
+            "popularity": 1.133,
+            "poster_path": "/zn7sKnWQH8OOC3Y3Kza12p223z2.jpg",
+            "release_date": "1996-01-30",
+            "title": "Double Jeopardy",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                27
+            ],
+            "id": 88790,
+            "original_language": "ja",
+            "original_title": "\u9b54\u7269\u30cf\u30f3\u30bf\u30fc\u5996\u5b502",
+            "overview": "Ayako Mano, who is nearly identical in appearance to Yohko, is introduced; she has spent her life training and honing her abilities so that one day she may defeat Yohko and become the devil hunter of the Mano family, and now she is ready for the final confrontation. Yohko continues to live her life and is unaware of Ayako until she starts stealing away every guy that on whom Yohko has a crush. Then one night while taking a bath, Yohko hears something outside and gives chase. She then meets up with an Azusa look-alike. She and Ayako attack the unsuspecting Yohko with crushing attacks, while Yohko parries the onslaught. The fight stops, but Ayako vows to finish it. Madoka reveals a certain part of her past that relates to the encounter.",
+            "popularity": 1.4,
+            "poster_path": "/zqgPScrR6BcY79WYPti8NabNqbT.jpg",
+            "release_date": "1995-01-01",
+            "title": "Devil Hunter Yohko 6: Double Jeopardy",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cgHsym3PtJitqwyo0lbgjbKJIna.jpg",
+            "genre_ids": [
+                80,
+                27,
+                18,
+                10749
+            ],
+            "id": 224626,
+            "original_language": "en",
+            "original_title": "Olivia",
+            "overview": "Nightmares of the past haunt the beautiful, mysterious Olivia, a London resident who begins a passionate affair with American businessman Mike. Trapped in a loveless marriage and traumatized by memories of her mother's brutal murder, Olivia hopes her lover will offer a chance at a new life. However, ghostly voices and brutal murders ignite a fiendish, twist-filled story of double identities, deception, and erotic terror.",
+            "popularity": 1.091,
+            "poster_path": "/1CXHkW4ugxo18vlCGIuNVK7mGsU.jpg",
+            "release_date": "1983-03-01",
+            "title": "Olivia",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 19
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

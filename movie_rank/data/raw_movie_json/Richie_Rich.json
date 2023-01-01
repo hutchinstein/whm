@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qMPmTp2Pi55C7AxFkbkKcXitPZW.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 73961,
+            "original_language": "en",
+            "original_title": "Richie Rich's Christmas Wish",
+            "overview": "After getting blamed for spoiling Christmas, the richest kid in the world wishes he'd never been born. Unfortunately, a wishing machine, invented by professor Keenbean, picked up the wish and made it come true. Now Richie finds himself in a parallel world where his only hope is to find professor Keenbean and the wishing machine so he can wish things back to normal. Written by Peter Huiskes",
+            "popularity": 19.732,
+            "poster_path": "/dELsdRZDsIvMwVkayiYZszk6V3P.jpg",
+            "release_date": "1998-11-03",
+            "title": "Richie Rich's Christmas Wish",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Egrh9rNwZc0VpPfdivaf4ElUc7.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 11011,
+            "original_language": "en",
+            "original_title": "Ri\u00a2hie Ri\u00a2h",
+            "overview": "Billionaire heir Richie Rich has it all, including Reggie Jackson as a batting coach and Claudia Schiffer as a personal trainer -- but no playmates. What's more, scoundrel Laurence Van Dough is scheming to take over the family empire. Uh-oh! Enter faithful butler Cadbury to save the day.",
+            "popularity": 27.28,
+            "poster_path": "/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg",
+            "release_date": "1994-12-19",
+            "title": "Ri\u00a2hie Ri\u00a2h",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1958
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

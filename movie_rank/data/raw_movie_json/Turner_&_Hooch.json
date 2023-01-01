@@ -1,0 +1,374 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/2lzyYNUMTUuuhAq6U7zUFq6am6a.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 245700,
+            "original_language": "en",
+            "original_title": "Mr. Turner",
+            "overview": "Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him.",
+            "popularity": 11.945,
+            "poster_path": "/rnVhl1PFSOoW5c6UhZJZt5TV98p.jpg",
+            "release_date": "2014-10-31",
+            "title": "Mr. Turner",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lsX1PJjB65Rmn4We3ydEMMpL8S3.jpg",
+            "genre_ids": [
+                28,
+                35,
+                53,
+                80,
+                10751
+            ],
+            "id": 6951,
+            "original_language": "en",
+            "original_title": "Turner & Hooch",
+            "overview": "Scott Turner has 3 days left in the local police department before he moves to a bigger city to get some 'real' cases\u2014not just misdemeanors. When Amos Reed is murdered, Scott sets himself on the case, but the closest thing to a witness to the murder is Reed's dog, Hooch, which Scott has to take care of\u2014to avoid Hooch being 'put to sleep'.",
+            "popularity": 16.824,
+            "poster_path": "/g3LC4mc17fQIFnPsMi81zzKC5gF.jpg",
+            "release_date": "1989-07-28",
+            "title": "Turner & Hooch",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/58l8tSe9y6JeXEr0xUFHckL2NR5.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                10770
+            ],
+            "id": 70338,
+            "original_language": "en",
+            "original_title": "A Fairly Odd Movie: Grow Up, Timmy Turner!",
+            "overview": "The television movie is set in the city of Dimmsdale and centers on the series' main protagonist Timmy Turner with his fairy godparents Cosmo and Wanda and his fairy godbrother Poof. In the movie, Timmy is now 23 years old but is still in fifth grade with his fairy-obsessed fifth grade teacher Mr. Crocker. Despite being grown up, Timmy finds a loophole in the fairy rulebook Da Rules: if he continues to act like a kid, he will still get to keep his fairies. However, the dilemma rises when Tootie, who was once a dorky girl when she was 10 years old, returns to Dimmsdale as an attractive woman. Timmy falls in love with her, a sign that he is growing up to an adult, which means he is closer to losing his fairies. Meanwhile, an oil business tycoon named Hugh J. Magnate, Jr., who teams up with Mr. Crocker, plans to use Timmy's fairies' magic in order to promote his oil business.",
+            "popularity": 15.969,
+            "poster_path": "/lyLGhBZ4ljApZIp7SSnfAHvrG9w.jpg",
+            "release_date": "2011-07-09",
+            "title": "A Fairly Odd Movie: Grow Up, Timmy Turner!",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/foPpmc95hUfmobDPmCFPzwNfZe7.jpg",
+            "genre_ids": [
+                18,
+                28,
+                53
+            ],
+            "id": 22121,
+            "original_language": "en",
+            "original_title": "Truck Turner",
+            "overview": "Truck Turner and his partner Jerry, who make their living as bounty hunters in Los Angeles, are hired to hunt down Gator, a pimp who has skipped bail.",
+            "popularity": 3.894,
+            "poster_path": "/lMB0WY73s8AOns9cUmdAT3USreo.jpg",
+            "release_date": "1974-06-26",
+            "title": "Truck Turner",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WsVyzlV5wtRlLltDaUrSJMyGWa.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 27198,
+            "original_language": "en",
+            "original_title": "Tina Turner 50 Anniversary Tour - Live in Holland",
+            "overview": "Live concert in GelreDome, Arnhem, Holland  Tracklist  1 Steamy Windows  2 Typical Male  3 River Deep, Mountain High  4 What You Get Is What You See  5 Better Be Good to Me  6 Acid Queen  7 What's Love Got To Do With It?  8 Private Dancer  9 We Don't Need Another Hero  10 Help!  11 Let's Stay Together  12 Undercover Agent for the Blues  13 I Can't Stand the Rain  14 Jumpin' Jack Flash / It's Only Rock 'n' Roll (But I Like It)  15 GoldenEye  16 Addicted to Love  17 The Best  18 Proud Mary  19 Nutbush City Limits  20 Be Tender With Me Baby",
+            "popularity": 4.136,
+            "poster_path": "/5m1w1L6wnKXhGTKhNhCBVeY4Io5.jpg",
+            "release_date": "2009-03-16",
+            "title": "Tina Turner 50 Anniversary Tour - Live in Holland",
+            "video": true,
+            "vote_average": 8.9,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10770,
+                35
+            ],
+            "id": 492538,
+            "original_language": "en",
+            "original_title": "Turner & Hooch",
+            "overview": "In 1990 NBC did a television pilot based on the 1989 film, \"Turner And Hooch.\" It aired in the summer with another dog pilot, \"Poochinski\" under the banner, \"Two Dog Night\".",
+            "popularity": 1.4,
+            "poster_path": null,
+            "release_date": "1990-07-09",
+            "title": "Turner & Hooch",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pd7x1tsNeaE1ZgCbtEDQJIthTd5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 96170,
+            "original_language": "en",
+            "original_title": "Lilly Turner",
+            "overview": "One woman faces many trials on the road to romance after unwittingly marrying a bigamist, then a carnival's barker and then falling for a young engineer.",
+            "popularity": 1.305,
+            "poster_path": "/a5JWDsct38TWj5gNxqBi6sjoyy2.jpg",
+            "release_date": "1933-05-13",
+            "title": "Lilly Turner",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 27186,
+            "original_language": "en",
+            "original_title": "Tina Turner: Private Dancer Tour",
+            "overview": "In January 1985 in California, Tina received two awards at the American Music Awards: one for \"best female singer\" and the other for \"best video actress.\" A month later, at the Grammy Awards, Tina took the stage three times: as \"Best Singer\", as \"Best Rock Singer\" and as Creator of \"Best Song.\"  The disc features one of Tina's best concerts at the peak of her popularity",
+            "popularity": 1.569,
+            "poster_path": "/vSrHFbVC31BIWrvlsH0wPiOT8mG.jpg",
+            "release_date": "1985-06-08",
+            "title": "Tina Turner: Private Dancer Tour",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 171084,
+            "original_language": "de",
+            "original_title": "Tina Turner: Celebrate!",
+            "overview": "Tina Turner celebrates her 60th birthday with this unbelievable 1999 concert. Turner performs a variety from her repertoire from throughout her entire career \u2013 her beginnings with Ike Turner, the 80\u2019s resurgence and later career material. Hits featured are 'River Deep, Mountain High', 'What's Love Got to Do With It', 'Nutbush City Limits', 'The Best' and '24/7'.",
+            "popularity": 1.167,
+            "poster_path": "/5iRALSqo8V25KZFB6Ybrr2L1ng7.jpg",
+            "release_date": "1999-11-24",
+            "title": "Tina Turner: Celebrate!",
+            "video": true,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 847516,
+            "original_language": "fr",
+            "original_title": "J. M. W. Turner",
+            "overview": "The Briton Joseph Mallord William Turner (1775 - 1851) is one of the most productive painters in art history: he created around 32,000 works, mostly landscape paintings. At the age of 14, the Royal Academy in London accepted him as a scholarship holder, and he later became a member there and taught at it. The \u201cmaster of light\u201d, as Turner was called early on, is considered the most famous forerunner of impressionism. Alain Jaubert's film presents the themes and experiences that determined Turner's work and life: natural spectacles, ships and extensive study trips to France, Italy and the Alps.",
+            "popularity": 0.6,
+            "poster_path": "/h2vtROx3UMYW09zo5eqLrMqQEXX.jpg",
+            "release_date": "2009-08-22",
+            "title": "J.M.W. Turner",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "id": 288295,
+            "original_language": "en",
+            "original_title": "Lana Turner... a Daughter's Memoir",
+            "overview": "A rare behind the scenes look at the tragedies and bitter disappointments that plagued one of MGM's most popular leading ladies",
+            "popularity": 1.819,
+            "poster_path": "/9kwua46jQ9n1b99gyDBexXK05hL.jpg",
+            "release_date": "2001-10-01",
+            "title": "Lana Turner... a Daughter's Memoir",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 955188,
+            "original_language": "en",
+            "original_title": "Turner",
+            "overview": "A documentary feature offering a general introduction to the work of the painter J.M.W. Turner.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1966-01-01",
+            "title": "Turner",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 425470,
+            "original_language": "en",
+            "original_title": "Turner",
+            "overview": "Colorful, energetic, delicate and sensual, this early short by M.M. Serra presents her unique vision of eroticism and poetic cinema in a fast-paced collage of dreamlike imagery. Fragments of a poem by C. Breeze are read and manipulated in a manner recalling the tape experiments of Steve Reich. Rich reds and deep blues stutter and sparkle along with her descriptions of love and \"canine sex.\" TURNER is a brief glimpse at Serra's roots in the New York avant-garde and the Film-makers' Cooperative.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1987-01-01",
+            "title": "Turner",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9sdnjmK488BMRL4Zei3en9EEEkn.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 266216,
+            "original_language": "en",
+            "original_title": "Wanted: Jane Turner",
+            "overview": "Investigators set out to capture a gang of thieves transporting stolen cash through the U.S. mail.",
+            "popularity": 0.871,
+            "poster_path": "/bOCn79x9lGAxjnWJOONDpyjNXxV.jpg",
+            "release_date": "1936-12-04",
+            "title": "Wanted: Jane Turner",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s92j3d6MpIOXjtRZqHIVQEO0Kba.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 86419,
+            "original_language": "en",
+            "original_title": "Ike & Tina Turner: The Legends Live in 71",
+            "overview": "In February of 1971, Ike & TIna Turner were at the pinnacle of their career. Their biggest hit \"Proud Mary\" was storming up the charts while their concerts were becoming the stuff of legend. Night after night, the Ike & Tina Revue was tearing up the stage leaving audiences worldwide screaming for more. Reelin' In The Years Productions and Eagle Vision are proud to present The Legends - Live in '71 featuring a never before seen hour long concert recorded in pristine stereo.",
+            "popularity": 1.341,
+            "poster_path": "/yP1hgKmstKYb4nZ0U6gRNvp5Qby.jpg",
+            "release_date": "2004-11-02",
+            "title": "Ike & Tina Turner: Live in '71",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 199617,
+            "original_language": "en",
+            "original_title": "Nat Turner: A Troublesome Property",
+            "overview": "In 1831, Nat Turner led a slave rebellion in the United States that resulted in the murder of local slave owners and their families, the eventual execution of 55 rebels and the retribution lynching of more than 200 innocent slaves. Nat Turner: A Troublesome Property examines how the story of Turner\u2019s revolt has been interpreted throughout history and how it continues to raise new questions about the nature of terrorism and other forms of violent resistance to oppression.  The film adopts an innovative structure by interspersing documentary footage and interviews with dramatizations of these different versions of Turner\u2019s story. A unique collaboration between MacArthur Genius Award feature director Charles Burnett, acclaimed historian of slavery Kenneth S. Greenberg and Academy Award-nominated documentary producer Frank Christopher, Nat Turner is a compelling look at one of history\u2019s most mysterious figures.",
+            "popularity": 1.536,
+            "poster_path": "/5QadxGqotnDX36KqV12tH1mvxZk.jpg",
+            "release_date": "2003-02-16",
+            "title": "Nat Turner: A Troublesome Property",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 384458,
+            "original_language": "en",
+            "original_title": "Tina Turner - What's Love Live",
+            "overview": "What's Love? Tour is the sixth concert tour by American singer, Tina Turner. The tour supported Turner's autobiographical film and its soundtrack entitled What's Love Got to Do with It. The tour primarily visited North America along with a few shows in Europe and Australasia.",
+            "popularity": 1.46,
+            "poster_path": "/aqMeIDl0s4gM7CIaTa09iFVpppr.jpg",
+            "release_date": "1994-09-22",
+            "title": "Tina Turner - What's Love Live",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/usi5057TvWm2CCz6YkKD8WUWkn6.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 171102,
+            "original_language": "en",
+            "original_title": "Tina Turner - All The Best - The Live Collection",
+            "overview": "01. Steamy windows\r 02. Show some respect\r 03. I can't stand the rain\r 04. River deep mountain high\r 05. Missing you\r 06. Goldeneye\r 07. Addicted to love\r 08. Private dancer\r 09. Let's stay together\r 10. What's love got to do with it\r 11. I don't wanna fight\r 12. In your wildest dreams\r 13. When the heartache is over\r 14. We don't need another hero\r 15. It's only love (Bryan Adams with Tina Turner)\r 16. Tonight (David Bowie with Tina Turner)\r 17. Nutbush city limits\r 18. Better be good to me\r 19. Proud Mary\r 20. Whatever you need",
+            "popularity": 1.272,
+            "poster_path": "/npLzr0eaAIlFVu3v0B1IUc5h1T4.jpg",
+            "release_date": "2005-02-28",
+            "title": "Tina Turner: All the Best - The Live Collection",
+            "video": true,
+            "vote_average": 7.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rEIwF9nqMd1PUviEUOTrjPgwv4Y.jpg",
+            "genre_ids": [],
+            "id": 401978,
+            "original_language": "es",
+            "original_title": "Tina Turner: Live from Barcelona",
+            "overview": "In 1990, Tina Turner hit the stage at Olympic Stadium in Barcelona to deliver an absolutely heroic performance in front of 75,000 people.  Turner was in peak form, touring in support of her seventh studio album, Foreign Affair which contained the career-defining hit, The Best.",
+            "popularity": 0.911,
+            "poster_path": "/mE0wA2m1ynrb1Scif0APrrieMFZ.jpg",
+            "release_date": "1990-06-13",
+            "title": "Tina Turner: Live from Barcelona",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 713238,
+            "original_language": "en",
+            "original_title": "Turner Risk",
+            "overview": "A topical yet timeless story about the parallel impacts of both bullying and friendship, Turner Risk focuses on a troubled young man who sets out to effectively reboot his world by clearing out all the negative forces in it.",
+            "popularity": 0.6,
+            "poster_path": "/oAA3MUZFHT02eBwMTqaamtkwQvH.jpg",
+            "release_date": "2020-06-09",
+            "title": "Turner Risk",
+            "video": false,
+            "vote_average": 3.2,
+            "vote_count": 5
+        }
+    ],
+    "total_pages": 5,
+    "total_results": 81
+}

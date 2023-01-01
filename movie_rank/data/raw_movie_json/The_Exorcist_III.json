@@ -1,0 +1,62 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/lEiEC0VbRbht1OiUCgwDFGVFPRL.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 11587,
+            "original_language": "en",
+            "original_title": "The Exorcist III",
+            "overview": "Fifteen years after the original film, the philosophical Lieutenant William F. Kinderman is investigating a baffling series of murders around Georgetown that all contain the hallmarks of The Gemini, a deceased serial killer. His investigation eventually leads him to a catatonic patient in a psychiatric hospital who has recently started to speak, claiming he is The Gemini and detailing the murders, but bears a striking resemblance to Father Damien Karras.",
+            "popularity": 34.387,
+            "poster_path": "/bl6nSPcyqz6xD2Igd2VQvz8qWo0.jpg",
+            "release_date": "1990-08-17",
+            "title": "The Exorcist III",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 570
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 482400,
+            "original_language": "en",
+            "original_title": "Death, Be Not Proud: The Making of \"The Exorcist III\"",
+            "overview": "A 5-part making of documentary from Red Shirt pictures. It starts with a kind of general retrospective and then leads on into more individualized and expansion interviews with different key people in the production.",
+            "popularity": 0.6,
+            "poster_path": "/hSaRWFATecao1wPsNnKsuZp0a6j.jpg",
+            "release_date": "2016-10-25",
+            "title": "Death, Be Not Proud: The Making of \"The Exorcist III\"",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3HrkDSX4FH6au6wb3cjIAmqllUo.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 174650,
+            "original_language": "it",
+            "original_title": "Un urlo dalle tenebre",
+            "overview": "An archaeology student photographs a mysterious naked woman by a waterfall, unaware that she is a female demon called Haggia, who soon takes possession of him via a cursed amulet.",
+            "popularity": 2.519,
+            "poster_path": "/kDPbaz8KdrGIjQGtTy4MmXSds2s.jpg",
+            "release_date": "1975-08-23",
+            "title": "The Return of the Exorcist",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 14
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

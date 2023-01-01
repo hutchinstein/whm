@@ -1,0 +1,80 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qusjc74SWvno7g8EeHww3UVfzZp.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                14
+            ],
+            "id": 11596,
+            "original_language": "en",
+            "original_title": "New Nightmare",
+            "overview": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+            "popularity": 18.677,
+            "poster_path": "/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg",
+            "release_date": "1994-10-13",
+            "title": "New Nightmare",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1123
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                36
+            ],
+            "id": 789232,
+            "original_language": "en",
+            "original_title": "The New World: Nightmare in Jamestown",
+            "overview": "Presents historical background on the Jamestown colony in Virginia.",
+            "popularity": 0.6,
+            "poster_path": "/nr6Juxv57VqX7mz7wCllkwfk1jk.jpg",
+            "release_date": "2005-01-01",
+            "title": "The New World: Nightmare in Jamestown",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6K3O4JJ35ALLzB4uwCvwu3xuzYo.jpg",
+            "genre_ids": [
+                53,
+                10770
+            ],
+            "id": 559302,
+            "original_language": "en",
+            "original_title": "Psycho Prom Queen",
+            "overview": "Following the suspected suicide of her friend and fellow teacher, Julie Taylor is hired to take over the senior math class for the last few weeks of school. It's been a difficult year for Julie and this is a fresh start for her and her teenager daughter Miya. Though Julie hopes that being both the new kid and the new teacher's daughter won't be too hard on Miya, she can't help but worry when her daughter becomes fast friends with the school's resident mean girl, Amy Turner.",
+            "popularity": 4.701,
+            "poster_path": "/qIrnmT5kcqeT2MELbouTNpIc4Nb.jpg",
+            "release_date": "2018-11-04",
+            "title": "Psycho Prom Queen",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 325609,
+            "original_language": "en",
+            "original_title": "Lisa's New Nightmares",
+            "overview": "Omnibus vehicle for Lisa Cook, featuring monsters, masked home invaders and vampires.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1996-01-01",
+            "title": "Lisa's New Nightmares",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

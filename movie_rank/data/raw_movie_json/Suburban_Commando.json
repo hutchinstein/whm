@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1Shfc1ceGtqQnnZzUoL8QZlZ13r.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10751,
+                878
+            ],
+            "id": 11504,
+            "original_language": "en",
+            "original_title": "Suburban Commando",
+            "overview": "Shep Ramsey is an interstellar hero, righting wrongs, etc. His ship is damaged after a fight with an interstellar nasty and he must hide out on Earth until it can recharge. He leaves his power suit at home, but still finds himself unable to allow wrongs to go unrighted and so mixes it up with bad drivers, offensive paperboys, muggers and the like.",
+            "popularity": 7.43,
+            "poster_path": "/hXAIGWdfxCQ1d5XFGcwudNdgagN.jpg",
+            "release_date": "1991-10-04",
+            "title": "Suburban Commando",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 139
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

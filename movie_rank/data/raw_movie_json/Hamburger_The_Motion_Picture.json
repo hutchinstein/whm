@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/VTyHlDfQ25yaZGHREeco7jjCBd.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 52117,
+            "original_language": "en",
+            "original_title": "Hamburger: The Motion Picture",
+            "overview": "Russell has been expelled from several schools for lewd, crude and nude conduct. Busterburger University is his last chance at education and satisfying his disappointed parents",
+            "popularity": 1.779,
+            "poster_path": "/phvXzZDieOOp0eOXBdHBIfqLb8v.jpg",
+            "release_date": "1986-05-05",
+            "title": "Hamburger: The Motion Picture",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 24
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

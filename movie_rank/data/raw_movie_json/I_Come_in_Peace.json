@@ -1,0 +1,101 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 250626,
+            "original_language": "en",
+            "original_title": "Maz Jobrani: I Come in Peace",
+            "overview": "Maz Jobrani goes to Stockholm, Sweden for his third stand-up special and he shows that comedy can truly be a diplomatic tool when he makes an international audience laugh at topics from his family, to racism, politics and media. \"I Come in Peace\" is a comedy special that will have you laughing out loud while making you think.",
+            "popularity": 1.494,
+            "poster_path": "/oPdOUSlKYgL6psTq8MxWBE8KlvK.jpg",
+            "release_date": "2013-01-26",
+            "title": "Maz Jobrani: I Come in Peace",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3za7ykBafg6ilLpWVndoxHOQWU5.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 912425,
+            "original_language": "pt",
+            "original_title": "Eles N\u00e3o Vem em Paz",
+            "overview": "As two brothers watch a news cast about extra terrestrial beings, the older brother uses the opportunity to make an analogy about their world being invaded by unwelcome visitors.",
+            "popularity": 0.6,
+            "poster_path": "/xWOQgRVNugFhJn5FYiV1clTz23K.jpg",
+            "release_date": "2022-08-22",
+            "title": "They Don't Come in Peace",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uE86sRCLjJRqVmknyou0GAfWPjb.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878,
+                80,
+                27
+            ],
+            "id": 19384,
+            "original_language": "en",
+            "original_title": "Dark Angel",
+            "overview": "Jack Caine is a Houston vice cop who's forgotten the rule book. His self-appointed mission is to stop the drugs trade and the number one supplier Victor Manning. Whilst involved in an undercover operation to entrap Victor Manning, his partner gets killed, and a sinister newcomer enters the scene...",
+            "popularity": 16.411,
+            "poster_path": "/jRL2OxZXsGWFVbfoyk4Y0LeI9WS.jpg",
+            "release_date": "1990-01-26",
+            "title": "Dark Angel",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 227
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 158298,
+            "original_language": "en",
+            "original_title": "We Come in Peace",
+            "overview": "Earlier this year, the Swedes of PAIN announced great news for those of you who didn\u2019t have the chance to see them live during the \"You Only Live Twice\" Tour that started in October 2011.  The Band recorded the whole final show of the first leg at Debaser Medis in Stockholm last November and parts of the show at the Masters Of Rock Festival in July 2012 which will be released on DVD together with tons of crazy backstage and \"behind the scenes\" footage.",
+            "popularity": 0.6,
+            "poster_path": "/gODBtCTihBX0feq9BHMaSneoxu4.jpg",
+            "release_date": "2012-11-16",
+            "title": "We Come in Peace",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qeRFWqhG4o9N3IuQC8z1G9f8Uki.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 664977,
+            "original_language": "en",
+            "original_title": "Laibach - We Come In Peace - Kranj",
+            "overview": "Laibach performing at Letno gledalisce Khislstein in Kranj, Slovenia.",
+            "popularity": 0.6,
+            "poster_path": "/9lcWNZawCSBLaNa2kQJ0rQlJYoE.jpg",
+            "release_date": "2012-06-23",
+            "title": "Laibach - We Come In Peace - Kranj",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

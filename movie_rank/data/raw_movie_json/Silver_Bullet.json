@@ -1,0 +1,132 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8G4HmNcSXS0vy2bdVSUARLXIgjj.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 17898,
+            "original_language": "en",
+            "original_title": "Silver Bullet",
+            "overview": "The small city of Tarker's Mill is startled by a series of sadistic murders. The population fears that this is the work of a maniac. During a search a mysterious, hairy creature is observed. This strange appearance is noticed once a month. People lock themselves up at night, but there's one boy who's still outside, he's preparing the barbecue.",
+            "popularity": 17.482,
+            "poster_path": "/52CvWYuJyWcMTPvsfcmsxaVHi7f.jpg",
+            "release_date": "1985-10-10",
+            "title": "Silver Bullet",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AvedyFGsTWzhJjf1B0SiwhYCdNW.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 225611,
+            "original_language": "en",
+            "original_title": "The Silver Bullet",
+            "overview": "A cowboy heads for the town where his father was murdered to find out who was responsible.",
+            "popularity": 1.4,
+            "poster_path": "/wABRNgmRPN6tGH5vg081MQZrUs1.jpg",
+            "release_date": "1942-08-05",
+            "title": "The Silver Bullet",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wzK7X5I05kP3YEbuXjAkYNKlRFf.jpg",
+            "genre_ids": [
+                37,
+                10749
+            ],
+            "id": 773156,
+            "original_language": "en",
+            "original_title": "The Silver Bullet",
+            "overview": "Tom Henderson is made Sheriff of Chico to fight Slim Walker's gang. Unknown to Tom, banker Luke Hargrave is the gang's real boss. Dad Kane is looking for the man that blinded him whom he can remember by his voice. He finds him when the gang robs the bank and Tom chases them down.",
+            "popularity": 0.6,
+            "poster_path": "/xwQRTCkAZ3bqgWZcu3AIFX8DmLK.jpg",
+            "release_date": "1935-05-11",
+            "title": "The Silver Bullet",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 821268,
+            "original_language": "ja",
+            "original_title": "OZ Academy Silver Bullet",
+            "overview": "Oz Academy 2021.04.04 event in Korauken Hall, Tokyo",
+            "popularity": 0.6,
+            "poster_path": "/oBkFpiGPm7pNkiH6W34RDSgDgkK.jpg",
+            "release_date": "2021-04-04",
+            "title": "OZ Academy Silver Bullet",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1052700,
+            "original_language": "en",
+            "original_title": "Bob Seger and The Silver Bullet Band: All Time Rock'N'Roll",
+            "overview": "Live Concert Footage",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Bob Seger and The Silver Bullet Band: All Time Rock'N'Roll",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 194909,
+            "original_language": "en",
+            "original_title": "Bob Seger and The Silver Bullet Band - Live at Capital Center Largo MD",
+            "overview": "Bob Seger, and his band, The Silver Bullet Band, performed in  1980, at the Capital Center, in Largo, MD. Bob rocks and plays his  greatest hits. The only known pro-shot show from Detroit's rock legend Bob Seger &amp; the Silver Bullet Band.  This show was recorded over 30 years ago during his 1980's \"Against the Wind\" tour.",
+            "popularity": 0.62,
+            "poster_path": null,
+            "release_date": "1980-01-04",
+            "title": "Bob Seger and The Silver Bullet Band - Live at Capital Center Largo MD",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nt3cOYHjZ9YXle1776le4gL0gCO.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 77884,
+            "original_language": "en",
+            "original_title": "Silver Bullets",
+            "overview": "An actress and her filmmaker boyfriend experience turbulence in their relationship when she accepts a role in a werewolf film.",
+            "popularity": 1.151,
+            "poster_path": "/o07WNwjmU1zWSsO2ta7d0BPKjua.jpg",
+            "release_date": "2011-10-28",
+            "title": "Silver Bullets",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 16
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

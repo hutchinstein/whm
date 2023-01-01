@@ -1,0 +1,25 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/do3RXPOvnMjbJQCM0kJ87husGe6.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 10906,
+            "original_language": "en",
+            "original_title": "Pet Sematary II",
+            "overview": "The \"sematary\" is up to its old zombie-raising tricks again. This time, the protagonists are Jeff Matthews, whose mother died in a Hollywood stage accident, and Drew Gilbert, a boy coping with an abusive stepfather.",
+            "popularity": 20.569,
+            "poster_path": "/9g6ngNlHOfMfQnaKkw9468p67d4.jpg",
+            "release_date": "1992-08-28",
+            "title": "Pet Sematary II",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 423
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,393 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9EpgaLS44zlXoTSAOhGiJmkIA4B.jpg",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "id": 8814,
+            "original_language": "en",
+            "original_title": "Doom",
+            "overview": "A team of space marines known as the Rapid Response Tactical Squad, led by Sarge, is sent to a science facility on Mars after somebody reports a security breach. There, they learn that the alert came after a test subject, a mass murderer purposefully injected with alien DNA, broke free and began killing people. Dr. Grimm, who is related to team member Reaper, informs them all that the chromosome can mutate humans into monsters -- and is highly infectious.",
+            "popularity": 22.57,
+            "poster_path": "/eVjlW6aOjqEohH4Ph4PktyH4fMr.jpg",
+            "release_date": "2005-10-20",
+            "title": "Doom",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 1880
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kNGW6f47HUk0hISjj1AvXoLNL3L.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27,
+                9648
+            ],
+            "id": 520901,
+            "original_language": "en",
+            "original_title": "Doom: Annihilation",
+            "overview": "A group of UAC Marines responds to a distress call from a top-secret scientific base on Phobos, a Martian moon, only to discover it's been overrun by demons.",
+            "popularity": 21.138,
+            "poster_path": "/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg",
+            "release_date": "2019-09-30",
+            "title": "Doom: Annihilation",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8EKxPfuEMg1qP0E1r1ZAk56J7MP.jpg",
+            "genre_ids": [
+                28,
+                16,
+                878
+            ],
+            "id": 76589,
+            "original_language": "en",
+            "original_title": "Justice League: Doom",
+            "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
+            "popularity": 32.427,
+            "poster_path": "/seCbcjdZYUl8SRKjeWfyi2ngzFj.jpg",
+            "release_date": "2012-02-28",
+            "title": "Justice League: Doom",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 719
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mOfZF0uhKvBByQfPEr7R1kUG8KI.jpg",
+            "genre_ids": [
+                16,
+                28,
+                35,
+                10751
+            ],
+            "id": 57718,
+            "original_language": "en",
+            "original_title": "Megamind: The Button of Doom",
+            "overview": "For their first day on the job as the new protectors of Metro City, Megamind and Minion are selling off the gadgets from their evil lair. But when one seemingly harmless \"button\" unleashes the gigantic robot MEGA-MEGAmind, the duo will have to resort to their old tricks to restore order.",
+            "popularity": 23.871,
+            "poster_path": "/3uKLJ8x5fgggTH4BGGwuUNuf8h0.jpg",
+            "release_date": "2011-02-25",
+            "title": "Megamind: The Button of Doom",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9mHvO0PzmEgxDtmRq3VeTVELYqb.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80,
+                18
+            ],
+            "id": 13552,
+            "original_language": "en",
+            "original_title": "The Doom Generation",
+            "overview": "Jordan White and Amy Blue, two troubled teens, pick up an adolescent drifter, Xavier Red. Together, the threesome embarks on a sex and violence-filled journey through an United States of psychos and quickie marts.",
+            "popularity": 12.918,
+            "poster_path": "/mcISIatRSaP30WZQh1G4ZqLVWQA.jpg",
+            "release_date": "1995-10-27",
+            "title": "The Doom Generation",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oii9ijqR6hDO1dS6u8CTBF3AnE0.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 87,
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Temple of Doom",
+            "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+            "popularity": 43.277,
+            "poster_path": "/wdv7EdutnHid5J0GERoq8lWUfq9.jpg",
+            "release_date": "1984-05-23",
+            "title": "Indiana Jones and the Temple of Doom",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 7753
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p3N3x2TWn2s5ZehmnNXjQoMNsKN.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 17135,
+            "original_language": "en",
+            "original_title": "Omega Doom",
+            "overview": "After earth is taken over by an army of robots, the small number of humans left are forced into hiding. In the nuclear winter, only droids walk the face of the earth, in fear of the rumored human resurgence, and in search of a hidden cache of weapons. One robot, his evil circuits destroyed, enters a small town where a robot civil war is taking place.",
+            "popularity": 4.791,
+            "poster_path": "/qv1pcO0reE85Doet0erBsOQEWPC.jpg",
+            "release_date": "1996-01-01",
+            "title": "Omega Doom",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ShPhAcdczflovQszzKXxn5iHJP.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 67729,
+            "original_language": "en",
+            "original_title": "Doom Asylum",
+            "overview": "A demented coroner uses autopsy equipment to kill off the teenagers who trespass on the long-abandoned asylum he inhabits. Filmed on location in an actual abandoned asylum.",
+            "popularity": 4.511,
+            "poster_path": "/gszNkyba7UwCoJdjH0JKJTmSaBt.jpg",
+            "release_date": "1988-03-02",
+            "title": "Doom Asylum",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/odeCHA0nEhymzW1NzLyKGvs1MXS.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                27
+            ],
+            "id": 406052,
+            "original_language": "en",
+            "original_title": "Mostly Ghostly 3: One Night in Doom House",
+            "overview": "Just one enchanted jewel stands between earth and an army of evil spirits led by the devious ghoul, Phears. With the help of his new girlfriend and ghost pals, Max Doyle races to find the crystal and save the world.",
+            "popularity": 11.916,
+            "poster_path": "/dFJGCz8OvyC0U2bldruBH8OJrp6.jpg",
+            "release_date": "2016-09-06",
+            "title": "Mostly Ghostly 3: One Night in Doom House",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/80GN05epU38fkAS28xlS1H9zjgg.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 92426,
+            "original_language": "en",
+            "original_title": "Land of Doom",
+            "overview": "Earth has been ravaged by a nuclear war, and a feminist warrior is forced to join up with a soldier of fortune in her journey to find a rumored \"paradise\" as they battle gangs of rampaging bandits.",
+            "popularity": 3.083,
+            "poster_path": "/62EvSWLKH3zEtiYK8eMNWnQwhJe.jpg",
+            "release_date": "1986-01-01",
+            "title": "Land of Doom",
+            "video": false,
+            "vote_average": 3.2,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/psMk4C6edueOKxxLvfExpLZPx3T.jpg",
+            "genre_ids": [
+                10770
+            ],
+            "id": 266064,
+            "original_language": "en",
+            "original_title": "Doom Runners",
+            "overview": "In a post-apocalyptic world, a group of children move from one uncertain world to another in their quest for sanctuary.",
+            "popularity": 1.863,
+            "poster_path": "/i0V9prxFvmz5M0ImhSkL11NcJ2d.jpg",
+            "release_date": "1997-12-20",
+            "title": "Doom Runners",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZwB18I2TlpEoPjcRQGn0WtW2Pl.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 36375,
+            "original_language": "en",
+            "original_title": "Edge of Doom",
+            "overview": "A priest sets out to catch the man who killed one of his colleagues.",
+            "popularity": 2.334,
+            "poster_path": "/ctWWBKph5z5KEZIwetYSmULUPga.jpg",
+            "release_date": "1950-08-03",
+            "title": "Edge of Doom",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5XNEf3tYfKuu1nHlqffdoyiXCtQ.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                10751,
+                35
+            ],
+            "id": 353595,
+            "original_language": "en",
+            "original_title": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+            "overview": "Crime is on the run as the newly formed Justice League keeps Metropolis safe and this makes evil genius Lex Luthor very unhappy. Together with Black Manta, Sinestro and a gang of ruthless recruits, Lex builds his own league and declares them the Legion of Doom. With this super powered team of terror and a plan to attack the top-secret government site, Area 52, can Lex finally be on the verge of victory? Sound the alarm and get ready for the bricks to fly when Superman, Batman, Wonder Woman and the rest of the Justice League face off against the world's greatest Super-Villains! It's the next all-new original movie from LEGO\u00ae and DC Comics.",
+            "popularity": 14.266,
+            "poster_path": "/sQktXbJSac5xkGDo2sXkEvNRqAb.jpg",
+            "release_date": "2015-08-25",
+            "title": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 72695,
+            "original_language": "en",
+            "original_title": "Necronos: Tower of Doom",
+            "overview": "Necronos, one of the mightiest minions of the devil himself has come to earth to create an invincible army of the undead under leadership of barbaric demons, called Berzerkers. To achieve his goal Necronos needs numerous often very macabre and difficult to come by ingredients. So Satan sends him two assistants to achieve his goal - Goran, a Blood Demon and footman loyal to Necronos as well as The Mighty Witch to locate the chosen one - a virgin witch.",
+            "popularity": 1.566,
+            "poster_path": "/3HdX3Buku6nNQ8uJwKLw0WKxqKI.jpg",
+            "release_date": "2010-12-05",
+            "title": "Necronos: Tower of Doom",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 23588,
+            "original_language": "da",
+            "original_title": "Baby Doom",
+            "overview": "Max is a programmer, Nicoline is a chef, and they are both young, in love, and ambitious. Then lightning strikes: they have a baby. From that day on, nothing is ever the same again. Max, who has just been promoted, is certain he has everything well in hand. He has just invented the LifeOrganizer interactive personal scheduler designed to make life easier. But having to endure a baby with colic, piled-up washing and missed deadlines, Max and Nicoline's bachelor lifestyle is put to the test. There are only 24 hours in a day, or are there? With many wacky smiles and lashings of gallows-humour Peter Gren Larsen depicts the stressed out situation young couples face when baby throws a spanner in your career. Max and Nicoline go through an awful lot, including a trial separation, before they accept that kids change your life.",
+            "popularity": 0.84,
+            "poster_path": "/sEvWEfFTs3U9a39UywNbV58AF96.jpg",
+            "release_date": "1998-03-20",
+            "title": "Baby Doom",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dKnR4P6XtgbAnV690Kw4UMvylZg.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 135141,
+            "original_language": "en",
+            "original_title": "Doctor of Doom",
+            "overview": "A doctor goes to a dinner party where he's made fun of and soon afterwards returns home and sends a monster to attack the people.",
+            "popularity": 1.687,
+            "poster_path": "/lJyrHFaR35XPfYzg3XBL8EiK1Sh.jpg",
+            "release_date": "1979-07-10",
+            "title": "Doctor of Doom",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sVI5JSSDW9h5NmGyWJxq2gjHMbp.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80,
+                9648
+            ],
+            "id": 175240,
+            "original_language": "en",
+            "original_title": "Point Doom",
+            "overview": "A Hollywood talent agent's girlfriend thrusts him into a world of strip clubs, drugs and deadly motorcycle gangs.",
+            "popularity": 1.176,
+            "poster_path": "/aaKCXwDbL2fMj9SKvKA6ascQ5p6.jpg",
+            "release_date": "2000-06-08",
+            "title": "Point Doom",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                27
+            ],
+            "id": 27487,
+            "original_language": "en",
+            "original_title": "Fort Doom",
+            "overview": "1867. The Civil War is over but in the untamed West, old feuds still burn - and old evils still live. When beautiful madam Lacy Everett decides to pack up her establishment and move it deeper West, she heads for untamed territory and the infamous Fort Doom. But the girls find themselves stranded miles away from their destination, as no traveler dares approach the deadly fort, rumored to be terrorized by a gruesome killer. Determined to set up shop, Lacy and her crew take over the Fort. But the killer is no legend - and he will take what is his...",
+            "popularity": 1.15,
+            "poster_path": "/3Wq9UbeV53AHAYb9UxVfbc2cMIL.jpg",
+            "release_date": "2004-04-07",
+            "title": "Fort Doom",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1059765,
+            "original_language": "en",
+            "original_title": "Aloe Gramme (Doom harbinger of Lieknes)",
+            "overview": "Video installation, in which the Doom harbinger of Lieknes relives his memories of a universe that soon gets disintegrated.",
+            "popularity": 2.555,
+            "poster_path": "/5yrqF5YLHV7Yq4nkA5oAFk7d5p0.jpg",
+            "release_date": "2022-12-09",
+            "title": "Aloe Gramme (Doom harbinger of Lieknes)",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 874077,
+            "original_language": "pt",
+            "original_title": "Doom",
+            "overview": "Not recognizing the past does not mean ignoring it, and not believing in the future does not negate that something is yet to come. In distrusting these two extremes, it is better to admit our anxiety and bet on the present and on our mistakes. (Raphael Fonseca)",
+            "popularity": 0.6,
+            "poster_path": "/g3nUwDF4D4UhwU4b3jIrVaMCXNK.jpg",
+            "release_date": "2021-09-06",
+            "title": "Doom",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 15,
+    "total_results": 295
+}

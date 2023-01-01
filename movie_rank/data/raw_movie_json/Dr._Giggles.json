@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/kApk87Nb3tW1ZM99aE3IQxAvTte.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 37527,
+            "original_language": "en",
+            "original_title": "Dr. Giggles",
+            "overview": "In 1957, Evan Rendell flees after his father is lynched for killing multiple patients in his effort to find a replacement heart for his ailing wife. After 35 years, Evan escapes from a mental institution and returns to town for revenge, killing off residents one by one. When Jennifer and her friends break into the Rendell house out of morbid curiosity, Evan notices Jennifer has a heart condition similar to his mother and decides to make her his final victim.",
+            "popularity": 10.486,
+            "poster_path": "/AmyUWmewARhT4FSlehp4belQM7p.jpg",
+            "release_date": "1992-10-23",
+            "title": "Dr. Giggles",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 117
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,95 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/pv14044BvwTzLaGxvseDDtrR96J.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 15797,
+            "original_language": "en",
+            "original_title": "Only the Strong",
+            "overview": "Former Green Beret Louis Stevens returns to his hometown of Miami after completing military service in Brazil, only to learn that his old high school has become a haven for gangs and drug dealers. After Stevens uses his capoeira skills to kick several drug dealers off of the school property, Kerrigan, one of Stevens' old teachers, sees the impact that Stevens has on the students. Kerrigan gives him the task of teaching Capoeira to a handful of the worst at-risk students at the school.",
+            "popularity": 12.244,
+            "poster_path": "/91qSXvdOKAFqU8kYdq0lWbRK11q.jpg",
+            "release_date": "1993-08-27",
+            "title": "Only the Strong",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 85472,
+            "original_language": "en",
+            "original_title": "Only the Strong Survive",
+            "overview": "A film featuring the veteran soul music artists and music of Stax Records.",
+            "popularity": 1.4,
+            "poster_path": "/6D0qlwj9RFx1MbNy9Tk20hUmcsN.jpg",
+            "release_date": "2002-01-14",
+            "title": "Only the Strong Survive",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 252099,
+            "original_language": "en",
+            "original_title": "ROH: Only The Strong Survive",
+            "overview": "Roderick Strong(c) vs Jay Briscoe (ROH World Championship)",
+            "popularity": 0.6,
+            "poster_path": "/51QmLdZkNMV4aj3Qa3FJOfy3jeW.jpg",
+            "release_date": "2011-01-15",
+            "title": "ROH: Only The Strong Survive",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "id": 763013,
+            "original_language": "en",
+            "original_title": "Third Avenue: Only the Strong Survive",
+            "overview": "This Emmy Award-winning documentary tells the stories of six \"ordinary\" people who live or work along New York City's Third Avenue, which runs for sixteen miles through Manhattan, Brooklyn, and the Bronx, cutting through the complex social strata of the city to reveal wildly different economic and ethnic subcultures. The subjects speak for themselves, offering candid glimpses into the disparate worlds of a junkyard dealer who steals cars, a Bowery bum and the wife he abandoned, a welfare mother living in a condemned building with her five children, a male prostitute, a devout Puerto Rican factory worker, and an aging Italian barber and his wife. Called \"a triumph of its kind\" by The Washington Post, this unsentimental portrait of the uncommon lives of common people is a subjective sociological study of survival in urban America.",
+            "popularity": 0.62,
+            "poster_path": "/78uf5Yz64MHkY1eJRxBXvsx6v3Q.jpg",
+            "release_date": "1980-11-03",
+            "title": "Third Avenue: Only the Strong Survive",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 310469,
+            "original_language": "en",
+            "original_title": "The Texas Boyz: Only the Strong Survive",
+            "overview": "In this concert recorded live in Morton, Miss., gospel's Texas Boyz perform their hand-raising praise music that never fails to bring audiences to their feet. From \"You Can Depend on Jesus\" to \"Pray the Devil Away,\" the Boyz lead fans on an inspiring musical journey that includes a medley of their hits such as \"Victory Shall Be Mine\" and \"No Friend Like God.\" Bonus footage introduces you to the members of this gospel group.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2007-01-01",
+            "title": "The Texas Boyz: Only the Strong Survive",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

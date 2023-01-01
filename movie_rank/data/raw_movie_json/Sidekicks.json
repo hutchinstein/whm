@@ -1,0 +1,140 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/a3S18QJSHBG5LGjcVakchCGbseM.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                10751
+            ],
+            "id": 22590,
+            "original_language": "en",
+            "original_title": "Sidekicks",
+            "overview": "An otherwise rejected or ignored boy creates a fantasy pal from his martial arts movie hero.",
+            "popularity": 9.538,
+            "poster_path": "/g22ZVQlFwUNfiYFagzEXDbuds6R.jpg",
+            "release_date": "1992-12-17",
+            "title": "Sidekicks",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                37,
+                10770
+            ],
+            "id": 237788,
+            "original_language": "en",
+            "original_title": "Sidekicks",
+            "overview": "Travelling through the West right after the Civil War, two con men hatch a scheme to try to collect the fifteen thousand dollar bounty offered for the capture of an outlaw.",
+            "popularity": 0.878,
+            "poster_path": "/jPDwfIbVIjoGrbDIsuD9fXiQuy6.jpg",
+            "release_date": "1974-03-21",
+            "title": "Sidekicks",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14,
+                10751
+            ],
+            "id": 501466,
+            "original_language": "en",
+            "original_title": "Sidekicks",
+            "overview": "When the fairy tale heroes go missing, the sidekicks step up to save the day and prevent the villains from stealing and rewriting the storybook.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "title": "Sidekicks",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                10402,
+                10751,
+                10770
+            ],
+            "id": 732087,
+            "original_language": "en",
+            "original_title": "The Naked Brothers Band: Sidekicks",
+            "overview": "Everybody is excited about the end of the year masquerade party at Amigos Middle School, which unfortunately coincides with the prom at Amigos High School. While the band argues over their costumes, Rosalina decides she's rather hang out with the band at the middle school dance even though she's a in high school. Nat, thinking he's doing her a favor, pushes her into going to the prom with the most popular senior, Wade Killgallen, and then immediately doubts his decision. Patrice Johnson, \"the most popular freshman\" is furious that Wade is going with Rosalina, and forces Nat into being her date. Meanwhile, Thomas and David pull off the prank of all pranks, and then Cooper takes the fall for his buddies, making him a hero in the eyes of Ms. Scoggins. Nat and Rosalina ditch the prom early for the masquerade party, where the Naked Brothers Band rocks the house with a performance of \"I Don't Wanna Go to School\".",
+            "popularity": 0.6,
+            "poster_path": "/oL7PvAeVOOHXvSt7u2JvF4R6VTd.jpg",
+            "release_date": "2008-01-21",
+            "title": "The Naked Brothers Band: Sidekicks",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 588606,
+            "original_language": "en",
+            "original_title": "Land of the Lost Sidekicks",
+            "overview": "A short, bringing all of the side kick characters in Walt Disney's animated films expressing their importance.",
+            "popularity": 0.6,
+            "poster_path": "/bvNkPSOIIfsCoVtIaPGBbuYzv96.jpg",
+            "release_date": "2016-10-01",
+            "title": "Land of the Lost Sidekicks",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1001656,
+            "original_language": "en",
+            "original_title": "Nonoy Garote And The Sidekicks",
+            "overview": "Nonoy Garote and the Sidekicks: Directed by Efren C. Pi\u00f1on. With Chiquito, Tugak, Ronnel Victor, Gilbert Gardner.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Nonoy Garote And The Sidekicks",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 478153,
+            "original_language": "en",
+            "original_title": "SideKicked",
+            "overview": "A sidekick who tries to do good by the city he swore to protect despite the villains and new superhero that stand in his way.",
+            "popularity": 0.6,
+            "poster_path": "/jEZWIRpgKCyzsboszY0eYnKmBxd.jpg",
+            "release_date": "2016-01-14",
+            "title": "SideKicked",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

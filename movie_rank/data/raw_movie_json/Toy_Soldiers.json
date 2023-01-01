@@ -1,0 +1,81 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/w5U8GsNxnbn9tCXpfaTFjxR3az4.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 10750,
+            "original_language": "en",
+            "original_title": "Toy Soldiers",
+            "overview": "After federal agents arrest a drug czar and put him on trial, the cartel leader's vicious son storms a prep school and takes its students hostage. They rebel against the armed intruders and try to take back their academy by any means necessary.",
+            "popularity": 13.648,
+            "poster_path": "/nL3ccvqU1Wq1j31feHWAydzpbr2.jpg",
+            "release_date": "1991-04-24",
+            "title": "Toy Soldiers",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pUuAoqX2SuBSfLVWwYMXbztjY1c.jpg",
+            "genre_ids": [
+                18,
+                28,
+                53
+            ],
+            "id": 119540,
+            "original_language": "en",
+            "original_title": "Toy Soldiers",
+            "overview": "While on a vacation in Central America, some American teenagers are kidnapped by terrorists. A rescue mission is sent after them, but they manage to escape and join up with a mercenary fighting the terrorists.",
+            "popularity": 3.219,
+            "poster_path": "/ymT2V8w547T8RChg91uQkORdPwC.jpg",
+            "release_date": "1984-11-01",
+            "title": "Toy Soldiers",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cR9Vrdajld5GvdIGMkYFCghYyhD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 269026,
+            "original_language": "en",
+            "original_title": "The Toy Soldiers",
+            "overview": "On one evening in a decade of sex, drugs and rock 'n' roll, the innocence of youth and family unravels. Five parallel coming-of-age stories dramatize the stages of grief. A youthful mother in a custody battle over her children, finds tranquility with the bottle. The abuse of her ex-husband still haunts the children; a nineteen year old drug addict, and his younger brother, a bullied closet homosexual.There's the story of the dog; a teen who offers sexual favors to gain acceptance, the challenged classmate who would do anything for her love, and the redhead beauty, haunted by a secret, tragic past. These lives and others will change forever on this final evening before their hangout, The Toy Soldiers Roller Rink, closes its doors for the final time.",
+            "popularity": 1.211,
+            "poster_path": "/iOtfK7gJd1FBbbzNZVvjqpNxGIn.jpg",
+            "release_date": "2014-11-14",
+            "title": "The Toy Soldiers",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 429185,
+            "original_language": "en",
+            "original_title": "Toy Soldiers",
+            "overview": "In 1969 a young boy believes that his actions at home will control the fate of his father who is fighting in Vietnam.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1996-01-01",
+            "title": "Toy Soldiers",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+}

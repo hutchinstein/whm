@@ -1,0 +1,376 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/c3KyX7aoEWkyroJXzpexXCyR2T8.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 10685,
+            "original_language": "en",
+            "original_title": "The Watcher",
+            "overview": "FBI agent Joel Campbell, burnt-out and shell-shocked after years spent chasing serial killers, flees L.A. to begin a new life for himself in Chicago. But five months later, Joel's best laid plans are abruptly cut short when his new hometown becomes the setting for some particularly gruesome murders--murders that could only have been committed by one man: David Allen Griffin. One of Joel's most elusive and cunning nemeses, Griffin has followed his former pursuer to Chicago in order to play a sadistic game of cat and mouse. Taunting Joel with photographs of his intended victims and leaving his crime scenes meticulously free of clues in order to keep the police at bay, Griffin derives as much pleasure out of watching Joel react to every movement as watching his victims die. But when Griffin moves into Joel's inner circle, Joel must quickly find some way to stop him before someone close to him becomes the next one to die.",
+            "popularity": 14.742,
+            "poster_path": "/z4PjLZa3Eizu6bNFAatmk88yrG4.jpg",
+            "release_date": "2000-09-08",
+            "title": "The Watcher",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 410
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/QmXlDcbNAcCvsXcCsw0tMgRaG2.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 421049,
+            "original_language": "en",
+            "original_title": "The Watcher",
+            "overview": "Unaware of its terrible history, a young couple purchases their dream home. But it soon becomes clear that they may not be alone in the house... and that someone -- or something -- is determined to drive them out.",
+            "popularity": 4.974,
+            "poster_path": "/mVQYgAZCgkRRSWC2gnj71Ndj19T.jpg",
+            "release_date": "2016-10-01",
+            "title": "The Watcher",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fsPfjKLegKyMIHHk3fZbQMp5EQ4.jpg",
+            "genre_ids": [
+                14,
+                27,
+                53
+            ],
+            "id": 21970,
+            "original_language": "en",
+            "original_title": "The Watcher in the Woods",
+            "overview": "After an American family moves to an old country manor in rural England, one of the daughters is tormented by the spirit of the owner's long lost daughter, who mysteriously disappeared 30 years ago during a solar eclipse.",
+            "popularity": 10.928,
+            "poster_path": "/j4kjHIwirSWsEUhmvAY7OLUbszM.jpg",
+            "release_date": "1980-04-17",
+            "title": "The Watcher in the Woods",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/knRoE689y2Kl6y5S9i62O6jmuZj.jpg",
+            "genre_ids": [
+                27,
+                10770
+            ],
+            "id": 479837,
+            "original_language": "en",
+            "original_title": "The Watcher in the Woods",
+            "overview": "Mrs. Aylwood is a distraught mother since her daughter, Karen, vanished in the English countryside over 20 years ago. When the Carstairs family move into the Aylwood manor for the summer, strange occurrences begin to unnerve the family and Jan begins to suspect that they are linked to Karen's disappearance. As Jan unravels the dark past hidden by the townspeople, she delves further into the mystery and deeper into danger, but now it might be too late to escape the Watcher in the Woods.",
+            "popularity": 4.165,
+            "poster_path": "/gWvPRXdcgfPlY7Ho7lDal5sCTqL.jpg",
+            "release_date": "2017-10-21",
+            "title": "The Watcher in the Woods",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 421032,
+            "original_language": "es",
+            "original_title": "The Watcher (El Vigilante)",
+            "overview": "",
+            "popularity": 1.4,
+            "poster_path": null,
+            "title": "The Watcher (El Vigilante)",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cTon86wOrPrw77Zw00qv7eX27El.jpg",
+            "genre_ids": [
+                53,
+                35,
+                10749
+            ],
+            "id": 869808,
+            "original_language": "id",
+            "original_title": "The Watcher",
+            "overview": "Krishna who had to languish at home because of an injury. In order not to get bored, he uses the binoculars his friends gave him to look at his beautiful neighbor named Tiara.  One day, Krishna accidentally found out that a group of people were planning to kidnap Tiara. He tried to stop the plan before it was too late.",
+            "popularity": 0.6,
+            "poster_path": "/8525wOLex8AYI2OJNtHPQvrGZuL.jpg",
+            "release_date": "2021-09-24",
+            "title": "The Watcher",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 635514,
+            "original_language": "en",
+            "original_title": "The Watcher",
+            "overview": "There are many tales from the Heights, a drug-fueled Kingdom where brutality reigns, a place where the right postcode sells you a wrap or the wrong one buys you a bullet. Every street has a story, every person has a tale.",
+            "popularity": 0.6,
+            "poster_path": "/96VWXJuJuivfpenIEBwzHjYlgmE.jpg",
+            "release_date": "2011-06-12",
+            "title": "The Watcher",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3asr3lcQJGp7aGN9JRB7Aehjzst.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 53491,
+            "original_language": "en",
+            "original_title": "The Clock Watcher",
+            "overview": "Donald takes a job as a gift wrapper in a department store.",
+            "popularity": 3.169,
+            "poster_path": "/vjbBTgm72VEFCeS7VZbtruu0XG0.jpg",
+            "release_date": "1945-01-26",
+            "title": "The Clock Watcher",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 839342,
+            "original_language": "en",
+            "original_title": "The Watcher",
+            "overview": "A teenage girl finds herself plagued by a mysterious man only she can see. He is known to her as The Watcher. In an attempt to face her fears, she learns the danger of curiosity and the ease at which people can become the monster in someone else's story.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "The Watcher",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uWeBTt2DeDfx48mRa8I14pnTXLI.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 873710,
+            "original_language": "zh",
+            "original_title": "The Watcher",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/3SLwdvHh9Q2ljZcml7cfHo7qsWm.jpg",
+            "release_date": "2011-07-28",
+            "title": "The Watcher",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMos5Z4q4QHd2Mv50D7W8Rs07yX.jpg",
+            "genre_ids": [
+                53,
+                18,
+                9648
+            ],
+            "id": 427124,
+            "original_language": "en",
+            "original_title": "The Watcher Self",
+            "overview": "The Watcher Self is an unsettling psychosexual chiller written and directed by Matt Cruse about one woman's descent into hell. Cora (Karen French) begins her day facing the consequences of a nightmare. Struggling to maintain a normal routine, she engages in a series of emotionally detached encounters and experiences a confusing psychological connection with the strange and elusive Van (Julian Shaw). Then echoes from the past threaten to derail her tenuous state of mind, and Cora becomes increasingly dislocated from her surroundings. Is she going insane, or is it something else? The Watcher Self is about what remains when the layers of sanity are gradually stripped away... and what may or may not be real.",
+            "popularity": 0.6,
+            "poster_path": "/k9FIDbEpQEa83RtFOgZck35DEF5.jpg",
+            "release_date": "2016-03-25",
+            "title": "The Watcher Self",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 21971,
+            "original_language": "en",
+            "original_title": "The Watcher in the Woods",
+            "overview": "Wade, a young bootlegger discovers his partner's dead body in the woods and finds himself hunted by an urban criminal. Pushed to the limit Wade turns the tables and gets his revenge.",
+            "popularity": 1.208,
+            "poster_path": null,
+            "release_date": "2009-01-01",
+            "title": "The Watcher in the Woods",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 412987,
+            "original_language": "en",
+            "original_title": "The Watcher of Park Ave",
+            "overview": "Blanche Montgomery finds herself in the a dangerous mix of paranoia and frustration as stories emerge of a Serial Killer who has been terrorizing the neighborhood she is currently living in.",
+            "popularity": 0.6,
+            "poster_path": "/rLogRuzOscDcXHndDdJybvQqLAx.jpg",
+            "release_date": "2017-12-29",
+            "title": "The Watcher of Park Ave",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                16
+            ],
+            "id": 1063057,
+            "original_language": "en",
+            "original_title": "The Watcher",
+            "overview": "Set directly after Scarlet Witch, we witness the unraveling of the Marvel Multiverse here on Slightly Insulting, from the eyes of the Watcher Uatu",
+            "popularity": 0.6,
+            "poster_path": "/c0PwwXOvNMT9EY4QnuZbpwJrmZL.jpg",
+            "release_date": "2021-08-13",
+            "title": "The Watcher",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 769672,
+            "original_language": "en",
+            "original_title": "The Silent Watcher",
+            "overview": "The Silent Watcher is a lost 1924 American silent melodrama film directed by Frank Lloyd. It stars Glenn Hunter and Bessie Love.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1924-10-05",
+            "title": "The Silent Watcher",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 1052849,
+            "original_language": "en",
+            "original_title": "The Watcher's Woods",
+            "overview": "A documentary filmmaker and his crew break into a crime scene only to come face to face with a mysterious old man.",
+            "popularity": 0.6,
+            "poster_path": "/neRxwMfSt1q29v4wtshme49bSgN.jpg",
+            "release_date": "2017-10-09",
+            "title": "The Watcher's Woods",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/izqnNQMlZWoGxs8RhX29Zs8Vign.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 437375,
+            "original_language": "en",
+            "original_title": "Looking Glass",
+            "overview": "A psycho- sexual thriller following a couple that buys an old motel in the desert looking for a new beginning, but what seemed at first as an escape is soon a thrilling ride through a mysterious world when Ray discovers a two way mirror and witnesses a horrifying murder. In a twisted game of cat and mouse, Ray must race to save his wife and himself from a gruesome secret connected to the motel and the strange people who visit there.",
+            "popularity": 13.012,
+            "poster_path": "/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg",
+            "release_date": "2018-02-16",
+            "title": "Looking Glass",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jFHFDD5J6NZ0SlTkF617amXuBDi.jpg",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "id": 64649,
+            "original_language": "ja",
+            "original_title": "\u6c5f\u6238\u5ddd\u4e71\u6b69\u731f\u5947\u9928\u3000\u5c4b\u6839\u88cf\u306e\u6563\u6b69\u8005",
+            "overview": "The landlord of a boarding house in 1923 Tokyo, is keen on spying on the bizarre close encounters taking place beneath his roof. One day he sees a prostitute killing a customer, and decides he's found his soulmate.",
+            "popularity": 3.749,
+            "poster_path": "/b4xn8WRZyGVtJNGBbbiX7v3K52t.jpg",
+            "release_date": "1976-06-12",
+            "title": "The Watcher in the Attic",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 705214,
+            "original_language": "uk",
+            "original_title": "\u0412\u0430\u0440\u0442\u043e\u0432\u0438\u0439 \u0447\u0430\u0441\u0443",
+            "overview": "A documentary film about a worker of the school cloakroom.",
+            "popularity": 0.6,
+            "poster_path": "/uzG8KDm4Fv64Bi05mWHQYXklqBw.jpg",
+            "release_date": "2020-05-16",
+            "title": "The watcher",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5oKuVm6OHYA7fO0XtC2YZkwP1sw.jpg",
+            "genre_ids": [
+                80,
+                12,
+                35
+            ],
+            "id": 337211,
+            "original_language": "ru",
+            "original_title": "\u041d\u0435\u0443\u043b\u043e\u0432\u0438\u043c\u044b\u0435",
+            "overview": "Night in the center of Moscow hit by a girl, she urgently needs complex operations. Her friend Kira finds the culprit, arrogant and cynical tycoon Sergei Polanski, who refuses to admit his guilt and help the injured. He does not care, he has everything under control. In desperation, Cyrus turned for help to the three guys sympathetic to her - bykovatomu Fede, arrogant, handsome Artem computer genius and his wife. Boys entered into between the Covenant - \"help the girl punish the villain, and then decide who will become her boyfriend.\"",
+            "popularity": 1.593,
+            "poster_path": "/q5s5CTuSU1AT8sxkTlq83aAcpLL.jpg",
+            "release_date": "2015-03-26",
+            "title": "The Watchers: Beginning",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 9
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 37
+}

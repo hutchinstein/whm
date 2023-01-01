@@ -1,0 +1,106 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/i9lR2jLV0dHVfVs1u6QqqbQAE9I.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53,
+                27
+            ],
+            "id": 1813,
+            "original_language": "en",
+            "original_title": "The Devil's Advocate",
+            "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+            "popularity": 36.669,
+            "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+            "release_date": "1997-10-17",
+            "title": "The Devil's Advocate",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 4990
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 785990,
+            "original_language": "en",
+            "original_title": "The Devil's Advocate",
+            "overview": "The Devil\u2019s Advocate follows three high-profile defense attorneys, their clients accused of terrorism, and the implications of the words \u201cjustice for all.\u201d",
+            "popularity": 0.6,
+            "poster_path": "/cQ23RTVP2N6Jc7aO6Jib45x87gC.jpg",
+            "release_date": "2021-01-06",
+            "title": "The Devil's Advocate",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 295385,
+            "original_language": "de",
+            "original_title": "Des Teufels Advokat",
+            "overview": "A dying priest is commissioned to investigate the deeds of Giacomo Nerone, a dead wartime partisan, and find out if he truly is worthy of being canonized.",
+            "popularity": 1.305,
+            "poster_path": "/AbPgcdruJ9ZfNOMWOf1kpyjCUKE.jpg",
+            "release_date": "1977-10-26",
+            "title": "The Devil's Advocate",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gCFIvwhRTlOIMm1hVQcrdTFNvpZ.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53,
+                18
+            ],
+            "id": 514961,
+            "original_language": "sv",
+            "original_title": "Beck 38 - Dj\u00e4vulens advokat",
+            "overview": "The murder of a restaurant owner who is gunned down in front of a diner full of customers has unexpected repercussions for Alex, whose brother, Paul, represented two men expected of involvement in the killing. Meanwhile, Steinar, amidst tension with Alex and the breakdown of his marriage, accepts the offer of a transfer from Klas.",
+            "popularity": 2.443,
+            "poster_path": "/cPGzSSbBT6ckvHmLkcNsn4J9MkJ.jpg",
+            "release_date": "2018-04-07",
+            "title": "Beck 38 - The Devil's Advocate",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8JhmQlJRgj2e3qrHHyi26PI3RDf.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 41889,
+            "original_language": "en",
+            "original_title": "Sorceress",
+            "overview": "To maintain his powers, the evil wizard Traigon must sacrifice his firstborn child to the god Caligara. His wife, however, has other ideas and runs away after giving birth with her twin daughters. Before dying, she hands the girls over to the warrior Krona who promises to raise them as great soldiers. Twenty years later, Traigon returns and begins hunting down his daughters once again. Will the twins, with the help of the Barbarian Erlik and the Viking Baldar, be able to defeat their father?",
+            "popularity": 3.413,
+            "poster_path": "/fXbCl3j08WviEpapDr9HWd7mI4u.jpg",
+            "release_date": "1982-03-01",
+            "title": "Sorceress",
+            "video": false,
+            "vote_average": 4.2,
+            "vote_count": 42
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+}

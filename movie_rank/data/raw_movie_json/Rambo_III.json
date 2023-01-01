@@ -1,0 +1,63 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                10752
+            ],
+            "id": 1370,
+            "original_language": "en",
+            "original_title": "Rambo III",
+            "overview": "Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
+            "popularity": 49.686,
+            "poster_path": "/pTVm2HrqV5kOt8tG4ZURNuhrmAq.jpg",
+            "release_date": "1988-05-24",
+            "title": "Rambo III",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 2611
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 607520,
+            "original_language": "en",
+            "original_title": "Johny Tan-Go Rambo Part III",
+            "overview": "Forced by his family to enlist in the army, Johnny Rambo goes to the squad of the \"misfits\". Very soon, because of his clumsiness, the group becomes a real nightmare for the drill sergeant, who is none other than Johnny's father. However, because of a casual incident, they become heroes in view of the commander, who entrusts them to a dangerous mission, within the terrotirio dominated by the enemy. There Johnny will meet a beautiful secret agent with whom he will live all kinds of crazy adventures. Filipino parody of the Rambo saga.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Johny Tan-Go Rambo Part III",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 298359,
+            "original_language": "en",
+            "original_title": "Rambo Tan-Go Part III",
+            "overview": "Forced by his family to join the army, Johnny Rambo ends up in the squad of misfits.",
+            "popularity": 0.84,
+            "poster_path": "/ngojrzD7RCEEayWxGTQpzrDblYI.jpg",
+            "release_date": "1985-08-22",
+            "title": "Rambo Tan-Go Part III",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

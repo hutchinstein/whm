@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "id": 351286,
+            "original_language": "en",
+            "original_title": "Jurassic World: Fallen Kingdom",
+            "overview": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+            "popularity": 86.477,
+            "poster_path": "/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+            "release_date": "2018-06-06",
+            "title": "Jurassic World: Fallen Kingdom",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 10383
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

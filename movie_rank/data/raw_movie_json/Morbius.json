@@ -1,0 +1,66 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
+            "genre_ids": [
+                28,
+                878,
+                14
+            ],
+            "id": 526896,
+            "original_language": "en",
+            "original_title": "Morbius",
+            "overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+            "popularity": 163.386,
+            "poster_path": "/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
+            "release_date": "2022-03-30",
+            "title": "Morbius",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 3010
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vR9tsAsXvSnXHheN1as6WovTRME.jpg",
+            "genre_ids": [
+                28,
+                27
+            ],
+            "id": 301249,
+            "original_language": "en",
+            "original_title": "Morbius: The Living Vampire",
+            "overview": "In attempt to cure himself of a deadly blood disease, Dr. Michael Morbius takes his science too far. Now he must find his place in a world that will not accept him. He is the hero. He is the predator. He is the lost. He is alive.  His name is Morbius...the living vampire.",
+            "popularity": 0.986,
+            "poster_path": null,
+            "release_date": "2014-10-31",
+            "title": "Morbius: The Living Vampire",
+            "video": false,
+            "vote_average": 2.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ddZE8htSusFKkc4gJWG3ePo5rc7.jpg",
+            "genre_ids": [
+                878,
+                18,
+                12
+            ],
+            "id": 437727,
+            "original_language": "en",
+            "original_title": "Doctor Who: The Brain of Morbius",
+            "overview": "Mad scientist Mehendri Solon is building a body from spare parts to house the disembodied brain of the evil Time Lord Morbius. He fancies the Doctor's head as the final piece...",
+            "popularity": 0.96,
+            "poster_path": "/7hZh1A49dRUN9k3T8rUYDIyqvdM.jpg",
+            "release_date": "1976-01-24",
+            "title": "Doctor Who: The Brain of Morbius",
+            "video": true,
+            "vote_average": 8.3,
+            "vote_count": 4
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

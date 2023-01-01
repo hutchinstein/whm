@@ -1,0 +1,114 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/g0CGOIl3H1FDsqHpPzlfkhXAtv8.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 9623,
+            "original_language": "en",
+            "original_title": "The Juror",
+            "overview": "With his gangster boss on trial for murder, a mob thug known as \"the Teacher\" tells Annie Laird she must talk her fellow jurors into a not-guilty verdict, implying that he'll kill her son Oliver if she fails. She manages to do this, but, when it becomes clear that the mobsters might want to silence her for good, she sends Oliver abroad and tries to gather evidence of the plot against her, setting up a final showdown.",
+            "popularity": 11.971,
+            "poster_path": "/i1EXzLNc4c9Xd0xjCmGavb0Hz9k.jpg",
+            "release_date": "1996-02-02",
+            "title": "The Juror",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2rSTdo3VUqHOay6UTMPGoxal9Sg.jpg",
+            "genre_ids": [
+                9648
+            ],
+            "id": 26849,
+            "original_language": "en",
+            "original_title": "The Missing Juror",
+            "overview": "A newsman tracks down a phantom killer of murder-trial jurors.",
+            "popularity": 2.26,
+            "poster_path": "/jnttxUWsRQFA9mqOtV5LXAR2VGT.jpg",
+            "release_date": "1944-11-16",
+            "title": "The Missing Juror",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sl2429AMJPhZsvXnQT8DX83Ny0F.jpg",
+            "genre_ids": [],
+            "id": 679170,
+            "original_language": "en",
+            "original_title": "The 13th Juror",
+            "overview": "A 1927 American mystery film directed by Edward Laemmle and written by Charles Logue and Walter Anthony. It is based on the 1908 play Counsel for the Defense by Henry Irving Dodge. Richard Marsden is a long-time friend of Henry Desmond, a powerful and successful attorney. The district attorney plan to break Desmond by having George Quinn infer that Marsden's wife is having an affair with the lawyer.",
+            "popularity": 0.6,
+            "poster_path": "/1IhSXdi0uATiUjOcRjxu8giFYCX.jpg",
+            "release_date": "1927-11-13",
+            "title": "The 13th Juror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 969100,
+            "original_language": "en",
+            "original_title": "The Twelfth Juror",
+            "overview": "A play based on a famous English case of a man being executed wrongfully on circumstantial evidence.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1913-04-19",
+            "title": "The Twelfth Juror",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tseYcE382x1goVptRC62AHUG9xX.jpg",
+            "genre_ids": [
+                9648
+            ],
+            "id": 571603,
+            "original_language": "ko",
+            "original_title": "\ubc30\uc2ec\uc6d0\ub4e4",
+            "overview": "Seoul, South Korea, September 21st, 2008. Eight citizens, the first to intervene as jurors in the country's legal history, are randomly selected to examine a matricide case that appears to have been resolved due to the existence of apparently conclusive evidence.",
+            "popularity": 8.822,
+            "poster_path": "/hNbbdoGVNzwOu22VW2sfiyxDtcK.jpg",
+            "release_date": "2019-05-15",
+            "title": "Juror 8",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xYMLnwDyR53JcIpyDioUEvghbuG.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 21070,
+            "original_language": "fr",
+            "original_title": "Le septi\u00e8me jur\u00e9",
+            "overview": "In a moment of madness a middle-aged, married and respectable pharmacist kills a young woman who is sun-bathing by a lake. Unable to take in what he has done, he flees from the scene of the crime and behaves as if nothing has happened. Eventually her boyfriend is charged with the crime and, in a strange twist of fate, the killer finds himself serving on the jury.",
+            "popularity": 2.552,
+            "poster_path": "/TCSQejFMvoo2tsVnxP3HBZWTGU.jpg",
+            "release_date": "1962-04-16",
+            "title": "The Seventh Juror",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 42
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}

@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8GrQwNNX0Jns6XWrhjt6voOnkxX.jpg",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "id": 8859,
+            "original_language": "en",
+            "original_title": "Dude, Where's My Car?",
+            "overview": "Two stoners wake up after a night of partying and cannot remember where they parked their car.",
+            "popularity": 22.653,
+            "poster_path": "/nx5QwdN86qmjboNINn2smi6EPuZ.jpg",
+            "release_date": "2000-12-15",
+            "title": "Dude, Where's My Car?",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 1549
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

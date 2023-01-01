@@ -1,0 +1,41 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ht7aGrZ0TknjlgealXSbR43gu6a.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 34742,
+            "original_language": "en",
+            "original_title": "Rock 'n' Roll High School Forever",
+            "overview": "Those rambunctious kids are back in school and back in trouble in a smash sequel to the 1978 worldwide hit. Corey Feldman leads a rock and roll rally at Ronald Reagon High, but must triumph over the evil plans of the school's fascist principal, Vadar, who wants to halt the school dance and run their school like a prison.",
+            "popularity": 1.95,
+            "poster_path": "/4lrOkGKk0eI440wfEUt6VykcT0E.jpg",
+            "release_date": "1991-05-23",
+            "title": "Rock 'n' Roll High School Forever",
+            "video": false,
+            "vote_average": 3.3,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 667296,
+            "original_language": "en",
+            "original_title": "Forever: The Untold Story of Rock \u2018n\u2019 Roll High School Forever",
+            "overview": "A documentary about the untold story of Rock n Roll High School...part 2",
+            "popularity": 0.6,
+            "poster_path": "/3Ax5O74pc76dr2y3ebBZnjryZTS.jpg",
+            "release_date": "2020-01-30",
+            "title": "Forever: The Untold Story of Rock \u2018n\u2019 Roll High School Forever",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

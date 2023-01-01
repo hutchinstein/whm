@@ -1,0 +1,371 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zoL7dO6Uw8wOtkhfrwryevQudSK.jpg",
+            "genre_ids": [
+                12,
+                9648,
+                35,
+                16,
+                10751
+            ],
+            "id": 1015724,
+            "original_language": "en",
+            "original_title": "Trick or Treat Scooby-Doo!",
+            "overview": "Mystery Inc. has cracked the case to top all cases! They\u2019ve tracked down Coco Diablo, the head of a notorious costume crime syndicate. With Coco and her kitty in prison, Mystery Inc. thinks that they can finally enjoy a break. Wrong! Suddenly, menacing doppelg\u00e4nger ghosts of the Scooby crew and favorite classic foes show up in Coolsville to threaten Halloween. Now it\u2019s up to the meddling kids to unmask the latest scoundrel and save Halloween!",
+            "popularity": 116.646,
+            "poster_path": "/r4ZDV5Xm8qrbG2TIPlocs2wJxHL.jpg",
+            "release_date": "2022-10-04",
+            "title": "Trick or Treat Scooby-Doo!",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ba16Xm2ZurnK3UHQWvYkG5Xcnlk.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 25438,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of Curr's unreleased album, which, when played backwards, brings Sammi back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll...it's life and death.",
+            "popularity": 8.299,
+            "poster_path": "/cXzICSxR6XUH4oN5mAoGZcw4mSC.jpg",
+            "release_date": "1986-10-24",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k84F7NX7fhHMpaMfm5HAHQ1KEdq.jpg",
+            "genre_ids": [
+                35,
+                16,
+                10751
+            ],
+            "id": 67699,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "When the nephews come to Donald's house in their Halloween costumes he dumps water on them and laughs at his trick. A witch sees this and decides to help the kids. By magic she gives Donald a bad time and the kids finally get their treats.",
+            "popularity": 4.995,
+            "poster_path": "/gHmsenJo6WkHFSIGjuCbzVVPvM.jpg",
+            "release_date": "1952-10-10",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sbIYmwbEKOpN1egVjMe6fPD94ln.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 641300,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "Greg Kielty's life is turned upside down when his estranged brother Dan turns up, claiming to have drunkenly run someone over. But has Dan just murdered a gangster's son? Or maybe there's an even more sinister explanation.",
+            "popularity": 1.071,
+            "poster_path": "/eN1x5UUY0Uv0JpX4aaLzTTwLxm7.jpg",
+            "release_date": "2019-10-25",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 2.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 1042700,
+            "original_language": "en",
+            "original_title": "Trick or Treat 2!",
+            "overview": "The Magician returns to trick or treat. This time, he sets his sights on a group of old college friends celebrating Halloween. Will they give treats or will they get tricks?",
+            "popularity": 0.826,
+            "poster_path": "/iGKMk60csQFpApinlCebvtATbon.jpg",
+            "release_date": "2022-10-31",
+            "title": "Trick or Treat 2!",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 1008886,
+            "original_language": "en",
+            "original_title": "Trick or Treat!",
+            "overview": "During their first Halloween in their new home, Travis and Beth encounter an unexpected trick or treater.",
+            "popularity": 0.6,
+            "poster_path": "/a7JTfrgfCBNgMuR4P7H5Lk3gooH.jpg",
+            "release_date": "2021-10-29",
+            "title": "Trick or Treat!",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 555165,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "Pete and Sandy get permission to go trick-or-treating by promising to avoid mischief. So, they inveigle two younger boys to play a prank.",
+            "popularity": 0.6,
+            "poster_path": "/ct6A8DosF8MdZd8Vtv8BzoYx64r.jpg",
+            "release_date": "1969-01-01",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/60vYSYJ18EPbKJKdDMzlHkYRQcb.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 827053,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "Two bickering siblings set out to get the best candy while trick-or-treating, but in the face of an embarrassing costume incident and a group of bullies, they must put aside their quarrel to stick up for one another and save the candy.",
+            "popularity": 0.612,
+            "poster_path": "/rxbnBmRVMuo90ziQ790sLnb4sit.jpg",
+            "release_date": "2020-09-23",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 775046,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "Trick or Treat is a surfing video that will launch you into the millennium. We specify the word launch due to its amazing footage of extreme surfers doing some extreme aerial surfing.Trick or Treat takes you, the audience, through all corners of the globe. You will witness an array of Trick surfing and we will Treat you to some perfect waves from locations like California, West Oz, Islands in the Pacific and Tahiti.Watch Taj Burrow, James Catto, Jake Patterson, Kelly Slater, The Irons.",
+            "popularity": 0.6,
+            "poster_path": "/kPJn6vZnAD0oFM8aJOieFyiA6nG.jpg",
+            "release_date": "2001-01-01",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53
+            ],
+            "id": 306653,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "A man battling loneliness grapples with a potentially life-altering decision.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2014-04-18",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 481150,
+            "original_language": "en",
+            "original_title": "Trick or Treat",
+            "overview": "The trick or treaters have come and gone and Kate and Sam are settling in for a quiet Halloween night when a woman appears at the door with a strange request.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2008-04-19",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 364827,
+            "original_language": "en",
+            "original_title": "Pagan Invasion: Halloween: Trick or Treat",
+            "overview": "All the seemingly innocent symbolism of Halloween \u2013 blackcats, snakes, broomsticks, bonfires, \u201ctrick or treat,\u201d jack-o\u2019-lanterns, apple dunking and costumes \u2013 has its roots in Sorcery, Witchcraft and Satanism. Parents\u2019 responsibilities are challenged to decide whether to allow their children to participate in celebrations which glorify Pagan Occultism.  This highly informative video traces the pagan origins and history of Halloween. The Pagan Occult calendar of Druids, Witches, Pagans and Satanists marks Halloween as one of their highest \u201choly days.\u201d This video uncovers the mystic Druidic rites and ceremonies with which \u201cSamhain\u201d (Halloween) was originally observed 4,000 years ago. The occult rituals seen in this video are real and not re-enactments.",
+            "popularity": 0.612,
+            "poster_path": "/6Kv59EnDXog7s3Sl6xG9w5PczPJ.jpg",
+            "release_date": "1991-01-01",
+            "title": "Pagan Invasion: Halloween: Trick or Treat",
+            "video": true,
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vMHta63dPM7jIqnOMIhyeEA9tJd.jpg",
+            "genre_ids": [],
+            "id": 478731,
+            "original_language": "en",
+            "original_title": "Trick or Treat on Sesame Street",
+            "overview": "Say \u201cHello!\u201d to Halloween! It\u2019s time for tricks and treats when Elmo and Abby visit Count von Count\u2019s spooky castle for a special Halloween. Count cats and ghosts with them, play pattern games, and help them chase down a runaway pumpkin! Then find out what happens when someone is wearing the same costume as Elmo\u2014eek! Do the Batty Bat dance as you get ready to celebrate Halloween with Elmo and all his friends! Ah, ah, ah!",
+            "popularity": 1.098,
+            "poster_path": "/5hhLsPbcnCzkfJFIHsZAmHkHEek.jpg",
+            "release_date": "2017-08-29",
+            "title": "Trick or Treat on Sesame Street",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 442642,
+            "original_language": "en",
+            "original_title": "Max & Ruby Trick or Treat",
+            "overview": "Ruby thinks it would be a fun idea to do a trick for all the homes they go trick-or-treating at. Max just wants all the treats he can get. In the end, it turns out he\u2019s played the best trick of all.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2013-09-17",
+            "title": "Max & Ruby Trick or Treat",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 1031488,
+            "original_language": "en",
+            "original_title": "Don't Trick-Or-Treat Alone!",
+            "overview": "On Halloween Night, 1990, a young girl is kidnapped by a demonic cult while trick-or treating alone in the shocking, final installment in the \"WXIP-TV Channel 6\" series.",
+            "popularity": 0.625,
+            "poster_path": "/la2mV2dStSDedImGMaojnTfvwFY.jpg",
+            "release_date": "2022-10-01",
+            "title": "Don't Trick-Or-Treat Alone!",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1B9jXsgiJGIXh6rE4N2MEyhcHQD.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "id": 1042411,
+            "original_language": "en",
+            "original_title": "Trick-or-Treat for UNICEF",
+            "overview": "Sing along to the Halloween song and learn how you can change the world while you trick-or-treat.",
+            "popularity": 0.6,
+            "poster_path": "/vMdIH5CfYj8ZQ1PSDhuDxnsuHl3.jpg",
+            "release_date": "2013-10-10",
+            "title": "Trick-or-Treat for UNICEF",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10402
+            ],
+            "id": 558392,
+            "original_language": "en",
+            "original_title": "Cheap Trick or Treat Halloween Ball",
+            "overview": "Little Steven's Underground Garage Presents The Cheap Trick or Treat Halloween Ball, starring Cheap Trick, The Romantics, The Shadows of Knight, Roky Erickson and The Explosives, The Charms, and the Garage Girls A Go-Go.",
+            "popularity": 0.6,
+            "poster_path": "/webXwu7TWQxuVSUolzTUPiBX6wv.jpg",
+            "release_date": "2006-11-08",
+            "title": "Cheap Trick or Treat Halloween Ball",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s4DoJFeK5RGBuhDxhKkBzAuAKKv.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 23202,
+            "original_language": "en",
+            "original_title": "Trick 'r Treat",
+            "overview": "Four interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the one guy for her; a group of teenagers pull a mean prank, and a bitter old recluse receives an uninvited guest.",
+            "popularity": 23.141,
+            "poster_path": "/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
+            "release_date": "2007-10-26",
+            "title": "Trick 'r Treat",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1514
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 715670,
+            "original_language": "no",
+            "original_title": "Knask eller knep",
+            "overview": "When Magda's sister dumps her to go to an illegal Halloween party, she is left behind and has an unpleasant confrontation with some girls from school. In the course of the night, she meets Nils Olav. The two hit it off, giving Magda the confidence to ignore the mean girls.",
+            "popularity": 0.6,
+            "poster_path": "/5klwunin6k8B6rLKvib3BHwpVwn.jpg",
+            "release_date": "2020-06-10",
+            "title": "Trick or Treat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5y1YWfKhUIYdhd7AZ7NjrEQlcs.jpg",
+            "genre_ids": [
+                27,
+                16
+            ],
+            "id": 140149,
+            "original_language": "en",
+            "original_title": "Season's Greetings",
+            "overview": "This animated twist on Halloween memories involves the traumatic theft of a candy bag on Halloween night.",
+            "popularity": 1.106,
+            "poster_path": "/9hX5vRYlWZDUnMkZcwQbdvy7JNN.jpg",
+            "release_date": "1996-12-31",
+            "title": "Season's Greetings",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 23
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 38
+}

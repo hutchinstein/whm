@@ -1,0 +1,335 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 524434,
+            "original_language": "en",
+            "original_title": "Eternals",
+            "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
+            "popularity": 136.585,
+            "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+            "release_date": "2021-11-03",
+            "title": "Eternals",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 6604
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gBh15609apMzMgcafijKNBxdeTS.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 939356,
+            "original_language": "en",
+            "original_title": "Marvel Studios Assembled: The Making of Eternals",
+            "overview": "Join director Chloe Zhao and the Cast of Eternals as they recount their experiences during the making of Marvel Studios\u2019 most ambitious film to date. Discover how the ensemble cast felt stepping into their roles, filming in remote locations, and creating bonds that would help to create the on-screen relationships that span over 7,000 years.",
+            "popularity": 15.8,
+            "poster_path": "/fBJ5ZjFJ6IHQWz90SsW80PizVlF.jpg",
+            "release_date": "2022-02-16",
+            "title": "Marvel Studios Assembled: The Making of Eternals",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zRWPnVX9KL1LPOQrJfPuY9ynVkX.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 375211,
+            "original_language": "en",
+            "original_title": "Marvel Knights: Eternals",
+            "overview": "You are thousands of years old. You have amazing powers. You have watched civilizations rise and fall. So why does no one remember any of this? Best-selling author, Neil Gaiman (Marvel: 1602) is joined by superstar artist, John Romita. Jr. (Amazing Spider-Man), to bring you the extraordinary tale of The Eternals. Medical student Mark Curry's world is turned upside-down when he meets Ike Harris, a man who believes that he is part of a centuries-old race of super-powered beings put here on Earth by aliens to preserve and safeguard the planet \u2014 and even crazier, tried to convince Mark that he is one too.",
+            "popularity": 4.969,
+            "poster_path": "/wVWDDzB0sWEIEMh0TXgqRa8X65o.jpg",
+            "release_date": "2014-09-16",
+            "title": "Marvel Knights: Eternals",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jIfPLloXelmSr9aBH0So50N5hww.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 449913,
+            "original_language": "fr",
+            "original_title": "Les \u00e9ternels",
+            "overview": "Human beings who have experienced such a strong shock that they are no longer even afraid of death (as it often happens to genocide survivors) sometimes fall into what is known as a feeling of timelessness or a \u201cmelancholy\u201d. They live somewhat \u201coutside\u201d time, a mode of extra-temporal existence, waiting for the day on which they will be freed from their suffering. It is the people \u2014 almost ghosts having survived the conflict in Nagorno-Karabakh between Armenians and Azerbaijani that has lasted for almost twenty years \u2014 that the filmmaker shows and listens to in his film. Behind them, behind their wandering bodies, behind their frenzies, is what remains of the collapse of the Soviet Union in Caucasus: ruins, uninhabited spaces, tombs, vestiges of war, trenches where soldiers watch for an invisible enemy.",
+            "popularity": 0.6,
+            "poster_path": "/7Sa2Z8clNyJAkAIb27jQ2wCOaiF.jpg",
+            "release_date": "2017-04-25",
+            "title": "The Eternals",
+            "video": false,
+            "vote_average": 4,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mzPaH67TtrYyCbe4GEi7csyasVF.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 76382,
+            "original_language": "en",
+            "original_title": "Eternally Yours",
+            "overview": "Anita, engaged to solid Don Barnes, is swept off her feet by magician Arturo. Before you can say presto, she's his wife and stage assistant on a lengthy world tour. But Anita is annoyed by Arturo's constant flirtations, and his death-defying stunts give her nightmares. And forget her plan to retire to a farmhouse. Eventually, she has had enough and disappears.",
+            "popularity": 4.055,
+            "poster_path": "/1GLruIchHPJwy2ZnwWl2Es4QzsD.jpg",
+            "release_date": "1939-10-07",
+            "title": "Eternally Yours",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 709324,
+            "original_language": "id",
+            "original_title": "Sementara, Selamanya",
+            "overview": "Saka and Zara decided to stay apart temporarily because Zara was on duty as a doctor who handled COVID-19 patients. Through a series of video calls, the big secret was revealed between them.",
+            "popularity": 0.6,
+            "poster_path": "/bomIqeFbQ6SXK3IrMfkxUXFrQh6.jpg",
+            "release_date": "2020-06-06",
+            "title": "Temporarily, Eternally",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sCWq8pDOJP6mvnYzsvPfuY4wLJV.jpg",
+            "genre_ids": [
+                16,
+                10749,
+                878,
+                35
+            ],
+            "id": 246464,
+            "original_language": "ja",
+            "original_title": "\u305d\u3089\u306e\u304a\u3068\u3057\u3082\u306eFinal \u6c38\u9060\u306e\u79c1\u306e\u9ce5\u7c60",
+            "overview": "Ikaros is an Angeloid and falls out of the sky. Tomoki Sakurai is a boy who believes the most important thing is to live a peaceful life. The two live tougher. Tomoki Sakurai has never seen Ikaros smile. Tomoki Sakurai sees Nymph and Astraea laugh after they got free from the master\u2019s rule. He hopes Ikaros can laugh like an ordinary girl.  This movie wraps up the story of Tomoki Sakurai and his relationship with the Angeloid from the sky, Ikaros.",
+            "popularity": 10.402,
+            "poster_path": "/yZt3jMOzTG1MyF9bPfKEE67VB7q.jpg",
+            "release_date": "2014-04-27",
+            "title": "Heaven's Lost Property Final \u2013 The Movie: Eternally My Master",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 973262,
+            "original_language": "tl",
+            "original_title": "Eternally",
+            "overview": "",
+            "popularity": 0.6,
+            "poster_path": "/n4xsErORX3PyIa0XvFeakB5trn2.jpg",
+            "release_date": "1957-10-06",
+            "title": "Eternally",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                14,
+                27,
+                10402
+            ],
+            "id": 727627,
+            "original_language": "en",
+            "original_title": "Eternally",
+            "overview": "A group of friends is confronted by their worst fears and trauma, as they're taunted by visions of parallel realities and a certain odd-eyed cat.",
+            "popularity": 0.6,
+            "poster_path": "/1KAvqPY18qif6cfmtdBRAb83LDy.jpg",
+            "release_date": "2020-06-28",
+            "title": "Eternally",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 719831,
+            "original_language": "ko",
+            "original_title": "Eternally",
+            "overview": "third music video of the album \"The Dream Chapter: Eternity\".",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Eternally",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l7SeQ6k3qaD7ucAeJYVV607BE0x.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 747988,
+            "original_language": "ja",
+            "original_title": "\u541b\u306f\u6c38\u9060\u306b\u305d\u3044\u3064\u3089\u3088\u308a\u82e5\u3044",
+            "overview": "Horigai spends her boring days waiting to graduate from college. As she hangs out with friends, she begins to realize the violence and sorrow behind their ordinary lives.",
+            "popularity": 1.786,
+            "poster_path": "/fjCH5bWetpEkLJPTtc8Tbo2wAzY.jpg",
+            "release_date": "2021-09-17",
+            "title": "Eternally Younger Than Those Idiots",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 858507,
+            "original_language": "ru",
+            "original_title": "\u0412\u0435\u0447\u043d\u043e \u0442\u0430\u043d\u0446\u0443\u044e\u0449\u0438\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+            "overview": "Monatik burst into the Ukrainian show business swiftly, triumphantly and as if out of nowhere, immediately starting to make music in quality comparable to European and American samples. The documentary project will tell about the artist's life even before he became famous and the most demanded Ukrainian performer.",
+            "popularity": 0.6,
+            "poster_path": "/3IZL0S6s0TuCYtt2ILfiEXajUJd.jpg",
+            "release_date": "2021-06-03",
+            "title": "The Eternally Dancing Man",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pZE0nYSxSaOSxWslJlUjb7xU7EG.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 563681,
+            "original_language": "ru",
+            "original_title": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u0436\u0438\u0442\u044c \u0432\u0435\u0447\u043d\u043e",
+            "overview": "The psychological and physical burdens that cardiac surgeons must bear are borderline.\r There are two opinions. The first: if you are not fully dedicated to heart surgery without any other interest you can not be a true professional. The second opinion: if you do not have an outlet, something else in your life, you will quickly fall apart and you will not be able to work quite well. At the center of the film is Mikhail Alchibaia, MD, director of the Coronary Surgery Department of the Bakulev Cardiovascular Surgery Research Institute and one of the world's leading collectors of contemporary art.",
+            "popularity": 0.6,
+            "poster_path": "/qGrh8BHsGo7bnZfqMjdXWKPR7VJ.jpg",
+            "release_date": "2017-12-09",
+            "title": "Everybody Wants To Live Eternally",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 331749,
+            "original_language": "en",
+            "original_title": "Best Friends Eternally",
+            "overview": "Jackson and Tony have been best friends since the Vietnam War bonded the two men with different worldviews. Tony dutifully informs his best buddy that they can be best friends until death does them part, but until Jackson gets right with God, they can never be best friends eternally. Despite Tony's persistence in preaching the gospel, that friendship thrives in the same fashion between the atheist and the Christian for about forty years, until Madison, Tony's granddaughter, arrives on the scene. While she is busy teaching Jackson about Jesus, her grandfather wanders off the straight and narrow course, compliments of an attractive lady, who despite being several years younger than the retired English professor, professes her love for Tony and lures him into her world.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2015-03-13",
+            "title": "Best Friends Eternally",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                18,
+                10749
+            ],
+            "id": 502026,
+            "original_language": "en",
+            "original_title": "Eternalism",
+            "overview": "29 year old Herbert is depressed, alone & terminally ill. During his regular hospital visits for treatment Herbert makes a friend, Jed, who sets him on the path of an unforgettable life journey.",
+            "popularity": 0.6,
+            "poster_path": "/c9x3Y17bvqRgxw0tUoKfaOkviTU.jpg",
+            "release_date": "2013-02-26",
+            "title": "Eternalism",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 838811,
+            "original_language": "en",
+            "original_title": "Rick Steves' Rome: Eternally Engaging",
+            "overview": "In this hour-long travel special, we explore the \"Eternal City\" of Rome, a grand and ancient metropolis rich with exquisite art, vibrant culture, and centuries of history.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2012-09-04",
+            "title": "Rick Steves' Rome: Eternally Engaging",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 858090,
+            "original_language": "en",
+            "original_title": "Abstract Eternalism",
+            "overview": "Premiere at the Museum of Modern Art in New York City on August 5, 2021.",
+            "popularity": 0.6,
+            "poster_path": "/6SJWMNH7BwDFnYWbhGTKAl46Ahp.jpg",
+            "release_date": "2021-08-05",
+            "title": "Abstract Eternalism",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 664262,
+            "original_language": "en",
+            "original_title": "Swee\u2019pea\u2019s Favorite Eternalisms",
+            "overview": "3D Eternalism by Ken Jacobs",
+            "popularity": 0.6,
+            "poster_path": "/u46N7Cv3ZpqS4RbxlS3UrpTbvF8.jpg",
+            "release_date": "2017-07-07",
+            "title": "Swee\u2019pea\u2019s Favorite Eternalisms",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 18
+}

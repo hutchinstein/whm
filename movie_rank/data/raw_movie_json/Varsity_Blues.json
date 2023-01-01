@@ -1,0 +1,47 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/wRnlzoabjRfsOBo90wWSUpF2wTv.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 14709,
+            "original_language": "en",
+            "original_title": "Varsity Blues",
+            "overview": "In small-town Texas, high school football is a religion, 17-year-old schoolboys carry the hopes of an entire community onto the gridiron every Friday night. When star quarterback Lance Harbor suffers an injury, the Coyotes are forced to regroup under the questionable leadership of John Moxon, a second-string quarterback with a slightly irreverent approach to the game.",
+            "popularity": 10.918,
+            "poster_path": "/C5Pa0WciVH89VBd8gDrQNaeHtZ.jpg",
+            "release_date": "1999-01-15",
+            "title": "Varsity Blues",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5iVIEGalV8LJQIcqzJITlwx5YIn.jpg",
+            "genre_ids": [
+                99,
+                80,
+                18
+            ],
+            "id": 799555,
+            "original_language": "en",
+            "original_title": "Operation Varsity Blues: The College Admissions Scandal",
+            "overview": "An examination that goes beyond the celebrity-driven headlines and dives into the methods used by Rick Singer, the man at the center of the shocking 2019 college admissions scandal, to persuade his wealthy clients to cheat an educational system already designed to benefit the privileged.",
+            "popularity": 10.368,
+            "poster_path": "/qZJuctnatinO0OpnruGOWaT4Bga.jpg",
+            "release_date": "2021-03-17",
+            "title": "Operation Varsity Blues: The College Admissions Scandal",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 109
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

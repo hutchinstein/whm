@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/58MHmZ05sdhH8eXDCBdlUVACkSy.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 28941,
+            "original_language": "en",
+            "original_title": "Chopping Mall",
+            "overview": "A group of teenagers that work at the mall all get together for a late night party in one of the stores. When the mall goes on lock down before they can get out, the robot security system activates after a malfunction and goes on a killing spree. One by one the three bots try to rid the mall of the \u201cintruders.\u201d The only weapons the kids can use are the supplies in other stores, or if they can make it till morning when the mall opens back up.",
+            "popularity": 9.144,
+            "poster_path": "/snm8tScFpHymRFA3cwHEHHLlEX1.jpg",
+            "release_date": "1986-03-21",
+            "title": "Chopping Mall",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 270
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

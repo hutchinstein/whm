@@ -1,0 +1,264 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/e1zfnkOBvGBeydFWCXFuTp9o8KW.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 11470,
+            "original_language": "en",
+            "original_title": "Jason X",
+            "overview": "In the year 2455, Old Earth is now a contaminated planet abandoned for centuries -- a brown world of violent storms, toxic landmasses and poisonous seas. Yet humans have returned to the deadly place that they once fled, not to live, but to research the ancient, rusting artifacts of the long-gone civilizations. But it's not the harmful environment that could prove fatal to the intrepid, young explorers who have just landed on Old Earth. For them, it's Friday the 13th, and Jason lives!",
+            "popularity": 25.32,
+            "poster_path": "/jrObEGWVW1XlutjYXqyyGxtTeov.jpg",
+            "release_date": "2001-11-09",
+            "title": "Jason X",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 1094
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6aVEjUqRfC4Oa88dxd4qw56KKzO.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9728,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part III",
+            "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naive counselors. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason who stalks them at every turn.",
+            "popularity": 28.378,
+            "poster_path": "/mYkbmw6umfbvPYBwkcOJsKbTCQ1.jpg",
+            "release_date": "1982-08-13",
+            "title": "Friday the 13th Part III",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1094
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3KO6cs5qighEoA98CFo1u26hqh7.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10281,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VII: The New Blood",
+            "overview": "A young girl who possesses the power of telekinesis accidentally causes her father's death after a family dispute at Crystal Lake. Years later, when a doctor tries to exploit her abilities, her power becomes a hellish curse, and she unwittingly unchains the merciless, bloodthirsty Jason Voorhees from his watery grave.",
+            "popularity": 31.416,
+            "poster_path": "/xBjEL0k9Cz3QFjnpEK6c8b9Z51o.jpg",
+            "release_date": "1988-05-13",
+            "title": "Friday the 13th Part VII: The New Blood",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 812
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 9725,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part 2",
+            "overview": "Five years after the horrible bloodbath at Camp Crystal Lake, it seems Jason Voorhees and his demented mother are in the past. Paul opens up a new camp close to the infamous site, ignoring warnings to stay away, and a sexually-charged group of counselors follow -- including child psychologist major Ginny. But Jason has been hiding out all this time, and now he's ready for revenge.",
+            "popularity": 27.914,
+            "poster_path": "/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",
+            "release_date": "1981-05-01",
+            "title": "Friday the 13th Part 2",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1320
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93tvkTtV6tQQiYhxhij9tuODNOq.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 10225,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VI: Jason Lives",
+            "overview": "Determined to finish off the infamous killer Jason Voorhees once and for all, Tommy Jarvis and a friend exhume Jason\u2019s corpse in order to cremate him. Things go awry when Jason is instead resurrected, sparking a new chain of ruthlessly brutal murders. Now it\u2019s up to Tommy to stop the dark, devious and demented deaths that he unwittingly brought about.",
+            "popularity": 26.238,
+            "poster_path": "/3qyCfzwY418lbuFEaKX5rKxKlnJ.jpg",
+            "release_date": "1986-08-01",
+            "title": "Friday the 13th Part VI: Jason Lives",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 925
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bzpKFAp7Z9mIE4XPtsr6QsmG75O.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10283,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+            "overview": "A group of students on a graduation cruise bound for Manhattan soon realize they've got a stowaway aboard the ship\u2014Jason Voorhees.",
+            "popularity": 23.192,
+            "poster_path": "/o8zLlANBDaPiW3SnDdKLIUd4jQQ.jpg",
+            "release_date": "1989-07-28",
+            "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 818
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 808648,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part X: To Hell and Back",
+            "overview": "With the help of a few mischievous teenagers and a book from the Voorhees estate, Jason is brought back from his fifteen year sabbatical in Hell. Well rested and eager to get back to work, he begins hacking up the Crystal Lake, New Jersey teens. Will he ever be stopped? CAN he be stopped?",
+            "popularity": 0.717,
+            "poster_path": "/77gOccYlXpv2dqfctGNcX4HSEGt.jpg",
+            "release_date": "1995-10-13",
+            "title": "Friday the 13th Part X: To Hell and Back",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r4FLAYuFCaAfbvH1oRhSW7YIr1j.jpg",
+            "genre_ids": [
+                35,
+                27,
+                10749
+            ],
+            "id": 108878,
+            "original_language": "en",
+            "original_title": "Unmasked Part 25",
+            "overview": "Jackson is a lonely serial killer who is really beginning to question the point of all his killing. He is losing focus on why he started to kill in the first place. The future looks bleak until he meets a blind girl, Shelly, who begins to show him that life isn't so bad. It is all up to Jackson to decide if he's going to stop killing and start learning responsibility and think about finding a real job and starting a family.",
+            "popularity": 1.4,
+            "poster_path": "/acGNEpFLYiSTArlG1utBhpqWs9f.jpg",
+            "release_date": "1989-06-09",
+            "title": "Unmasked Part 25",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aWmMWZ9rDNCXmXVXuHbEm1sX0jK.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9730,
+            "original_language": "en",
+            "original_title": "Friday the 13th: The Final Chapter",
+            "overview": "After being mortally wounded and taken to the morgue, murderer Jason Voorhees spontaneously revives and embarks on a killing spree as he makes his way back to his home at Crystal Lake.",
+            "popularity": 28.181,
+            "poster_path": "/5KRBkaF6PdorcFjWiDY4tJy67Jf.jpg",
+            "release_date": "1984-04-13",
+            "title": "Friday the 13th: The Final Chapter",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1044
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iWQPZphjmQV8sbatCaXfjk1rksV.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 9731,
+            "original_language": "en",
+            "original_title": "Friday the 13th: A New Beginning",
+            "overview": "Homicidal maniac Jason returns from the grave to cause more bloody mayhem. Young Tommy may have escaped from Crystal Lake, but he\u2019s still haunted by the gruesome events that happened there. When gory murders start happening at the secluded halfway house for troubled teens where he now lives, it seems like his nightmarish nemesis, Jason, is back for more sadistic slaughters.",
+            "popularity": 27.878,
+            "poster_path": "/sRA9Tb4aQz8EZlbX7xmh8WbzisW.jpg",
+            "release_date": "1985-03-22",
+            "title": "Friday the 13th: A New Beginning",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 900
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 498334,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part 3: The Memoriam Documentary",
+            "overview": "Take a look behind the scenes of Friday the 13th Part 3D with host, Paul Kratka, in this insightful fan driven documentary featuring untold stories and interviews with several franchise favorites, never-before-seen location footage and set photography, as well as a touching look back on the life of Richard Brooker.",
+            "popularity": 0.6,
+            "poster_path": "/9FgJl616OIQ7D7r81dhNnlw2G2A.jpg",
+            "release_date": "2018-01-13",
+            "title": "Friday the 13th Part 3: The Memoriam Documentary",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sKH6rMU0hfGiZHyTjEy3s6QEX6F.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 10285,
+            "original_language": "en",
+            "original_title": "Jason Goes to Hell: The Final Friday",
+            "overview": "Jason Voorhees, the living, breathing essence of evil, is back for one fierce, final fling! Tracked down and blown to bits by a special FBI task force, everyone now assumes that he's finally dead. But everybody assumes wrong. Jason has been reborn with the bone-chilling ability to assume the identity of anyone he touches. The terrifying truth is that he could be anywhere, or anybody. In this shocking, blood-soaked finale to Jason's carnage-ridden reign of terror, the horrible secret of his unstoppable killing instinct is finally revealed. And once you know the chilling facts, you'll see him in your nightmares! And he'll see you in hell!",
+            "popularity": 33.384,
+            "poster_path": "/uZNsMWE5o1PaBEUjfRYaeZga08q.jpg",
+            "release_date": "1993-08-13",
+            "title": "Jason Goes to Hell: The Final Friday",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 764
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e5Z35sfdHd3bnUdrzKPEvgcx4Db.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 4488,
+            "original_language": "en",
+            "original_title": "Friday the 13th",
+            "overview": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+            "popularity": 30.29,
+            "poster_path": "/HzrPn1gEHWixfMOvOehOTlHROo.jpg",
+            "release_date": "1980-05-09",
+            "title": "Friday the 13th",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2356
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1041665,
+            "original_language": "en",
+            "original_title": "New Beginnings: The Making of Friday the 13th Part V - A New Beginning",
+            "overview": "The making of Friday the 13th Part V: A New Beginning.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2009-06-16",
+            "title": "New Beginnings: The Making of Friday the 13th Part V - A New Beginning",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 14
+}

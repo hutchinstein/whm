@@ -1,0 +1,45 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6J0DJpHXqLPd9P7OifB73hb60D4.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 9446,
+            "original_language": "en",
+            "original_title": "Jungle 2 Jungle",
+            "overview": "Uptight New York City executive, Michael Cromwell, pursues his soon-to-be ex-wife to South America and returns home with the son he never knew he had\u2014a boy raised in a tribal village in Brazil. Armed with only his blowgun, the 13-year-old Mimi-Siku discovers that the world outside his jungle home is indeed a strange place.",
+            "popularity": 9.716,
+            "poster_path": "/c1ZK8QA9n064EvHBvtofFOZqIlE.jpg",
+            "release_date": "1997-03-04",
+            "title": "Jungle 2 Jungle",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 403
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/icoVNPIItqVohOdDspsG5hVWWBD.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 54517,
+            "original_language": "de",
+            "original_title": "Dschungelkind",
+            "overview": "A family of a German linguist lives with an indigenous tribe in Papua New Guinea.",
+            "popularity": 4.403,
+            "poster_path": "/hYVAuh8zLIGPTrgvFFWfSvqKSEF.jpg",
+            "release_date": "2011-02-16",
+            "title": "Jungle Child",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 37
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

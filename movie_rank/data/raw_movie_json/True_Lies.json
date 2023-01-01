@@ -1,0 +1,58 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 36955,
+            "original_language": "en",
+            "original_title": "True Lies",
+            "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+            "popularity": 37.796,
+            "poster_path": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+            "release_date": "1994-07-15",
+            "title": "True Lies",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 3385
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 863823,
+            "original_language": "en",
+            "original_title": "Ganbare*Wrestling presents True lies",
+            "overview": "GANBARE\u2606WRESTLING \u201cTRUE RISE 2018\u201d, 17/12/2018\r Ichigaya Nankai Memorial Clinic\r 58 Fans \u2013 No Vacancy",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2018-12-17",
+            "title": "Ganbare*Wrestling presents True lies",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 360735,
+            "original_language": "en",
+            "original_title": "Remembrance of Things Fast: True Stories Visual Lies",
+            "overview": "Remembrance of Things Fast represents the culmination of Maybury's work in video, which has developed alongside the technology itself. Starring Tilda Swinton and Rupert Everett in lead roles, the tape confronts the conventions of world television and satellite broadcast, drawing on the fragmentary nature of the medium and the clich_s of the three minute attention span. At the same time, it replaces bland mainstream images with darker, more satirical observations and studies. The environment is surreal, a virtual reality television land of landscapes and imaginary cities, enhanced by Marvin Black's dark, dense soundtrack. It is a cyberspace where the impossible is all too possible. Within this parallel world, a series of archetypes act, observe and comment, informed by a strong sexual sensibility. '..a mesmerising, sometimes hysterically funny, cinematic bricolage with a strong sexual and mostly gay sensibility'. - Cordelia Swann",
+            "popularity": 0.664,
+            "poster_path": "/a4KfcLTtNIT9fbjjH0cU7bg5kW.jpg",
+            "release_date": "1994-05-01",
+            "title": "Remembrance of Things Fast: True Stories Visual Lies",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

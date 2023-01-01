@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/vYjsyyzbU2AAB8LDFrXlla93bv6.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11675,
+            "original_language": "en",
+            "original_title": "Halloween H20: 20 Years Later",
+            "overview": "Two decades after surviving a massacre on October 31, 1978, former baby sitter Laurie Strode finds herself hunted by persistent knife-wielder Michael Myers. Laurie now lives in Northern California under an assumed name, where she works as the headmistress of a private school. But it's not far enough to escape Myers, who soon discovers her whereabouts. As Halloween descends upon Laurie's peaceful community, a feeling of dread weighs upon her -- with good reason.",
+            "popularity": 29.857,
+            "poster_path": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+            "release_date": "1998-08-05",
+            "title": "Halloween H20: 20 Years Later",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1355
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

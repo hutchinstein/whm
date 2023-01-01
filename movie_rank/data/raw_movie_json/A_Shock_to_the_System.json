@@ -1,0 +1,49 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/snrSg9LzNHATvaywIZusb8XIIpg.jpg",
+            "genre_ids": [
+                80,
+                35,
+                18,
+                53
+            ],
+            "id": 20876,
+            "original_language": "en",
+            "original_title": "A Shock to the System",
+            "overview": "Madison Avenue executive Graham Marshall has paid his dues. A talented and devoted worker, he has suffered through mounting bills and a nagging wife with one thing to look forward to: a well-deserved promotion. But when the promotion is given to a loud-mouthed yuppie associate, Graham unleashes his rage on an overly aggressive panhandler, who he accidently kills by pushing him into the path of an oncoming subway train. He re-thinks his problems with an entirely new solution. First, he arranges an \"accident\" for his annoying wife. Then he creates another \"mishap\" for his boss. It seems like the world is once more Graham's oyster\u2026but a missing cigarette lighter and a prying police detective may change all that.",
+            "popularity": 9.637,
+            "poster_path": "/A8gnFmOGYtxHBRFaBEYsu0PVSdc.jpg",
+            "release_date": "1990-03-23",
+            "title": "A Shock to the System",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJbwJbYEEIwBaWYTHugigQLtpuC.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 51913,
+            "original_language": "en",
+            "original_title": "Shock to the System",
+            "overview": "After the mysterious demise of a client, private detective Donald Strachey infiltrates a therapy group for gay people who want to become straight. He takes on the group's founder to prove that his client's death was not a suicide.",
+            "popularity": 4.025,
+            "poster_path": "/72ieMbKaIqMNkSHznxHEq4Mt5E5.jpg",
+            "release_date": "2006-08-04",
+            "title": "Shock to the System",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 27
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

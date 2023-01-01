@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/2p6qfYmPji0PRL1knsKXt8ptH2g.jpg",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "id": 37926,
+            "original_language": "en",
+            "original_title": "Abraxas, Guardian of the Universe",
+            "overview": "An alien policeman comes to Earth to hunt down a renegade of his own race.",
+            "popularity": 3.356,
+            "poster_path": "/1DwaSuBcK2bdWFhVa543DYYmDE2.jpg",
+            "release_date": "1990-12-18",
+            "title": "Abraxas, Guardian of the Universe",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 28
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,64 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ztYeVUUyTeKxLbxUlqdzXbM7pRn.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                12
+            ],
+            "id": 9279,
+            "original_language": "en",
+            "original_title": "Jingle All the Way",
+            "overview": "Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure.",
+            "popularity": 71.344,
+            "poster_path": "/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg",
+            "release_date": "1996-11-21",
+            "title": "Jingle All the Way",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 2179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A0Ztc54ESXnT7Qq8u1VyY95GDcm.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 289728,
+            "original_language": "en",
+            "original_title": "Jingle All the Way 2",
+            "overview": "Larry's daughter wants only one thing for Christmas - a talking bear. His daughter's step-dad intends to make sure that Larry can't get one.",
+            "popularity": 24.057,
+            "poster_path": "/x8JinWPxZIZY9HzJvvsC5puYsNu.jpg",
+            "release_date": "2014-12-02",
+            "title": "Jingle All the Way 2",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 80589,
+            "original_language": "en",
+            "original_title": "Jingle All the Way",
+            "overview": "A spirited Husky puppy looking for a home at a Christmas tree farm instantly bonds with a young boy visiting with his parents. As the boy rides away, unable to keep him, the pup escapes and embarks on a snowy journey to find his friend again.",
+            "popularity": 1.4,
+            "poster_path": "/x4kgOZ3OAhwORbYhJRHlY3iy1rC.jpg",
+            "release_date": "2011-11-25",
+            "title": "Jingle All the Way",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

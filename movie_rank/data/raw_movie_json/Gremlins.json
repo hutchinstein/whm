@@ -1,0 +1,218 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xOHlNNA3RoMD9flSvIyEHJhSdOD.jpg",
+            "genre_ids": [
+                14,
+                27,
+                35
+            ],
+            "id": 927,
+            "original_language": "en",
+            "original_title": "Gremlins",
+            "overview": "When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas, he inadvertently breaks the three important rules of caring for a Mogwai, and unleashes a horde of mischievous gremlins on a small town.",
+            "popularity": 32.389,
+            "poster_path": "/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg",
+            "release_date": "1984-06-07",
+            "title": "Gremlins",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 5497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iR3tV8NXFls4UKzPA60D4zrI7Jh.jpg",
+            "genre_ids": [
+                35,
+                27,
+                14
+            ],
+            "id": 928,
+            "original_language": "en",
+            "original_title": "Gremlins 2: The New Batch",
+            "overview": "Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!",
+            "popularity": 30.27,
+            "poster_path": "/jN7yvxnIHRozhq2mzWZDE5GPRc0.jpg",
+            "release_date": "1990-06-15",
+            "title": "Gremlins 2: The New Batch",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2132
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                12
+            ],
+            "id": 753337,
+            "original_language": "en",
+            "original_title": "Gremlins: A Christmas Nightmare",
+            "overview": "After Jack is gifted a box with a Mogwai in it on Christmas day, chaos ensues.",
+            "popularity": 1.292,
+            "poster_path": "/zXqUOeBZ9efGkahKBEcf12nx9Qg.jpg",
+            "release_date": "2018-12-21",
+            "title": "Gremlins: A Christmas Nightmare",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wZCjZGw9MCtGHblfSwegymZecSD.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 725944,
+            "original_language": "en",
+            "original_title": "Gremlins: A Puppet Story",
+            "overview": "Take a unique behind-the-scenes journey (made especially for the Hollywood Theatre) with special effects legend Chris Walas on the making of Joe Dante's 1984 seminal film GREMLINS. Narrated by Walas, and featuring incredibly rare photos and video from his personal archive, witness the creation of this pioneering, effects-laden classic.",
+            "popularity": 1.747,
+            "poster_path": "/zLTfwCSHqN6c2Um5FOjUgsmy5ID.jpg",
+            "release_date": "2020-07-17",
+            "title": "Gremlins: A Puppet Story",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 978588,
+            "original_language": "en",
+            "original_title": "Gremlins 3: Dawn of Desmond",
+            "overview": "31 years in the making, this illegal film is the stunning conclusion to the Gremlin trilogy.",
+            "popularity": 1.069,
+            "poster_path": "/nOGXIy1UoAyXhUJCtTCwxCJDRh5.jpg",
+            "release_date": "2021-12-23",
+            "title": "Gremlins 3: Dawn of Desmond",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10751
+            ],
+            "id": 36580,
+            "original_language": "en",
+            "original_title": "The Wiggles: Whoo Hoo! Wiggly Gremlins!",
+            "overview": "Something strange is happening at Network Wiggles, it appears as though the Wiggly Gremlins are playing some funny tricks on The Wiggles and their friends. Can you help the \"Fab Four of Fun\" work out who is behind the mischief?",
+            "popularity": 1.531,
+            "poster_path": "/nSfnat54ItLrV2QdlQlfDyrp4zS.jpg",
+            "release_date": "2003-08-03",
+            "title": "The Wiggles: Whoo Hoo! Wiggly Gremlins!",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 780568,
+            "original_language": "en",
+            "original_title": "From Gizmo to Gremlins: Creating the Creatures",
+            "overview": "Chris Walas and Howie Mandel, the voice of Gizmo, describe the laborious development of Gizmo and the Gremlins and the painstaking work required to bring them to life in the pre-digital age.",
+            "popularity": 0.848,
+            "poster_path": "/wadpQd9gqug2BnqAmOTL1dxf7jd.jpg",
+            "release_date": "2014-09-30",
+            "title": "From Gizmo to Gremlins: Creating the Creatures",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                14,
+                27,
+                878,
+                53
+            ],
+            "id": 1060588,
+            "original_language": "en",
+            "original_title": "Gremlins 3: Curse Of The Mogwai",
+            "overview": "A sequel to Gremlins (1984) about cute little creatures that transform into uncontrollable monsters.",
+            "popularity": 1.408,
+            "poster_path": "/j2F97xjtiSCwJii7osLKGd9Um3P.jpg",
+            "release_date": "2023-12-12",
+            "title": "Gremlins 3: Curse Of The Mogwai",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 780565,
+            "original_language": "en",
+            "original_title": "Cute. Clever. Mischievous. Intelligent. Dangerous: Making Gremlins",
+            "overview": "This new retrospective features new interviews with director Joe Dante, star Zach Galligan, writer Chris Columbus, executive producers Steven Spielberg and Frank Marshall and producer Michael Finnell.",
+            "popularity": 1.731,
+            "poster_path": "/mKBVLN8T8f0yP1BFAC1OrjzArkT.jpg",
+            "release_date": "2014-09-30",
+            "title": "Cute. Clever. Mischievous. Intelligent. Dangerous: Making Gremlins",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g4NGBO6GQNYNnoe179Befz1SOJx.jpg",
+            "genre_ids": [
+                12,
+                878
+            ],
+            "id": 108049,
+            "original_language": "en",
+            "original_title": "Spirits of the Air, Gremlins of the Clouds",
+            "overview": "A religious brother and sister endure alone together in the post-apocalyptic Outback, until the sudden arrival of a stranger who helps them build a crude plane to fly out of the desert.",
+            "popularity": 1.199,
+            "poster_path": "/zaxLq35neMkPeZ5SZIVZZd9Xfv4.jpg",
+            "release_date": "1988-09-02",
+            "title": "Spirits of the Air, Gremlins of the Clouds",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8h69xVbdgGVpLM4YDFYjBq8mZc8.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35
+            ],
+            "id": 180082,
+            "original_language": "en",
+            "original_title": "Russian Rhapsody",
+            "overview": "As Adolf Hitler personally flies a bomber on a mission to the Soviet Union, the gremlins from the Kremlin set about to stop him.",
+            "popularity": 1.428,
+            "poster_path": "/3z857WqrX1qtigEKqzaKgDnQ6zu.jpg",
+            "release_date": "1944-05-20",
+            "title": "Russian Rhapsody",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 14
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 11
+}

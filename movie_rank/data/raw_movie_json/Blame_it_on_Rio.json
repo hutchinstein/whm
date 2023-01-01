@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/peJqm9jylf3AULQxNGCXdPlLtJu.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 14347,
+            "original_language": "en",
+            "original_title": "Blame It on Rio",
+            "overview": "Matthew Hollis is man on holiday in Rio with his best friend. Both men have teenage daughters with them. When Matthew falls for his best friend's amorous daughter named Jennifer, they embark on a secret, if slightly one-sided relationship. Jennifer's father is furious when he finds out about the 'older man' in his daughter's life, and sets out to hunt him down with the aid of Matthew!",
+            "popularity": 13.296,
+            "poster_path": "/3AqPDrCWzNC8Fx9Oz5X4O9STIOh.jpg",
+            "release_date": "1984-02-17",
+            "title": "Blame It on Rio",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 130
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

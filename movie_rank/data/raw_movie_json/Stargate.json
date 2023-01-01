@@ -1,0 +1,232 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/s2bqHApZlliCuwgyHod0qucrYqZ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 2164,
+            "original_language": "en",
+            "original_title": "Stargate",
+            "overview": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+            "popularity": 29.363,
+            "poster_path": "/kLacy1TrSedHrZcsup1JNHl1upk.jpg",
+            "release_date": "1994-10-28",
+            "title": "Stargate",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2811
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cXBWShG3jPpKWJEgadsb1795KXm.jpg",
+            "genre_ids": [
+                12,
+                878,
+                10770
+            ],
+            "id": 12914,
+            "original_language": "en",
+            "original_title": "Stargate: Continuum",
+            "overview": "Ba'al travels back in time and prevents the Stargate program from being started. SG-1 must somehow restore history.",
+            "popularity": 17.091,
+            "poster_path": "/aP22JTw7or68WwqwFu1Bwrg66Ev.jpg",
+            "release_date": "2008-07-29",
+            "title": "Stargate: Continuum",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 400
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hPHahVM3JDlE0Zexu6avavypk0g.jpg",
+            "genre_ids": [
+                12,
+                878,
+                10770
+            ],
+            "id": 13001,
+            "original_language": "en",
+            "original_title": "Stargate: The Ark of Truth",
+            "overview": "SG-1 searches for an ancient weapon which could help them defeat the Ori, and discover it may be in the Ori's own home galaxy. As the Ori prepare to send ships through to the Milky Way to attack Earth, SG-1 travels to the Ori galaxy aboard the Odyssey. The International Oversight committee have their own plans and SG-1 finds themselves in a distant galaxy fighting two powerful enemies.",
+            "popularity": 17.496,
+            "poster_path": "/wsKsWoRxhCuw2dczg1rx9fUAhIp.jpg",
+            "release_date": "2008-03-11",
+            "title": "Stargate: The Ark of Truth",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bEYwyRRZNCTpMgyxi0bO89O76W8.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                878
+            ],
+            "id": 784993,
+            "original_language": "en",
+            "original_title": "Stargate SG-1: Children of the Gods",
+            "overview": "An alien similar to Ra appears out of the Stargate, killing five soldiers and kidnapping another, a year after the original Stargate mission. A new team is assembled, including some old members, and they go in search of the missing soldier in order to find out how Ra could still be alive. Meanwhile, the alien Goa'uld kidnap Sha're and Skaara, implanting them with symbiotes and making them Goa'uld hosts.",
+            "popularity": 7.018,
+            "poster_path": "/3HOystOCjvi3o1ufOtvj7chDQkd.jpg",
+            "release_date": "1997-07-27",
+            "title": "Stargate SG-1: Children of the Gods",
+            "video": true,
+            "vote_average": 7.4,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jCcvhae8MmkqYtR1EGtMYFdpQud.jpg",
+            "genre_ids": [
+                878,
+                99,
+                10770
+            ],
+            "id": 376268,
+            "original_language": "en",
+            "original_title": "Stargate SG-1: True Science",
+            "overview": "In this documentary, Amanda Tapping, known as Samantha Carter from SG-1, shows the scientific background of the successful science fiction series \"Stargate SG-1\" and lets us take a look behind the scenes.",
+            "popularity": 3.886,
+            "poster_path": "/3e2gPmE5KDPFpWjDkziOyeho5SD.jpg",
+            "release_date": "2006-01-03",
+            "title": "Stargate SG-1: True Science",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dWCH5UIX3hq7er5jnCndUxZJ6wn.jpg",
+            "genre_ids": [],
+            "id": 873627,
+            "original_language": "en",
+            "original_title": "Stargate Atlantis: Fans' Choice",
+            "overview": "The exhilarating, feature-length pilot episode, \"Rising\", sends a brilliant team of scientists through a Stargate to the legendary city of Atlantis. But not only is the city about to be engulfed by ocean water, an enemy appears who threatens everyone in the Pegasus Galaxy! And in the white-knuckle, lengthened \"Enemy at the Gate\" from Season 5, as the team tries to disempower Wraith hive ships, the Wraith discover coordinates that will allow them to destroy Earth!",
+            "popularity": 4.323,
+            "poster_path": "/4jAJZIc6IfBAZHlDEsX8Vl0cYeg.jpg",
+            "release_date": "2009-08-04",
+            "title": "Stargate Atlantis: Fans' Choice",
+            "video": true,
+            "vote_average": 9,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8nrZkZ6H7DYfiOUApqe7OXkK4JW.jpg",
+            "genre_ids": [],
+            "id": 875973,
+            "original_language": "en",
+            "original_title": "Stargate Universe: SGU",
+            "overview": "Limited Edition Extended Pilot: When Icarus Base is attacked, it's inhabitants are forced to flee through the Stargate. The base was created on a distant planet to take advantage of a powerful energy supply located there. Their goal is to try and determine the purpose of the mysterious ninth symbol of the Stargate which they have never been able to lock in. In going through the Stargate, they are transported not to Earth but onto an very old, apparently uninhabited but huge spacecraft. With the group's commander injured, Lt. Scott and the chief scientist, Dr. Nicholas Rush lead the exploration of the craft. Several areas of the ship have been damaged but it is basically functional. They are able to learn that they are in fact billions of light years from Earth.",
+            "popularity": 2.164,
+            "poster_path": "/pjbafQ1QtZPl3mTWbYOuVrUsHf3.jpg",
+            "release_date": "2009-10-02",
+            "title": "Stargate Universe: SGU",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878
+            ],
+            "id": 1038090,
+            "original_language": "en",
+            "original_title": "Stargate",
+            "overview": "An archaeologist and a group of marines discover a portal to another world.",
+            "popularity": 1.129,
+            "poster_path": null,
+            "release_date": "",
+            "title": "Stargate",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99,
+                10770,
+                878
+            ],
+            "id": 226412,
+            "original_language": "en",
+            "original_title": "Is There a Stargate?",
+            "overview": "Documentary about possible ancient alien visitors to Earth.",
+            "popularity": 1.631,
+            "poster_path": "/pV8gWYeIQruSZ7tInBI01dYTw5c.jpg",
+            "release_date": "2003-02-18",
+            "title": "Is There a Stargate?",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1052378,
+            "original_language": "en",
+            "original_title": "Stargate: History Made",
+            "overview": "Divided into three segments,  \"Deciphering the Gate: Concepts and Casting\" (7:50), \"Opening the Gate: The Making of Stargate\" (10:11) and \"Passing Through the Gate: The Legacy\" (4:29), the shows look at the film's origins and development, cast and performances, locations and effects, visual and set design, the use of the Egyptian language, and the movie's success/legacy.",
+            "popularity": 1.385,
+            "poster_path": "/AkzgG9AnYXmRWo67xXb0ppmXLpa.jpg",
+            "release_date": "2009-10-27",
+            "title": "Stargate: History Made",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nZpQvEs5XLIFyhf2bXiZl0z8xr9.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 956729,
+            "original_language": "fr",
+            "original_title": "Stargate - En route vers les \u00e9toiles",
+            "overview": "",
+            "popularity": 1.156,
+            "poster_path": "/jWU6zw2xEC1mbimTNK9Wx1bJOJ2.jpg",
+            "release_date": "2009-01-01",
+            "title": "Stargate - En route vers les \u00e9toiles",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xayRC2s917J9D3ieomQwcjtwJJI.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 720733,
+            "original_language": "en",
+            "original_title": "Aliens and Atlantis: Stargates and Hidden Realms",
+            "overview": "Atlantis is known across the world as a myth. But is this really the truth? No matter what cultural history we explore, we discover a story very similar to the one we know about Atlantis...why? For years, experts and researchers have been looking in the wrong place, at the wrong people and for the wrong thing. For too long historians have focused on a few words left to us by Plato whose meaning they misunderstood. The fact is, even Plato didn't understand what had been told to him. The startling truth is that the remnants of Atlantis are all around us right now and have been for a very long time - long before recorded history. New research and insight exposes Atlantis to be a pivotal part of our ancient beginnings. The legendary lost city that many think of as myth, was in fact a very real and highly advanced civilization that was uniquely aware of the laws of the universe and was able to access hidden dimensions and make contact with extraterrestrial races.",
+            "popularity": 2.561,
+            "poster_path": "/tHMKJeFF8VdLm3ALfnAYuRVBsCe.jpg",
+            "release_date": "2016-02-23",
+            "title": "Aliens and Atlantis: Stargates and Hidden Realms",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 12
+}

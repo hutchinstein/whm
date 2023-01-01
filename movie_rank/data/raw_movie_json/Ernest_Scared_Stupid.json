@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/Aog0gZOMKa2uGU3mScOrWhGnrGK.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                14,
+                27
+            ],
+            "id": 32685,
+            "original_language": "en",
+            "original_title": "Ernest Scared Stupid",
+            "overview": "Well-intentioned, eternally bumbling Ernest P. Worrell accidentally releases an evil demon from its sacred tomb. As the demon flexes its power and goes on a ruinous rampage, good-guy Ernest tries to step in to save the town from mass destruction. Trouble is, a 200-year-old curse has scared Ernest stupid, and that means hilarity all around! So, kick back and let the laugh-ridden adventures begin.",
+            "popularity": 12.725,
+            "poster_path": "/keskzaTlOHWaHjG8H6W9g5bVj9n.jpg",
+            "release_date": "1991-10-11",
+            "title": "Ernest Scared Stupid",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 147
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

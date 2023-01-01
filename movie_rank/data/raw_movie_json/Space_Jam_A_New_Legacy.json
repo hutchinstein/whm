@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                35,
+                878
+            ],
+            "id": 379686,
+            "original_language": "en",
+            "original_title": "Space Jam: A New Legacy",
+            "overview": "When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.'s digitized champions on the court. It's Tunes versus Goons in the highest-stakes challenge of his life.",
+            "popularity": 94.9,
+            "poster_path": "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
+            "release_date": "2021-07-08",
+            "title": "Space Jam: A New Legacy",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 3373
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,163 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7OsGo8yVkTgD1ZJMBi9M8GP5aes.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751
+            ],
+            "id": 332,
+            "original_language": "en",
+            "original_title": "Inspector Gadget",
+            "overview": "John Brown is a bumbling but well-intentioned security guard who is badly injured in an explosion planned by an evil mastermind. He is taken to a laboratory, where Brenda, a leading robotics surgeon, replaces his damaged limbs with state-of-the-art gadgets and tools. Named \"Inspector Gadget\" by the press, John -- along with his niece, Penny, and her trusty dog, Brain -- uses his new powers to discover who was behind the explosion.",
+            "popularity": 13.542,
+            "poster_path": "/eKpK8FaQDpkgp3HHm3YrIDqUjWh.jpg",
+            "release_date": "1999-07-23",
+            "title": "Inspector Gadget",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 1018
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jeWcKqVdsQbVsyALogXQh6aH0A5.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751
+            ],
+            "id": 19766,
+            "original_language": "en",
+            "original_title": "Inspector Gadget 2",
+            "overview": "After capturing Claw, all the criminals have gone into hiding until, Claw escapes! Gadget thinks he will get the case, but everyone else has other planes. A new version of the Gadget project is unveiled in the form of G2. Strict orders are given for Gadget to stay away from G2 and every crime scene, but Gadget feels he is needed more than anyone.",
+            "popularity": 9.381,
+            "poster_path": "/6g5L4lpsQ1jYDJpMn1XGYOGzlar.jpg",
+            "release_date": "2003-03-11",
+            "title": "Inspector Gadget 2",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 317
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/skTQrWA7OxBorWQRUI2Hiaupr9k.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 431230,
+            "original_language": "en",
+            "original_title": "Inspector Gadget Saves Christmas",
+            "overview": "That bionic bonehead is off to the North Pole to stop Dr. Claw from taking over Santa's elves and workshop. Accompanied as usual by Penny and Brain who foil Claw's operations once again.",
+            "popularity": 2.992,
+            "poster_path": "/sPvBWFJJekQ1BuTR6c1XjLNZtlf.jpg",
+            "release_date": "1992-12-04",
+            "title": "Inspector Gadget Saves Christmas",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c8xvFsI0EoP5tVbtToaqpnU9j9C.jpg",
+            "genre_ids": [
+                16,
+                35,
+                80,
+                10751,
+                14
+            ],
+            "id": 33868,
+            "original_language": "en",
+            "original_title": "Inspector Gadget's Last Case",
+            "overview": "Gadget is still a klutz and Dr. Claw has a vicious new plan that makes him a super-hero in disguise to try to ruin Gadget and to take over the world, but as usual Gadget in his zany ways wins.",
+            "popularity": 5.922,
+            "poster_path": "/oX87kZXZJfB3XIDdMMbQNHgv2NE.jpg",
+            "release_date": "2002-10-13",
+            "title": "Inspector Gadget's Last Case",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 737532,
+            "original_language": "en",
+            "original_title": "Inspector Gadget",
+            "overview": "A new live action adaptation of the animated series",
+            "popularity": 1.09,
+            "poster_path": "/c5j7AR6i7yk2qQJWvrNBS7kr4UN.jpg",
+            "release_date": "",
+            "title": "Inspector Gadget",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nAirZVSaTG5g10zSMX83xDRj8mR.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "id": 64633,
+            "original_language": "en",
+            "original_title": "Inspector Gadget's Biggest Caper Ever",
+            "overview": "Penny, the niece of the inspector hais now 16 years old and the dog Sultan is smarter. Marhham, the mayor of Metro City has decided that the town needs a tourist attraction. The mayor believes that their problems will be solved when he finds under the Metro City Jail an egg of a prehistoric giant lizard, in perfect condition. But Dr. Claw and his henchmen steal the egg with the intent to use it for world domination.",
+            "popularity": 4.21,
+            "poster_path": "/aSGq2hFdhUlPAfqa48jA7YyJktB.jpg",
+            "release_date": "2005-09-06",
+            "title": "Inspector Gadget's Biggest Caper Ever",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 920022,
+            "original_language": "en",
+            "original_title": "Inspector Gadget: Gadget's Greatest Gadgets",
+            "overview": "The bionic dim bulb shows us three of his best cases that show all his gadgets at their best.",
+            "popularity": 1.375,
+            "poster_path": "/5SuQTKq9sHne09eigQm0kubTHRc.jpg",
+            "release_date": "1999-09-02",
+            "title": "Inspector Gadget: Gadget's Greatest Gadgets",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "id": 701087,
+            "original_language": "en",
+            "original_title": "The Amazing Adventures of Inspector Gadget",
+            "overview": "Penny is caught and almost turned into a boy forever so that she will not be able to stop Doctor Claw.",
+            "popularity": 0.6,
+            "poster_path": "/n7zzWjBQinRYuqHLt1o9wrWwb4G.jpg",
+            "release_date": "1986-01-01",
+            "title": "The Amazing Adventures of Inspector Gadget",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 8
+}

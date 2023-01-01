@@ -1,0 +1,28 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xP91Ux8P3dCeSHbPZHRSLTpemxF.jpg",
+            "genre_ids": [
+                14,
+                28,
+                53,
+                878
+            ],
+            "id": 4923,
+            "original_language": "en",
+            "original_title": "Zardoz",
+            "overview": "In the far future, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements.",
+            "popularity": 14.797,
+            "poster_path": "/6qvQhJhvM7wWPB2LjVpivSNraIv.jpg",
+            "release_date": "1974-02-06",
+            "title": "Zardoz",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 349
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -1,0 +1,140 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/x7fK0oOUX8Ks1B1lZsACmCXUybI.jpg",
+            "genre_ids": [
+                28,
+                14,
+                9648,
+                80
+            ],
+            "id": 314,
+            "original_language": "en",
+            "original_title": "Catwoman",
+            "overview": "A shy woman, endowed with the speed, reflexes, and senses of a cat, walks a thin line between criminal and hero, even as a detective doggedly pursues her, fascinated by both of her personas",
+            "popularity": 30.563,
+            "poster_path": "/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
+            "release_date": "2004-07-22",
+            "title": "Catwoman",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 2906
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g9HtCtdLpYv7C20MMirEbpE628v.jpg",
+            "genre_ids": [
+                16,
+                28,
+                80
+            ],
+            "id": 862491,
+            "original_language": "en",
+            "original_title": "Catwoman: Hunted",
+            "overview": "Catwoman's attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.",
+            "popularity": 28.035,
+            "poster_path": "/oS0iKblZSNfQscOJb7IAEt0ZnhS.jpg",
+            "release_date": "2022-02-07",
+            "title": "Catwoman: Hunted",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p46X8bUoUHaPTYvypbp6PqCUoF4.jpg",
+            "genre_ids": [
+                28,
+                16,
+                80
+            ],
+            "id": 76420,
+            "original_language": "en",
+            "original_title": "DC Showcase: Catwoman",
+            "overview": "Catwoman attempts to track down a mysterious cargo shipment that is linked to a Gotham City crime boss called Rough Cut.",
+            "popularity": 9.81,
+            "poster_path": "/uork4S9bSxVOdGrBxGfsAqC0Ylv.jpg",
+            "release_date": "2011-10-18",
+            "title": "DC Showcase: Catwoman",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 829707,
+            "original_language": "en",
+            "original_title": "Catwoman: The Feline Femme Fatale",
+            "overview": "A documentary about the history of Catwoman from DC.",
+            "popularity": 4.033,
+            "poster_path": "/ord8gdBUFitBHccX1S5RpatulA7.jpg",
+            "release_date": "2021-05-05",
+            "title": "Catwoman: The Feline Femme Fatale",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 854860,
+            "original_language": "en",
+            "original_title": "The Many Faces of Catwoman",
+            "overview": "History of the character Catwoman",
+            "popularity": 0.907,
+            "poster_path": null,
+            "release_date": "2005-01-18",
+            "title": "The Many Faces of Catwoman",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 941471,
+            "original_language": "en",
+            "original_title": "Catwoman vs. the White House",
+            "overview": "Newly discovered audio and video tells the full story between Eartha Kitt's run in with the President and the First Lady in 1968.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "2022-04-28",
+            "title": "Catwoman vs. the White House",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cYFCyJGkrnVu03U980TRLyiCoDd.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 28659,
+            "original_language": "en",
+            "original_title": "Cat Girl",
+            "overview": "A psychiatrist treats a woman who is convinced that she turns into a killer leopard because of a family curse.",
+            "popularity": 2.689,
+            "poster_path": "/uecOR4c3IrZ2AusokpyifrtJks9.jpg",
+            "release_date": "1957-09-01",
+            "title": "Cat Girl",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 10
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 7
+}

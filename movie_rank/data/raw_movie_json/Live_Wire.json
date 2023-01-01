@@ -1,0 +1,207 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5kFSjZNYSng3YrXgencT6iINItv.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 12629,
+            "original_language": "en",
+            "original_title": "Live Wire",
+            "overview": "Danny O'Neill is a bomb disposal expert assigned to a case where terrorists have developed an \"invisible\" liquid explosive which is activated within the human body.",
+            "popularity": 7.776,
+            "poster_path": "/xQbj9KgXqw9yjZfDO99jFyw1pzg.jpg",
+            "release_date": "1992-09-03",
+            "title": "Live Wire",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 111983,
+            "original_language": "en",
+            "original_title": "Live Wire: Human Time Bomb",
+            "overview": "A computer chip turns an FBI agent into a lethal weapon.",
+            "popularity": 1.198,
+            "poster_path": "/wfrKy57xyJWenCVrHRodOdxXdvH.jpg",
+            "release_date": "1996-02-27",
+            "title": "Live Wire: Human Time Bomb",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "id": 1011994,
+            "original_language": "en",
+            "original_title": "Casey Jones: Live Wire",
+            "overview": "Vigilante Casey Jones confiscates a futuristic gun from a criminal and begins to question his brand of justice. When footage of the fight spreads, girlfriend April O'Neil warns that he is drawing the attention of a dark organization.",
+            "popularity": 0.784,
+            "poster_path": "/9IHlpxeZwiLqjrc01DeYZuDZEYT.jpg",
+            "release_date": "2022-07-29",
+            "title": "Casey Jones: Live Wire",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 297728,
+            "original_language": "en",
+            "original_title": "The Live Wire",
+            "overview": "The Great Maranelli, a stunting circus clown, falls instantly in love when he sees Dorothy Langdon, who does not think too much of him and lets him know it. He is so smitten that his works suffers to the extent that he is soon just a hobo drifting along the open road. When he again encounters Dorothy, she gets him a job as a salesman with her father's light-and-power company, and proves to be a a real \"live-wire\" salesman. He is then put in charge of the lighting in an amusement park being built under Dorothy's supervision, and trouble comes many directions, guided by Dorothy's cad fianc\u00e9e who wants to make the stock in the project worthless so he can buy it cheaply.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1925-09-20",
+            "title": "The Live Wire",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749,
+                28,
+                35
+            ],
+            "id": 110340,
+            "original_language": "en",
+            "original_title": "The Live Wire",
+            "overview": "A sailor (Richard Talmadge) journeys to a remote island in search of a rare urn. The film also stars Alberta Vaughn, Charles K. French and Martin Turner.",
+            "popularity": 0.6,
+            "poster_path": "/hMGTRCHLHAXNdK93XpgQZi1X4Bz.jpg",
+            "release_date": "1935-11-01",
+            "title": "The Live Wire",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kqvRaWpJbyNsNBEwni6IuJo8XqK.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 231540,
+            "original_language": "de",
+            "original_title": "Unter Strom",
+            "overview": "A comedy about relationships. A just-divorced couple, the wife's lover; a convicted criminal, his pregnant wife and his best friend; the economy minister and his secret lover; all parties are under stress in a hostage situation and surrounded by uncoordinated police troops.",
+            "popularity": 0.6,
+            "poster_path": "/5amXv6jk6tAXAbmid9JqyDFhd0q.jpg",
+            "release_date": "2009-12-10",
+            "title": "Live Wire",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 177663,
+            "original_language": "en",
+            "original_title": "Thomas Dolby - Live Wireless",
+            "overview": "A High-concept film combining Live concert footage of Thomas Dolby (with guest Lena Lovich) with music videos from the \"Golden Age Of Wireless\" album.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1983-10-03",
+            "title": "Thomas Dolby - Live Wireless",
+            "video": true,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x5452N8lw5LZjdmBDF1wTGeAidt.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 130886,
+            "original_language": "en",
+            "original_title": "Live Wires",
+            "overview": "Slip gets fired from his job at a construction company for decking his boss. His sister, who got him a job at the company, is angry with him. Slip manages to get a job with the District Attorney serving warrants, as does Sach. Through his job, Slip finds out that all is not quite kosher at his old construction company, and that his sister may be in danger.",
+            "popularity": 1.4,
+            "poster_path": "/v89UO1gNjXmw8REfHBOZNtBOS2s.jpg",
+            "release_date": "1946-01-12",
+            "title": "Live Wires",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 278121,
+            "original_language": "en",
+            "original_title": "Live Wires and Love Sparks",
+            "overview": "Bill is a married telephone worker, who gets chased around by a lot of people.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1916-03-18",
+            "title": "Live Wires and Love Sparks",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 265433,
+            "original_language": "en",
+            "original_title": "Front Line Assembly - Live Wired",
+            "overview": "Recorded live at Chemnitz - Kraftwerk 14.10.95 and Mainz - KUZ 24.10.95.\r Mastered at Bernie Grundman Mastering Los Angeles.",
+            "popularity": 0.6,
+            "poster_path": "/qb5hLZn2MOaT1Gjldw9rOLS9kEB.jpg",
+            "release_date": "1996-01-01",
+            "title": "Front Line Assembly - Live Wired",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 844245,
+            "original_language": "en",
+            "original_title": "The Live Wires V. S. Mack Namara or the Napalm is Burning a Hole in my Credit Card!",
+            "overview": "The Mozart of cinema takes his final bow.",
+            "popularity": 0.6,
+            "poster_path": null,
+            "release_date": "1968-01-01",
+            "title": "The Live Wires V. S. Mack Namara or the Napalm is Burning a Hole in my Credit Card!",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 11
+}

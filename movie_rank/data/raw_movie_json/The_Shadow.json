@@ -1,0 +1,394 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/UQUVSvRWBE5ENDMSdZAYZrfhOd.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28,
+                53,
+                878
+            ],
+            "id": 8850,
+            "original_language": "en",
+            "original_title": "The Shadow",
+            "overview": "Based on the 1930's comic strip, puts the hero up against his arch enemy, Shiwan Khan, who plans to take over the world by holding a city to ransom using an atom bomb. Using his powers of invisibility and \"The power to cloud men's minds\", the Shadow comes blazing to the city's rescue with explosive results.",
+            "popularity": 12.744,
+            "poster_path": "/xAbFJH3vQYZvUyzzGAtG4OLy492.jpg",
+            "release_date": "1994-07-01",
+            "title": "The Shadow",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWfVblwUhY9z1dU5h6fgJhr2yHF.jpg",
+            "genre_ids": [
+                878,
+                28,
+                53
+            ],
+            "id": 383538,
+            "original_language": "en",
+            "original_title": "The Shadow Effect",
+            "overview": "A young man's life is turned upside down when his violent dreams begin to blend with reality.",
+            "popularity": 12.607,
+            "poster_path": "/in6p8c9ceTs1wDDkaVwXBXIsjQi.jpg",
+            "release_date": "2017-05-02",
+            "title": "The Shadow Effect",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jJUK0IKdVvsTONsCVTVHQkEn7bZ.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 530382,
+            "original_language": "en",
+            "original_title": "In the Shadow of the Moon",
+            "overview": "In 1988, Philadelphia police officer Thomas \"Locke\" Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke's obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.",
+            "popularity": 20.436,
+            "poster_path": "/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg",
+            "release_date": "2019-09-27",
+            "title": "In the Shadow of the Moon",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rvvbj6yxZiWU4q3LftTT9L6N06D.jpg",
+            "genre_ids": [
+                37,
+                10770
+            ],
+            "id": 22765,
+            "original_language": "en",
+            "original_title": "The Shadow Riders",
+            "overview": "After starring in \"The Sacketts\", Tom Selleck and Sam Elliott team up again but this time as Mac and Dal Traven, in a movie based on a classic Louis L'Amour novel. They are brothers, who meet up at the end of the Civil War fighting on opposite sides. They go home only to find their family in dire need and their sisters and brother kidnapped by ruthless raiders. They set out to rescue their family.",
+            "popularity": 6.027,
+            "poster_path": "/tbILlAZ0YaIs1J1huAFUZwuuFZM.jpg",
+            "release_date": "1982-09-28",
+            "title": "The Shadow Riders",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f0wvbhqQ4TJ5wJeEXB3VfqoI5pa.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 1013609,
+            "original_language": "en",
+            "original_title": "The Anthrax Attacks: In the Shadow of 9/11",
+            "overview": "Days after 9/11, letters containing fatal anthrax spores spark panic and tragedy in the US. This documentary follows the subsequent FBI investigation.",
+            "popularity": 13.858,
+            "poster_path": "/bTJvGRD7AKaEMUOahCDfvq5rwx5.jpg",
+            "release_date": "2022-09-08",
+            "title": "The Anthrax Attacks: In the Shadow of 9/11",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o4TwwNW7331PAOyMadbDTLQyWKk.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "id": 16364,
+            "original_language": "en",
+            "original_title": "Robotech: The Shadow Chronicles",
+            "overview": "In the year 2044 AD, the human race has amped-up its space exploration and reached out to the stars through the miracle of ROBOTECHNOLOGY, but not without bringing intergalactic war upon the Earth itself. Heroes will die and allegiances will shift. But in the midst of combat, perhaps peace will spring up through the charred remains of battered history. One of the greatest science fiction sagas of all time continues...",
+            "popularity": 3.503,
+            "poster_path": "/h2Rfp1laVF0kwKa5BcjiJaTtqy0.jpg",
+            "release_date": "2006-08-25",
+            "title": "Robotech: The Shadow Chronicles",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/plO8XyDagV9iCnikOFBsy4tmfMR.jpg",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "id": 14284,
+            "original_language": "en",
+            "original_title": "In the Shadow of the Moon",
+            "overview": "Archival material from the original NASA film footage \u2013 much of it seen for the first time \u2013 plus interviews with the surviving astronauts, including Jim Lovell, Dave Scott, John Young, Gene Cernan, Mike Collins, Buzz Aldrin, Alan Bean, Edgar Mitchell, Charlie Duke and Harrison Schmitt.",
+            "popularity": 8.212,
+            "poster_path": "/xvthKnu7EjK0QvEBPY9ZnO3SiHe.jpg",
+            "release_date": "2007-01-19",
+            "title": "In the Shadow of the Moon",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "id": 60009,
+            "original_language": "en",
+            "original_title": "The Shadow Men",
+            "overview": "Happily married couple Bob and Dez Wilson and their 12-year old son Andy are being attacked by a blinding light when driving home from a daytrip. They awaken a couple of hours later, seemingly unscathed but soon driven mad by recurring nightmares. It soon appears that they have been abducted by aliens as proved by their sons handycam that had suddenly started running right after the incident. This mysterious fact is discovered by even more mysterious Men In Black who start nagging the family up to the point of threatening to kill them. Laughed at by the police the threesome seek refuge at sf-writer Stan Mills' house and start fighting back.",
+            "popularity": 2.447,
+            "poster_path": "/hBaR548OuaCAtglXZWbHu31dVIz.jpg",
+            "release_date": "1997-09-24",
+            "title": "The Shadow Men",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7YJ9tUShJTW15xohOarp4gDJiH2.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 36459,
+            "original_language": "en",
+            "original_title": "Man in the Shadow",
+            "overview": "In effect, modern cow town Spurline is run by Virgil Renchler, owner of the Golden Empire Ranch. One night, two of Virgil's henchmen go a little too far and beat a \"bracero\" ranch hand to death. Faced with an obvious cover-up and opposition on every hand, sheriff Ben Sadler is goaded into investigating. His unlikely ally: Renchler's lovely, self-willed and overprotected daughter. Will Ben survive Renchler's wrath?",
+            "popularity": 2.435,
+            "poster_path": "/jaq7qeQO3E3AeulcjzEBVzhS2Pf.jpg",
+            "release_date": "1957-12-12",
+            "title": "Man in the Shadow",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sKMwKK6AyPvb4Fscb3FGJtOBuIu.jpg",
+            "genre_ids": [
+                27,
+                37
+            ],
+            "id": 65272,
+            "original_language": "en",
+            "original_title": "The Shadow of Chikara",
+            "overview": "Confederate veterans of the last battle of the Civil War set out to find a hidden treasure.",
+            "popularity": 2.923,
+            "poster_path": "/hoEbFCoOaocgIsr4cIogo3PGDKI.jpg",
+            "release_date": "1977-01-01",
+            "title": "The Shadow of Chikara",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a1cuWr1vNfYWkv69lD2g40hPOVM.jpg",
+            "genre_ids": [
+                28,
+                14,
+                12
+            ],
+            "id": 198677,
+            "original_language": "en",
+            "original_title": "SAGA - Curse of the Shadow",
+            "overview": "A secret cabal, The Shadow, works to bring about the return of Goth Azul - the Undead God - in the rich world of SAGA, populated by elves, orcs, dwarves and dragons.  A ruthless elven bounty huntress (Nemyt) shoots down the dragon ridden by the fugitive orc shaman, Fangtor Bloodmoon. When Fangtor refuses to surrender quietly, the huntress must battle for her own life against the dangerous villain, and comes away with more than just his head.",
+            "popularity": 2.242,
+            "poster_path": "/9SPZZRIAlxmLamjYfgHYXxL7Ox9.jpg",
+            "release_date": "2014-04-02",
+            "title": "SAGA - Curse of the Shadow",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/demxF8eUGDZlKNZplBIfyo9ZE5h.jpg",
+            "genre_ids": [
+                10770,
+                18
+            ],
+            "id": 131481,
+            "original_language": "en",
+            "original_title": "The Shadow Box",
+            "overview": "Over the course of a day in a California hospice, three terminally ill patients are observed with their families reflecting on life and death.",
+            "popularity": 1.897,
+            "poster_path": "/jwrLUWthBxKWHDATkhG6sDwHaGW.jpg",
+            "release_date": "1980-09-30",
+            "title": "The Shadow Box",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xCgoRk2iAKmm8zh36J8bESCIx2A.jpg",
+            "genre_ids": [
+                9648
+            ],
+            "id": 201000,
+            "original_language": "en",
+            "original_title": "The Shadow",
+            "overview": "Mary Gillespie is restoring the Col. Gillespie Circus to its former splendor after her father's death. With the help of her publicist boyfriend Jim, the sell-out crowds are returning to the big top. Egotistical equestrian star Senor Martinet, however, holds $60,000 of notes signed by the Colonel and due in 24 hours. When a mysterious shadowy figure is seen on the circus lot, and Martinet is murdered in the center ring during his performance, there are suspects aplenty, including Vindecco, Martinet's badly abused hunchback assistant.",
+            "popularity": 1.4,
+            "poster_path": "/8UrQDEfamNN8QQT70DouXDbIEqE.jpg",
+            "release_date": "1937-12-22",
+            "title": "The Shadow",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fcu9UeDcJLeQzG7g60iLS9brIVK.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 28720,
+            "original_language": "en",
+            "original_title": "The Shadow of the Cat",
+            "overview": "Tabitha, once the placid, gentle and devoted pet, adopts all the characteristics of a ferocious, wild animal following the murder of her mistress. The three guilty people are all trapped by the cat's power and each will come to untimely deaths of horrific proportions without anyone being able to solve the mystery that surrounds their brutal death.",
+            "popularity": 2.978,
+            "poster_path": "/94KSOe2KWLvMSXyB4vOvNc29mSy.jpg",
+            "release_date": "1961-05-01",
+            "title": "The Shadow of the Cat",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3KdCN3eOS7UqQnCL0T8aB5Xqc3A.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 161987,
+            "original_language": "en",
+            "original_title": "The Shadow",
+            "overview": "The Shadow battles a villain known as The Black Tiger, who has the power to make himself invisible and is trying to take over the world with his death ray.",
+            "popularity": 1.151,
+            "poster_path": "/ss2sHBgf6Ft6NHrJKbpfuQPXwH3.jpg",
+            "release_date": "1940-01-05",
+            "title": "The Shadow",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zOUFq8Ki8rjl8KBMMdj2v5nnReb.jpg",
+            "genre_ids": [
+                9648
+            ],
+            "id": 162015,
+            "original_language": "en",
+            "original_title": "The Shadow Returns",
+            "overview": "The Shadow (Kane Richmond) cracks a case of missing jewels, murder and plastics.",
+            "popularity": 1.334,
+            "poster_path": "/wPH9tIzOnPJmzC3KXUrx9uIap4F.jpg",
+            "release_date": "1946-02-16",
+            "title": "The Shadow Returns",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 601575,
+            "original_language": "en",
+            "original_title": "The Shadow",
+            "overview": "Janis thought she had recovered from her days of paranoia and sleep paralysis, hoping 'The Shadow' creature was gone forever. But now it's back and closer than ever before.",
+            "popularity": 0.892,
+            "poster_path": "/kOsoiQrzheUb7zTxYTfm6MFEhHh.jpg",
+            "release_date": "2018-02-10",
+            "title": "The Shadow",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                28,
+                53
+            ],
+            "id": 69942,
+            "original_language": "en",
+            "original_title": "The Shadow Walkers",
+            "overview": "Shadow Walkers is a highly suspenseful story of a group of lab technicians and military personnel who awaken in a subterranean laboratory with no memory of who they are. They quickly discover that they are sealed in, with only one way to get out alive. They must travel deeper into the underground facility to an escape tunnel that leads to the surface. Hindered by the fact there is only limited electrical power, they struggle through the darkness where they uncover a hive of genetically mutated creatures that stalk them from the shadows. Bred for combat, these monsters are endowed with razor sharp talons and rows of jagged teeth capable of ripping a man apart. While avoiding danger at every turn, they begin to regain their memories, discovering the origin of the deadly creatures and the part they played in their creation.",
+            "popularity": 1.248,
+            "poster_path": "/9PsBExGWGeiVnZbtTbUGyS1QXCR.jpg",
+            "release_date": "2006-09-07",
+            "title": "The Shadow Walkers",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kq0zwccbh7WcdNxGcH67cMwhjBN.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 46513,
+            "original_language": "en",
+            "original_title": "The Shadow in the North",
+            "overview": "Sally Lockhart crosses paths with the nefarious industrialist Axel Bellman, the richest and most powerful man in Europe. She's determined to prove him guilty of corruption and fraud, whilst Bellman will stop at nothing to destroy her case.",
+            "popularity": 1.527,
+            "poster_path": "/p0FCYfrd3SrjMww60veDJ3uMY0d.jpg",
+            "release_date": "2007-09-15",
+            "title": "The Shadow in the North",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878
+            ],
+            "id": 537372,
+            "original_language": "en",
+            "original_title": "The Shadow Hours",
+            "overview": "A Neo-Noir following twins born with a mysterious condition: only one of them can be awake at a time. Posing as one person, each awake for only half of a day, they make a living as private investigators... until a budding romance threatens to ruin their lives.",
+            "popularity": 0.6,
+            "poster_path": "/fpIIIPIg0DxB4MOtVK7phZRymzj.jpg",
+            "release_date": "2018-03-26",
+            "title": "The Shadow Hours",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 28,
+    "total_results": 554
+}

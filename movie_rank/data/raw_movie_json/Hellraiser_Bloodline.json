@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1xgnmicPKkugOm7jrvN9ZwcBgnT.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 8766,
+            "original_language": "en",
+            "original_title": "Hellraiser: Bloodline",
+            "overview": "Three generations of the same family deal with the consequences of unleashing the forces of hell.",
+            "popularity": 18.485,
+            "poster_path": "/eXeQKyfWzcsYYbiEtWy189cTBdB.jpg",
+            "release_date": "1996-03-08",
+            "title": "Hellraiser: Bloodline",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 414
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+}

@@ -25,8 +25,8 @@ def get_top_10_people(people_to_movies: dict,
             break
 
 
-def is_actor_or_director(individual: dict) -> bool:
-    if individual.get('job') == 'job':
+def is_target_person(individual: dict) -> bool:
+    if individual.get('job') in ('Director', 'Novel'):
         return True
     if individual.get('character') and\
             individual.get('id') not in get_ids_to_skip()\
@@ -57,7 +57,7 @@ def main():
         id_to_movie.setdefault(data['id'],
                                file.replace('_', ' ')[:-5])
         for individual in cast_and_crew:
-            if is_actor_or_director(individual):
+            if is_target_person(individual):
                 id_to_people.setdefault(individual['id'],
                                         individual['name'])
 

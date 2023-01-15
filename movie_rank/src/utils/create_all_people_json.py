@@ -26,7 +26,7 @@ def get_top_10_people(people_to_movies: dict,
 
 
 def is_actor_or_director(individual: dict) -> bool:
-    if individual.get('job') == 'job':
+    if individual.get('job') in ('Director', 'Novel'):
         return True
     if individual.get('character') and\
             individual.get('id') not in get_ids_to_skip()\

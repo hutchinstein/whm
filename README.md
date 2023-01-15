@@ -18,6 +18,7 @@ The algorithm:
 * = Points are based on the number of people associated with the movie. Without this, movies with small casts were penalized and could never rise up.
 
 The output for the time is a simple print function and in the future I want to write this to files or move it to a SQL server so I can query the data.
+See out/all_scores.txt and out/movie_score_only.txt for most recent results.
 
 Future plans:
 	* This could be used as a heuristic for a longest movie marathon chain

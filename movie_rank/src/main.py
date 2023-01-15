@@ -212,7 +212,7 @@ def main():
     for movie in movies:
         print(movie.get_movie_name(), movie.get_z_score())
         # if movie.get_z_score() > 1:
-        # get_person_details_for_movie(movie, people_objs)
+        get_person_details_for_movie(movie, people_objs)
 
 
 if __name__ == '__main__':

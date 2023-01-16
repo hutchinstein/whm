@@ -30,7 +30,8 @@ def get_movie_title_dict() -> dict:
                         {'content_year': row['Content Year'],
                          'whm_episode': ep_num,
                          'title': clean_title(row['Title']),
-                         'media_type': row['Media Type']}
+                         'media_type': row['Media Type'],
+                         'whm_release_date': row['Originally Posted']}
                 ep_num += 1
     return out_dict
 

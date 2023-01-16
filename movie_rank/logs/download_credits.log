@@ -2600,3 +2600,517 @@
 2022-12-22 14:35:03.479 Starting new HTTPS connection (1): api.themoviedb.org:443
 2022-12-22 14:35:03.631 https://api.themoviedb.org:443 "GET /3/movie/13673/credits?api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 200 None
 2022-12-22 14:35:03.636 Wrote Christmas_with_the_Kranks to file
+2023-01-16 10:11:19.704 Object initialized
+2023-01-16 10:11:19.712 Script started.
+2023-01-16 10:11:19.720 Attempting to download Number_One_with_a_Bullet.
+2023-01-16 10:11:19.729 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:19.915 https://api.themoviedb.org:443 "GET /3/movie/169832/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:20.919 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:21.070 https://api.themoviedb.org:443 "GET /3/movie/169832/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:22.073 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:22.221 https://api.themoviedb.org:443 "GET /3/movie/169832/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:23.224 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:23.711 https://api.themoviedb.org:443 "GET /3/movie/169832/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:24.714 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:24.870 https://api.themoviedb.org:443 "GET /3/movie/169832/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:25.873 Unable to download credits data for Number_One_with_a_Bullet. Recived status code: 401.
+2023-01-16 10:11:25.874 Attempting to download The_Pack.
+2023-01-16 10:11:25.875 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:26.033 https://api.themoviedb.org:443 "GET /3/movie/86239/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:27.037 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:27.191 https://api.themoviedb.org:443 "GET /3/movie/86239/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:28.194 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:28.375 https://api.themoviedb.org:443 "GET /3/movie/86239/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:29.378 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:29.551 https://api.themoviedb.org:443 "GET /3/movie/86239/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:30.555 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:30.711 https://api.themoviedb.org:443 "GET /3/movie/86239/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:31.713 Unable to download credits data for The_Pack. Recived status code: 401.
+2023-01-16 10:11:31.714 Attempting to download Congo.
+2023-01-16 10:11:31.715 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:31.868 https://api.themoviedb.org:443 "GET /3/movie/10329/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:32.871 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:33.022 https://api.themoviedb.org:443 "GET /3/movie/10329/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:34.026 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:34.375 https://api.themoviedb.org:443 "GET /3/movie/10329/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:35.378 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:35.530 https://api.themoviedb.org:443 "GET /3/movie/10329/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:36.533 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:36.968 https://api.themoviedb.org:443 "GET /3/movie/10329/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:37.970 Unable to download credits data for Congo. Recived status code: 401.
+2023-01-16 10:11:37.970 Attempting to download Psychomania.
+2023-01-16 10:11:37.971 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:38.130 https://api.themoviedb.org:443 "GET /3/movie/48350/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:39.133 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:39.283 https://api.themoviedb.org:443 "GET /3/movie/48350/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:40.286 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:40.433 https://api.themoviedb.org:443 "GET /3/movie/48350/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:41.436 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:41.608 https://api.themoviedb.org:443 "GET /3/movie/48350/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:42.611 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:42.762 https://api.themoviedb.org:443 "GET /3/movie/48350/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:43.764 Unable to download credits data for Psychomania. Recived status code: 401.
+2023-01-16 10:11:43.764 Attempting to download The_Hand.
+2023-01-16 10:11:43.765 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:43.930 https://api.themoviedb.org:443 "GET /3/movie/42149/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:44.938 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:45.103 https://api.themoviedb.org:443 "GET /3/movie/42149/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:46.106 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:46.258 https://api.themoviedb.org:443 "GET /3/movie/42149/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:47.261 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:47.421 https://api.themoviedb.org:443 "GET /3/movie/42149/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:48.424 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:48.582 https://api.themoviedb.org:443 "GET /3/movie/42149/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:49.585 Unable to download credits data for The_Hand. Recived status code: 401.
+2023-01-16 10:11:49.585 Attempting to download K-9.
+2023-01-16 10:11:49.586 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:49.741 https://api.themoviedb.org:443 "GET /3/movie/10345/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:50.744 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:50.900 https://api.themoviedb.org:443 "GET /3/movie/10345/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:51.904 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:52.065 https://api.themoviedb.org:443 "GET /3/movie/10345/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:53.068 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:53.216 https://api.themoviedb.org:443 "GET /3/movie/10345/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:54.219 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:54.430 https://api.themoviedb.org:443 "GET /3/movie/10345/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:55.432 Unable to download credits data for K-9. Recived status code: 401.
+2023-01-16 10:11:55.432 Attempting to download The_Wrong_Guys.
+2023-01-16 10:11:55.433 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:55.586 https://api.themoviedb.org:443 "GET /3/movie/5678/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:56.589 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:56.759 https://api.themoviedb.org:443 "GET /3/movie/5678/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:57.762 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:57.915 https://api.themoviedb.org:443 "GET /3/movie/5678/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:11:58.918 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:11:59.067 https://api.themoviedb.org:443 "GET /3/movie/5678/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:00.070 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:00.227 https://api.themoviedb.org:443 "GET /3/movie/5678/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:01.229 Unable to download credits data for The_Wrong_Guys. Recived status code: 401.
+2023-01-16 10:12:01.230 Attempting to download Dead_Heat.
+2023-01-16 10:12:01.231 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:01.395 https://api.themoviedb.org:443 "GET /3/movie/40095/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:02.398 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:02.557 https://api.themoviedb.org:443 "GET /3/movie/40095/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:03.561 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:03.721 https://api.themoviedb.org:443 "GET /3/movie/40095/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:04.725 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:05.104 https://api.themoviedb.org:443 "GET /3/movie/40095/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:06.108 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:06.256 https://api.themoviedb.org:443 "GET /3/movie/40095/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:07.258 Unable to download credits data for Dead_Heat. Recived status code: 401.
+2023-01-16 10:12:07.258 Attempting to download Evilspeak.
+2023-01-16 10:12:07.259 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:07.422 https://api.themoviedb.org:443 "GET /3/movie/39868/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:08.426 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:08.598 https://api.themoviedb.org:443 "GET /3/movie/39868/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:09.602 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:09.746 https://api.themoviedb.org:443 "GET /3/movie/39868/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:10.749 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:10.898 https://api.themoviedb.org:443 "GET /3/movie/39868/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:11.901 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:12.051 https://api.themoviedb.org:443 "GET /3/movie/39868/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:13.054 Unable to download credits data for Evilspeak. Recived status code: 401.
+2023-01-16 10:12:13.054 Attempting to download Gone_Fishin'.
+2023-01-16 10:12:13.055 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:13.227 https://api.themoviedb.org:443 "GET /3/movie/9054/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:14.231 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:14.395 https://api.themoviedb.org:443 "GET /3/movie/9054/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:15.399 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:15.727 https://api.themoviedb.org:443 "GET /3/movie/9054/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:16.730 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:16.896 https://api.themoviedb.org:443 "GET /3/movie/9054/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:17.899 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:18.084 https://api.themoviedb.org:443 "GET /3/movie/9054/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:19.086 Unable to download credits data for Gone_Fishin'. Recived status code: 401.
+2023-01-16 10:12:19.086 Attempting to download The_Net.
+2023-01-16 10:12:19.088 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:19.251 https://api.themoviedb.org:443 "GET /3/movie/1642/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:20.254 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:20.402 https://api.themoviedb.org:443 "GET /3/movie/1642/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:21.405 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:21.593 https://api.themoviedb.org:443 "GET /3/movie/1642/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:22.596 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:22.749 https://api.themoviedb.org:443 "GET /3/movie/1642/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:23.752 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:23.900 https://api.themoviedb.org:443 "GET /3/movie/1642/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:24.902 Unable to download credits data for The_Net. Recived status code: 401.
+2023-01-16 10:12:24.903 Attempting to download Boys_and_Girls.
+2023-01-16 10:12:24.904 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:25.059 https://api.themoviedb.org:443 "GET /3/movie/10571/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:26.063 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:26.389 https://api.themoviedb.org:443 "GET /3/movie/10571/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:27.393 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:27.550 https://api.themoviedb.org:443 "GET /3/movie/10571/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:28.553 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:28.735 https://api.themoviedb.org:443 "GET /3/movie/10571/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:29.738 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:29.910 https://api.themoviedb.org:443 "GET /3/movie/10571/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:30.912 Unable to download credits data for Boys_and_Girls. Recived status code: 401.
+2023-01-16 10:12:30.912 Attempting to download Fuzz.
+2023-01-16 10:12:30.914 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:31.074 https://api.themoviedb.org:443 "GET /3/movie/4986/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:32.077 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:32.235 https://api.themoviedb.org:443 "GET /3/movie/4986/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:33.238 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:33.386 https://api.themoviedb.org:443 "GET /3/movie/4986/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:34.390 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:34.560 https://api.themoviedb.org:443 "GET /3/movie/4986/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:35.567 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:35.745 https://api.themoviedb.org:443 "GET /3/movie/4986/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:36.747 Unable to download credits data for Fuzz. Recived status code: 401.
+2023-01-16 10:12:36.747 Attempting to download Deep_Impact.
+2023-01-16 10:12:36.748 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:37.035 https://api.themoviedb.org:443 "GET /3/movie/8656/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:38.038 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:38.202 https://api.themoviedb.org:443 "GET /3/movie/8656/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:39.205 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:39.377 https://api.themoviedb.org:443 "GET /3/movie/8656/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:40.381 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:40.550 https://api.themoviedb.org:443 "GET /3/movie/8656/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:41.553 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:41.701 https://api.themoviedb.org:443 "GET /3/movie/8656/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:42.703 Unable to download credits data for Deep_Impact. Recived status code: 401.
+2023-01-16 10:12:42.704 Attempting to download Captain_America.
+2023-01-16 10:12:42.705 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:42.901 https://api.themoviedb.org:443 "GET /3/movie/13995/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:43.905 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:44.079 https://api.themoviedb.org:443 "GET /3/movie/13995/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:45.082 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:45.268 https://api.themoviedb.org:443 "GET /3/movie/13995/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:46.271 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:46.448 https://api.themoviedb.org:443 "GET /3/movie/13995/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:47.452 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:47.619 https://api.themoviedb.org:443 "GET /3/movie/13995/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:48.622 Unable to download credits data for Captain_America. Recived status code: 401.
+2023-01-16 10:12:48.622 Attempting to download Deadlock.
+2023-01-16 10:12:48.623 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:48.981 https://api.themoviedb.org:443 "GET /3/movie/79830/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:49.990 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:50.150 https://api.themoviedb.org:443 "GET /3/movie/79830/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:51.154 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:51.310 https://api.themoviedb.org:443 "GET /3/movie/79830/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:52.314 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:52.471 https://api.themoviedb.org:443 "GET /3/movie/79830/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:53.474 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:53.622 https://api.themoviedb.org:443 "GET /3/movie/79830/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:54.624 Unable to download credits data for Deadlock. Recived status code: 401.
+2023-01-16 10:12:54.625 Attempting to download The_Principal.
+2023-01-16 10:12:54.626 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:54.780 https://api.themoviedb.org:443 "GET /3/movie/10081/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:55.783 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:55.936 https://api.themoviedb.org:443 "GET /3/movie/10081/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:56.940 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:57.511 https://api.themoviedb.org:443 "GET /3/movie/10081/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:58.515 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:58.678 https://api.themoviedb.org:443 "GET /3/movie/10081/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:12:59.682 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:12:59.835 https://api.themoviedb.org:443 "GET /3/movie/10081/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:00.838 Unable to download credits data for The_Principal. Recived status code: 401.
+2023-01-16 10:13:00.838 Attempting to download 18_Again!.
+2023-01-16 10:13:00.839 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:01.022 https://api.themoviedb.org:443 "GET /3/movie/38965/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:02.025 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:02.175 https://api.themoviedb.org:443 "GET /3/movie/38965/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:03.178 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:03.337 https://api.themoviedb.org:443 "GET /3/movie/38965/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:04.341 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:04.500 https://api.themoviedb.org:443 "GET /3/movie/38965/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:05.504 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:05.654 https://api.themoviedb.org:443 "GET /3/movie/38965/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:06.656 Unable to download credits data for 18_Again!. Recived status code: 401.
+2023-01-16 10:13:06.656 Attempting to download A_Shock_to_the_System.
+2023-01-16 10:13:06.657 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:06.807 https://api.themoviedb.org:443 "GET /3/movie/20876/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:07.810 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:07.966 https://api.themoviedb.org:443 "GET /3/movie/20876/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:08.970 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:09.117 https://api.themoviedb.org:443 "GET /3/movie/20876/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:10.121 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:10.289 https://api.themoviedb.org:443 "GET /3/movie/20876/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:11.293 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:11.452 https://api.themoviedb.org:443 "GET /3/movie/20876/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:12.454 Unable to download credits data for A_Shock_to_the_System. Recived status code: 401.
+2023-01-16 10:13:12.454 Attempting to download The_Ewok_Adventure.
+2023-01-16 10:13:12.455 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:12.608 https://api.themoviedb.org:443 "GET /3/movie/1884/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:13.611 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:13.764 https://api.themoviedb.org:443 "GET /3/movie/1884/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:14.767 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:14.923 https://api.themoviedb.org:443 "GET /3/movie/1884/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:15.927 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:16.090 https://api.themoviedb.org:443 "GET /3/movie/1884/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:17.094 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:17.604 https://api.themoviedb.org:443 "GET /3/movie/1884/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:18.606 Unable to download credits data for The_Ewok_Adventure. Recived status code: 401.
+2023-01-16 10:13:18.606 Attempting to download I_Come_in_Peace.
+2023-01-16 10:13:18.608 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:18.760 https://api.themoviedb.org:443 "GET /3/movie/19384/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:19.763 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:19.917 https://api.themoviedb.org:443 "GET /3/movie/19384/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:20.921 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:21.079 https://api.themoviedb.org:443 "GET /3/movie/19384/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:22.083 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:22.232 https://api.themoviedb.org:443 "GET /3/movie/19384/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:23.235 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:23.399 https://api.themoviedb.org:443 "GET /3/movie/19384/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:24.402 Unable to download credits data for I_Come_in_Peace. Recived status code: 401.
+2023-01-16 10:13:24.402 Attempting to download Visiting_Hours.
+2023-01-16 10:13:24.403 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:24.578 https://api.themoviedb.org:443 "GET /3/movie/46885/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:25.583 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:25.748 https://api.themoviedb.org:443 "GET /3/movie/46885/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:26.751 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:26.922 https://api.themoviedb.org:443 "GET /3/movie/46885/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:27.926 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:28.223 https://api.themoviedb.org:443 "GET /3/movie/46885/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:29.227 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:29.416 https://api.themoviedb.org:443 "GET /3/movie/46885/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:30.418 Unable to download credits data for Visiting_Hours. Recived status code: 401.
+2023-01-16 10:13:30.418 Attempting to download Wolf.
+2023-01-16 10:13:30.420 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:30.585 https://api.themoviedb.org:443 "GET /3/movie/10395/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:31.589 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:31.774 https://api.themoviedb.org:443 "GET /3/movie/10395/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:32.777 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:32.930 https://api.themoviedb.org:443 "GET /3/movie/10395/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:33.933 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:34.082 https://api.themoviedb.org:443 "GET /3/movie/10395/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:35.085 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:35.237 https://api.themoviedb.org:443 "GET /3/movie/10395/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:36.239 Unable to download credits data for Wolf. Recived status code: 401.
+2023-01-16 10:13:36.239 Attempting to download 976-EVIL.
+2023-01-16 10:13:36.241 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:36.449 https://api.themoviedb.org:443 "GET /3/movie/24038/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:37.453 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:37.612 https://api.themoviedb.org:443 "GET /3/movie/24038/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:38.616 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:38.894 https://api.themoviedb.org:443 "GET /3/movie/24038/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:39.898 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:40.061 https://api.themoviedb.org:443 "GET /3/movie/24038/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:41.067 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:41.228 https://api.themoviedb.org:443 "GET /3/movie/24038/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:42.230 Unable to download credits data for 976-EVIL. Recived status code: 401.
+2023-01-16 10:13:42.230 Attempting to download The_Haunting.
+2023-01-16 10:13:42.231 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:42.418 https://api.themoviedb.org:443 "GET /3/movie/11618/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:43.421 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:43.571 https://api.themoviedb.org:443 "GET /3/movie/11618/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:44.574 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:44.734 https://api.themoviedb.org:443 "GET /3/movie/11618/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:45.738 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:45.894 https://api.themoviedb.org:443 "GET /3/movie/11618/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:46.897 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:47.051 https://api.themoviedb.org:443 "GET /3/movie/11618/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:48.053 Unable to download credits data for The_Haunting. Recived status code: 401.
+2023-01-16 10:13:48.053 Attempting to download Babycakes.
+2023-01-16 10:13:48.055 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:48.211 https://api.themoviedb.org:443 "GET /3/movie/214216/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:49.214 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:49.364 https://api.themoviedb.org:443 "GET /3/movie/214216/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:50.368 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:50.518 https://api.themoviedb.org:443 "GET /3/movie/214216/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:51.521 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:51.690 https://api.themoviedb.org:443 "GET /3/movie/214216/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:52.694 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:52.840 https://api.themoviedb.org:443 "GET /3/movie/214216/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:53.843 Unable to download credits data for Babycakes. Recived status code: 401.
+2023-01-16 10:13:53.843 Attempting to download Judge_Dredd.
+2023-01-16 10:13:53.844 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:54.036 https://api.themoviedb.org:443 "GET /3/movie/9482/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:55.039 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:55.194 https://api.themoviedb.org:443 "GET /3/movie/9482/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:56.197 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:56.351 https://api.themoviedb.org:443 "GET /3/movie/9482/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:57.359 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:57.504 https://api.themoviedb.org:443 "GET /3/movie/9482/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:58.507 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:13:58.695 https://api.themoviedb.org:443 "GET /3/movie/9482/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:13:59.697 Unable to download credits data for Judge_Dredd. Recived status code: 401.
+2023-01-16 10:13:59.697 Attempting to download No_Retreat,_No_Surrender.
+2023-01-16 10:13:59.699 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:00.181 https://api.themoviedb.org:443 "GET /3/movie/12721/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:01.185 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:01.353 https://api.themoviedb.org:443 "GET /3/movie/12721/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:02.357 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:02.514 https://api.themoviedb.org:443 "GET /3/movie/12721/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:03.517 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:03.672 https://api.themoviedb.org:443 "GET /3/movie/12721/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:04.675 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:04.835 https://api.themoviedb.org:443 "GET /3/movie/12721/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:05.837 Unable to download credits data for No_Retreat,_No_Surrender. Recived status code: 401.
+2023-01-16 10:14:05.837 Attempting to download Ewoks_The_Battle_for_Endor.
+2023-01-16 10:14:05.839 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:05.993 https://api.themoviedb.org:443 "GET /3/movie/10372/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:06.996 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:07.151 https://api.themoviedb.org:443 "GET /3/movie/10372/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:08.154 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:08.307 https://api.themoviedb.org:443 "GET /3/movie/10372/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:09.311 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:09.468 https://api.themoviedb.org:443 "GET /3/movie/10372/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:10.471 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:10.818 https://api.themoviedb.org:443 "GET /3/movie/10372/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:11.820 Unable to download credits data for Ewoks_The_Battle_for_Endor. Recived status code: 401.
+2023-01-16 10:14:11.820 Attempting to download Poison_Ivy.
+2023-01-16 10:14:11.822 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:11.975 https://api.themoviedb.org:443 "GET /3/movie/9264/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:12.979 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:13.140 https://api.themoviedb.org:443 "GET /3/movie/9264/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:14.143 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:14.318 https://api.themoviedb.org:443 "GET /3/movie/9264/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:15.321 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:15.470 https://api.themoviedb.org:443 "GET /3/movie/9264/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:16.474 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:16.655 https://api.themoviedb.org:443 "GET /3/movie/9264/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:17.657 Unable to download credits data for Poison_Ivy. Recived status code: 401.
+2023-01-16 10:14:17.658 Attempting to download Wired.
+2023-01-16 10:14:17.659 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:17.810 https://api.themoviedb.org:443 "GET /3/movie/78151/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:18.814 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:18.970 https://api.themoviedb.org:443 "GET /3/movie/78151/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:19.973 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:20.134 https://api.themoviedb.org:443 "GET /3/movie/78151/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:21.138 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:21.465 https://api.themoviedb.org:443 "GET /3/movie/78151/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:22.469 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:22.623 https://api.themoviedb.org:443 "GET /3/movie/78151/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:23.626 Unable to download credits data for Wired. Recived status code: 401.
+2023-01-16 10:14:23.626 Attempting to download The_Conqueror.
+2023-01-16 10:14:23.627 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:23.784 https://api.themoviedb.org:443 "GET /3/movie/24751/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:24.787 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:24.945 https://api.themoviedb.org:443 "GET /3/movie/24751/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:25.948 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:26.095 https://api.themoviedb.org:443 "GET /3/movie/24751/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:27.098 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:27.249 https://api.themoviedb.org:443 "GET /3/movie/24751/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:28.252 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:28.408 https://api.themoviedb.org:443 "GET /3/movie/24751/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:29.410 Unable to download credits data for The_Conqueror. Recived status code: 401.
+2023-01-16 10:14:29.410 Attempting to download Jack_Frost.
+2023-01-16 10:14:29.411 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:29.590 https://api.themoviedb.org:443 "GET /3/movie/9745/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:30.593 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:30.787 https://api.themoviedb.org:443 "GET /3/movie/9745/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:31.791 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:32.120 https://api.themoviedb.org:443 "GET /3/movie/9745/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:33.123 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:33.279 https://api.themoviedb.org:443 "GET /3/movie/9745/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:34.283 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:34.437 https://api.themoviedb.org:443 "GET /3/movie/9745/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:35.439 Unable to download credits data for Jack_Frost. Recived status code: 401.
+2023-01-16 10:14:35.439 Attempting to download Money_Train.
+2023-01-16 10:14:35.440 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:35.628 https://api.themoviedb.org:443 "GET /3/movie/11517/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:36.632 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:36.785 https://api.themoviedb.org:443 "GET /3/movie/11517/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:37.787 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:37.955 https://api.themoviedb.org:443 "GET /3/movie/11517/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:38.959 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:39.107 https://api.themoviedb.org:443 "GET /3/movie/11517/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:40.111 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:40.264 https://api.themoviedb.org:443 "GET /3/movie/11517/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:41.266 Unable to download credits data for Money_Train. Recived status code: 401.
+2023-01-16 10:14:41.266 Attempting to download The_Adventures_of_Ford_Fairlane.
+2023-01-16 10:14:41.267 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:41.419 https://api.themoviedb.org:443 "GET /3/movie/9548/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:42.422 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:42.804 https://api.themoviedb.org:443 "GET /3/movie/9548/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:43.814 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:43.977 https://api.themoviedb.org:443 "GET /3/movie/9548/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:44.981 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:45.132 https://api.themoviedb.org:443 "GET /3/movie/9548/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:46.135 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:46.289 https://api.themoviedb.org:443 "GET /3/movie/9548/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:47.292 Unable to download credits data for The_Adventures_of_Ford_Fairlane. Recived status code: 401.
+2023-01-16 10:14:47.292 Attempting to download Hider_in_the_House.
+2023-01-16 10:14:47.293 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:47.446 https://api.themoviedb.org:443 "GET /3/movie/56669/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:48.449 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:48.597 https://api.themoviedb.org:443 "GET /3/movie/56669/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:49.600 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:49.758 https://api.themoviedb.org:443 "GET /3/movie/56669/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:50.761 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:50.918 https://api.themoviedb.org:443 "GET /3/movie/56669/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:51.922 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:52.114 https://api.themoviedb.org:443 "GET /3/movie/56669/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:53.116 Unable to download credits data for Hider_in_the_House. Recived status code: 401.
+2023-01-16 10:14:53.116 Attempting to download Halloween_III_Season_of_the_Witch.
+2023-01-16 10:14:53.117 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:53.287 https://api.themoviedb.org:443 "GET /3/movie/10676/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:54.290 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:54.437 https://api.themoviedb.org:443 "GET /3/movie/10676/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:55.440 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:55.597 https://api.themoviedb.org:443 "GET /3/movie/10676/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:56.601 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:56.752 https://api.themoviedb.org:443 "GET /3/movie/10676/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:57.756 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:57.931 https://api.themoviedb.org:443 "GET /3/movie/10676/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:14:58.933 Unable to download credits data for Halloween_III_Season_of_the_Witch. Recived status code: 401.
+2023-01-16 10:14:58.934 Attempting to download Zandalee.
+2023-01-16 10:14:58.935 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:14:59.096 https://api.themoviedb.org:443 "GET /3/movie/36630/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:00.099 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:00.256 https://api.themoviedb.org:443 "GET /3/movie/36630/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:01.260 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:01.412 https://api.themoviedb.org:443 "GET /3/movie/36630/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:02.416 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:02.599 https://api.themoviedb.org:443 "GET /3/movie/36630/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:03.603 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:04.195 https://api.themoviedb.org:443 "GET /3/movie/36630/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:05.198 Unable to download credits data for Zandalee. Recived status code: 401.
+2023-01-16 10:15:05.198 Attempting to download Vampire_in_Brooklyn.
+2023-01-16 10:15:05.199 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:05.415 https://api.themoviedb.org:443 "GET /3/movie/12158/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:06.418 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:06.609 https://api.themoviedb.org:443 "GET /3/movie/12158/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:07.615 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:07.774 https://api.themoviedb.org:443 "GET /3/movie/12158/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:08.778 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:08.946 https://api.themoviedb.org:443 "GET /3/movie/12158/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:09.950 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:10.102 https://api.themoviedb.org:443 "GET /3/movie/12158/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:11.104 Unable to download credits data for Vampire_in_Brooklyn. Recived status code: 401.
+2023-01-16 10:15:11.105 Attempting to download Star_Wars_Episode_1_The_Phantom_Menace.
+2023-01-16 10:15:11.106 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:11.259 https://api.themoviedb.org:443 "GET /3/movie/1893/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:12.264 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:12.415 https://api.themoviedb.org:443 "GET /3/movie/1893/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:13.419 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:13.577 https://api.themoviedb.org:443 "GET /3/movie/1893/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:14.581 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:14.743 https://api.themoviedb.org:443 "GET /3/movie/1893/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:15.746 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:15.906 https://api.themoviedb.org:443 "GET /3/movie/1893/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:16.908 Unable to download credits data for Star_Wars_Episode_1_The_Phantom_Menace. Recived status code: 401.
+2023-01-16 10:15:16.908 Attempting to download Deadly_Friend.
+2023-01-16 10:15:16.909 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:17.106 https://api.themoviedb.org:443 "GET /3/movie/33278/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:18.109 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:18.276 https://api.themoviedb.org:443 "GET /3/movie/33278/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:19.279 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:19.439 https://api.themoviedb.org:443 "GET /3/movie/33278/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:20.442 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:20.593 https://api.themoviedb.org:443 "GET /3/movie/33278/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:21.597 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:21.757 https://api.themoviedb.org:443 "GET /3/movie/33278/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:22.759 Unable to download credits data for Deadly_Friend. Recived status code: 401.
+2023-01-16 10:15:22.760 Attempting to download Nukie.
+2023-01-16 10:15:22.761 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:22.938 https://api.themoviedb.org:443 "GET /3/movie/84626/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:23.942 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:24.096 https://api.themoviedb.org:443 "GET /3/movie/84626/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:25.099 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:25.281 https://api.themoviedb.org:443 "GET /3/movie/84626/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:26.283 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:26.434 https://api.themoviedb.org:443 "GET /3/movie/84626/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:27.438 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:27.588 https://api.themoviedb.org:443 "GET /3/movie/84626/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:28.590 Unable to download credits data for Nukie. Recived status code: 401.
+2023-01-16 10:15:28.590 Attempting to download Cop_and_a_Half.
+2023-01-16 10:15:28.591 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:28.765 https://api.themoviedb.org:443 "GET /3/movie/12574/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:29.768 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:29.928 https://api.themoviedb.org:443 "GET /3/movie/12574/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:30.931 Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-01-16 10:15:31.101 https://api.themoviedb.org:443 "GET /3/movie/12574/credits?%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20api_key=6e2f8f7b92505535bcfddfab21fa170b&language=en-US HTTP/1.1" 401 None
+2023-01-16 10:15:32.104 Starting new HTTPS connection (1): api.themoviedb.org:443

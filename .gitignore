@@ -3,3 +3,4 @@
 *.swp
 *.pyc
 /movie_rank/data/*
+/movie_rank/logs/*

@@ -54,8 +54,7 @@ def main():
         movie_id = data['id']
         cast_and_crew = data['cast'] + data['crew']
 
-        id_to_movie.setdefault(data['id'],
-                               file.replace('_', ' ')[:-5])
+        id_to_movie.setdefault(data['id'], data['whm_details']['title'])
         for individual in cast_and_crew:
             if is_actor_or_director(individual):
                 id_to_people.setdefault(individual['id'],
@@ -82,6 +81,7 @@ def main():
     utils.write_json_to_file(movies_to_people,
                              f"{PROJECT_LOCATION}/data/movies_to_people/"
                              f"movies_to_people.json")
-    
+
+
 if __name__ == '__main__':
     main()

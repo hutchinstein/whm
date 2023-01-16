@@ -202,7 +202,6 @@ def main():
         # console_reporting(movie_objs, people_objs)
 
         if not needs_further_analysis:
-            print("NO FURTHER ANALYSIS NEEDED")
             break
 
         round_num += 1
@@ -212,7 +211,7 @@ def main():
     for movie in movies:
         print(movie.get_movie_name(), movie.get_z_score())
         # if movie.get_z_score() > 1:
-        get_person_details_for_movie(movie, people_objs)
+        # get_person_details_for_movie(movie, people_objs)
 
 
 if __name__ == '__main__':

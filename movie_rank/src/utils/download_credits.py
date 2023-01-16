@@ -23,21 +23,23 @@ def generate_url(id: int) -> str:
 def download_cast_data(movie_id: dict, data_location: str,
                        log: LocalLog) -> None:
     movie_counter, total_movies = 1, len(movie_id.keys())
-    for movie in movie_id.keys():
+    for id in movie_id.keys():
         print(f"Downloading cast data... {movie_counter}/{total_movies}",
               end='\r')
         movie_counter += 1
-        movie_name = movie.replace(" ", "_").replace('/', ' ')
-        file_name = f"{data_location}/{movie_name}.json"
-        url = generate_url(movie_id[movie]['id'])
+        movie_name = movie_id[id]['title'].replace(" ", "_").replace('/', ' ')
+        file_name = f"{data_location}/{id}.json"
+        url = generate_url(id)
         log.info(f"Attempting to download {movie_name}.")
         response = utils.attempt_download_from_api(url)
         if response.status_code == 200:
-            utils.write_json_to_file(response.json(), file_name)
+            movie_details = response.json()
+            movie_details['whm_details'] = movie_id[id]
+            utils.write_json_to_file(movie_details, file_name)
             log.info(f"Wrote {movie_name} to file")
         else:
             log.info(f"Unable to download credits data for {movie_name}. "
-                     f"Recived status code: {response.status_code}.")
+                     f"Received status code: {response.status_code}.")
 
 
 def main():

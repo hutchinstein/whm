@@ -23,7 +23,7 @@ def attempt_download_from_api(url: str) -> requests.models.Response:
         if response.status_code == 200:
             break
         else:
-            time.sleep(1)
+            time.sleep(.1)
     return response
 
 

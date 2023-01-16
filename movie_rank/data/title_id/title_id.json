@@ -1,3232 +1,3866 @@
 {
-    "Number One with a Bullet": {
+    "169832": {
         "content_year": "1987",
-        "id": 169832,
-        "whm_episode": 2
+        "whm_episode": 2,
+        "title": "Number One with a Bullet",
+        "media_type": "movie"
     },
-    "The Pack": {
+    "86239": {
         "content_year": "1977",
-        "id": 86239,
-        "whm_episode": 3
+        "whm_episode": 3,
+        "title": "The Pack",
+        "media_type": "movie"
     },
-    "Congo": {
+    "10329": {
         "content_year": "1995",
-        "id": 10329,
-        "whm_episode": 4
+        "whm_episode": 4,
+        "title": "Congo",
+        "media_type": "movie"
     },
-    "Psychomania": {
+    "48350": {
         "content_year": "1973",
-        "id": 48350,
-        "whm_episode": 5
+        "whm_episode": 5,
+        "title": "Psychomania",
+        "media_type": "movie"
     },
-    "The Hand": {
+    "42149": {
         "content_year": "1981",
-        "id": 42149,
-        "whm_episode": 6
+        "whm_episode": 6,
+        "title": "The Hand",
+        "media_type": "movie"
     },
-    "K-9": {
+    "10345": {
         "content_year": "1989",
-        "id": 10345,
-        "whm_episode": 7
+        "whm_episode": 7,
+        "title": "K-9",
+        "media_type": "movie"
     },
-    "The Wrong Guys": {
+    "5678": {
         "content_year": "1988",
-        "id": 5678,
-        "whm_episode": 8
+        "whm_episode": 8,
+        "title": "The Wrong Guys",
+        "media_type": "movie"
     },
-    "Dead Heat": {
+    "40095": {
         "content_year": "1988",
-        "id": 40095,
-        "whm_episode": 9
+        "whm_episode": 9,
+        "title": "Dead Heat",
+        "media_type": "movie"
     },
-    "Evilspeak": {
+    "39868": {
         "content_year": "1981",
-        "id": 39868,
-        "whm_episode": 10
+        "whm_episode": 10,
+        "title": "Evilspeak",
+        "media_type": "movie"
     },
-    "Gone Fishin'": {
+    "9054": {
         "content_year": "1997",
-        "id": 9054,
-        "whm_episode": 11
+        "whm_episode": 11,
+        "title": "Gone Fishin'",
+        "media_type": "movie"
     },
-    "The Net": {
+    "1642": {
         "content_year": "1995",
-        "id": 1642,
-        "whm_episode": 12
+        "whm_episode": 12,
+        "title": "The Net",
+        "media_type": "movie"
     },
-    "Boys and Girls": {
+    "10571": {
         "content_year": "2000",
-        "id": 10571,
-        "whm_episode": 13
+        "whm_episode": 13,
+        "title": "Boys and Girls",
+        "media_type": "movie"
     },
-    "Fuzz": {
+    "4986": {
         "content_year": "1972",
-        "id": 4986,
-        "whm_episode": 14
+        "whm_episode": 14,
+        "title": "Fuzz",
+        "media_type": "movie"
     },
-    "Deep Impact": {
+    "8656": {
         "content_year": "1998",
-        "id": 8656,
-        "whm_episode": 15
+        "whm_episode": 15,
+        "title": "Deep Impact",
+        "media_type": "movie"
     },
-    "Captain America": {
+    "13995": {
         "content_year": "1990",
-        "id": 13995,
-        "whm_episode": 16
+        "whm_episode": 16,
+        "title": "Captain America",
+        "media_type": "movie"
     },
-    "Deadlock": {
+    "79830": {
         "content_year": "1970",
-        "id": 79830,
-        "whm_episode": 17
+        "whm_episode": 17,
+        "title": "Deadlock",
+        "media_type": "movie"
     },
-    "The Principal": {
+    "10081": {
         "content_year": "1987",
-        "id": 10081,
-        "whm_episode": 18
+        "whm_episode": 18,
+        "title": "The Principal",
+        "media_type": "movie"
     },
-    "18 Again!": {
+    "38965": {
         "content_year": "1988",
-        "id": 38965,
-        "whm_episode": 19
+        "whm_episode": 19,
+        "title": "18 Again!",
+        "media_type": "movie"
     },
-    "A Shock to the System": {
+    "20876": {
         "content_year": "1990",
-        "id": 20876,
-        "whm_episode": 20
+        "whm_episode": 20,
+        "title": "A Shock to the System",
+        "media_type": "movie"
     },
-    "The Ewok Adventure": {
+    "1884": {
         "content_year": "1984",
-        "id": 1884,
-        "whm_episode": 21
+        "whm_episode": 21,
+        "title": "The Ewok Adventure",
+        "media_type": "movie"
     },
-    "I Come in Peace": {
+    "19384": {
         "content_year": "1990",
-        "id": 19384,
-        "whm_episode": 22
+        "whm_episode": 22,
+        "title": "I Come in Peace",
+        "media_type": "movie"
     },
-    "Visiting Hours": {
+    "46885": {
         "content_year": "1982",
-        "id": 46885,
-        "whm_episode": 23
+        "whm_episode": 23,
+        "title": "Visiting Hours",
+        "media_type": "movie"
     },
-    "Wolf": {
+    "10395": {
         "content_year": "1994",
-        "id": 10395,
-        "whm_episode": 24
+        "whm_episode": 24,
+        "title": "Wolf",
+        "media_type": "movie"
     },
-    "976-EVIL": {
+    "24038": {
         "content_year": "1988",
-        "id": 24038,
-        "whm_episode": 25
+        "whm_episode": 25,
+        "title": "976-EVIL",
+        "media_type": "movie"
     },
-    "The Haunting": {
+    "11618": {
         "content_year": "1999",
-        "id": 11618,
-        "whm_episode": 26
+        "whm_episode": 26,
+        "title": "The Haunting",
+        "media_type": "movie"
     },
-    "Babycakes": {
+    "214216": {
         "content_year": "1989",
-        "id": 214216,
-        "whm_episode": 27
+        "whm_episode": 27,
+        "title": "Babycakes",
+        "media_type": "movie"
     },
-    "Judge Dredd": {
+    "9482": {
         "content_year": "1995",
-        "id": 9482,
-        "whm_episode": 28
+        "whm_episode": 28,
+        "title": "Judge Dredd",
+        "media_type": "movie"
     },
-    "No Retreat, No Surrender": {
+    "12721": {
         "content_year": "1986",
-        "id": 12721,
-        "whm_episode": 29
+        "whm_episode": 29,
+        "title": "No Retreat, No Surrender",
+        "media_type": "movie"
     },
-    "Ewoks The Battle for Endor": {
+    "10372": {
         "content_year": "1985",
-        "id": 10372,
-        "whm_episode": 30
+        "whm_episode": 30,
+        "title": "Ewoks The Battle for Endor",
+        "media_type": "movie"
     },
-    "Poison Ivy": {
+    "9264": {
         "content_year": "1992",
-        "id": 9264,
-        "whm_episode": 31
+        "whm_episode": 31,
+        "title": "Poison Ivy",
+        "media_type": "movie"
     },
-    "Wired": {
+    "78151": {
         "content_year": "1989",
-        "id": 78151,
-        "whm_episode": 32
+        "whm_episode": 32,
+        "title": "Wired",
+        "media_type": "movie"
     },
-    "The Conqueror": {
+    "24751": {
         "content_year": "1956",
-        "id": 24751,
-        "whm_episode": 33
+        "whm_episode": 33,
+        "title": "The Conqueror",
+        "media_type": "movie"
     },
-    "Jack Frost": {
+    "9745": {
         "content_year": "1998",
-        "id": 9745,
-        "whm_episode": 34
+        "whm_episode": 34,
+        "title": "Jack Frost",
+        "media_type": "movie"
     },
-    "Money Train": {
+    "11517": {
         "content_year": "1995",
-        "id": 11517,
-        "whm_episode": 35
+        "whm_episode": 35,
+        "title": "Money Train",
+        "media_type": "movie"
     },
-    "The Adventures of Ford Fairlane": {
+    "9548": {
         "content_year": "1990",
-        "id": 9548,
-        "whm_episode": 36
+        "whm_episode": 36,
+        "title": "The Adventures of Ford Fairlane",
+        "media_type": "movie"
     },
-    "Hider in the House": {
+    "56669": {
         "content_year": "1989",
-        "id": 56669,
-        "whm_episode": 37
+        "whm_episode": 37,
+        "title": "Hider in the House",
+        "media_type": "movie"
     },
-    "Halloween III Season of the Witch": {
+    "10676": {
         "content_year": "1982",
-        "id": 10676,
-        "whm_episode": 38
+        "whm_episode": 38,
+        "title": "Halloween III Season of the Witch",
+        "media_type": "movie"
     },
-    "Zandalee": {
+    "36630": {
         "content_year": "1991",
-        "id": 36630,
-        "whm_episode": 39
+        "whm_episode": 39,
+        "title": "Zandalee",
+        "media_type": "movie"
     },
-    "Vampire in Brooklyn": {
+    "12158": {
         "content_year": "1995",
-        "id": 12158,
-        "whm_episode": 40
+        "whm_episode": 40,
+        "title": "Vampire in Brooklyn",
+        "media_type": "movie"
     },
-    "Star Wars Episode 1 The Phantom Menace": {
+    "1893": {
         "content_year": "1999",
-        "id": 1893,
-        "whm_episode": 41
+        "whm_episode": 41,
+        "title": "Star Wars Episode 1 The Phantom Menace",
+        "media_type": "movie"
     },
-    "Deadly Friend": {
+    "33278": {
         "content_year": "1986",
-        "id": 33278,
-        "whm_episode": 42
+        "whm_episode": 42,
+        "title": "Deadly Friend",
+        "media_type": "movie"
     },
-    "Nukie": {
+    "84626": {
         "content_year": "1988",
-        "id": 84626,
-        "whm_episode": 43
+        "whm_episode": 43,
+        "title": "Nukie",
+        "media_type": "movie"
     },
-    "Cop and a Half": {
+    "12574": {
         "content_year": "1993",
-        "id": 12574,
-        "whm_episode": 44
+        "whm_episode": 44,
+        "title": "Cop and a Half",
+        "media_type": "movie"
     },
-    "Off Beat": {
+    "39243": {
         "content_year": "1986",
-        "id": 39243,
-        "whm_episode": 45
+        "whm_episode": 45,
+        "title": "Off Beat",
+        "media_type": "movie"
     },
-    "Hackers": {
+    "10428": {
         "content_year": "1995",
-        "id": 10428,
-        "whm_episode": 46
+        "whm_episode": 46,
+        "title": "Hackers",
+        "media_type": "movie"
     },
-    "No Holds Barred": {
+    "39002": {
         "content_year": "1989",
-        "id": 39002,
-        "whm_episode": 47
+        "whm_episode": 47,
+        "title": "No Holds Barred",
+        "media_type": "movie"
     },
-    "Senseless": {
+    "12538": {
         "content_year": "1998",
-        "id": 12538,
-        "whm_episode": 48
+        "whm_episode": 48,
+        "title": "Senseless",
+        "media_type": "movie"
     },
-    "Mr. Destiny": {
+    "2612": {
         "content_year": "1990",
-        "id": 2612,
-        "whm_episode": 49
+        "whm_episode": 49,
+        "title": "Mr. Destiny",
+        "media_type": "movie"
     },
-    "Free Enterprise": {
+    "13533": {
         "content_year": "1998",
-        "id": 13533,
-        "whm_episode": 50
+        "whm_episode": 50,
+        "title": "Free Enterprise",
+        "media_type": "movie"
     },
-    "Gymkata": {
+    "14570": {
         "content_year": "1985",
-        "id": 14570,
-        "whm_episode": 51
+        "whm_episode": 51,
+        "title": "Gymkata",
+        "media_type": "movie"
     },
-    "Rocky IV": {
+    "1374": {
         "content_year": "1985",
-        "id": 1374,
-        "whm_episode": 52
+        "whm_episode": 52,
+        "title": "Rocky IV",
+        "media_type": "movie"
     },
-    "The Philadelphia Experiment II": {
+    "35610": {
         "content_year": "1993",
-        "id": 35610,
-        "whm_episode": 53
+        "whm_episode": 53,
+        "title": "The Philadelphia Experiment II",
+        "media_type": "movie"
     },
-    "The Glass House": {
+    "2176": {
         "content_year": "2001",
-        "id": 2176,
-        "whm_episode": 54
+        "whm_episode": 54,
+        "title": "The Glass House",
+        "media_type": "movie"
     },
-    "Undercover Blues": {
+    "12661": {
         "content_year": "1993",
-        "id": 12661,
-        "whm_episode": 55
+        "whm_episode": 55,
+        "title": "Undercover Blues",
+        "media_type": "movie"
     },
-    "The New Adventures of Pippi Longstocking": {
+    "19051": {
         "content_year": "1988",
-        "id": 19051,
-        "whm_episode": 56
+        "whm_episode": 56,
+        "title": "The New Adventures of Pippi Longstocking",
+        "media_type": "movie"
     },
-    "The Skulls": {
+    "11478": {
         "content_year": "2000",
-        "id": 11478,
-        "whm_episode": 57
+        "whm_episode": 57,
+        "title": "The Skulls",
+        "media_type": "movie"
     },
-    "Men in Black II": {
+    "608": {
         "content_year": "2002",
-        "id": 608,
-        "whm_episode": 58
+        "whm_episode": 58,
+        "title": "Men in Black II",
+        "media_type": "movie"
     },
-    "Cocoon": {
+    "10328": {
         "content_year": "1985",
-        "id": 10328,
-        "whm_episode": 59
+        "whm_episode": 59,
+        "title": "Cocoon",
+        "media_type": "movie"
     },
-    "Jaws The Revenge": {
+    "580": {
         "content_year": "1987",
-        "id": 580,
-        "whm_episode": 60
+        "whm_episode": 60,
+        "title": "Jaws The Revenge",
+        "media_type": "movie"
     },
-    "The Next Karate Kid": {
+    "11231": {
         "content_year": "1994",
-        "id": 11231,
-        "whm_episode": 61
+        "whm_episode": 61,
+        "title": "The Next Karate Kid",
+        "media_type": "movie"
     },
-    "Nine Months": {
+    "11472": {
         "content_year": "1995",
-        "id": 11472,
-        "whm_episode": 62
+        "whm_episode": 62,
+        "title": "Nine Months",
+        "media_type": "movie"
     },
-    "Inspector Gadget": {
+    "332": {
         "content_year": "1999",
-        "id": 332,
-        "whm_episode": 63
+        "whm_episode": 63,
+        "title": "Inspector Gadget",
+        "media_type": "movie"
     },
-    "Spawn": {
+    "10336": {
         "content_year": "1997",
-        "id": 10336,
-        "whm_episode": 64
+        "whm_episode": 64,
+        "title": "Spawn",
+        "media_type": "movie"
     },
-    "Reign of Fire": {
+    "6278": {
         "content_year": "2002",
-        "id": 6278,
-        "whm_episode": 65
+        "whm_episode": 65,
+        "title": "Reign of Fire",
+        "media_type": "movie"
     },
-    "Twister": {
+    "664": {
         "content_year": "1996",
-        "id": 664,
-        "whm_episode": 66
+        "whm_episode": 66,
+        "title": "Twister",
+        "media_type": "movie"
     },
-    "Kill Crazy": {
+    "100219": {
         "content_year": "1990",
-        "id": 100219,
-        "whm_episode": 67
+        "whm_episode": 67,
+        "title": "Kill Crazy",
+        "media_type": "movie"
     },
-    "Mo' Money": {
+    "12251": {
         "content_year": "1992",
-        "id": 12251,
-        "whm_episode": 68
+        "whm_episode": 68,
+        "title": "Mo' Money",
+        "media_type": "movie"
     },
-    "Dracula 2000": {
+    "10577": {
         "content_year": "2000",
-        "id": 10577,
-        "whm_episode": 69
+        "whm_episode": 69,
+        "title": "Dracula 2000",
+        "media_type": "movie"
     },
-    "Rock 'n' Roll High School Forever": {
+    "34742": {
         "content_year": "1991",
-        "id": 34742,
-        "whm_episode": 70
+        "whm_episode": 70,
+        "title": "Rock 'n' Roll High School Forever",
+        "media_type": "movie"
     },
-    "Invisible Child": {
+    "215089": {
         "content_year": "1999",
-        "id": 215089,
-        "whm_episode": 71
+        "whm_episode": 71,
+        "title": "Invisible Child",
+        "media_type": "movie"
     },
-    "Perfect Stranger": {
+    "7183": {
         "content_year": "2007",
-        "id": 7183,
-        "whm_episode": 72
+        "whm_episode": 72,
+        "title": "Perfect Stranger",
+        "media_type": "movie"
     },
-    "Never Too Young to Die": {
+    "27408": {
         "content_year": "1986",
-        "id": 27408,
-        "whm_episode": 73
+        "whm_episode": 73,
+        "title": "Never Too Young to Die",
+        "media_type": "movie"
     },
-    "Heart Condition": {
+    "41817": {
         "content_year": "1990",
-        "id": 41817,
-        "whm_episode": 74
+        "whm_episode": 74,
+        "title": "Heart Condition",
+        "media_type": "movie"
     },
-    "Silver Bullet": {
+    "17898": {
         "content_year": "1985",
-        "id": 17898,
-        "whm_episode": 75
+        "whm_episode": 75,
+        "title": "Silver Bullet",
+        "media_type": "movie"
     },
-    "Ghost in the Machine": {
+    "41651": {
         "content_year": "1993",
-        "id": 41651,
-        "whm_episode": 76
+        "whm_episode": 76,
+        "title": "Ghost in the Machine",
+        "media_type": "movie"
     },
-    "Friday the 13th": {
+    "13207": {
         "content_year": "2009",
-        "id": 13207,
-        "whm_episode": 443
+        "whm_episode": 443,
+        "title": "Friday the 13th",
+        "media_type": "movie"
     },
-    "Bordello of Blood": {
+    "9431": {
         "content_year": "1996",
-        "id": 9431,
-        "whm_episode": 78
+        "whm_episode": 78,
+        "title": "Bordello of Blood",
+        "media_type": "movie"
     },
-    "Bless the Child": {
+    "10391": {
         "content_year": "2000",
-        "id": 10391,
-        "whm_episode": 79
+        "whm_episode": 79,
+        "title": "Bless the Child",
+        "media_type": "movie"
     },
-    "K-911": {
+    "41586": {
         "content_year": "1999",
-        "id": 41586,
-        "whm_episode": 80
+        "whm_episode": 80,
+        "title": "K-911",
+        "media_type": "movie"
     },
-    "Die Another Day": {
+    "36669": {
         "content_year": "2002",
-        "id": 36669,
-        "whm_episode": 81
+        "whm_episode": 81,
+        "title": "Die Another Day",
+        "media_type": "movie"
     },
-    "Madhouse": {
+    "51036": {
         "content_year": "1990",
-        "id": 51036,
-        "whm_episode": 82
+        "whm_episode": 82,
+        "title": "Madhouse",
+        "media_type": "movie"
     },
-    "Star Trek Insurrection": {
+    "200": {
         "content_year": "1998",
-        "id": 200,
-        "whm_episode": 83
+        "whm_episode": 83,
+        "title": "Star Trek Insurrection",
+        "media_type": "movie"
     },
-    "Indiana Jones and the Kingdom of the Crystal Skull": {
+    "217": {
         "content_year": "2008",
-        "id": 217,
-        "whm_episode": 84
+        "whm_episode": 84,
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "media_type": "movie"
     },
-    "Eight Crazy Nights": {
+    "13376": {
         "content_year": "2002",
-        "id": 13376,
-        "whm_episode": 85
+        "whm_episode": 85,
+        "title": "Eight Crazy Nights",
+        "media_type": "movie"
     },
-    "The Rapture": {
+    "1411": {
         "content_year": "1991",
-        "id": 1411,
-        "whm_episode": 86
+        "whm_episode": 86,
+        "title": "The Rapture",
+        "media_type": "movie"
     },
-    "One Magic Christmas": {
+    "13380": {
         "content_year": "1985",
-        "id": 13380,
-        "whm_episode": 87
+        "whm_episode": 87,
+        "title": "One Magic Christmas",
+        "media_type": "movie"
     },
-    "Step Up Revolution": {
+    "85446": {
         "content_year": "2012",
-        "id": 85446,
-        "whm_episode": 88
+        "whm_episode": 88,
+        "title": "Step Up Revolution",
+        "media_type": "movie"
     },
-    "The Raven": {
+    "70436": {
         "content_year": "2012",
-        "id": 70436,
-        "whm_episode": 89
+        "whm_episode": 89,
+        "title": "The Raven",
+        "media_type": "movie"
     },
-    "Alex Cross": {
+    "94348": {
         "content_year": "2012",
-        "id": 94348,
-        "whm_episode": 90
+        "whm_episode": 90,
+        "title": "Alex Cross",
+        "media_type": "movie"
     },
-    "Tooth Fairy 2": {
+    "84575": {
         "content_year": "2012",
-        "id": 84575,
-        "whm_episode": 91
+        "whm_episode": 91,
+        "title": "Tooth Fairy 2",
+        "media_type": "movie"
     },
-    "This Means War": {
+    "59962": {
         "content_year": "2012",
-        "id": 59962,
-        "whm_episode": 92
+        "whm_episode": 92,
+        "title": "This Means War",
+        "media_type": "movie"
     },
-    "On Deadly Ground": {
+    "9624": {
         "content_year": "1994",
-        "id": 9624,
-        "whm_episode": 93
+        "whm_episode": 93,
+        "title": "On Deadly Ground",
+        "media_type": "movie"
     },
-    "Tuff Turf": {
+    "28410": {
         "content_year": "1985",
-        "id": 28410,
-        "whm_episode": 94
+        "whm_episode": 94,
+        "title": "Tuff Turf",
+        "media_type": "movie"
     },
-    "Aspen Extreme": {
+    "16370": {
         "content_year": "1993",
-        "id": 16370,
-        "whm_episode": 95
+        "whm_episode": 95,
+        "title": "Aspen Extreme",
+        "media_type": "movie"
     },
-    "Freejack": {
+    "9278": {
         "content_year": "1992",
-        "id": 9278,
-        "whm_episode": 96
+        "whm_episode": 96,
+        "title": "Freejack",
+        "media_type": "movie"
     },
-    "Taking Care of Business": {
+    "6393": {
         "content_year": "1990",
-        "id": 6393,
-        "whm_episode": 97
+        "whm_episode": 97,
+        "title": "Taking Care of Business",
+        "media_type": "movie"
     },
-    "The Pallbearer": {
+    "23570": {
         "content_year": "1996",
-        "id": 23570,
-        "whm_episode": 98
+        "whm_episode": 98,
+        "title": "The Pallbearer",
+        "media_type": "movie"
     },
-    "Batman Forever": {
+    "414": {
         "content_year": "1995",
-        "id": 414,
-        "whm_episode": 99
+        "whm_episode": 99,
+        "title": "Batman Forever",
+        "media_type": "movie"
     },
-    "Best of the Best 2": {
+    "32049": {
         "content_year": "1993",
-        "id": 32049,
-        "whm_episode": 100
+        "whm_episode": 100,
+        "title": "Best of the Best 2",
+        "media_type": "movie"
     },
-    "Cat People": {
+    "6217": {
         "content_year": "1982",
-        "id": 6217,
-        "whm_episode": 101
+        "whm_episode": 101,
+        "title": "Cat People",
+        "media_type": "movie"
     },
-    "Addicted to Love": {
+    "2058": {
         "content_year": "1997",
-        "id": 2058,
-        "whm_episode": 102
+        "whm_episode": 102,
+        "title": "Addicted to Love",
+        "media_type": "movie"
     },
-    "Virtuosity": {
+    "9271": {
         "content_year": "1995",
-        "id": 9271,
-        "whm_episode": 103
+        "whm_episode": 103,
+        "title": "Virtuosity",
+        "media_type": "movie"
     },
-    "Walking Tall": {
+    "25473": {
         "content_year": "1973",
-        "id": 25473,
-        "whm_episode": 104
+        "whm_episode": 104,
+        "title": "Walking Tall",
+        "media_type": "movie"
     },
-    "The Mating Habits of the Earthbound Human": {
+    "17198": {
         "content_year": "1999",
-        "id": 17198,
-        "whm_episode": 105
+        "whm_episode": 105,
+        "title": "The Mating Habits of the Earthbound Human",
+        "media_type": "movie"
     },
-    "The Boondock Saints II All Saints Day": {
+    "22821": {
         "content_year": "2009",
-        "id": 22821,
-        "whm_episode": 106
+        "whm_episode": 106,
+        "title": "The Boondock Saints II All Saints Day",
+        "media_type": "movie"
     },
-    "Foodfight!": {
+    "116977": {
         "content_year": "2012",
-        "id": 116977,
-        "whm_episode": 107
+        "whm_episode": 107,
+        "title": "Foodfight!",
+        "media_type": "movie"
     },
-    "Houseguest": {
+    "17207": {
         "content_year": "1995",
-        "id": 17207,
-        "whm_episode": 108
+        "whm_episode": 108,
+        "title": "Houseguest",
+        "media_type": "movie"
     },
-    "Maniac Cop 3 Badge of Silence": {
+    "50687": {
         "content_year": "1993",
-        "id": 50687,
-        "whm_episode": 109
+        "whm_episode": 109,
+        "title": "Maniac Cop 3 Badge of Silence",
+        "media_type": "movie"
     },
-    "Godzilla": {
+    "929": {
         "content_year": "1998",
-        "id": 929,
-        "whm_episode": 110
+        "whm_episode": 110,
+        "title": "Godzilla",
+        "media_type": "movie"
     },
-    "Steel": {
+    "8854": {
         "content_year": "1997",
-        "id": 8854,
-        "whm_episode": 111
+        "whm_episode": 111,
+        "title": "Steel",
+        "media_type": "movie"
     },
-    "Bad Boys II": {
+    "8961": {
         "content_year": "2003",
-        "id": 8961,
-        "whm_episode": 112
+        "whm_episode": 112,
+        "title": "Bad Boys II",
+        "media_type": "movie"
     },
-    "Jaws 3D": {
+    "17692": {
         "content_year": "1983",
-        "id": 17692,
-        "whm_episode": 113
+        "whm_episode": 113,
+        "title": "Jaws 3D",
+        "media_type": "movie"
     },
-    "S.W.A.T.": {
+    "9257": {
         "content_year": "2003",
-        "id": 9257,
-        "whm_episode": 114
+        "whm_episode": 114,
+        "title": "S.W.A.T.",
+        "media_type": "movie"
     },
-    "The Running Man": {
+    "865": {
         "content_year": "1987",
-        "id": 865,
-        "whm_episode": 115
+        "whm_episode": 115,
+        "title": "The Running Man",
+        "media_type": "movie"
     },
-    "Volcano": {
+    "10357": {
         "content_year": "1997",
-        "id": 10357,
-        "whm_episode": 116
+        "whm_episode": 116,
+        "title": "Volcano",
+        "media_type": "movie"
     },
-    "She's All That": {
+    "10314": {
         "content_year": "1999",
-        "id": 10314,
-        "whm_episode": 117
+        "whm_episode": 117,
+        "title": "She's All That",
+        "media_type": "movie"
     },
-    "Grown Ups 2": {
+    "109418": {
         "content_year": "2013",
-        "id": 109418,
-        "whm_episode": 118
+        "whm_episode": 118,
+        "title": "Grown Ups 2",
+        "media_type": "movie"
     },
-    "Only the Strong": {
+    "15797": {
         "content_year": "1993",
-        "id": 15797,
-        "whm_episode": 119
+        "whm_episode": 119,
+        "title": "Only the Strong",
+        "media_type": "movie"
     },
-    "Cliffhanger": {
+    "9350": {
         "content_year": "1993",
-        "id": 9350,
-        "whm_episode": 120
+        "whm_episode": 120,
+        "title": "Cliffhanger",
+        "media_type": "movie"
     },
-    "New Nightmare": {
+    "11596": {
         "content_year": "1994",
-        "id": 11596,
-        "whm_episode": 121
+        "whm_episode": 121,
+        "title": "New Nightmare",
+        "media_type": "movie"
     },
-    "Body Parts": {
+    "32146": {
         "content_year": "1991",
-        "id": 32146,
-        "whm_episode": 122
+        "whm_episode": 122,
+        "title": "Body Parts",
+        "media_type": "movie"
     },
-    "Cat's Eye": {
+    "10552": {
         "content_year": "1985",
-        "id": 10552,
-        "whm_episode": 123
+        "whm_episode": 123,
+        "title": "Cat's Eye",
+        "media_type": "movie"
     },
-    "Chopping Mall": {
+    "28941": {
         "content_year": "1986",
-        "id": 28941,
-        "whm_episode": 124
+        "whm_episode": 124,
+        "title": "Chopping Mall",
+        "media_type": "movie"
     },
-    "Casper": {
+    "8839": {
         "content_year": "1995",
-        "id": 8839,
-        "whm_episode": 125
+        "whm_episode": 125,
+        "title": "Casper",
+        "media_type": "movie"
     },
-    "Scream 3": {
+    "4234": {
         "content_year": "2000",
-        "id": 4234,
-        "whm_episode": 126
+        "whm_episode": 126,
+        "title": "Scream 3",
+        "media_type": "movie"
     },
-    "Stay Tuned": {
+    "23939": {
         "content_year": "1992",
-        "id": 23939,
-        "whm_episode": 127
+        "whm_episode": 127,
+        "title": "Stay Tuned",
+        "media_type": "movie"
     },
-    "Deep Blue Sea": {
+    "8914": {
         "content_year": "1999",
-        "id": 8914,
-        "whm_episode": 128
+        "whm_episode": 128,
+        "title": "Deep Blue Sea",
+        "media_type": "movie"
     },
-    "China O'Brien": {
+    "13293": {
         "content_year": "1990",
-        "id": 13293,
-        "whm_episode": 129
+        "whm_episode": 129,
+        "title": "China O'Brien",
+        "media_type": "movie"
     },
-    "Copycat": {
+    "1710": {
         "content_year": "1995",
-        "id": 1710,
-        "whm_episode": 130
+        "whm_episode": 130,
+        "title": "Copycat",
+        "media_type": "movie"
     },
-    "Date with an Angel": {
+    "28370": {
         "content_year": "1987",
-        "id": 28370,
-        "whm_episode": 131
+        "whm_episode": 131,
+        "title": "Date with an Angel",
+        "media_type": "movie"
     },
-    "Ghostbusters II": {
+    "2978": {
         "content_year": "1989",
-        "id": 2978,
-        "whm_episode": 132
+        "whm_episode": 132,
+        "title": "Ghostbusters II",
+        "media_type": "movie"
     },
-    "The Good Son": {
+    "9272": {
         "content_year": "1993",
-        "id": 9272,
-        "whm_episode": 133
+        "whm_episode": 133,
+        "title": "The Good Son",
+        "media_type": "movie"
     },
-    "Jingle All the Way": {
+    "9279": {
         "content_year": "1996",
-        "id": 9279,
-        "whm_episode": 134
+        "whm_episode": 134,
+        "title": "Jingle All the Way",
+        "media_type": "movie"
     },
-    "The Core": {
+    "9341": {
         "content_year": "2003",
-        "id": 9341,
-        "whm_episode": 135
+        "whm_episode": 135,
+        "title": "The Core",
+        "media_type": "movie"
     },
-    "After Earth": {
+    "82700": {
         "content_year": "2013",
-        "id": 82700,
-        "whm_episode": 136
+        "whm_episode": 136,
+        "title": "After Earth",
+        "media_type": "movie"
     },
-    "Easy Rider The Ride Back": {
+    "156062": {
         "content_year": "2012",
-        "id": 156062,
-        "whm_episode": 137
+        "whm_episode": 137,
+        "title": "Easy Rider The Ride Back",
+        "media_type": "movie"
     },
-    "Getaway": {
+    "146227": {
         "content_year": "2013",
-        "id": 146227,
-        "whm_episode": 138
+        "whm_episode": 138,
+        "title": "Getaway",
+        "media_type": "movie"
     },
-    "A Good Day to Die Hard": {
+    "47964": {
         "content_year": "2013",
-        "id": 47964,
-        "whm_episode": 139
+        "whm_episode": 139,
+        "title": "A Good Day to Die Hard",
+        "media_type": "movie"
     },
-    "Pray for Death": {
+    "35106": {
         "content_year": "1985",
-        "id": 35106,
-        "whm_episode": 140
+        "whm_episode": 140,
+        "title": "Pray for Death",
+        "media_type": "movie"
     },
-    "Masters of the Universe": {
+    "11649": {
         "content_year": "1987",
-        "id": 11649,
-        "whm_episode": 141
+        "whm_episode": 141,
+        "title": "Masters of the Universe",
+        "media_type": "movie"
     },
-    "Hard Target": {
+    "2019": {
         "content_year": "1993",
-        "id": 2019,
-        "whm_episode": 142
+        "whm_episode": 142,
+        "title": "Hard Target",
+        "media_type": "movie"
     },
-    "Mrs. Doubtfire": {
+    "788": {
         "content_year": "1993",
-        "id": 788,
-        "whm_episode": 143
+        "whm_episode": 143,
+        "title": "Mrs. Doubtfire",
+        "media_type": "movie"
     },
-    "Blame it on Rio": {
+    "14347": {
         "content_year": "1984",
-        "id": 14347,
-        "whm_episode": 144
+        "whm_episode": 144,
+        "title": "Blame it on Rio",
+        "media_type": "movie"
     },
-    "Canvas": {
+    "127741": {
         "content_year": "1992",
-        "id": 127741,
-        "whm_episode": 145
+        "whm_episode": 145,
+        "title": "Canvas",
+        "media_type": "movie"
     },
-    "Dreamcatcher": {
+    "6171": {
         "content_year": "2003",
-        "id": 6171,
-        "whm_episode": 146
+        "whm_episode": 146,
+        "title": "Dreamcatcher",
+        "media_type": "movie"
     },
-    "My Science Project": {
+    "18252": {
         "content_year": "1985",
-        "id": 18252,
-        "whm_episode": 147
+        "whm_episode": 147,
+        "title": "My Science Project",
+        "media_type": "movie"
     },
-    "North": {
+    "31586": {
         "content_year": "1994",
-        "id": 31586,
-        "whm_episode": 148
+        "whm_episode": 148,
+        "title": "North",
+        "media_type": "movie"
     },
-    "Joysticks": {
+    "27323": {
         "content_year": "1983",
-        "id": 27323,
-        "whm_episode": 149
+        "whm_episode": 149,
+        "title": "Joysticks",
+        "media_type": "movie"
     },
-    "The Karate Kid, Part III": {
+    "10495": {
         "content_year": "1989",
-        "id": 10495,
-        "whm_episode": 150
+        "whm_episode": 150,
+        "title": "The Karate Kid, Part III",
+        "media_type": "movie"
     },
-    "Hail Caesar": {
+    "173299": {
         "content_year": "1994",
-        "id": 173299,
-        "whm_episode": 151
+        "whm_episode": 151,
+        "title": "Hail Caesar",
+        "media_type": "movie"
     },
-    "Every Which Way But Loose": {
+    "15417": {
         "content_year": "1978",
-        "id": 15417,
-        "whm_episode": 152
+        "whm_episode": 152,
+        "title": "Every Which Way But Loose",
+        "media_type": "movie"
     },
-    "The Butterfly Effect": {
+    "1954": {
         "content_year": "2004",
-        "id": 1954,
-        "whm_episode": 153
+        "whm_episode": 153,
+        "title": "The Butterfly Effect",
+        "media_type": "movie"
     },
-    "Abraxas, Guardian of the Universe": {
+    "37926": {
         "content_year": "1990",
-        "id": 37926,
-        "whm_episode": 154
+        "whm_episode": 154,
+        "title": "Abraxas, Guardian of the Universe",
+        "media_type": "movie"
     },
-    "Hot Dog\u2026The Movie": {
+    "21989": {
         "content_year": "1984",
-        "id": 21989,
-        "whm_episode": 155
+        "whm_episode": 155,
+        "title": "Hot Dog\u2026The Movie",
+        "media_type": "movie"
     },
-    "Hamburger The Motion Picture": {
+    "52117": {
         "content_year": "1986",
-        "id": 52117,
-        "whm_episode": 156
+        "whm_episode": 156,
+        "title": "Hamburger The Motion Picture",
+        "media_type": "movie"
     },
-    "Mystery Men": {
+    "9824": {
         "content_year": "1999",
-        "id": 9824,
-        "whm_episode": 157
+        "whm_episode": 157,
+        "title": "Mystery Men",
+        "media_type": "movie"
     },
-    "Mortal Kombat": {
+    "460465": {
         "content_year": "2021",
-        "id": 460465,
-        "whm_episode": 613
+        "whm_episode": 613,
+        "title": "Mortal Kombat",
+        "media_type": "movie"
     },
-    "Swordfish": {
+    "9705": {
         "content_year": "2001",
-        "id": 9705,
-        "whm_episode": 159
+        "whm_episode": 159,
+        "title": "Swordfish",
+        "media_type": "movie"
     },
-    "Catwoman": {
+    "314": {
         "content_year": "2004",
-        "id": 314,
-        "whm_episode": 160
+        "whm_episode": 160,
+        "title": "Catwoman",
+        "media_type": "movie"
     },
-    "Stroker Ace": {
+    "19258": {
         "content_year": "1983",
-        "id": 19258,
-        "whm_episode": 161
+        "whm_episode": 161,
+        "title": "Stroker Ace",
+        "media_type": "movie"
     },
-    "Planet of the Apes": {
+    "869": {
         "content_year": "2001",
-        "id": 869,
-        "whm_episode": 162
+        "whm_episode": 162,
+        "title": "Planet of the Apes",
+        "media_type": "movie"
     },
-    "The Day After Tomorrow": {
+    "435": {
         "content_year": "2004",
-        "id": 435,
-        "whm_episode": 163
+        "whm_episode": 163,
+        "title": "The Day After Tomorrow",
+        "media_type": "movie"
     },
-    "Under Siege 2 Dark Territory": {
+    "3512": {
         "content_year": "1995",
-        "id": 3512,
-        "whm_episode": 164
+        "whm_episode": 164,
+        "title": "Under Siege 2 Dark Territory",
+        "media_type": "movie"
     },
-    "Teenage Mutant Ninja Turtles II": {
+    "1497": {
         "content_year": "1991",
-        "id": 1497,
-        "whm_episode": 165
+        "whm_episode": 165,
+        "title": "Teenage Mutant Ninja Turtles II",
+        "media_type": "movie"
     },
-    "The Substitute": {
+    "20762": {
         "content_year": "1996",
-        "id": 20762,
-        "whm_episode": 166
+        "whm_episode": 166,
+        "title": "The Substitute",
+        "media_type": "movie"
     },
-    "Timecop": {
+    "8831": {
         "content_year": "1994",
-        "id": 8831,
-        "whm_episode": 167
+        "whm_episode": 167,
+        "title": "Timecop",
+        "media_type": "movie"
     },
-    "Secret Window": {
+    "1586": {
         "content_year": "2004",
-        "id": 1586,
-        "whm_episode": 168
+        "whm_episode": 168,
+        "title": "Secret Window",
+        "media_type": "movie"
     },
-    "Double Dragon": {
+    "2436": {
         "content_year": "1994",
-        "id": 2436,
-        "whm_episode": 169
+        "whm_episode": 169,
+        "title": "Double Dragon",
+        "media_type": "movie"
     },
-    "C.H.U.D. II": {
+    "53150": {
         "content_year": "1989",
-        "id": 53150,
-        "whm_episode": 170
+        "whm_episode": 170,
+        "title": "C.H.U.D. II",
+        "media_type": "movie"
     },
-    "Jason Goes to Hell The Final Friday": {
+    "10285": {
         "content_year": "1993",
-        "id": 10285,
-        "whm_episode": 171
+        "whm_episode": 171,
+        "title": "Jason Goes to Hell The Final Friday",
+        "media_type": "movie"
     },
-    "I Still Know What You Did Last Summer": {
+    "3600": {
         "content_year": "1998",
-        "id": 3600,
-        "whm_episode": 172
+        "whm_episode": 172,
+        "title": "I Still Know What You Did Last Summer",
+        "media_type": "movie"
     },
-    "Child's Play 3": {
+    "11187": {
         "content_year": "1991",
-        "id": 11187,
-        "whm_episode": 173
+        "whm_episode": 173,
+        "title": "Child's Play 3",
+        "media_type": "movie"
     },
-    "Wild in the Streets": {
+    "42688": {
         "content_year": "1968",
-        "id": 42688,
-        "whm_episode": 174
+        "whm_episode": 174,
+        "title": "Wild in the Streets",
+        "media_type": "movie"
     },
-    "Johnny Mnemonic": {
+    "9886": {
         "content_year": "1995",
-        "id": 9886,
-        "whm_episode": 175
+        "whm_episode": 175,
+        "title": "Johnny Mnemonic",
+        "media_type": "movie"
     },
-    "The Hand That Rocks the Cradle": {
+    "11087": {
         "content_year": "1992",
-        "id": 11087,
-        "whm_episode": 176
+        "whm_episode": 176,
+        "title": "The Hand That Rocks the Cradle",
+        "media_type": "movie"
     },
-    "Buried Alive": {
+    "37865": {
         "content_year": "1990",
-        "id": 37865,
-        "whm_episode": 177
+        "whm_episode": 177,
+        "title": "Buried Alive",
+        "media_type": "movie"
     },
-    "Three Men and a Baby": {
+    "12154": {
         "content_year": "1987",
-        "id": 12154,
-        "whm_episode": 178
+        "whm_episode": 178,
+        "title": "Three Men and a Baby",
+        "media_type": "movie"
     },
-    "Jingle All the Way 2": {
+    "289728": {
         "content_year": "2014",
-        "id": 289728,
-        "whm_episode": 179
+        "whm_episode": 179,
+        "title": "Jingle All the Way 2",
+        "media_type": "movie"
     },
-    "Super Mario Bros.": {
+    "9607": {
         "content_year": "1993",
-        "id": 9607,
-        "whm_episode": 180
+        "whm_episode": 180,
+        "title": "Super Mario Bros.",
+        "media_type": "movie"
     },
-    "Look Who's Talking Now": {
+    "11982": {
         "content_year": "1993",
-        "id": 11982,
-        "whm_episode": 181
+        "whm_episode": 181,
+        "title": "Look Who's Talking Now",
+        "media_type": "movie"
     },
-    "I, Frankenstein": {
+    "100241": {
         "content_year": "2014",
-        "id": 100241,
-        "whm_episode": 182
+        "whm_episode": 182,
+        "title": "I, Frankenstein",
+        "media_type": "movie"
     },
-    "Winter's Tale": {
+    "137321": {
         "content_year": "2014",
-        "id": 137321,
-        "whm_episode": 183
+        "whm_episode": 183,
+        "title": "Winter's Tale",
+        "media_type": "movie"
     },
-    "Dracula Untold": {
+    "49017": {
         "content_year": "2014",
-        "id": 49017,
-        "whm_episode": 184
+        "whm_episode": 184,
+        "title": "Dracula Untold",
+        "media_type": "movie"
     },
-    "Sabotage": {
+    "144336": {
         "content_year": "2014",
-        "id": 144336,
-        "whm_episode": 185
+        "whm_episode": 185,
+        "title": "Sabotage",
+        "media_type": "movie"
     },
-    "Taking Lives": {
+    "11081": {
         "content_year": "2004",
-        "id": 11081,
-        "whm_episode": 186
+        "whm_episode": 186,
+        "title": "Taking Lives",
+        "media_type": "movie"
     },
-    "Stigmata": {
+    "10307": {
         "content_year": "1999",
-        "id": 10307,
-        "whm_episode": 187
+        "whm_episode": 187,
+        "title": "Stigmata",
+        "media_type": "movie"
     },
-    "Seventh Son": {
+    "68737": {
         "content_year": "2014",
-        "id": 68737,
-        "whm_episode": 188
+        "whm_episode": 188,
+        "title": "Seventh Son",
+        "media_type": "movie"
     },
-    "White Noise": {
+    "11804": {
         "content_year": "2005",
-        "id": 11804,
-        "whm_episode": 189
+        "whm_episode": 189,
+        "title": "White Noise",
+        "media_type": "movie"
     },
-    "Teen Wolf Too": {
+    "15582": {
         "content_year": "1987",
-        "id": 15582,
-        "whm_episode": 190
+        "whm_episode": 190,
+        "title": "Teen Wolf Too",
+        "media_type": "movie"
     },
-    "Fatal Beauty": {
+    "35463": {
         "content_year": "1987",
-        "id": 35463,
-        "whm_episode": 191
+        "whm_episode": 191,
+        "title": "Fatal Beauty",
+        "media_type": "movie"
     },
-    "Moontrap": {
+    "14916": {
         "content_year": "1989",
-        "id": 14916,
-        "whm_episode": 192
+        "whm_episode": 192,
+        "title": "Moontrap",
+        "media_type": "movie"
     },
-    "Twisted": {
+    "13572": {
         "content_year": "2004",
-        "id": 13572,
-        "whm_episode": 193
+        "whm_episode": 193,
+        "title": "Twisted",
+        "media_type": "movie"
     },
-    "Next of Kin": {
+    "27418": {
         "content_year": "1989",
-        "id": 27418,
-        "whm_episode": 194
+        "whm_episode": 194,
+        "title": "Next of Kin",
+        "media_type": "movie"
     },
-    "The Juror": {
+    "9623": {
         "content_year": "1996",
-        "id": 9623,
-        "whm_episode": 195
+        "whm_episode": 195,
+        "title": "The Juror",
+        "media_type": "movie"
     },
-    "Face/Off": {
+    "754": {
         "content_year": "1997",
-        "id": 754,
-        "whm_episode": 196
+        "whm_episode": 196,
+        "title": "Face/Off",
+        "media_type": "movie"
     },
-    "Red Heat": {
+    "9604": {
         "content_year": "1988",
-        "id": 9604,
-        "whm_episode": 197
+        "whm_episode": 197,
+        "title": "Red Heat",
+        "media_type": "movie"
     },
-    "Loverboy": {
+    "17362": {
         "content_year": "1989",
-        "id": 17362,
-        "whm_episode": 198
+        "whm_episode": 198,
+        "title": "Loverboy",
+        "media_type": "movie"
     },
-    "Teen Witch": {
+    "25199": {
         "content_year": "1989",
-        "id": 25199,
-        "whm_episode": 199
+        "whm_episode": 199,
+        "title": "Teen Witch",
+        "media_type": "movie"
     },
-    "House Arrest": {
+    "18862": {
         "content_year": "1996",
-        "id": 18862,
-        "whm_episode": 200
+        "whm_episode": 200,
+        "title": "House Arrest",
+        "media_type": "movie"
     },
-    "Blind Fury": {
+    "19124": {
         "content_year": "1989",
-        "id": 19124,
-        "whm_episode": 201
+        "whm_episode": 201,
+        "title": "Blind Fury",
+        "media_type": "movie"
     },
-    "Space Jam": {
+    "2300": {
         "content_year": "1996",
-        "id": 2300,
-        "whm_episode": 202
+        "whm_episode": 202,
+        "title": "Space Jam",
+        "media_type": "movie"
     },
-    "The Lost World Jurassic Park": {
+    "330": {
         "content_year": "1997",
-        "id": 330,
-        "whm_episode": 203
+        "whm_episode": 203,
+        "title": "The Lost World Jurassic Park",
+        "media_type": "movie"
     },
-    "Stealth": {
+    "10048": {
         "content_year": "2005",
-        "id": 10048,
-        "whm_episode": 204
+        "whm_episode": 204,
+        "title": "Stealth",
+        "media_type": "movie"
     },
-    "Camp Nowhere": {
+    "17745": {
         "content_year": "1994",
-        "id": 17745,
-        "whm_episode": 205
+        "whm_episode": 205,
+        "title": "Camp Nowhere",
+        "media_type": "movie"
     },
-    "Son of the Mask": {
+    "10214": {
         "content_year": "2005",
-        "id": 10214,
-        "whm_episode": 206
+        "whm_episode": 206,
+        "title": "Son of the Mask",
+        "media_type": "movie"
     },
-    "Terminator 3 Rise of the Machines": {
+    "296": {
         "content_year": "2003",
-        "id": 296,
-        "whm_episode": 207
+        "whm_episode": 207,
+        "title": "Terminator 3 Rise of the Machines",
+        "media_type": "movie"
     },
-    "Dragonheart": {
+    "8840": {
         "content_year": "1996",
-        "id": 8840,
-        "whm_episode": 208
+        "whm_episode": 208,
+        "title": "Dragonheart",
+        "media_type": "movie"
     },
-    "The Matrix Revolutions": {
+    "605": {
         "content_year": "2003",
-        "id": 605,
-        "whm_episode": 209
+        "whm_episode": 209,
+        "title": "The Matrix Revolutions",
+        "media_type": "movie"
     },
-    "The League of Extraordinary Gentlemen": {
+    "8698": {
         "content_year": "2003",
-        "id": 8698,
-        "whm_episode": 210
+        "whm_episode": 210,
+        "title": "The League of Extraordinary Gentlemen",
+        "media_type": "movie"
     },
-    "Green Lantern": {
+    "44912": {
         "content_year": "2011",
-        "id": 44912,
-        "whm_episode": 211
+        "whm_episode": 211,
+        "title": "Green Lantern",
+        "media_type": "movie"
     },
-    "Mortal Kombat Annihilation": {
+    "9823": {
         "content_year": "1997",
-        "id": 9823,
-        "whm_episode": 212
+        "whm_episode": 212,
+        "title": "Mortal Kombat Annihilation",
+        "media_type": "movie"
     },
-    "Cyber Seduction His Secret Life": {
+    "63483": {
         "content_year": "2005",
-        "id": 63483,
-        "whm_episode": 213
+        "whm_episode": 213,
+        "title": "Cyber Seduction His Secret Life",
+        "media_type": "movie"
     },
-    "The Dead Pool": {
+    "10651": {
         "content_year": "1988",
-        "id": 10651,
-        "whm_episode": 214
+        "whm_episode": 214,
+        "title": "The Dead Pool",
+        "media_type": "movie"
     },
-    "The Devil's Advocate": {
+    "1813": {
         "content_year": "1997",
-        "id": 1813,
-        "whm_episode": 215
+        "whm_episode": 215,
+        "title": "The Devil's Advocate",
+        "media_type": "movie"
     },
-    "Brainscan": {
+    "14237": {
         "content_year": "1994",
-        "id": 14237,
-        "whm_episode": 216
+        "whm_episode": 216,
+        "title": "Brainscan",
+        "media_type": "movie"
     },
-    "Killer Workout": {
+    "5752": {
         "content_year": "1987",
-        "id": 5752,
-        "whm_episode": 217
+        "whm_episode": 217,
+        "title": "Killer Workout",
+        "media_type": "movie"
     },
-    "Freddy vs. Jason": {
+    "6466": {
         "content_year": "2003",
-        "id": 6466,
-        "whm_episode": 218
+        "whm_episode": 218,
+        "title": "Freddy vs. Jason",
+        "media_type": "movie"
     },
-    "Thinner": {
+    "10280": {
         "content_year": "1996",
-        "id": 10280,
-        "whm_episode": 219
+        "whm_episode": 219,
+        "title": "Thinner",
+        "media_type": "movie"
     },
-    "Never Say Never Again": {
+    "36670": {
         "content_year": "1983",
-        "id": 36670,
-        "whm_episode": 220
+        "whm_episode": 220,
+        "title": "Never Say Never Again",
+        "media_type": "movie"
     },
-    "Supergirl": {
+    "9651": {
         "content_year": "1984",
-        "id": 9651,
-        "whm_episode": 221
+        "whm_episode": 221,
+        "title": "Supergirl",
+        "media_type": "movie"
     },
-    "Weekend at Bernie's": {
+    "8491": {
         "content_year": "1989",
-        "id": 8491,
-        "whm_episode": 222
+        "whm_episode": 222,
+        "title": "Weekend at Bernie's",
+        "media_type": "movie"
     },
-    "Weekend at Bernie's II": {
+    "8494": {
         "content_year": "1993",
-        "id": 8494,
-        "whm_episode": 223
+        "whm_episode": 223,
+        "title": "Weekend at Bernie's II",
+        "media_type": "movie"
     },
-    "Care Bears Movie II A New Generation": {
+    "19975": {
         "content_year": "1986",
-        "id": 19975,
-        "whm_episode": 224
+        "whm_episode": 224,
+        "title": "Care Bears Movie II A New Generation",
+        "media_type": "movie"
     },
-    "Bill &  Ted's Bogus Journey": {
+    "1649": {
         "content_year": "1991",
-        "id": 1649,
-        "whm_episode": 225
+        "whm_episode": 225,
+        "title": "Bill &  Ted's Bogus Journey",
+        "media_type": "movie"
     },
-    "Star Wars Episode II": {
+    "1894": {
         "content_year": "2002",
-        "id": 1894,
-        "whm_episode": 226
+        "whm_episode": 226,
+        "title": "Star Wars Episode II",
+        "media_type": "movie"
     },
-    "Santa Claus The Movie": {
+    "13764": {
         "content_year": "1985",
-        "id": 13764,
-        "whm_episode": 227
+        "whm_episode": 227,
+        "title": "Santa Claus The Movie",
+        "media_type": "movie"
     },
-    "Star Wars Episode VII": {
+    "140607": {
         "content_year": "2015",
-        "id": 140607,
-        "whm_episode": 228
+        "whm_episode": 228,
+        "title": "Star Wars Episode VII",
+        "media_type": "movie"
     },
-    "Entourage": {
+    "188222": {
         "content_year": "2015",
-        "id": 188222,
-        "whm_episode": 229
+        "whm_episode": 229,
+        "title": "Entourage",
+        "media_type": "movie"
     },
-    "Russell Madness": {
+    "319924": {
         "content_year": "2015",
-        "id": 319924,
-        "whm_episode": 230
+        "whm_episode": 230,
+        "title": "Russell Madness",
+        "media_type": "movie"
     },
-    "Pixels": {
+    "257344": {
         "content_year": "2015",
-        "id": 257344,
-        "whm_episode": 231
+        "whm_episode": 231,
+        "title": "Pixels",
+        "media_type": "movie"
     },
-    "The Last Witch Hunter": {
+    "274854": {
         "content_year": "2015",
-        "id": 274854,
-        "whm_episode": 232
+        "whm_episode": 232,
+        "title": "The Last Witch Hunter",
+        "media_type": "movie"
     },
-    "American Shaolin": {
+    "36934": {
         "content_year": "1991",
-        "id": 36934,
-        "whm_episode": 233
+        "whm_episode": 233,
+        "title": "American Shaolin",
+        "media_type": "movie"
     },
-    "Daredevil": {
+    "9480": {
         "content_year": "2003",
-        "id": 9480,
-        "whm_episode": 234
+        "whm_episode": 234,
+        "title": "Daredevil",
+        "media_type": "movie"
     },
-    "The Watcher": {
+    "10685": {
         "content_year": "2000",
-        "id": 10685,
-        "whm_episode": 235
+        "whm_episode": 235,
+        "title": "The Watcher",
+        "media_type": "movie"
     },
-    "Olympus Has Fallen": {
+    "117263": {
         "content_year": "2013",
-        "id": 117263,
-        "whm_episode": 236
+        "whm_episode": 236,
+        "title": "Olympus Has Fallen",
+        "media_type": "movie"
     },
-    "The Shadow": {
+    "8850": {
         "content_year": "1994",
-        "id": 8850,
-        "whm_episode": 237
+        "whm_episode": 237,
+        "title": "The Shadow",
+        "media_type": "movie"
     },
-    "A Letter from Death Row": {
+    "43911": {
         "content_year": "1998",
-        "id": 43911,
-        "whm_episode": 238
+        "whm_episode": 238,
+        "title": "A Letter from Death Row",
+        "media_type": "movie"
     },
-    "Nightmare Beach": {
+    "74646": {
         "content_year": "1989",
-        "id": 74646,
-        "whm_episode": 239
+        "whm_episode": 239,
+        "title": "Nightmare Beach",
+        "media_type": "movie"
     },
-    "Antitrust": {
+    "9989": {
         "content_year": "2001",
-        "id": 9989,
-        "whm_episode": 240
+        "whm_episode": 240,
+        "title": "Antitrust",
+        "media_type": "movie"
     },
-    "Batman v Superman Dawn of Justice": {
+    "209112": {
         "content_year": "2016",
-        "id": 209112,
-        "whm_episode": 241
+        "whm_episode": 241,
+        "title": "Batman v Superman Dawn of Justice",
+        "media_type": "movie"
     },
-    "Dungeons & Dragons": {
+    "11849": {
         "content_year": "2000",
-        "id": 11849,
-        "whm_episode": 242
+        "whm_episode": 242,
+        "title": "Dungeons & Dragons",
+        "media_type": "movie"
     },
-    "My Best Friend's Wedding": {
+    "8874": {
         "content_year": "1997",
-        "id": 8874,
-        "whm_episode": 243
+        "whm_episode": 243,
+        "title": "My Best Friend's Wedding",
+        "media_type": "movie"
     },
-    "The Wizard": {
+    "183": {
         "content_year": "1989",
-        "id": 183,
-        "whm_episode": 244
+        "whm_episode": 244,
+        "title": "The Wizard",
+        "media_type": "movie"
     },
-    "Larry the Cable Guy Health Inspector": {
+    "15639": {
         "content_year": "2006",
-        "id": 15639,
-        "whm_episode": 245
+        "whm_episode": 245,
+        "title": "Larry the Cable Guy Health Inspector",
+        "media_type": "movie"
     },
-    "Waterworld": {
+    "9804": {
         "content_year": "1995",
-        "id": 9804,
-        "whm_episode": 246
+        "whm_episode": 246,
+        "title": "Waterworld",
+        "media_type": "movie"
     },
-    "American Dreamz": {
+    "9310": {
         "content_year": "2006",
-        "id": 9310,
-        "whm_episode": 247
+        "whm_episode": 247,
+        "title": "American Dreamz",
+        "media_type": "movie"
     },
-    "Highlander II The Quickening": {
+    "8010": {
         "content_year": "1991",
-        "id": 8010,
-        "whm_episode": 248
+        "whm_episode": 248,
+        "title": "Highlander II The Quickening",
+        "media_type": "movie"
     },
-    "Kindergarten Cop 2": {
+    "383121": {
         "content_year": "2016",
-        "id": 383121,
-        "whm_episode": 249
+        "whm_episode": 249,
+        "title": "Kindergarten Cop 2",
+        "media_type": "movie"
     },
-    "X-Men The Last Stand": {
+    "36668": {
         "content_year": "2006",
-        "id": 36668,
-        "whm_episode": 250
+        "whm_episode": 250,
+        "title": "X-Men The Last Stand",
+        "media_type": "movie"
     },
-    "Speed 2 Cruise Control": {
+    "1639": {
         "content_year": "1997",
-        "id": 1639,
-        "whm_episode": 251
+        "whm_episode": 251,
+        "title": "Speed 2 Cruise Control",
+        "media_type": "movie"
     },
-    "Don't Tell Mom the Babysitter's Dead": {
+    "15413": {
         "content_year": "1991",
-        "id": 15413,
-        "whm_episode": 252
+        "whm_episode": 252,
+        "title": "Don't Tell Mom the Babysitter's Dead",
+        "media_type": "movie"
     },
-    "Street Fighter": {
+    "11667": {
         "content_year": "1994",
-        "id": 11667,
-        "whm_episode": 253
+        "whm_episode": 253,
+        "title": "Street Fighter",
+        "media_type": "movie"
     },
-    "Another 48 Hrs.": {
+    "11595": {
         "content_year": "1990",
-        "id": 11595,
-        "whm_episode": 254
+        "whm_episode": 254,
+        "title": "Another 48 Hrs.",
+        "media_type": "movie"
     },
-    "Wild Wild West": {
+    "8487": {
         "content_year": "1999",
-        "id": 8487,
-        "whm_episode": 255
+        "whm_episode": 255,
+        "title": "Wild Wild West",
+        "media_type": "movie"
     },
-    "Lady in the Water": {
+    "9697": {
         "content_year": "2006",
-        "id": 9697,
-        "whm_episode": 256
+        "whm_episode": 256,
+        "title": "Lady in the Water",
+        "media_type": "movie"
     },
-    "Star Trek V The Final Frontier": {
+    "172": {
         "content_year": "1989",
-        "id": 172,
-        "whm_episode": 257
+        "whm_episode": 257,
+        "title": "Star Trek V The Final Frontier",
+        "media_type": "movie"
     },
-    "Con Air": {
+    "1701": {
         "content_year": "1997",
-        "id": 1701,
-        "whm_episode": 258
+        "whm_episode": 258,
+        "title": "Con Air",
+        "media_type": "movie"
     },
-    "Predator 2": {
+    "169": {
         "content_year": "1990",
-        "id": 169,
-        "whm_episode": 259
+        "whm_episode": 259,
+        "title": "Predator 2",
+        "media_type": "movie"
     },
-    "Jupiter Ascending": {
+    "76757": {
         "content_year": "2015",
-        "id": 76757,
-        "whm_episode": 260
+        "whm_episode": 260,
+        "title": "Jupiter Ascending",
+        "media_type": "movie"
     },
-    "Teenage Mutant Ninja Turtles III": {
+    "1499": {
         "content_year": "1993",
-        "id": 1499,
-        "whm_episode": 261
+        "whm_episode": 261,
+        "title": "Teenage Mutant Ninja Turtles III",
+        "media_type": "movie"
     },
-    "The Amazing Spider-Man 2": {
+    "102382": {
         "content_year": "2014",
-        "id": 102382,
-        "whm_episode": 262
+        "whm_episode": 262,
+        "title": "The Amazing Spider-Man 2",
+        "media_type": "movie"
     },
-    "The Substitute 2 School's Out": {
+    "29812": {
         "content_year": "1998",
-        "id": 29812,
-        "whm_episode": 263
+        "whm_episode": 263,
+        "title": "The Substitute 2 School's Out",
+        "media_type": "movie"
     },
-    "Anaconda": {
+    "9360": {
         "content_year": "1997",
-        "id": 9360,
-        "whm_episode": 264
+        "whm_episode": 264,
+        "title": "Anaconda",
+        "media_type": "movie"
     },
-    "Hollow Man": {
+    "9383": {
         "content_year": "2000",
-        "id": 9383,
-        "whm_episode": 265
+        "whm_episode": 265,
+        "title": "Hollow Man",
+        "media_type": "movie"
     },
-    "Pet Sematary II": {
+    "10906": {
         "content_year": "1992",
-        "id": 10906,
-        "whm_episode": 266
+        "whm_episode": 266,
+        "title": "Pet Sematary II",
+        "media_type": "movie"
     },
-    "Halloween The Curse of Michael Myers": {
+    "10987": {
         "content_year": "1995",
-        "id": 10987,
-        "whm_episode": 267
+        "whm_episode": 267,
+        "title": "Halloween The Curse of Michael Myers",
+        "media_type": "movie"
     },
-    "Ernest Scared Stupid": {
+    "32685": {
         "content_year": "1991",
-        "id": 32685,
-        "whm_episode": 268
+        "whm_episode": 268,
+        "title": "Ernest Scared Stupid",
+        "media_type": "movie"
     },
-    "Texas Chainsaw Massacre": {
+    "16780": {
         "content_year": "1995",
-        "id": 16780,
-        "whm_episode": 269
+        "whm_episode": 269,
+        "title": "Texas Chainsaw Massacre",
+        "media_type": "movie"
     },
-    "Ghosts Can't Do It": {
+    "31281": {
         "content_year": "1989",
-        "id": 31281,
-        "whm_episode": 270
+        "whm_episode": 270,
+        "title": "Ghosts Can't Do It",
+        "media_type": "movie"
     },
-    "Don't Tell Her It's Me": {
+    "21433": {
         "content_year": "1990",
-        "id": 21433,
-        "whm_episode": 271
+        "whm_episode": 271,
+        "title": "Don't Tell Her It's Me",
+        "media_type": "movie"
     },
-    "Fantastic Four": {
+    "9738": {
         "content_year": "2005",
-        "id": 9738,
-        "whm_episode": 272
+        "whm_episode": 272,
+        "title": "Fantastic Four",
+        "media_type": "movie"
     },
-    "The Happening": {
+    "8645": {
         "content_year": "2008",
-        "id": 8645,
-        "whm_episode": 273
+        "whm_episode": 273,
+        "title": "The Happening",
+        "media_type": "movie"
     },
-    "Suburban Commando": {
+    "11504": {
         "content_year": "1991",
-        "id": 11504,
-        "whm_episode": 274
+        "whm_episode": 274,
+        "title": "Suburban Commando",
+        "media_type": "movie"
     },
-    "Surviving the Game": {
+    "17585": {
         "content_year": "1994",
-        "id": 17585,
-        "whm_episode": 275
+        "whm_episode": 275,
+        "title": "Surviving the Game",
+        "media_type": "movie"
     },
-    "End of Days": {
+    "9946": {
         "content_year": "1999",
-        "id": 9946,
-        "whm_episode": 276
+        "whm_episode": 276,
+        "title": "End of Days",
+        "media_type": "movie"
     },
-    "Demolition Man": {
+    "9739": {
         "content_year": "1993",
-        "id": 9739,
-        "whm_episode": 277
+        "whm_episode": 277,
+        "title": "Demolition Man",
+        "media_type": "movie"
     },
-    "The Santa Clause 3 The Escape Clause": {
+    "13767": {
         "content_year": "2006",
-        "id": 13767,
-        "whm_episode": 278
+        "whm_episode": 278,
+        "title": "The Santa Clause 3 The Escape Clause",
+        "media_type": "movie"
     },
-    "Batman & Robin": {
+    "415": {
         "content_year": "1997",
-        "id": 415,
-        "whm_episode": 279
+        "whm_episode": 279,
+        "title": "Batman & Robin",
+        "media_type": "movie"
     },
-    "Collateral Beauty": {
+    "345920": {
         "content_year": "2016",
-        "id": 345920,
-        "whm_episode": 280
+        "whm_episode": 280,
+        "title": "Collateral Beauty",
+        "media_type": "movie"
     },
-    "Dirty Grandpa": {
+    "291870": {
         "content_year": "2016",
-        "id": 291870,
-        "whm_episode": 281
+        "whm_episode": 281,
+        "title": "Dirty Grandpa",
+        "media_type": "movie"
     },
-    "Suicide Squad": {
+    "297761": {
         "content_year": "2016",
-        "id": 297761,
-        "whm_episode": 282
+        "whm_episode": 282,
+        "title": "Suicide Squad",
+        "media_type": "movie"
     },
-    "Gods of Egypt": {
+    "205584": {
         "content_year": "2016",
-        "id": 205584,
-        "whm_episode": 283
+        "whm_episode": 283,
+        "title": "Gods of Egypt",
+        "media_type": "movie"
     },
-    "Independence Day Resurgence": {
+    "47933": {
         "content_year": "2016",
-        "id": 47933,
-        "whm_episode": 284
+        "whm_episode": 284,
+        "title": "Independence Day Resurgence",
+        "media_type": "movie"
     },
-    "Bee Movie": {
+    "5559": {
         "content_year": "2007",
-        "id": 5559,
-        "whm_episode": 285
+        "whm_episode": 285,
+        "title": "Bee Movie",
+        "media_type": "movie"
     },
-    "My Father the Hero": {
+    "10486": {
         "content_year": "1994",
-        "id": 10486,
-        "whm_episode": 286
+        "whm_episode": 286,
+        "title": "My Father the Hero",
+        "media_type": "movie"
     },
-    "Retroactive": {
+    "26689": {
         "content_year": "1997",
-        "id": 26689,
-        "whm_episode": 287
+        "whm_episode": 287,
+        "title": "Retroactive",
+        "media_type": "movie"
     },
-    "Tango & Cash": {
+    "9618": {
         "content_year": "1989",
-        "id": 9618,
-        "whm_episode": 288
+        "whm_episode": 288,
+        "title": "Tango & Cash",
+        "media_type": "movie"
     },
-    "The Last Airbender": {
+    "10196": {
         "content_year": "2010",
-        "id": 10196,
-        "whm_episode": 289
+        "whm_episode": 289,
+        "title": "The Last Airbender",
+        "media_type": "movie"
     },
-    "Highlander III The Final Dimension": {
+    "8011": {
         "content_year": "1994",
-        "id": 8011,
-        "whm_episode": 290
+        "whm_episode": 290,
+        "title": "Highlander III The Final Dimension",
+        "media_type": "movie"
     },
-    "Ultraviolet": {
+    "9920": {
         "content_year": "2006",
-        "id": 9920,
-        "whm_episode": 291
+        "whm_episode": 291,
+        "title": "Ultraviolet",
+        "media_type": "movie"
     },
-    "Power Rangers": {
+    "305470": {
         "content_year": "2017",
-        "id": 305470,
-        "whm_episode": 292
+        "whm_episode": 292,
+        "title": "Power Rangers",
+        "media_type": "movie"
     },
-    "Overboard": {
+    "10780": {
         "content_year": "1987",
-        "id": 10780,
-        "whm_episode": 293
+        "whm_episode": 293,
+        "title": "Overboard",
+        "media_type": "movie"
     },
-    "Sidekicks": {
+    "22590": {
         "content_year": "1992",
-        "id": 22590,
-        "whm_episode": 294
+        "whm_episode": 294,
+        "title": "Sidekicks",
+        "media_type": "movie"
     },
-    "Howard The Duck": {
+    "10658": {
         "content_year": "1986",
-        "id": 10658,
-        "whm_episode": 295
+        "whm_episode": 295,
+        "title": "Howard The Duck",
+        "media_type": "movie"
     },
-    "Hot to Trot": {
+    "30690": {
         "content_year": "1988",
-        "id": 30690,
-        "whm_episode": 296
+        "whm_episode": 296,
+        "title": "Hot to Trot",
+        "media_type": "movie"
     },
-    "Death Wish 3": {
+    "24873": {
         "content_year": "1985",
-        "id": 24873,
-        "whm_episode": 297
+        "whm_episode": 297,
+        "title": "Death Wish 3",
+        "media_type": "movie"
     },
-    "300": {
+    "1271": {
         "content_year": "2007",
-        "id": 1271,
-        "whm_episode": 298
+        "whm_episode": 298,
+        "title": "300",
+        "media_type": "movie"
     },
-    "AVP Alien vs Predator": {
+    "395": {
         "content_year": "2004",
-        "id": 395,
-        "whm_episode": 299
+        "whm_episode": 299,
+        "title": "AVP Alien vs Predator",
+        "media_type": "movie"
     },
-    "Ninja III The Domination": {
+    "28148": {
         "content_year": "1984",
-        "id": 28148,
-        "whm_episode": 300
+        "whm_episode": 300,
+        "title": "Ninja III The Domination",
+        "media_type": "movie"
     },
-    "Disclosure": {
+    "8984": {
         "content_year": "1994",
-        "id": 8984,
-        "whm_episode": 301
+        "whm_episode": 301,
+        "title": "Disclosure",
+        "media_type": "movie"
     },
-    "Transformers": {
+    "1858": {
         "content_year": "2007",
-        "id": 1858,
-        "whm_episode": 302
+        "whm_episode": 302,
+        "title": "Transformers",
+        "media_type": "movie"
     },
-    "Transformers Revenge of the Fallen": {
+    "8373": {
         "content_year": "2009",
-        "id": 8373,
-        "whm_episode": 303
+        "whm_episode": 303,
+        "title": "Transformers Revenge of the Fallen",
+        "media_type": "movie"
     },
-    "Transformers Dark of the Moon": {
+    "38356": {
         "content_year": "2011",
-        "id": 38356,
-        "whm_episode": 304
+        "whm_episode": 304,
+        "title": "Transformers Dark of the Moon",
+        "media_type": "movie"
     },
-    "Friday the 13th Part 7": {
+    "10281": {
         "content_year": "1988",
-        "id": 10281,
-        "whm_episode": 305
+        "whm_episode": 305,
+        "title": "Friday the 13th Part 7",
+        "media_type": "movie"
     },
-    "Transformers Age of Extinction": {
+    "91314": {
         "content_year": "2014",
-        "id": 91314,
-        "whm_episode": 306
+        "whm_episode": 306,
+        "title": "Transformers Age of Extinction",
+        "media_type": "movie"
     },
-    "Encino Man": {
+    "10406": {
         "content_year": "1992",
-        "id": 10406,
-        "whm_episode": 307
+        "whm_episode": 307,
+        "title": "Encino Man",
+        "media_type": "movie"
     },
-    "Transformers The Last Knight": {
+    "335988": {
         "content_year": "2017",
-        "id": 335988,
-        "whm_episode": 308
+        "whm_episode": 308,
+        "title": "Transformers The Last Knight",
+        "media_type": "movie"
     },
-    "Air Force One": {
+    "9772": {
         "content_year": "1997",
-        "id": 9772,
-        "whm_episode": 309
+        "whm_episode": 309,
+        "title": "Air Force One",
+        "media_type": "movie"
     },
-    "Spider-Man 3": {
+    "559": {
         "content_year": "2007",
-        "id": 559,
-        "whm_episode": 310
+        "whm_episode": 310,
+        "title": "Spider-Man 3",
+        "media_type": "movie"
     },
-    "Fantastic Four Rise of the Silver Surfer": {
+    "1979": {
         "content_year": "2007",
-        "id": 1979,
-        "whm_episode": 311
+        "whm_episode": 311,
+        "title": "Fantastic Four Rise of the Silver Surfer",
+        "media_type": "movie"
     },
-    "Over the Top": {
+    "1825": {
         "content_year": "1987",
-        "id": 1825,
-        "whm_episode": 312
+        "whm_episode": 312,
+        "title": "Over the Top",
+        "media_type": "movie"
     },
-    "Mac & Me": {
+    "20196": {
         "content_year": "1988",
-        "id": 20196,
-        "whm_episode": 313
+        "whm_episode": 313,
+        "title": "Mac & Me",
+        "media_type": "movie"
     },
-    "IT": {
-        "content_year": "1990",
-        "id": 0,
-        "whm_episode": 314
-    },
-    "If Looks Could Kill": {
+    "22434": {
         "content_year": "1991",
-        "id": 22434,
-        "whm_episode": 315
+        "whm_episode": 315,
+        "title": "If Looks Could Kill",
+        "media_type": "movie"
     },
-    "Samurai Cop": {
+    "65374": {
         "content_year": "1991",
-        "id": 65374,
-        "whm_episode": 316
+        "whm_episode": 316,
+        "title": "Samurai Cop",
+        "media_type": "movie"
     },
-    "Freddy's Dead The Final Nightmare": {
+    "11284": {
         "content_year": "1991",
-        "id": 11284,
-        "whm_episode": 317
+        "whm_episode": 317,
+        "title": "Freddy's Dead The Final Nightmare",
+        "media_type": "movie"
     },
-    "Dr. Giggles": {
+    "37527": {
         "content_year": "1992",
-        "id": 37527,
-        "whm_episode": 318
+        "whm_episode": 318,
+        "title": "Dr. Giggles",
+        "media_type": "movie"
     },
-    "Scream 2": {
+    "4233": {
         "content_year": "1997",
-        "id": 4233,
-        "whm_episode": 319
+        "whm_episode": 319,
+        "title": "Scream 2",
+        "media_type": "movie"
     },
-    "Saw": {
+    "176": {
         "content_year": "2004",
-        "id": 176,
-        "whm_episode": 320
+        "whm_episode": 320,
+        "title": "Saw",
+        "media_type": "movie"
     },
-    "Trick or Treat": {
+    "25438": {
         "content_year": "1986",
-        "id": 25438,
-        "whm_episode": 321
+        "whm_episode": 321,
+        "title": "Trick or Treat",
+        "media_type": "movie"
     },
-    "Rising Sun": {
+    "7007": {
         "content_year": "1993",
-        "id": 7007,
-        "whm_episode": 322
+        "whm_episode": 322,
+        "title": "Rising Sun",
+        "media_type": "movie"
     },
-    "The Fan": {
+    "9566": {
         "content_year": "1996",
-        "id": 9566,
-        "whm_episode": 323
+        "whm_episode": 323,
+        "title": "The Fan",
+        "media_type": "movie"
     },
-    "Murder at 1600": {
+    "9415": {
         "content_year": "1997",
-        "id": 9415,
-        "whm_episode": 324
+        "whm_episode": 324,
+        "title": "Murder at 1600",
+        "media_type": "movie"
     },
-    "Drop Zone": {
+    "4954": {
         "content_year": "1994",
-        "id": 4954,
-        "whm_episode": 325
+        "whm_episode": 325,
+        "title": "Drop Zone",
+        "media_type": "movie"
     },
-    "The Punisher": {
+    "7220": {
         "content_year": "2004",
-        "id": 7220,
-        "whm_episode": 326
+        "whm_episode": 326,
+        "title": "The Punisher",
+        "media_type": "movie"
     },
-    "Hard to Kill": {
+    "9569": {
         "content_year": "1990",
-        "id": 9569,
-        "whm_episode": 327
+        "whm_episode": 327,
+        "title": "Hard to Kill",
+        "media_type": "movie"
     },
-    "Pottersville": {
+    "413990": {
         "content_year": "2017",
-        "id": 413990,
-        "whm_episode": 328
+        "whm_episode": 328,
+        "title": "Pottersville",
+        "media_type": "movie"
     },
-    "Constantine": {
+    "561": {
         "content_year": "2005",
-        "id": 561,
-        "whm_episode": 329
+        "whm_episode": 329,
+        "title": "Constantine",
+        "media_type": "movie"
     },
-    "The Boss Baby": {
+    "295693": {
         "content_year": "2017",
-        "id": 295693,
-        "whm_episode": 330
+        "whm_episode": 330,
+        "title": "The Boss Baby",
+        "media_type": "movie"
     },
-    "Bright": {
+    "400106": {
         "content_year": "2017",
-        "id": 400106,
-        "whm_episode": 331
+        "whm_episode": 331,
+        "title": "Bright",
+        "media_type": "movie"
     },
-    "The Fate of the Furious": {
+    "337339": {
         "content_year": "2017",
-        "id": 337339,
-        "whm_episode": 332
+        "whm_episode": 332,
+        "title": "The Fate of the Furious",
+        "media_type": "movie"
     },
-    "The Bye Bye Man": {
+    "292280": {
         "content_year": "2017",
-        "id": 292280,
-        "whm_episode": 333
+        "whm_episode": 333,
+        "title": "The Bye Bye Man",
+        "media_type": "movie"
     },
-    "Geostorm": {
+    "274855": {
         "content_year": "2017",
-        "id": 274855,
-        "whm_episode": 334
+        "whm_episode": 334,
+        "title": "Geostorm",
+        "media_type": "movie"
     },
-    "Going In Style": {
+    "353070": {
         "content_year": "2017",
-        "id": 353070,
-        "whm_episode": 335
+        "whm_episode": 335,
+        "title": "Going In Style",
+        "media_type": "movie"
     },
-    "Blade Trinity": {
+    "36648": {
         "content_year": "2004",
-        "id": 36648,
-        "whm_episode": 336
+        "whm_episode": 336,
+        "title": "Blade Trinity",
+        "media_type": "movie"
     },
-    "Man Of Steel": {
+    "49521": {
         "content_year": "2013",
-        "id": 49521,
-        "whm_episode": 337
+        "whm_episode": 337,
+        "title": "Man Of Steel",
+        "media_type": "movie"
     },
-    "You've Got Mail": {
+    "9489": {
         "content_year": "1998",
-        "id": 9489,
-        "whm_episode": 338
+        "whm_episode": 338,
+        "title": "You've Got Mail",
+        "media_type": "movie"
     },
-    "Traces of Red": {
+    "103299": {
         "content_year": "1992",
-        "id": 103299,
-        "whm_episode": 339
+        "whm_episode": 339,
+        "title": "Traces of Red",
+        "media_type": "movie"
     },
-    "Death Wish V The Face of Death": {
+    "34746": {
         "content_year": "1994",
-        "id": 34746,
-        "whm_episode": 340
+        "whm_episode": 340,
+        "title": "Death Wish V The Face of Death",
+        "media_type": "movie"
     },
-    "The Jerky Boys": {
+    "18713": {
         "content_year": "1995",
-        "id": 18713,
-        "whm_episode": 341
+        "whm_episode": 341,
+        "title": "The Jerky Boys",
+        "media_type": "movie"
     },
-    "Ghost Rider Spirit of Vengeance": {
+    "71676": {
         "content_year": "2011",
-        "id": 71676,
-        "whm_episode": 342
+        "whm_episode": 342,
+        "title": "Ghost Rider Spirit of Vengeance",
+        "media_type": "movie"
     },
-    "Maximum Overdrive": {
+    "9980": {
         "content_year": "1986",
-        "id": 9980,
-        "whm_episode": 343
+        "whm_episode": 343,
+        "title": "Maximum Overdrive",
+        "media_type": "movie"
     },
-    "I'll Always Know What You Did Last Summer": {
+    "3602": {
         "content_year": "2006",
-        "id": 3602,
-        "whm_episode": 344
+        "whm_episode": 344,
+        "title": "I'll Always Know What You Did Last Summer",
+        "media_type": "movie"
     },
-    "Tarzan the Ape Man": {
+    "26325": {
         "content_year": "1981",
-        "id": 26325,
-        "whm_episode": 345
+        "whm_episode": 345,
+        "title": "Tarzan the Ape Man",
+        "media_type": "movie"
     },
-    "I Know Who Killed Me": {
+    "5857": {
         "content_year": "2007",
-        "id": 5857,
-        "whm_episode": 346
+        "whm_episode": 346,
+        "title": "I Know Who Killed Me",
+        "media_type": "movie"
     },
-    "Shrek": {
+    "808": {
         "content_year": "2001",
-        "id": 808,
-        "whm_episode": 347
+        "whm_episode": 347,
+        "title": "Shrek",
+        "media_type": "movie"
     },
-    "Wild Hogs": {
+    "11199": {
         "content_year": "2007",
-        "id": 11199,
-        "whm_episode": 348
+        "whm_episode": 348,
+        "title": "Wild Hogs",
+        "media_type": "movie"
     },
-    "Jungle 2 Jungle": {
+    "9446": {
         "content_year": "1997",
-        "id": 9446,
-        "whm_episode": 349
+        "whm_episode": 349,
+        "title": "Jungle 2 Jungle",
+        "media_type": "movie"
     },
-    "Lost in Space": {
+    "2157": {
         "content_year": "1998",
-        "id": 2157,
-        "whm_episode": 350
+        "whm_episode": 350,
+        "title": "Lost in Space",
+        "media_type": "movie"
     },
-    "Airborne": {
+    "13064": {
         "content_year": "1993",
-        "id": 13064,
-        "whm_episode": 351
+        "whm_episode": 351,
+        "title": "Airborne",
+        "media_type": "movie"
     },
-    "The Bucket List": {
+    "7350": {
         "content_year": "2007",
-        "id": 7350,
-        "whm_episode": 352
+        "whm_episode": 352,
+        "title": "The Bucket List",
+        "media_type": "movie"
     },
-    "Dollman": {
+    "68773": {
         "content_year": "1991",
-        "id": 68773,
-        "whm_episode": 353
+        "whm_episode": 353,
+        "title": "Dollman",
+        "media_type": "movie"
     },
-    "Transcendence": {
+    "157353": {
         "content_year": "2014",
-        "id": 157353,
-        "whm_episode": 354
+        "whm_episode": 354,
+        "title": "Transcendence",
+        "media_type": "movie"
     },
-    "The X-Files I Want To Believe": {
+    "8836": {
         "content_year": "2008",
-        "id": 8836,
-        "whm_episode": 355
+        "whm_episode": 355,
+        "title": "The X-Files I Want To Believe",
+        "media_type": "movie"
     },
-    "Witless Protection": {
+    "15365": {
         "content_year": "2008",
-        "id": 15365,
-        "whm_episode": 356
+        "whm_episode": 356,
+        "title": "Witless Protection",
+        "media_type": "movie"
     },
-    "X-Men Origins Wolverine": {
+    "2080": {
         "content_year": "2009",
-        "id": 2080,
-        "whm_episode": 357
+        "whm_episode": 357,
+        "title": "X-Men Origins Wolverine",
+        "media_type": "movie"
     },
-    "Ocean's Twelve": {
+    "163": {
         "content_year": "2004",
-        "id": 163,
-        "whm_episode": 358
+        "whm_episode": 358,
+        "title": "Ocean's Twelve",
+        "media_type": "movie"
     },
-    "xXx": {
+    "7451": {
         "content_year": "2002",
-        "id": 7451,
-        "whm_episode": 359
+        "whm_episode": 359,
+        "title": "xXx",
+        "media_type": "movie"
     },
-    "Jurassic World": {
+    "135397": {
         "content_year": "2015",
-        "id": 135397,
-        "whm_episode": 360
+        "whm_episode": 360,
+        "title": "Jurassic World",
+        "media_type": "movie"
     },
-    "Jurassic Park III": {
+    "331": {
         "content_year": "2001",
-        "id": 331,
-        "whm_episode": 361
+        "whm_episode": 361,
+        "title": "Jurassic Park III",
+        "media_type": "movie"
     },
-    "Lethal Weapon 4": {
+    "944": {
         "content_year": "1998",
-        "id": 944,
-        "whm_episode": 362
+        "whm_episode": 362,
+        "title": "Lethal Weapon 4",
+        "media_type": "movie"
     },
-    "Rambo III": {
+    "1370": {
         "content_year": "1988",
-        "id": 1370,
-        "whm_episode": 363
+        "whm_episode": 363,
+        "title": "Rambo III",
+        "media_type": "movie"
     },
-    "Runaway Bride": {
+    "4806": {
         "content_year": "1999",
-        "id": 4806,
-        "whm_episode": 364
+        "whm_episode": 364,
+        "title": "Runaway Bride",
+        "media_type": "movie"
     },
-    "America\u2019s Sweethearts": {
+    "11467": {
         "content_year": "2001",
-        "id": 11467,
-        "whm_episode": 365
+        "whm_episode": 365,
+        "title": "America\u2019s Sweethearts",
+        "media_type": "movie"
     },
-    "Eraser": {
+    "9268": {
         "content_year": "1996",
-        "id": 9268,
-        "whm_episode": 366
+        "whm_episode": 366,
+        "title": "Eraser",
+        "media_type": "movie"
     },
-    "Rookie of the Year": {
+    "21845": {
         "content_year": "1993",
-        "id": 21845,
-        "whm_episode": 367
+        "whm_episode": 367,
+        "title": "Rookie of the Year",
+        "media_type": "movie"
     },
-    "Armageddon": {
+    "95": {
         "content_year": "1998",
-        "id": 95,
-        "whm_episode": 368
+        "whm_episode": 368,
+        "title": "Armageddon",
+        "media_type": "movie"
     },
-    "The Emoji Movie": {
+    "378236": {
         "content_year": "2017",
-        "id": 378236,
-        "whm_episode": 369
+        "whm_episode": 369,
+        "title": "The Emoji Movie",
+        "media_type": "movie"
     },
-    "Jason X": {
+    "11470": {
         "content_year": "2001",
-        "id": 11470,
-        "whm_episode": 370
+        "whm_episode": 370,
+        "title": "Jason X",
+        "media_type": "movie"
     },
-    "Friday the 13th Part VIII Jason Takes Manhattan": {
+    "10283": {
         "content_year": "1989",
-        "id": 10283,
-        "whm_episode": 371
+        "whm_episode": 371,
+        "title": "Friday the 13th Part VIII Jason Takes Manhattan",
+        "media_type": "movie"
     },
-    "Tank Girl": {
+    "9067": {
         "content_year": "1995",
-        "id": 9067,
-        "whm_episode": 372
+        "whm_episode": 372,
+        "title": "Tank Girl",
+        "media_type": "movie"
     },
-    "Cobra": {
+    "9874": {
         "content_year": "1986",
-        "id": 9874,
-        "whm_episode": 373
+        "whm_episode": 373,
+        "title": "Cobra",
+        "media_type": "movie"
     },
-    "The Flintstones": {
+    "888": {
         "content_year": "1994",
-        "id": 888,
-        "whm_episode": 374
+        "whm_episode": 374,
+        "title": "The Flintstones",
+        "media_type": "movie"
     },
-    "Ready Player One": {
+    "333339": {
         "content_year": "2018",
-        "id": 333339,
-        "whm_episode": 375
+        "whm_episode": 375,
+        "title": "Ready Player One",
+        "media_type": "movie"
     },
-    "Masterminds": {
+    "25224": {
         "content_year": "1997",
-        "id": 25224,
-        "whm_episode": 376
+        "whm_episode": 376,
+        "title": "Masterminds",
+        "media_type": "movie"
     },
-    "Aliens vs. Predator Requiem": {
+    "440": {
         "content_year": "2007",
-        "id": 440,
-        "whm_episode": 377
+        "whm_episode": 377,
+        "title": "Aliens vs. Predator Requiem",
+        "media_type": "movie"
     },
-    "The Stepford Wives": {
+    "9890": {
         "content_year": "2004",
-        "id": 9890,
-        "whm_episode": 378
+        "whm_episode": 378,
+        "title": "The Stepford Wives",
+        "media_type": "movie"
     },
-    "Hellraiser III Hell on Earth": {
+    "11569": {
         "content_year": "1992",
-        "id": 11569,
-        "whm_episode": 379
+        "whm_episode": 379,
+        "title": "Hellraiser III Hell on Earth",
+        "media_type": "movie"
     },
-    "Man's Best Friend": {
+    "41759": {
         "content_year": "1993",
-        "id": 41759,
-        "whm_episode": 380
+        "whm_episode": 380,
+        "title": "Man's Best Friend",
+        "media_type": "movie"
     },
-    "Halloween Resurrection": {
+    "11442": {
         "content_year": "2002",
-        "id": 11442,
-        "whm_episode": 381
+        "whm_episode": 381,
+        "title": "Halloween Resurrection",
+        "media_type": "movie"
     },
-    "Van Helsing": {
+    "7131": {
         "content_year": "2004",
-        "id": 7131,
-        "whm_episode": 382
+        "whm_episode": 382,
+        "title": "Van Helsing",
+        "media_type": "movie"
     },
-    "Urban Legend": {
+    "9877": {
         "content_year": "1998",
-        "id": 9877,
-        "whm_episode": 383
+        "whm_episode": 383,
+        "title": "Urban Legend",
+        "media_type": "movie"
     },
-    "Wishmaster": {
+    "10351": {
         "content_year": "1997",
-        "id": 10351,
-        "whm_episode": 384
+        "whm_episode": 384,
+        "title": "Wishmaster",
+        "media_type": "movie"
     },
-    "The Cat in the Hat": {
+    "10588": {
         "content_year": "2003",
-        "id": 10588,
-        "whm_episode": 385
+        "whm_episode": 385,
+        "title": "The Cat in the Hat",
+        "media_type": "movie"
     },
-    "How the Grinch Stole Christmas": {
+    "8871": {
         "content_year": "2000",
-        "id": 8871,
-        "whm_episode": 386
+        "whm_episode": 386,
+        "title": "How the Grinch Stole Christmas",
+        "media_type": "movie"
     },
-    "The One": {
+    "10796": {
         "content_year": "2001",
-        "id": 10796,
-        "whm_episode": 387
+        "whm_episode": 387,
+        "title": "The One",
+        "media_type": "movie"
     },
-    "Robin Hood Prince of Thieves": {
+    "8367": {
         "content_year": "1991",
-        "id": 8367,
-        "whm_episode": 388
+        "whm_episode": 388,
+        "title": "Robin Hood Prince of Thieves",
+        "media_type": "movie"
     },
-    "Richie Rich": {
+    "11011": {
         "content_year": "1994",
-        "id": 11011,
-        "whm_episode": 389
+        "whm_episode": 389,
+        "title": "Richie Rich",
+        "media_type": "movie"
     },
-    "Terminator 2 Judgment Day": {
+    "280": {
         "content_year": "1991",
-        "id": 280,
-        "whm_episode": 390
+        "whm_episode": 390,
+        "title": "Terminator 2 Judgment Day",
+        "media_type": "movie"
     },
-    "Star Wars": {
+    "11": {
         "content_year": "1977",
-        "id": 11,
-        "whm_episode": 391
+        "whm_episode": 391,
+        "title": "Star Wars",
+        "media_type": "movie"
     },
-    "Back To The Future": {
+    "105": {
         "content_year": "1985",
-        "id": 105,
-        "whm_episode": 392
+        "whm_episode": 392,
+        "title": "Back To The Future",
+        "media_type": "movie"
     },
-    "It's A Wonderful Life": {
+    "1585": {
         "content_year": "1946",
-        "id": 1585,
-        "whm_episode": 393
+        "whm_episode": 393,
+        "title": "It's A Wonderful Life",
+        "media_type": "movie"
     },
-    "Batman": {
+    "268": {
         "content_year": "1989",
-        "id": 268,
-        "whm_episode": 394
+        "whm_episode": 394,
+        "title": "Batman",
+        "media_type": "movie"
     },
-    "Venom": {
+    "335983": {
         "content_year": "2018",
-        "id": 335983,
-        "whm_episode": 395
+        "whm_episode": 395,
+        "title": "Venom",
+        "media_type": "movie"
     },
-    "Jurassic World Fallen Kingdom": {
+    "351286": {
         "content_year": "2018",
-        "id": 351286,
-        "whm_episode": 396
+        "whm_episode": 396,
+        "title": "Jurassic World Fallen Kingdom",
+        "media_type": "movie"
     },
-    "Mile 22": {
+    "347375": {
         "content_year": "2018",
-        "id": 347375,
-        "whm_episode": 397
+        "whm_episode": 397,
+        "title": "Mile 22",
+        "media_type": "movie"
     },
-    "The Love Guru": {
+    "12177": {
         "content_year": "2008",
-        "id": 12177,
-        "whm_episode": 398
+        "whm_episode": 398,
+        "title": "The Love Guru",
+        "media_type": "movie"
     },
-    "Life Itself": {
+    "446696": {
         "content_year": "2018",
-        "id": 446696,
-        "whm_episode": 399
+        "whm_episode": 399,
+        "title": "Life Itself",
+        "media_type": "movie"
     },
-    "The Happytime Murders": {
+    "412988": {
         "content_year": "2018",
-        "id": 412988,
-        "whm_episode": 400
+        "whm_episode": 400,
+        "title": "The Happytime Murders",
+        "media_type": "movie"
     },
-    "Fantastic Beasts": {
+    "338952": {
         "content_year": "2018",
-        "id": 338952,
-        "whm_episode": 401
+        "whm_episode": 401,
+        "title": "Fantastic Beasts",
+        "media_type": "movie"
     },
-    "What Women Want": {
+    "3981": {
         "content_year": "2000",
-        "id": 3981,
-        "whm_episode": 402
+        "whm_episode": 402,
+        "title": "What Women Want",
+        "media_type": "movie"
     },
-    "Bad Boys": {
+    "9737": {
         "content_year": "1995",
-        "id": 9737,
-        "whm_episode": 403
+        "whm_episode": 403,
+        "title": "Bad Boys",
+        "media_type": "movie"
     },
-    "Valentine": {
+    "10984": {
         "content_year": "2001",
-        "id": 10984,
-        "whm_episode": 404
+        "whm_episode": 404,
+        "title": "Valentine",
+        "media_type": "movie"
     },
-    "The Island": {
+    "1635": {
         "content_year": "2005",
-        "id": 1635,
-        "whm_episode": 405
+        "whm_episode": 405,
+        "title": "The Island",
+        "media_type": "movie"
     },
-    "Prince of Persia The Sands of Time": {
+    "9543": {
         "content_year": "2010",
-        "id": 9543,
-        "whm_episode": 406
+        "whm_episode": 406,
+        "title": "Prince of Persia The Sands of Time",
+        "media_type": "movie"
     },
-    "Vibes": {
+    "21185": {
         "content_year": "1988",
-        "id": 21185,
-        "whm_episode": 407
+        "whm_episode": 407,
+        "title": "Vibes",
+        "media_type": "movie"
     },
-    "Lara Croft Tomb Raider": {
+    "1995": {
         "content_year": "2001",
-        "id": 1995,
-        "whm_episode": 408
+        "whm_episode": 408,
+        "title": "Lara Croft Tomb Raider",
+        "media_type": "movie"
     },
-    "Battlefield Earth": {
+    "5491": {
         "content_year": "2000",
-        "id": 5491,
-        "whm_episode": 409
+        "whm_episode": 409,
+        "title": "Battlefield Earth",
+        "media_type": "movie"
     },
-    "Chill Factor": {
+    "2162": {
         "content_year": "1999",
-        "id": 2162,
-        "whm_episode": 410
+        "whm_episode": 410,
+        "title": "Chill Factor",
+        "media_type": "movie"
     },
-    "Pet Sematary": {
+    "8913": {
         "content_year": "1989",
-        "id": 8913,
-        "whm_episode": 411
+        "whm_episode": 411,
+        "title": "Pet Sematary",
+        "media_type": "movie"
     },
-    "Shrek 2": {
+    "809": {
         "content_year": "2004",
-        "id": 809,
-        "whm_episode": 412
+        "whm_episode": 412,
+        "title": "Shrek 2",
+        "media_type": "movie"
     },
-    "Live Free or Die Hard": {
+    "1571": {
         "content_year": "2007",
-        "id": 1571,
-        "whm_episode": 413
+        "whm_episode": 413,
+        "title": "Live Free or Die Hard",
+        "media_type": "movie"
     },
-    "Death Wish": {
+    "395990": {
         "content_year": "2018",
-        "id": 395990,
-        "whm_episode": 414
+        "whm_episode": 414,
+        "title": "Death Wish",
+        "media_type": "movie"
     },
-    "17 Again": {
+    "16996": {
         "content_year": "2009",
-        "id": 16996,
-        "whm_episode": 415
+        "whm_episode": 415,
+        "title": "17 Again",
+        "media_type": "movie"
     },
-    "Final Destination": {
+    "9532": {
         "content_year": "2000",
-        "id": 9532,
-        "whm_episode": 416
+        "whm_episode": 416,
+        "title": "Final Destination",
+        "media_type": "movie"
     },
-    "Serenity": {
+    "452832": {
         "content_year": "2019",
-        "id": 452832,
-        "whm_episode": 417
+        "whm_episode": 417,
+        "title": "Serenity",
+        "media_type": "movie"
     },
-    "Dude, Where's My Car?": {
+    "8859": {
         "content_year": "2000",
-        "id": 8859,
-        "whm_episode": 418
+        "whm_episode": 418,
+        "title": "Dude, Where's My Car?",
+        "media_type": "movie"
     },
-    "Space Cowboys": {
+    "5551": {
         "content_year": "2000",
-        "id": 5551,
-        "whm_episode": 419
+        "whm_episode": 419,
+        "title": "Space Cowboys",
+        "media_type": "movie"
     },
-    "Ghosts of Girlfriends Past": {
+    "12556": {
         "content_year": "2009",
-        "id": 12556,
-        "whm_episode": 420
+        "whm_episode": 420,
+        "title": "Ghosts of Girlfriends Past",
+        "media_type": "movie"
     },
-    "The Super": {
+    "53287": {
         "content_year": "1991",
-        "id": 53287,
-        "whm_episode": 421
+        "whm_episode": 421,
+        "title": "The Super",
+        "media_type": "movie"
     },
-    "G.I. Joe The Rise of Cobra": {
+    "14869": {
         "content_year": "2009",
-        "id": 14869,
-        "whm_episode": 422
+        "whm_episode": 422,
+        "title": "G.I. Joe The Rise of Cobra",
+        "media_type": "movie"
     },
-    "Deep Rising": {
+    "9457": {
         "content_year": "1998",
-        "id": 9457,
-        "whm_episode": 423
+        "whm_episode": 423,
+        "title": "Deep Rising",
+        "media_type": "movie"
     },
-    "Kingsman The Secret Service": {
+    "207703": {
         "content_year": "2015",
-        "id": 207703,
-        "whm_episode": 424
+        "whm_episode": 424,
+        "title": "Kingsman The Secret Service",
+        "media_type": "movie"
     },
-    "Bride of Chucky": {
+    "11932": {
         "content_year": "1998",
-        "id": 11932,
-        "whm_episode": 425
+        "whm_episode": 425,
+        "title": "Bride of Chucky",
+        "media_type": "movie"
     },
-    "Wanted": {
+    "8909": {
         "content_year": "2008",
-        "id": 8909,
-        "whm_episode": 426
+        "whm_episode": 426,
+        "title": "Wanted",
+        "media_type": "movie"
     },
-    "The Amazing Spider-Man": {
+    "1930": {
         "content_year": "2012",
-        "id": 1930,
-        "whm_episode": 427
+        "whm_episode": 427,
+        "title": "The Amazing Spider-Man",
+        "media_type": "movie"
     },
-    "Forrest Gump": {
+    "13": {
         "content_year": "1994",
-        "id": 13,
-        "whm_episode": 428
+        "whm_episode": 428,
+        "title": "Forrest Gump",
+        "media_type": "movie"
     },
-    "The Ugly Truth": {
+    "20943": {
         "content_year": "2009",
-        "id": 20943,
-        "whm_episode": 429
+        "whm_episode": 429,
+        "title": "The Ugly Truth",
+        "media_type": "movie"
     },
-    "2012": {
+    "14161": {
         "content_year": "2009",
-        "id": 14161,
-        "whm_episode": 430
+        "whm_episode": 430,
+        "title": "2012",
+        "media_type": "movie"
     },
-    "The Taking of Pelham 123": {
+    "18487": {
         "content_year": "2009",
-        "id": 18487,
-        "whm_episode": 431
+        "whm_episode": 431,
+        "title": "The Taking of Pelham 123",
+        "media_type": "movie"
     },
-    "The Fast and the Furious": {
+    "9799": {
         "content_year": "2001",
-        "id": 9799,
-        "whm_episode": 432
+        "whm_episode": 432,
+        "title": "The Fast and the Furious",
+        "media_type": "movie"
     },
-    "Knowing": {
+    "13811": {
         "content_year": "2009",
-        "id": 13811,
-        "whm_episode": 433
+        "whm_episode": 433,
+        "title": "Knowing",
+        "media_type": "movie"
     },
-    "National Treasure Book of Secrets": {
+    "6637": {
         "content_year": "2007",
-        "id": 6637,
-        "whm_episode": 434
+        "whm_episode": 434,
+        "title": "National Treasure Book of Secrets",
+        "media_type": "movie"
     },
-    "Gone in 60 Seconds": {
+    "9679": {
         "content_year": "2000",
-        "id": 9679,
-        "whm_episode": 435
+        "whm_episode": 435,
+        "title": "Gone in 60 Seconds",
+        "media_type": "movie"
     },
-    "The Wicker Man": {
+    "9708": {
         "content_year": "2006",
-        "id": 9708,
-        "whm_episode": 436
+        "whm_episode": 436,
+        "title": "The Wicker Man",
+        "media_type": "movie"
     },
-    "Species": {
+    "9348": {
         "content_year": "1995",
-        "id": 9348,
-        "whm_episode": 437
+        "whm_episode": 437,
+        "title": "Species",
+        "media_type": "movie"
     },
-    "Buffy the Vampire Slayer": {
+    "10206": {
         "content_year": "1992",
-        "id": 10206,
-        "whm_episode": 438
+        "whm_episode": 438,
+        "title": "Buffy the Vampire Slayer",
+        "media_type": "movie"
     },
-    "GoldenEye": {
+    "710": {
         "content_year": "1995",
-        "id": 710,
-        "whm_episode": 439
+        "whm_episode": 439,
+        "title": "GoldenEye",
+        "media_type": "movie"
     },
-    "Double Impact": {
+    "9594": {
         "content_year": "1991",
-        "id": 9594,
-        "whm_episode": 440
+        "whm_episode": 440,
+        "title": "Double Impact",
+        "media_type": "movie"
     },
-    "Sphere": {
+    "10153": {
         "content_year": "1998",
-        "id": 10153,
-        "whm_episode": 441
+        "whm_episode": 441,
+        "title": "Sphere",
+        "media_type": "movie"
     },
-    "The Lawnmower Man": {
+    "10163": {
         "content_year": "1992",
-        "id": 10163,
-        "whm_episode": 442
+        "whm_episode": 442,
+        "title": "The Lawnmower Man",
+        "media_type": "movie"
     },
-    "The Shining": {
+    "694": {
         "content_year": "1980",
-        "id": 694,
-        "whm_episode": 444
+        "whm_episode": 444,
+        "title": "The Shining",
+        "media_type": "movie"
     },
-    "Final Destination 3": {
+    "9286": {
         "content_year": "2006",
-        "id": 9286,
-        "whm_episode": 445
+        "whm_episode": 445,
+        "title": "Final Destination 3",
+        "media_type": "movie"
     },
-    "The Human Centipede": {
+    "37169": {
         "content_year": "2009",
-        "id": 37169,
-        "whm_episode": 446
+        "whm_episode": 446,
+        "title": "The Human Centipede",
+        "media_type": "movie"
     },
-    "Child's Play": {
+    "10585": {
         "content_year": "1988",
-        "id": 10585,
-        "whm_episode": 447
+        "whm_episode": 447,
+        "title": "Child's Play",
+        "media_type": "movie"
     },
-    "Monster Squad": {
+    "13509": {
         "content_year": "1987",
-        "id": 13509,
-        "whm_episode": 448
+        "whm_episode": 448,
+        "title": "Monster Squad",
+        "media_type": "movie"
     },
-    "Terminator Salvation": {
+    "534": {
         "content_year": "2009",
-        "id": 534,
-        "whm_episode": 449
+        "whm_episode": 449,
+        "title": "Terminator Salvation",
+        "media_type": "movie"
     },
-    "I Now Pronounce You Chuck & Larry": {
+    "3563": {
         "content_year": "2007",
-        "id": 3563,
-        "whm_episode": 450
+        "whm_episode": 450,
+        "title": "I Now Pronounce You Chuck & Larry",
+        "media_type": "movie"
     },
-    "The Terminator": {
+    "218": {
         "content_year": "1984",
-        "id": 218,
-        "whm_episode": 451
+        "whm_episode": 451,
+        "title": "The Terminator",
+        "media_type": "movie"
     },
-    "Kindergarten Cop": {
+    "951": {
         "content_year": "1990",
-        "id": 951,
-        "whm_episode": 452
+        "whm_episode": 452,
+        "title": "Kindergarten Cop",
+        "media_type": "movie"
     },
-    "The Karate Kid": {
+    "1885": {
         "content_year": "1984",
-        "id": 1885,
-        "whm_episode": 453
+        "whm_episode": 453,
+        "title": "The Karate Kid",
+        "media_type": "movie"
     },
-    "Die Hard With A Vengeance": {
+    "1572": {
         "content_year": "1995",
-        "id": 1572,
-        "whm_episode": 454
+        "whm_episode": 454,
+        "title": "Die Hard With A Vengeance",
+        "media_type": "movie"
     },
-    "The Rock": {
+    "9802": {
         "content_year": "1996",
-        "id": 9802,
-        "whm_episode": 455
+        "whm_episode": 455,
+        "title": "The Rock",
+        "media_type": "movie"
     },
-    "Star Wars The Empire Strikes Back": {
+    "1891": {
         "content_year": "1980",
-        "id": 1891,
-        "whm_episode": 456
+        "whm_episode": 456,
+        "title": "Star Wars The Empire Strikes Back",
+        "media_type": "movie"
     },
-    "Star Wars Return of the Jedi": {
+    "1892": {
         "content_year": "1983",
-        "id": 1892,
-        "whm_episode": 457
+        "whm_episode": 457,
+        "title": "Star Wars Return of the Jedi",
+        "media_type": "movie"
     },
-    "Gremlins": {
+    "927": {
         "content_year": "1984",
-        "id": 927,
-        "whm_episode": 458
+        "whm_episode": 458,
+        "title": "Gremlins",
+        "media_type": "movie"
     },
-    "Mad Max Fury Road": {
+    "76341": {
         "content_year": "2015",
-        "id": 76341,
-        "whm_episode": 459
+        "whm_episode": 459,
+        "title": "Mad Max Fury Road",
+        "media_type": "movie"
     },
-    "Star Wars Episode IX": {
+    "181812": {
         "content_year": "2019",
-        "id": 181812,
-        "whm_episode": 460
+        "whm_episode": 460,
+        "title": "Star Wars Episode IX",
+        "media_type": "movie"
     },
-    "Hellboy": {
+    "456740": {
         "content_year": "2019",
-        "id": 456740,
-        "whm_episode": 461
+        "whm_episode": 461,
+        "title": "Hellboy",
+        "media_type": "movie"
     },
-    "Angel Has Fallen": {
+    "423204": {
         "content_year": "2019",
-        "id": 423204,
-        "whm_episode": 462
+        "whm_episode": 462,
+        "title": "Angel Has Fallen",
+        "media_type": "movie"
     },
-    "Once Upon a Time... in Hollywood": {
+    "466272": {
         "content_year": "2019",
-        "id": 466272,
-        "whm_episode": 463
+        "whm_episode": 463,
+        "title": "Once Upon a Time... in Hollywood",
+        "media_type": "movie"
     },
-    "Yesterday": {
+    "515195": {
         "content_year": "2019",
-        "id": 515195,
-        "whm_episode": 464
+        "whm_episode": 464,
+        "title": "Yesterday",
+        "media_type": "movie"
     },
-    "Fast & Furious Presents Hobbs & Shaw": {
+    "384018": {
         "content_year": "2019",
-        "id": 384018,
-        "whm_episode": 465
+        "whm_episode": 465,
+        "title": "Fast & Furious Presents Hobbs & Shaw",
+        "media_type": "movie"
     },
-    "Orphan": {
+    "21208": {
         "content_year": "2009",
-        "id": 21208,
-        "whm_episode": 466
+        "whm_episode": 466,
+        "title": "Orphan",
+        "media_type": "movie"
     },
-    "Cruel Intentions": {
+    "796": {
         "content_year": "1999",
-        "id": 796,
-        "whm_episode": 467
+        "whm_episode": 467,
+        "title": "Cruel Intentions",
+        "media_type": "movie"
     },
-    "Back to the Future II": {
+    "165": {
         "content_year": "1989",
-        "id": 165,
-        "whm_episode": 468
+        "whm_episode": 468,
+        "title": "Back to the Future II",
+        "media_type": "movie"
     },
-    "Teen Wolf": {
+    "11824": {
         "content_year": "1985",
-        "id": 11824,
-        "whm_episode": 469
+        "whm_episode": 469,
+        "title": "Teen Wolf",
+        "media_type": "movie"
     },
-    "Doom": {
+    "8814": {
         "content_year": "2005",
-        "id": 8814,
-        "whm_episode": 470
+        "whm_episode": 470,
+        "title": "Doom",
+        "media_type": "movie"
     },
-    "Law Abiding Citizen": {
+    "22803": {
         "content_year": "2009",
-        "id": 22803,
-        "whm_episode": 471
+        "whm_episode": 471,
+        "title": "Law Abiding Citizen",
+        "media_type": "movie"
     },
-    "Death Wish 4 The Crackdown": {
+    "26263": {
         "content_year": "1987",
-        "id": 26263,
-        "whm_episode": 472
+        "whm_episode": 472,
+        "title": "Death Wish 4 The Crackdown",
+        "media_type": "movie"
     },
-    "Ferris Bueller's Day Off": {
+    "9377": {
         "content_year": "1986",
-        "id": 9377,
-        "whm_episode": 473
+        "whm_episode": 473,
+        "title": "Ferris Bueller's Day Off",
+        "media_type": "movie"
     },
-    "A Sound of Thunder": {
+    "10077": {
         "content_year": "2005",
-        "id": 10077,
-        "whm_episode": 474
+        "whm_episode": 474,
+        "title": "A Sound of Thunder",
+        "media_type": "movie"
     },
-    "Queen of the Damned": {
+    "11979": {
         "content_year": "2002",
-        "id": 11979,
-        "whm_episode": 475
+        "whm_episode": 475,
+        "title": "Queen of the Damned",
+        "media_type": "movie"
     },
-    "The Commuter": {
+    "399035": {
         "content_year": "2018",
-        "id": 399035,
-        "whm_episode": 476
+        "whm_episode": 476,
+        "title": "The Commuter",
+        "media_type": "movie"
     },
-    "John Carpenter's Vampires": {
+    "9945": {
         "content_year": "1998",
-        "id": 9945,
-        "whm_episode": 477
+        "whm_episode": 477,
+        "title": "John Carpenter's Vampires",
+        "media_type": "movie"
     },
-    "The Thing": {
+    "1091": {
         "content_year": "1982",
-        "id": 1091,
-        "whm_episode": 478
+        "whm_episode": 478,
+        "title": "The Thing",
+        "media_type": "movie"
     },
-    "Raw Deal": {
+    "2099": {
         "content_year": "1986",
-        "id": 2099,
-        "whm_episode": 479
+        "whm_episode": 479,
+        "title": "Raw Deal",
+        "media_type": "movie"
     },
-    "Cool As Ice": {
+    "1496": {
         "content_year": "1991",
-        "id": 1496,
-        "whm_episode": 480
+        "whm_episode": 480,
+        "title": "Cool As Ice",
+        "media_type": "movie"
     },
-    "Pirates of the Caribbean The Curse of the Black Pearl": {
+    "22": {
         "content_year": "2003",
-        "id": 22,
-        "whm_episode": 481
+        "whm_episode": 481,
+        "title": "Pirates of the Caribbean The Curse of the Black Pearl",
+        "media_type": "movie"
     },
-    "Pirates of the Caribbean Dead Man's Chest": {
+    "58": {
         "content_year": "2006",
-        "id": 58,
-        "whm_episode": 482
+        "whm_episode": 482,
+        "title": "Pirates of the Caribbean Dead Man's Chest",
+        "media_type": "movie"
     },
-    "The Ring": {
+    "565": {
         "content_year": "2002",
-        "id": 565,
-        "whm_episode": 483
+        "whm_episode": 483,
+        "title": "The Ring",
+        "media_type": "movie"
     },
-    "Pirates of the Caribbean At World's End": {
+    "285": {
         "content_year": "2007",
-        "id": 285,
-        "whm_episode": 484
+        "whm_episode": 484,
+        "title": "Pirates of the Caribbean At World's End",
+        "media_type": "movie"
     },
-    "Pirates of the Caribbean On Stranger Tides": {
+    "1865": {
         "content_year": "2011",
-        "id": 1865,
-        "whm_episode": 485
+        "whm_episode": 485,
+        "title": "Pirates of the Caribbean On Stranger Tides",
+        "media_type": "movie"
     },
-    "Pirates of the Caribbean Dead Men Tell No Tales": {
+    "166426": {
         "content_year": "2017",
-        "id": 166426,
-        "whm_episode": 486
+        "whm_episode": 486,
+        "title": "Pirates of the Caribbean Dead Men Tell No Tales",
+        "media_type": "movie"
     },
-    "No Country for Old Men": {
+    "6977": {
         "content_year": "2007",
-        "id": 6977,
-        "whm_episode": 487
+        "whm_episode": 487,
+        "title": "No Country for Old Men",
+        "media_type": "movie"
     },
-    "Scooby-Doo": {
+    "9637": {
         "content_year": "2002",
-        "id": 9637,
-        "whm_episode": 488
+        "whm_episode": 488,
+        "title": "Scooby-Doo",
+        "media_type": "movie"
     },
-    "The Mummy": {
+    "564": {
         "content_year": "1999",
-        "id": 564,
-        "whm_episode": 489
+        "whm_episode": 489,
+        "title": "The Mummy",
+        "media_type": "movie"
     },
-    "Shrek the Third": {
+    "810": {
         "content_year": "2007",
-        "id": 810,
-        "whm_episode": 490
+        "whm_episode": 490,
+        "title": "Shrek the Third",
+        "media_type": "movie"
     },
-    "The Expendables": {
+    "27578": {
         "content_year": "2010",
-        "id": 27578,
-        "whm_episode": 491
+        "whm_episode": 491,
+        "title": "The Expendables",
+        "media_type": "movie"
     },
-    "The Mask": {
+    "854": {
         "content_year": "1994",
-        "id": 854,
-        "whm_episode": 492
+        "whm_episode": 492,
+        "title": "The Mask",
+        "media_type": "movie"
     },
-    "The Terminal": {
+    "594": {
         "content_year": "2004",
-        "id": 594,
-        "whm_episode": 493
+        "whm_episode": 493,
+        "title": "The Terminal",
+        "media_type": "movie"
     },
-    "Raiders of the Lost Ark": {
+    "85": {
         "content_year": "1981",
-        "id": 85,
-        "whm_episode": 494
+        "whm_episode": 494,
+        "title": "Raiders of the Lost Ark",
+        "media_type": "movie"
     },
-    "Lara Croft Tomb Raider \u2013 The Cradle of Life": {
+    "1996": {
         "content_year": "2003",
-        "id": 1996,
-        "whm_episode": 495
+        "whm_episode": 495,
+        "title": "Lara Croft Tomb Raider \u2013 The Cradle of Life",
+        "media_type": "movie"
     },
-    "Sherlock Holmes": {
+    "10528": {
         "content_year": "2009",
-        "id": 10528,
-        "whm_episode": 496
+        "whm_episode": 496,
+        "title": "Sherlock Holmes",
+        "media_type": "movie"
     },
-    "Dante's Peak": {
+    "9619": {
         "content_year": "1997",
-        "id": 9619,
-        "whm_episode": 497
+        "whm_episode": 497,
+        "title": "Dante's Peak",
+        "media_type": "movie"
     },
-    "Multiplicity": {
+    "9304": {
         "content_year": "1996",
-        "id": 9304,
-        "whm_episode": 498
+        "whm_episode": 498,
+        "title": "Multiplicity",
+        "media_type": "movie"
     },
-    "Superman III": {
+    "9531": {
         "content_year": "1983",
-        "id": 9531,
-        "whm_episode": 499
+        "whm_episode": 499,
+        "title": "Superman III",
+        "media_type": "movie"
     },
-    "Superman IV": {
+    "11411": {
         "content_year": "1987",
-        "id": 11411,
-        "whm_episode": 500
+        "whm_episode": 500,
+        "title": "Superman IV",
+        "media_type": "movie"
     },
-    "Superman": {
+    "1924": {
         "content_year": "1978",
-        "id": 1924,
-        "whm_episode": 501
+        "whm_episode": 501,
+        "title": "Superman",
+        "media_type": "movie"
     },
-    "While You Were Sleeping": {
+    "2064": {
         "content_year": "1995",
-        "id": 2064,
-        "whm_episode": 502
+        "whm_episode": 502,
+        "title": "While You Were Sleeping",
+        "media_type": "movie"
     },
-    "Toy Soldiers": {
+    "10750": {
         "content_year": "1991",
-        "id": 10750,
-        "whm_episode": 503
+        "whm_episode": 503,
+        "title": "Toy Soldiers",
+        "media_type": "movie"
     },
-    "Double Jeopardy": {
+    "10398": {
         "content_year": "1999",
-        "id": 10398,
-        "whm_episode": 504
+        "whm_episode": 504,
+        "title": "Double Jeopardy",
+        "media_type": "movie"
     },
-    "Ricochet": {
+    "9546": {
         "content_year": "1991",
-        "id": 9546,
-        "whm_episode": 505
+        "whm_episode": 505,
+        "title": "Ricochet",
+        "media_type": "movie"
     },
-    "Inside Man": {
+    "388": {
         "content_year": "2006",
-        "id": 388,
-        "whm_episode": 506
+        "whm_episode": 506,
+        "title": "Inside Man",
+        "media_type": "movie"
     },
-    "Cool World": {
+    "14239": {
         "content_year": "1992",
-        "id": 14239,
-        "whm_episode": 507
+        "whm_episode": 507,
+        "title": "Cool World",
+        "media_type": "movie"
     },
-    "Final Destination 2": {
+    "9358": {
         "content_year": "2003",
-        "id": 9358,
-        "whm_episode": 508
+        "whm_episode": 508,
+        "title": "Final Destination 2",
+        "media_type": "movie"
     },
-    "Species II": {
+    "10216": {
         "content_year": "1998",
-        "id": 10216,
-        "whm_episode": 509
+        "whm_episode": 509,
+        "title": "Species II",
+        "media_type": "movie"
     },
-    "Wishmaster 2 Evil Never Dies": {
+    "12594": {
         "content_year": "1999",
-        "id": 12594,
-        "whm_episode": 510
+        "whm_episode": 510,
+        "title": "Wishmaster 2 Evil Never Dies",
+        "media_type": "movie"
     },
-    "The Texas Chainsaw Massacre Part 2": {
+    "16337": {
         "content_year": "1986",
-        "id": 16337,
-        "whm_episode": 511
+        "whm_episode": 511,
+        "title": "The Texas Chainsaw Massacre Part 2",
+        "media_type": "movie"
     },
-    "Saw II": {
+    "215": {
         "content_year": "2005",
-        "id": 215,
-        "whm_episode": 512
+        "whm_episode": 512,
+        "title": "Saw II",
+        "media_type": "movie"
     },
-    "My Fellow Americans": {
+    "17795": {
         "content_year": "1996",
-        "id": 17795,
-        "whm_episode": 513
+        "whm_episode": 513,
+        "title": "My Fellow Americans",
+        "media_type": "movie"
     },
-    "10 to Midnight": {
+    "18587": {
         "content_year": "1983",
-        "id": 18587,
-        "whm_episode": 514
+        "whm_episode": 514,
+        "title": "10 to Midnight",
+        "media_type": "movie"
     },
-    "Remo Williams The Adventure Begins": {
+    "10553": {
         "content_year": "1985",
-        "id": 10553,
-        "whm_episode": 515
+        "whm_episode": 515,
+        "title": "Remo Williams The Adventure Begins",
+        "media_type": "movie"
     },
-    "The China Syndrome": {
+    "988": {
         "content_year": "1979",
-        "id": 988,
-        "whm_episode": 516
+        "whm_episode": 516,
+        "title": "The China Syndrome",
+        "media_type": "movie"
     },
-    "The Firm": {
+    "37233": {
         "content_year": "1993",
-        "id": 37233,
-        "whm_episode": 517
+        "whm_episode": 517,
+        "title": "The Firm",
+        "media_type": "movie"
     },
-    "Citizen Kane": {
+    "15": {
         "content_year": "1941",
-        "id": 15,
-        "whm_episode": 518
+        "whm_episode": 518,
+        "title": "Citizen Kane",
+        "media_type": "movie"
     },
-    "Fargo": {
+    "275": {
         "content_year": "1996",
-        "id": 275,
-        "whm_episode": 519
+        "whm_episode": 519,
+        "title": "Fargo",
+        "media_type": "movie"
     },
-    "The Lord of the Rings The Fellowship of the Ring": {
+    "120": {
         "content_year": "2001",
-        "id": 120,
-        "whm_episode": 520
+        "whm_episode": 520,
+        "title": "The Lord of the Rings The Fellowship of the Ring",
+        "media_type": "movie"
     },
-    "Batman Returns": {
+    "364": {
         "content_year": "1992",
-        "id": 364,
-        "whm_episode": 521
+        "whm_episode": 521,
+        "title": "Batman Returns",
+        "media_type": "movie"
     },
-    "The Muppet Christmas Carol": {
+    "10437": {
         "content_year": "1992",
-        "id": 10437,
-        "whm_episode": 522
+        "whm_episode": 522,
+        "title": "The Muppet Christmas Carol",
+        "media_type": "movie"
     },
-    "A Nightmare on Elm Street": {
+    "377": {
         "content_year": "1984",
-        "id": 377,
-        "whm_episode": 523
+        "whm_episode": 523,
+        "title": "A Nightmare on Elm Street",
+        "media_type": "movie"
     },
-    "Wonder Woman 1984": {
+    "464052": {
         "content_year": "2020",
-        "id": 464052,
-        "whm_episode": 524
+        "whm_episode": 524,
+        "title": "Wonder Woman 1984",
+        "media_type": "movie"
     },
-    "Dolittle": {
+    "448119": {
         "content_year": "2020",
-        "id": 448119,
-        "whm_episode": 525
+        "whm_episode": 525,
+        "title": "Dolittle",
+        "media_type": "movie"
     },
-    "Fantasy Island": {
+    "539537": {
         "content_year": "2020",
-        "id": 539537,
-        "whm_episode": 526
+        "whm_episode": 526,
+        "title": "Fantasy Island",
+        "media_type": "movie"
     },
-    "Birds of Prey": {
+    "495764": {
         "content_year": "2020",
-        "id": 495764,
-        "whm_episode": 527
+        "whm_episode": 527,
+        "title": "Birds of Prey",
+        "media_type": "movie"
     },
-    "Bad Boys for Life": {
+    "38700": {
         "content_year": "2020",
-        "id": 38700,
-        "whm_episode": 528
+        "whm_episode": 528,
+        "title": "Bad Boys for Life",
+        "media_type": "movie"
     },
-    "The Karate Kid Part II": {
+    "8856": {
         "content_year": "1986",
-        "id": 8856,
-        "whm_episode": 529
+        "whm_episode": 529,
+        "title": "The Karate Kid Part II",
+        "media_type": "movie"
     },
-    "P.S. I Love You": {
+    "6023": {
         "content_year": "2007",
-        "id": 6023,
-        "whm_episode": 530
+        "whm_episode": 530,
+        "title": "P.S. I Love You",
+        "media_type": "movie"
     },
-    "Gremlins 2 The New Batch": {
+    "928": {
         "content_year": "1990",
-        "id": 928,
-        "whm_episode": 531
+        "whm_episode": 531,
+        "title": "Gremlins 2 The New Batch",
+        "media_type": "movie"
     },
-    "Mr. Nanny": {
+    "19371": {
         "content_year": "1993",
-        "id": 19371,
-        "whm_episode": 532
+        "whm_episode": 532,
+        "title": "Mr. Nanny",
+        "media_type": "movie"
     },
-    "Live Wire": {
+    "12629": {
         "content_year": "1992",
-        "id": 12629,
-        "whm_episode": 533
+        "whm_episode": 533,
+        "title": "Live Wire",
+        "media_type": "movie"
     },
-    "The Pest": {
+    "17949": {
         "content_year": "1997",
-        "id": 17949,
-        "whm_episode": 534
+        "whm_episode": 534,
+        "title": "The Pest",
+        "media_type": "movie"
     },
-    "Warriors of Virtue": {
+    "49478": {
         "content_year": "1997",
-        "id": 49478,
-        "whm_episode": 535
+        "whm_episode": 535,
+        "title": "Warriors of Virtue",
+        "media_type": "movie"
     },
-    "Goodfellas": {
+    "769": {
         "content_year": "1990",
-        "id": 769,
-        "whm_episode": 536
+        "whm_episode": 536,
+        "title": "Goodfellas",
+        "media_type": "movie"
     },
-    "Poltergeist II The Other Side": {
+    "11133": {
         "content_year": "1986",
-        "id": 11133,
-        "whm_episode": 537
+        "whm_episode": 537,
+        "title": "Poltergeist II The Other Side",
+        "media_type": "movie"
     },
-    "Vertical Limit": {
+    "11678": {
         "content_year": "2000",
-        "id": 11678,
-        "whm_episode": 538
+        "whm_episode": 538,
+        "title": "Vertical Limit",
+        "media_type": "movie"
     },
-    "Double Team": {
+    "9405": {
         "content_year": "1997",
-        "id": 9405,
-        "whm_episode": 539
+        "whm_episode": 539,
+        "title": "Double Team",
+        "media_type": "movie"
     },
-    "You Only Live Twice": {
+    "667": {
         "content_year": "1967",
-        "id": 667,
-        "whm_episode": 540
+        "whm_episode": 540,
+        "title": "You Only Live Twice",
+        "media_type": "movie"
     },
-    "Zardoz": {
+    "4923": {
         "content_year": "1974",
-        "id": 4923,
-        "whm_episode": 541
+        "whm_episode": 541,
+        "title": "Zardoz",
+        "media_type": "movie"
     },
-    "Goldfinger": {
+    "658": {
         "content_year": "1964",
-        "id": 658,
-        "whm_episode": 542
+        "whm_episode": 542,
+        "title": "Goldfinger",
+        "media_type": "movie"
     },
-    "Highlander": {
+    "8009": {
         "content_year": "1986",
-        "id": 8009,
-        "whm_episode": 543
+        "whm_episode": 543,
+        "title": "Highlander",
+        "media_type": "movie"
     },
-    "The Avengers": {
+    "9320": {
         "content_year": "1998",
-        "id": 9320,
-        "whm_episode": 544
+        "whm_episode": 544,
+        "title": "The Avengers",
+        "media_type": "movie"
     },
-    "Stargate": {
+    "2164": {
         "content_year": "1994",
-        "id": 2164,
-        "whm_episode": 545
+        "whm_episode": 545,
+        "title": "Stargate",
+        "media_type": "movie"
     },
-    "Escape from New York": {
+    "1103": {
         "content_year": "1981",
-        "id": 1103,
-        "whm_episode": 546
+        "whm_episode": 546,
+        "title": "Escape from New York",
+        "media_type": "movie"
     },
-    "The Simpsons Movie": {
+    "35": {
         "content_year": "2007",
-        "id": 35,
-        "whm_episode": 547
+        "whm_episode": 547,
+        "title": "The Simpsons Movie",
+        "media_type": "movie"
     },
-    "Saw III": {
+    "214": {
         "content_year": "2006",
-        "id": 214,
-        "whm_episode": 548
+        "whm_episode": 548,
+        "title": "Saw III",
+        "media_type": "movie"
     },
-    "The Mighty Ducks": {
+    "10414": {
         "content_year": "1992",
-        "id": 10414,
-        "whm_episode": 549
+        "whm_episode": 549,
+        "title": "The Mighty Ducks",
+        "media_type": "movie"
     },
-    "101 Dalmatians": {
+    "11674": {
         "content_year": "1996",
-        "id": 11674,
-        "whm_episode": 550
+        "whm_episode": 550,
+        "title": "101 Dalmatians",
+        "media_type": "movie"
     },
-    "The Prophecy": {
+    "11980": {
         "content_year": "1995",
-        "id": 11980,
-        "whm_episode": 551
+        "whm_episode": 551,
+        "title": "The Prophecy",
+        "media_type": "movie"
     },
-    "A History of Violence": {
+    "59": {
         "content_year": "2005",
-        "id": 59,
-        "whm_episode": 552
+        "whm_episode": 552,
+        "title": "A History of Violence",
+        "media_type": "movie"
     },
-    "Jonah Hex": {
+    "20533": {
         "content_year": "2010",
-        "id": 20533,
-        "whm_episode": 553
+        "whm_episode": 553,
+        "title": "Jonah Hex",
+        "media_type": "movie"
     },
-    "Fast Five": {
+    "51497": {
         "content_year": "2011",
-        "id": 51497,
-        "whm_episode": 554
+        "whm_episode": 554,
+        "title": "Fast Five",
+        "media_type": "movie"
     },
-    "Wild Things": {
+    "617": {
         "content_year": "1998",
-        "id": 617,
-        "whm_episode": 555
+        "whm_episode": 555,
+        "title": "Wild Things",
+        "media_type": "movie"
     },
-    "Iron Man": {
+    "1726": {
         "content_year": "2008",
-        "id": 1726,
-        "whm_episode": 556
+        "whm_episode": 556,
+        "title": "Iron Man",
+        "media_type": "movie"
     },
-    "Iron Man 2": {
+    "10138": {
         "content_year": "2010",
-        "id": 10138,
-        "whm_episode": 557
+        "whm_episode": 557,
+        "title": "Iron Man 2",
+        "media_type": "movie"
     },
-    "Turner & Hooch": {
+    "6951": {
         "content_year": "1989",
-        "id": 6951,
-        "whm_episode": 558
+        "whm_episode": 558,
+        "title": "Turner & Hooch",
+        "media_type": "movie"
     },
-    "The Village": {
+    "6947": {
         "content_year": "2004",
-        "id": 6947,
-        "whm_episode": 559
+        "whm_episode": 559,
+        "title": "The Village",
+        "media_type": "movie"
     },
-    "The Mummy Returns": {
+    "1734": {
         "content_year": "2001",
-        "id": 1734,
-        "whm_episode": 560
+        "whm_episode": 560,
+        "title": "The Mummy Returns",
+        "media_type": "movie"
     },
-    "Puss in Boots": {
+    "417859": {
         "content_year": "2011",
-        "id": 417859,
-        "whm_episode": 561
+        "whm_episode": 561,
+        "title": "Puss in Boots",
+        "media_type": "movie"
     },
-    "Witchboard": {
+    "17994": {
         "content_year": "1986",
-        "id": 17994,
-        "whm_episode": 562
+        "whm_episode": 562,
+        "title": "Witchboard",
+        "media_type": "movie"
     },
-    "Mad Max": {
+    "9659": {
         "content_year": "1979",
-        "id": 9659,
-        "whm_episode": 563
+        "whm_episode": 563,
+        "title": "Mad Max",
+        "media_type": "movie"
     },
-    "Mad Max Beyond Thunderdome": {
+    "9355": {
         "content_year": "1985",
-        "id": 9355,
-        "whm_episode": 564
+        "whm_episode": 564,
+        "title": "Mad Max Beyond Thunderdome",
+        "media_type": "movie"
     },
-    "Resident Evil": {
+    "1576": {
         "content_year": "2002",
-        "id": 1576,
-        "whm_episode": 565
+        "whm_episode": 565,
+        "title": "Resident Evil",
+        "media_type": "movie"
     },
-    "Memento": {
+    "77": {
         "content_year": "2000",
-        "id": 77,
-        "whm_episode": 566
+        "whm_episode": 566,
+        "title": "Memento",
+        "media_type": "movie"
     },
-    "Hiding Out": {
+    "26156": {
         "content_year": "1987",
-        "id": 26156,
-        "whm_episode": 567
+        "whm_episode": 567,
+        "title": "Hiding Out",
+        "media_type": "movie"
     },
-    "Varsity Blues": {
+    "14709": {
         "content_year": "1999",
-        "id": 14709,
-        "whm_episode": 568
+        "whm_episode": 568,
+        "title": "Varsity Blues",
+        "media_type": "movie"
     },
-    "Single White Female": {
+    "9605": {
         "content_year": "1992",
-        "id": 9605,
-        "whm_episode": 569
+        "whm_episode": 569,
+        "title": "Single White Female",
+        "media_type": "movie"
     },
-    "An American Werewolf in London": {
+    "814": {
         "content_year": "1981",
-        "id": 814,
-        "whm_episode": 570
+        "whm_episode": 570,
+        "title": "An American Werewolf in London",
+        "media_type": "movie"
     },
-    "An American Werewolf in Paris": {
+    "9406": {
         "content_year": "1997",
-        "id": 9406,
-        "whm_episode": 571
+        "whm_episode": 571,
+        "title": "An American Werewolf in Paris",
+        "media_type": "movie"
     },
-    "Halloween H20 20 Years Later": {
+    "11675": {
         "content_year": "1998",
-        "id": 11675,
-        "whm_episode": 572
+        "whm_episode": 572,
+        "title": "Halloween H20 20 Years Later",
+        "media_type": "movie"
     },
-    "Stay Alive": {
+    "10069": {
         "content_year": "2006",
-        "id": 10069,
-        "whm_episode": 573
+        "whm_episode": 573,
+        "title": "Stay Alive",
+        "media_type": "movie"
     },
-    "Leprechaun": {
+    "11811": {
         "content_year": "1993",
-        "id": 11811,
-        "whm_episode": 574
+        "whm_episode": 574,
+        "title": "Leprechaun",
+        "media_type": "movie"
     },
-    "Zookeeper": {
+    "38317": {
         "content_year": "2011",
-        "id": 38317,
-        "whm_episode": 575
+        "whm_episode": 575,
+        "title": "Zookeeper",
+        "media_type": "movie"
     },
-    "Ghostbusters": {
+    "620": {
         "content_year": "1984",
-        "id": 620,
-        "whm_episode": 576
+        "whm_episode": 576,
+        "title": "Ghostbusters",
+        "media_type": "movie"
     },
-    "The 6th Day": {
+    "8452": {
         "content_year": "2000",
-        "id": 8452,
-        "whm_episode": 577
+        "whm_episode": 577,
+        "title": "The 6th Day",
+        "media_type": "movie"
     },
-    "Honey, I Shrunk The Kids": {
+    "9354": {
         "content_year": "1989",
-        "id": 9354,
-        "whm_episode": 578
+        "whm_episode": 578,
+        "title": "Honey, I Shrunk The Kids",
+        "media_type": "movie"
     },
-    "Chairman of the Board": {
+    "31535": {
         "content_year": "1998",
-        "id": 31535,
-        "whm_episode": 579
+        "whm_episode": 579,
+        "title": "Chairman of the Board",
+        "media_type": "movie"
     },
-    "Taken": {
+    "8681": {
         "content_year": "2008",
-        "id": 8681,
-        "whm_episode": 580
+        "whm_episode": 580,
+        "title": "Taken",
+        "media_type": "movie"
     },
-    "Casablanca": {
+    "289": {
         "content_year": "1942",
-        "id": 289,
-        "whm_episode": 581
+        "whm_episode": 581,
+        "title": "Casablanca",
+        "media_type": "movie"
     },
-    "Spider-Man": {
+    "557": {
         "content_year": "2002",
-        "id": 557,
-        "whm_episode": 582
+        "whm_episode": 582,
+        "title": "Spider-Man",
+        "media_type": "movie"
     },
-    "Alien": {
+    "348": {
         "content_year": "1979",
-        "id": 348,
-        "whm_episode": 583
+        "whm_episode": 583,
+        "title": "Alien",
+        "media_type": "movie"
     },
-    "Home Alone": {
+    "771": {
         "content_year": "1990",
-        "id": 771,
-        "whm_episode": 584
+        "whm_episode": 584,
+        "title": "Home Alone",
+        "media_type": "movie"
     },
-    "The Matrix": {
+    "603": {
         "content_year": "1999",
-        "id": 603,
-        "whm_episode": 585
+        "whm_episode": 585,
+        "title": "The Matrix",
+        "media_type": "movie"
     },
-    "Free Guy": {
+    "550988": {
         "content_year": "2021",
-        "id": 550988,
-        "whm_episode": 586
+        "whm_episode": 586,
+        "title": "Free Guy",
+        "media_type": "movie"
     },
-    "Space Jam A New Legacy": {
+    "379686": {
         "content_year": "2021",
-        "id": 379686,
-        "whm_episode": 587
+        "whm_episode": 587,
+        "title": "Space Jam A New Legacy",
+        "media_type": "movie"
     },
-    "Infinite": {
+    "581726": {
         "content_year": "2021",
-        "id": 581726,
-        "whm_episode": 588
+        "whm_episode": 588,
+        "title": "Infinite",
+        "media_type": "movie"
     },
-    "Dune": {
+    "438631": {
         "content_year": "2021",
-        "id": 438631,
-        "whm_episode": 589
+        "whm_episode": 589,
+        "title": "Dune",
+        "media_type": "movie"
     },
-    "Eternals": {
+    "524434": {
         "content_year": "2021",
-        "id": 524434,
-        "whm_episode": 590
+        "whm_episode": 590,
+        "title": "Eternals",
+        "media_type": "movie"
     },
-    "Big Bully": {
+    "36929": {
         "content_year": "1996",
-        "id": 36929,
-        "whm_episode": 591
+        "whm_episode": 591,
+        "title": "Big Bully",
+        "media_type": "movie"
     },
-    "The Truth About Cats and Dogs": {
+    "8866": {
         "content_year": "1996",
-        "id": 8866,
-        "whm_episode": 592
+        "whm_episode": 592,
+        "title": "The Truth About Cats and Dogs",
+        "media_type": "movie"
     },
-    "Blown Away": {
+    "178": {
         "content_year": "1994",
-        "id": 178,
-        "whm_episode": 593
+        "whm_episode": 593,
+        "title": "Blown Away",
+        "media_type": "movie"
     },
-    "Kill Bill Vol. 1": {
+    "24": {
         "content_year": "2003",
-        "id": 24,
-        "whm_episode": 594
+        "whm_episode": 594,
+        "title": "Kill Bill Vol. 1",
+        "media_type": "movie"
     },
-    "C.H.U.D.": {
+    "23730": {
         "content_year": "1984",
-        "id": 23730,
-        "whm_episode": 595
+        "whm_episode": 595,
+        "title": "C.H.U.D.",
+        "media_type": "movie"
     },
-    "Kill Bill Vol. 2": {
+    "393": {
         "content_year": "2004",
-        "id": 393,
-        "whm_episode": 596
+        "whm_episode": 596,
+        "title": "Kill Bill Vol. 2",
+        "media_type": "movie"
     },
-    "The Adventures of Pinocchio": {
+    "18975": {
         "content_year": "1996",
-        "id": 18975,
-        "whm_episode": 597
+        "whm_episode": 597,
+        "title": "The Adventures of Pinocchio",
+        "media_type": "movie"
     },
-    "S1m0ne": {
+    "9296": {
         "content_year": "2002",
-        "id": 9296,
-        "whm_episode": 598
+        "whm_episode": 598,
+        "title": "S1m0ne",
+        "media_type": "movie"
     },
-    "The Warriors": {
+    "11474": {
         "content_year": "1979",
-        "id": 11474,
-        "whm_episode": 599
+        "whm_episode": 599,
+        "title": "The Warriors",
+        "media_type": "movie"
     },
-    "Delta Farce": {
+    "14547": {
         "content_year": "2007",
-        "id": 14547,
-        "whm_episode": 600
+        "whm_episode": 600,
+        "title": "Delta Farce",
+        "media_type": "movie"
     },
-    "The Last Boy Scout": {
+    "9319": {
         "content_year": "1991",
-        "id": 9319,
-        "whm_episode": 601
+        "whm_episode": 601,
+        "title": "The Last Boy Scout",
+        "media_type": "movie"
     },
-    "The Last Castle": {
+    "2100": {
         "content_year": "2001",
-        "id": 2100,
-        "whm_episode": 602
+        "whm_episode": 602,
+        "title": "The Last Castle",
+        "media_type": "movie"
     },
-    "Morbius": {
+    "526896": {
         "content_year": "2022",
-        "id": 526896,
-        "whm_episode": 603
+        "whm_episode": 603,
+        "title": "Morbius",
+        "media_type": "movie"
     },
-    "Junior": {
+    "6280": {
         "content_year": "1994",
-        "id": 6280,
-        "whm_episode": 604
+        "whm_episode": 604,
+        "title": "Junior",
+        "media_type": "movie"
     },
-    "Last Action Hero": {
+    "9593": {
         "content_year": "1993",
-        "id": 9593,
-        "whm_episode": 605
+        "whm_episode": 605,
+        "title": "Last Action Hero",
+        "media_type": "movie"
     },
-    "Event Horizon": {
+    "8413": {
         "content_year": "1997",
-        "id": 8413,
-        "whm_episode": 606
+        "whm_episode": 606,
+        "title": "Event Horizon",
+        "media_type": "movie"
     },
-    "Max Payne": {
+    "13051": {
         "content_year": "2008",
-        "id": 13051,
-        "whm_episode": 607
+        "whm_episode": 607,
+        "title": "Max Payne",
+        "media_type": "movie"
     },
-    "Soylent Green": {
+    "12101": {
         "content_year": "1973",
-        "id": 12101,
-        "whm_episode": 608
+        "whm_episode": 608,
+        "title": "Soylent Green",
+        "media_type": "movie"
     },
-    "Firestarter": {
+    "11495": {
         "content_year": "1984",
-        "id": 11495,
-        "whm_episode": 609
+        "whm_episode": 609,
+        "title": "Firestarter",
+        "media_type": "movie"
     },
-    "Collateral": {
+    "1538": {
         "content_year": "2004",
-        "id": 1538,
-        "whm_episode": 610
+        "whm_episode": 610,
+        "title": "Collateral",
+        "media_type": "movie"
     },
-    "Dream Warriors": {
+    "10072": {
         "content_year": "1987",
-        "id": 10072,
-        "whm_episode": 611
+        "whm_episode": 611,
+        "title": "Dream Warriors",
+        "media_type": "movie"
     },
-    "Top Gun": {
+    "744": {
         "content_year": "1986",
-        "id": 744,
-        "whm_episode": 612
+        "whm_episode": 612,
+        "title": "Top Gun",
+        "media_type": "movie"
     },
-    "Jurassic Park": {
+    "329": {
         "content_year": "1993",
-        "id": 329,
-        "whm_episode": 614
+        "whm_episode": 614,
+        "title": "Jurassic Park",
+        "media_type": "movie"
     },
-    "City Slickers": {
+    "1406": {
         "content_year": "1991",
-        "id": 1406,
-        "whm_episode": 615
+        "whm_episode": 615,
+        "title": "City Slickers",
+        "media_type": "movie"
     },
-    "The Expendables 2": {
+    "76163": {
         "content_year": "2012",
-        "id": 76163,
-        "whm_episode": 616
+        "whm_episode": 616,
+        "title": "The Expendables 2",
+        "media_type": "movie"
     },
-    "Cats & Dogs": {
+    "10992": {
         "content_year": "2001",
-        "id": 10992,
-        "whm_episode": 617
+        "whm_episode": 617,
+        "title": "Cats & Dogs",
+        "media_type": "movie"
     },
-    "Despicable Me": {
+    "20352": {
         "content_year": "2010",
-        "id": 20352,
-        "whm_episode": 618
+        "whm_episode": 618,
+        "title": "Despicable Me",
+        "media_type": "movie"
     },
-    "Thor The Dark World": {
+    "76338": {
         "content_year": "2013",
-        "id": 76338,
-        "whm_episode": 619
+        "whm_episode": 619,
+        "title": "Thor The Dark World",
+        "media_type": "movie"
     },
-    "Iron Man 3": {
+    "68721": {
         "content_year": "2013",
-        "id": 68721,
-        "whm_episode": 620
+        "whm_episode": 620,
+        "title": "Iron Man 3",
+        "media_type": "movie"
     },
-    "Clash of the Titans": {
+    "18823": {
         "content_year": "2010",
-        "id": 18823,
-        "whm_episode": 621
+        "whm_episode": 621,
+        "title": "Clash of the Titans",
+        "media_type": "movie"
     },
-    "American Pie": {
+    "2105": {
         "content_year": "1999",
-        "id": 2105,
-        "whm_episode": 622
+        "whm_episode": 622,
+        "title": "American Pie",
+        "media_type": "movie"
     },
-    "The Lost Boys": {
+    "1547": {
         "content_year": "1987",
-        "id": 1547,
-        "whm_episode": 623
+        "whm_episode": 623,
+        "title": "The Lost Boys",
+        "media_type": "movie"
     },
-    "Escape Plan": {
+    "107846": {
         "content_year": "2013",
-        "id": 107846,
-        "whm_episode": 624
+        "whm_episode": 624,
+        "title": "Escape Plan",
+        "media_type": "movie"
     },
-    "Robocop 3": {
+    "5550": {
         "content_year": "1993",
-        "id": 5550,
-        "whm_episode": 625
+        "whm_episode": 625,
+        "title": "Robocop 3",
+        "media_type": "movie"
     },
-    "Robocop": {
+    "5548": {
         "content_year": "1987",
-        "id": 5548,
-        "whm_episode": 626
+        "whm_episode": 626,
+        "title": "Robocop",
+        "media_type": "movie"
     },
-    "Under Seige": {
+    "9876": {
         "content_year": "1992",
-        "id": 0,
-        "whm_episode": 627
+        "whm_episode": 628,
+        "title": "Stop! Or My Mom Will Shoot",
+        "media_type": "movie"
     },
-    "Stop! Or My Mom Will Shoot": {
-        "content_year": "1992",
-        "id": 9876,
-        "whm_episode": 628
-    },
-    "Footloose": {
+    "1788": {
         "content_year": "1984",
-        "id": 1788,
-        "whm_episode": 629
+        "whm_episode": 629,
+        "title": "Footloose",
+        "media_type": "movie"
     },
-    "The Lord of the Rings The Two Towers": {
+    "121": {
         "content_year": "2002",
-        "id": 121,
-        "whm_episode": 630
+        "whm_episode": 630,
+        "title": "The Lord of the Rings The Two Towers",
+        "media_type": "movie"
     },
-    "Nothing But Trouble": {
+    "11933": {
         "content_year": "1991",
-        "id": 11933,
-        "whm_episode": 631
+        "whm_episode": 631,
+        "title": "Nothing But Trouble",
+        "media_type": "movie"
     },
-    "Stone Cold": {
+    "21338": {
         "content_year": "1991",
-        "id": 21338,
-        "whm_episode": 632
+        "whm_episode": 632,
+        "title": "Stone Cold",
+        "media_type": "movie"
     },
-    "Shrek Forever After": {
+    "10192": {
         "content_year": "2010",
-        "id": 10192,
-        "whm_episode": 633
+        "whm_episode": 633,
+        "title": "Shrek Forever After",
+        "media_type": "movie"
     },
-    "Disturbing Behavior": {
+    "9424": {
         "content_year": "1998",
-        "id": 9424,
-        "whm_episode": 634
+        "whm_episode": 634,
+        "title": "Disturbing Behavior",
+        "media_type": "movie"
     },
-    "Hellraiser Bloodline": {
+    "8766": {
         "content_year": "1996",
-        "id": 8766,
-        "whm_episode": 635
+        "whm_episode": 635,
+        "title": "Hellraiser Bloodline",
+        "media_type": "movie"
     },
-    "Halloween": {
+    "948": {
         "content_year": "1978",
-        "id": 948,
-        "whm_episode": 636
+        "whm_episode": 636,
+        "title": "Halloween",
+        "media_type": "movie"
     },
-    "Halloween II": {
+    "11281": {
         "content_year": "1981",
-        "id": 11281,
-        "whm_episode": 637
+        "whm_episode": 637,
+        "title": "Halloween II",
+        "media_type": "movie"
     },
-    "The Exorcist III": {
+    "11587": {
         "content_year": "1990",
-        "id": 11587,
-        "whm_episode": 638
+        "whm_episode": 638,
+        "title": "The Exorcist III",
+        "media_type": "movie"
     },
-    "Leprechaun 2": {
+    "18009": {
         "content_year": "1994",
-        "id": 18009,
-        "whm_episode": 639
+        "whm_episode": 639,
+        "title": "Leprechaun 2",
+        "media_type": "movie"
     },
-    "North By Northwest": {
+    "213": {
         "content_year": "1959",
-        "id": 213,
-        "whm_episode": 640
+        "whm_episode": 640,
+        "title": "North By Northwest",
+        "media_type": "movie"
     },
-    "Thief": {
+    "11524": {
         "content_year": "1981",
-        "id": 11524,
-        "whm_episode": 641
+        "whm_episode": 641,
+        "title": "Thief",
+        "media_type": "movie"
     },
-    "The Royal Tenenbaums": {
+    "9428": {
         "content_year": "2001",
-        "id": 9428,
-        "whm_episode": 642
+        "whm_episode": 642,
+        "title": "The Royal Tenenbaums",
+        "media_type": "movie"
     },
-    "Hannibal": {
+    "9740": {
         "content_year": "2001",
-        "id": 9740,
-        "whm_episode": 643
+        "whm_episode": 643,
+        "title": "Hannibal",
+        "media_type": "movie"
     },
-    "Point Break": {
+    "1089": {
         "content_year": "1991",
-        "id": 1089,
-        "whm_episode": 644
+        "whm_episode": 644,
+        "title": "Point Break",
+        "media_type": "movie"
     },
-    "Bram Stoker's Dracula": {
+    "6114": {
         "content_year": "1992",
-        "id": 6114,
-        "whm_episode": 645
+        "whm_episode": 645,
+        "title": "Bram Stoker's Dracula",
+        "media_type": "movie"
     },
-    "Rocky V": {
+    "1375": {
         "content_year": "1990",
-        "id": 1375,
-        "whm_episode": 646
+        "whm_episode": 646,
+        "title": "Rocky V",
+        "media_type": "movie"
     },
-    "True Lies": {
+    "36955": {
         "content_year": "1994",
-        "id": 36955,
-        "whm_episode": 647
+        "whm_episode": 647,
+        "title": "True Lies",
+        "media_type": "movie"
     },
-    "Avatar": {
+    "19995": {
         "content_year": "2009",
-        "id": 19995,
-        "whm_episode": 648
+        "whm_episode": 648,
+        "title": "Avatar",
+        "media_type": "movie"
     },
-    "Christmas with the Kranks": {
+    "13673": {
         "content_year": "2004",
-        "id": 13673,
-        "whm_episode": 649
+        "whm_episode": 649,
+        "title": "Christmas with the Kranks",
+        "media_type": "movie"
     }
 }

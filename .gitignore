@@ -1,2 +1,4 @@
 *.key
 *.log
+movie_rank/data/credits/*
+movie_rank/data/backup_credits/*

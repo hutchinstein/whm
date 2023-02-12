@@ -31,7 +31,8 @@ def get_movie_title_dict() -> tuple(dict, dict):
                 out_dict[clean_title(row['Title'])] =\
                         {'content_year': row['Content Year'],
                          'id': row['movie_id'],
-                         'whm_episode': ep_num}
+                         'whm_episode': ep_num,
+                         'special_format': row['special_format']}
                 csv_updater[row['Title']] = ep_num
                 ep_num += 1
     return out_dict, csv_updater

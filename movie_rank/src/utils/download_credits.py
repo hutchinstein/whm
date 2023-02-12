@@ -1,6 +1,7 @@
 from __future__ import annotations
 import sys
 import utils
+import os
 sys.path.append('..')
 sys.path.append('.')
 from const.const import PROJECT_LOCATION # noqa
@@ -16,20 +17,24 @@ def get_credit(id: int, url: str) -> None:
         print("Missing")
 
 
-def generate_url(id: int) -> str:
-    return API_GET_CREDITS.replace("@", str(id))
+def generate_url(id: int, special_format: str = None) -> str:
+    if not special_format:
+        return API_GET_CREDITS.replace("@", str(id))
+    return API_GET_CREDITS.replace("@", str(id)).replace(
+                                   '/movie/', f'/{special_format}/')
 
 
 def download_cast_data(movie_id: dict, data_location: str,
                        log: LocalLog) -> None:
-    movie_counter, total_movies = 1, len(movie_id.keys())
+    print("Downloading cast data")
     for movie in movie_id.keys():
-        print(f"Downloading cast data... {movie_counter}/{total_movies}",
-              end='\r')
-        movie_counter += 1
         movie_name = movie.replace(" ", "_").replace('/', ' ')
         file_name = f"{data_location}/{movie_name}.json"
-        url = generate_url(movie_id[movie]['id'])
+        if os.path.isfile(file_name):
+            log.info(f"{movie_name} already exists, skipping.")
+            continue
+        url = generate_url(movie_id[movie]['id'],
+                           movie_id[movie]['special_format'])
         log.info(f"Attempting to download {movie_name}.")
         response = utils.attempt_download_from_api(url)
         if response.status_code == 200:

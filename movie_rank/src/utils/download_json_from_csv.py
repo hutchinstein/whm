@@ -79,15 +79,10 @@ def get_movie_by_release_year(movie_details: dict, title: str,
 
 def get_ids(movie_details: dict, url_base: str, log: LocalLog,
             ep_to_id) -> tuple(dict, dict):
-    remaining, downloaded = len(movie_details.keys()), 1
     for key in movie_details.keys():
         if movie_details[key]['id']:
-            # print("Movie ID exists in csv file, skipping...")
             continue
-        # print(f"Attempting to download IDs...{downloaded}/{remaining}")# ,
-        print(movie_details[key])
-              # end='\r')
-        downloaded += 1
+        print(f"Downloading {movie_details[key]}")
 
         url = f"{url_base}{key.replace(' ', '+')}"
         r = utils.attempt_download_from_api(url)
@@ -111,6 +106,7 @@ def main():
 
     log = LocalLog('download_json_from_csv.log')
     log.info("Script started.")
+    print("Getting movie and TV IDs...")
 
     movie_details, csv_updater = get_movie_title_dict()
     update_csv(csv_updater, 'Title', 'movie_counter')
@@ -121,6 +117,7 @@ def main():
     update_csv(ep_to_id, 'movie_counter', 'movie_id')
 
     log.info("Complete!")
+    print("Done!")
 
 
 if __name__ == '__main__':

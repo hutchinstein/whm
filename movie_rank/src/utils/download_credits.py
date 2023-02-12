@@ -14,7 +14,7 @@ def get_credit(id: int, url: str) -> None:
     if response.status_code == 200:
         print(response.json())
     else:
-        print("Missing")
+        print(f"Unable to download {url} due to {response.status_code}")
 
 
 def generate_url(id: int, special_format: str = None) -> str:
@@ -46,12 +46,14 @@ def download_cast_data(movie_id: dict, data_location: str,
 
 
 def main():
+    print("Downloading credits...")
     log = LocalLog('download_credits.log')
     log.info("Script started.")
     movie_id_file = f"{PROJECT_LOCATION}/data/title_id/title_id.json"
     output_location = f"{PROJECT_LOCATION}/data/credits"
     movie_id = utils.get_data_from_json_file(movie_id_file)
     download_cast_data(movie_id, output_location, log)
+    print("Done!")
 
 
 if __name__ == '__main__':

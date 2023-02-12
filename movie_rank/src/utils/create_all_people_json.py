@@ -11,6 +11,8 @@ from const.const import MAX_CAST_SIZE # noqa
 def get_top_10_people(people_to_movies: dict,
                       id_to_people: dict,
                       id_to_movie: dict) -> dict:
+    '''This provides a list of the people with the most
+    appearances.'''
     sorted_people_to_movies = {key: value for key, value
                                in sorted(people_to_movies.items(),
                                          key=lambda item: len(item[1]),
@@ -43,6 +45,7 @@ def get_ids_to_skip() -> list:
 
 
 def main():
+    print("Creating json files")
     people_to_movies: dict[int, list[int]] = {}
     movies_to_people: dict[int, list[int]] = {}
     id_to_people: dict[int, str] = {}
@@ -69,7 +72,7 @@ def main():
                 if individual['id'] not in movies_to_people[movie_id]:
                     movies_to_people[movie_id].append(individual['id'])
 
-    get_top_10_people(people_to_movies, id_to_people, id_to_movie)
+    # get_top_10_people(people_to_movies, id_to_people, id_to_movie)
     utils.write_json_to_file(id_to_people,
                              f"{PROJECT_LOCATION}/data/id_to_people/"
                              f"id_to_people.json")
@@ -82,6 +85,8 @@ def main():
     utils.write_json_to_file(movies_to_people,
                              f"{PROJECT_LOCATION}/data/movies_to_people/"
                              f"movies_to_people.json")
-    
+    print("Done!")
+
+
 if __name__ == '__main__':
     main()
